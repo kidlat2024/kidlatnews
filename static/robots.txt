@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kidl.at/sitemap.xml
+Sitemap: https://kidl.at/index.xml

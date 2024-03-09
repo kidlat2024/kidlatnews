@@ -7,6 +7,8 @@ This is the public repository of [Kidlat News](https://kidl.at) and the real-lif
 
 Kidlat News is a low-bandwidth, [text-only](/kidlat-news-lightning-fast/) [news satire](https://kidl.at/kidlat-news-philippine-news-satire-in-a-lightning-fast-website/) website, with a focus on Philippine news and current events.
 
+![Kidlat News](https://github.com/kidlat2024/kidlatnews/blob/main/static/kidlat-news-graffiti-1200x630.jpg)
+
 # License
 
 Kidlat News articles are licensed under the [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/), while the Kidlat Hugo theme is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0.html).
