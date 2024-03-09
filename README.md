@@ -11,4 +11,4 @@ Kidlat News is a low-bandwidth, [text-only](/kidlat-news-lightning-fast/) [news 
 
 # License
 
-Kidlat News articles are licensed under the [Creative Commons Attribution-ShareAlike 4.0 International](https://github.com/kidlat2024/kidlatnews/blob/main/LICENSE), while the Kidlat Hugo theme is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0.html).
+Kidlat News articles are licensed under the [Creative Commons Attribution-ShareAlike 4.0 International](https://github.com/kidlat2024/kidlatnews/blob/main/LICENSE), while the Kidlat Hugo theme is licensed under the [Apache License 2.0](https://github.com/kidlat2024/kidlat/blob/main/LICENSE).
