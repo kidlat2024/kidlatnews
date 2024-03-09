@@ -7,7 +7,7 @@ This is the public repository of [Kidlat News](https://kidl.at) and the real-lif
 
 Kidlat News is a low-bandwidth, [text-only](/kidlat-news-lightning-fast/) [news satire](https://kidl.at/kidlat-news-philippine-news-satire-in-a-lightning-fast-website/) website, with a focus on Philippine news and current events.
 
-![Kidlat News](https://github.com/kidlat2024/kidlatnews/blob/main/static/kidlat-news-graffiti-1200x630.jpg)
+![Kidlat News](https://raw.githubusercontent.com/kidlat2024/kidlatnews/main/static/kidlat-news-graffiti-1200x630.jpg)
 
 # License
 
