@@ -1,0 +1,30 @@
+baseURL: https://kidl.at/
+title: "KIDLAT News | Philippine news satire"
+languageCode: en-us
+theme: kidlat
+
+outputs:
+  home:
+  - html
+  - rss
+  section:
+  - html
+  - rss
+  taxonomy:
+  - html
+  term:
+  - html
+
+permalinks:
+  news: /news/:filename/
+  opinion: /opinion/:filename/
+  page: /:filename/
+
+params:
+  short_title: Kidlat News
+  display_name: KIDLAT
+  license: Creative Commons BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0/deed.en
+  description: "Kidlat News is a low-bandwidth, text-only news satire website, with a focus on Philippine news and current events."
+  logo: "/kidlat-news-graffiti.jpg"
+  footer: <span><a href="/kidlat-news-philippine-news-satire-in-a-lightning-fast-website/">Kidlat News is satire</a></span> <span><a href="#top">▲</a></span>
