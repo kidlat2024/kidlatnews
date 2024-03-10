@@ -70,7 +70,9 @@ At Kidlat News we are not interested in writing real news--or even fake news--ar
 
 Kidlat News is a member of [1MB Club](https://1mb.club/), [512KB Club](https://512kb.club/) and [250KB Club](https://250kb.club/), collections of lightweight, performance-focused webpages from across the Internet that no one actually visits, and the [Darktheme Club](https://darktheme.club/), because websites with dark themes are cool.
 
-Kidlat News is also a member of [Pinoy Websites](https://webring.antaresph.dev/), a webring of Filipino people with awesome websites.
+Kidlat News is also a member of [Pinoy Websites](https://webring.antaresph.dev/), a webring of Filipinos with awesome websites.
+
+Explore Pinoy Websites: [`Next`](https://webring.antaresph.dev/next) + [`Previous`](https://webring.antaresph.dev/previous) + [`Random`](https://webring.antaresph.dev/random).
 
 ## Kidlat News at Github
 
