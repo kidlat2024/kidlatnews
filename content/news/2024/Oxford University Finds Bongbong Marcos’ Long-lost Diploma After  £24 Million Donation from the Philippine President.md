@@ -7,7 +7,7 @@ display_license: true
 author: ["Andres Kidlat"]
 date: 2024-03-08
 attribution: "Oxford University [Trinity College](/images/oxford-university-trinity-college.jpg) photo from [Wikimedia](https://commons.wikimedia.org/wiki/File:Trinity_College,_Oxford_-_geograph.org.uk_-_2181875.jpg). [Creative Commons](https://creativecommons.org/licenses/by-sa/2.0/deed.en) BY-SA 2.0."
-images: 
+images:
 - /images/oxford-university-trinity-college.jpg
 tags:
 - Philippine news satire
@@ -25,7 +25,7 @@ kudlit: ‘single’ “double”
 
 The diploma's discovery finally confirms that President Marcos had indeed completed his BA in Philosophy, Politics and Bagpiping from Oxford University, as he has always maintained throughout the years that he has been in politics.
 
-According to Aitken's press conference, Oxford University allocated £2 million from President Marcos' donation to mobilize dozens of workers to search through its vaults and storage rooms in an all-out effort to locate the missing document.
+According to Aitken's press conference, Oxford University allocated £2 million from President Marcos’ donation to mobilize dozens of workers to search through its vaults and storage rooms in an all-out effort to locate the missing document.
 
 "After a university-wide search that took more than 8,000 man-hours, we have finally located President Marcos’ diploma, along with other priceless manuscripts, in the underground vault of Trinity College" said Aitken.
 
