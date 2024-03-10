@@ -6,13 +6,13 @@ Kidlat is a low-bandwidth, text-only [Hugo](https://gohugo.io) theme.
 
 This theme is verified to work with Hugo versions v0.110.0–v0.121.2.
 
-![Kidlat screenshot](https://github.com/kidlat2024/kidlat/blob/main/images/screenshot.png)
+![Kidlat screenshot](https://raw.githubusercontent.com/kidlat2024/kidlat/main/images/screenshot.png)
 
 ## Features
 
 - Super lightweight
 - Responsive layout
-- Auto light/dark mode (determined by device's OS setting)
+- Auto light/dark mode (through media query)
 - No framework
 - No javascript
 - Full-text RSS feed
@@ -31,7 +31,7 @@ themes/
 └── kidlat
 ```
 
-2. Add the theme to the [site configuration](https://gohugo.io/getting-started/configuration/) file (`config.yaml`).
+2. Add the theme to the [site configuration](https://gohugo.io/getting-started/configuration/) file `config.yaml`.
 
 ```
 theme: kidlat
@@ -86,4 +86,4 @@ There are a number of optional front matter items that can be specified.
 
 ## License
 
-Kidlat theme is licensed under the [Apache License 2.0](https://github.com/kidlat2024/kidlat/LICENSE).
+Kidlat theme is licensed under the [Apache License 2.0](https://github.com/kidlat2024/kidlat/blob/main/LICENSE).
