@@ -5,6 +5,7 @@ title: "Quiz: Who Said It, Duterte Or Gadon?"
 description: ""
 author: ["Leon Kidlat"]
 date: 2024-02-22
+display_license: true
 attribution: "[President Ferdinand R. Marcos Jr. leads the oathtaking of Mr. Larry Gadon as Presidential Adviser for Poverty Alleviation](/images/larry-gadon-with-president-bongbong-marcos.jpg) photo from [Wikimedia](https://commons.wikimedia.org/wiki/File:20230710_-_PBBM_Gadon_Presidential_Adviser_for_Poverty_Alleviation_oathtaking.jpg). Public domain."
 images: 
 - /images/larry-gadon-with-president-bongbong-marcos.jpg

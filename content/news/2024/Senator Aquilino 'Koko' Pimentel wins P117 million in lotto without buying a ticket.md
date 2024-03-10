@@ -5,6 +5,7 @@ title: "Senator Aquilino 'Koko' Pimentel Wins P117 Million in Lotto Without Buyi
 description: ""
 author: ["Raul Kidlat"]
 date: 2024-02-09
+display_license: true
 attribution: "[Aquilino “Koko” Pimentel III/PCSO promo graphic](/images/senator-aquilino-koko-pimentel-iii-pcso.jpg),  [Albert Calvelo, Senate of the Philippines](https://commons.wikimedia.org/wiki/File:Koko_Pimentel.jpg) (Public Domain) and [Philippine Charity Sweepstakes Office Facebook Page](https://www.facebook.com/photo.php?fbid=687231836922355&set=pb.100069066345193.-2207520000&type=3) (Public Domain)."
 images: 
 - /images/senator-aquilino-koko-pimentel-iii-pcso.jpg

@@ -5,6 +5,7 @@ title: "Enthusiastic Supporter of Duterte's War on Drugs Saddened by Civilian De
 description: ""
 author: ["Raul Kidlat"]
 date: 2024-02-24
+display_license: true
 attribution: "[San Pedro Cathedral Davao City](/images/san-pedro-cathedral-davao-city.jpg) photo from [Wikimedia](https://commons.wikimedia.org/wiki/File:San_Pedro_Cathedal_and_its_Belfry.jpg). [Creative Commons](https://creativecommons.org/licenses/by-sa/3.0/deed.en) BY-SA 3.0."
 images: 
 - /images/san-pedro-cathedral-davao-city.jpg

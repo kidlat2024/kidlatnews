@@ -5,6 +5,7 @@ title: "Justice Secretary Remulla's Survival Tip to Leftist Groups: 'Stop Being 
 description: ""
 author: ["Leon Kidlat"]
 date: 2023-10-13
+display_license: true
 attribution: "[DOJ Secretary Jesus Crispin Remulla](/images/philippine-doj-secretary-jesus-crispin-remulla.jpg) photo from [Wikimedia](https://commons.wikimedia.org/wiki/File:Sec._Jesus_Crispin_Remulla_-_DOJ_Official_Portrait_(cropped).jpg?uselang=en#Licensing). Public Domain."
 images:
 - /images/philippine-doj-secretary-jesus-crispin-remulla.jpg

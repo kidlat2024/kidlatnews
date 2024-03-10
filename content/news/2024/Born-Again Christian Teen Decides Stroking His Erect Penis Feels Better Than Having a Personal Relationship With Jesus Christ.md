@@ -5,6 +5,7 @@ title: "Born-Again Christian Decides Stroking His Erect Penis Feels Better Than 
 description: ""
 author: ["Andres Kidlat"]
 date: 2024-02-12
+display_license: true
 attribution: "[Bureau of Internal Revenue Building](/images/philippines-bureau-of-internal-revenue-bir.jpg) in Intramuros photo from [Wikimedia](https://commons.wikimedia.org/wiki/File:Intramurosjf0746_32.JPG). [Creative Commons](https://creativecommons.org/licenses/by-sa/3.0/deed.en) BY-SA 3.0."
 images: 
 - /images/philippines-bureau-of-internal-revenue-bir.jpg

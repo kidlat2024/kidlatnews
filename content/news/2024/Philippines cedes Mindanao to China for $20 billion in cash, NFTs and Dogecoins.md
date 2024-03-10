@@ -6,6 +6,7 @@ description: ""
 author: ["Raul Kidlat"]
 date: 2024-02-05
 xurl: https://twitter.com/kidlatnews2024/status/1754355717107278174
+display_license: true
 attribution: "[Chinese Province of Mindanao](/images/chinese-province-mindanao-map.png), adapted from [Google Maps](https:maps.google.com)."
 images: 
 - /images/chinese-province-mindanao-map.png
