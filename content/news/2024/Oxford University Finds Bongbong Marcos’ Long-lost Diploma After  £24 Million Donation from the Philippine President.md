@@ -31,6 +31,6 @@ According to Aitken's press conference, Oxford University allocated £2 million 
 
 Other long-lost documents discovered in Trinity College's vault together with President Marcos’ diploma include: a typewritten manuscript of *Romeo and Juliet Get Married*, sequel to the original, typed by [Shakespeare](/tags/william-shakespeare/) himself; [Cupernicus](/tags/nicolaus-cupernicus/)’ handwritten, incomplete draft of *[Black Holes and Baby Universes](/tags/black-holes-and-baby-universes/)*; and [Magellan](/tags/ferdinand-magellan/)'s *Zen and the Art of Ship Maintenance*, completed in the Malaccas in 1521 after the famed sailor's miraculous escape from the [Battle of Mactan](/tags/battle-of-mactan/) in the [Philippines](/tags/philippines/).
 
-"In behalf of Oxford University, I would like to extend my deepest apologies to President Marcos for misplacing his BA diploma all these years," continued Aitken, "and also to simultaneously express our gratitude for his government's unexpectedly generous donation."
+"On behalf of Oxford University, I would like to extend my deepest apologies to President Marcos for misplacing his BA diploma all these years," continued Aitken, "and also to simultaneously express our gratitude for his government's unexpectedly generous donation."
 
 Aitken later confirmed that the remaining £22 million from President Marcos’ donation will be used to fund Oxford University's planned Bongbong Marcos School of Ethical Public Administration to promote ethical governance in developing countries.
