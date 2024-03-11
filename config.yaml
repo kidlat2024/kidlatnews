@@ -23,7 +23,7 @@ permalinks:
 params:
   short_title: Kidlat News
   display_name: KIDLAT
-  license: Creative Commons BY-SA 4.0
+  license: CC BY-SA 4.0
   license_url: https://creativecommons.org/licenses/by-sa/4.0/deed.en
   description: "Kidlat News is a low-bandwidth, text-only news satire website, with a focus on Philippine news and current events."
   logo: /kidlat-news-graffiti.jpg
