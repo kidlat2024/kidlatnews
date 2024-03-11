@@ -66,11 +66,11 @@ Compared to an ordinary news article, whose sole purpose is to inform, the appea
 
 At Kidlat News we are not interested in writing real news--or even fake news--articles. Because those are boring. We are going to confine ourselves to writing stories that we think are worth writing and the only kind we know how to: *satire*.
 
-## Memberships and Affiliations
+## Affiliations
 
-Kidlat News is a member of [1MB Club](https://1mb.club/), [512KB Club](https://512kb.club/) and [250KB Club](https://250kb.club/), collections of lightweight, performance-focused webpages from across the Internet that no one actually visits, and the [Darktheme Club](https://darktheme.club/), because websites with dark themes are cool.
+Kidlat News is a member of [Pinoy Websites](https://webring.antaresph.dev/), a webring of Filipinos with awesome websites.
 
-Kidlat News is also a member of [Pinoy Websites](https://webring.antaresph.dev/), a webring of Filipinos with awesome websites.
+Kidlat News is also a member of [1MB Club](https://1mb.club/), [512KB Club](https://512kb.club/) and [250KB Club](https://250kb.club/), collections of lightweight, performance-focused webpages from across the Internet that no one actually visits, and the [Darktheme Club](https://darktheme.club/), because websites with dark themes are cool.
 
 ## Kidlat News at Github
 
