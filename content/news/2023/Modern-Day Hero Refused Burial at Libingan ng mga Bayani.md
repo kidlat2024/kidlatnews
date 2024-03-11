@@ -6,7 +6,7 @@ description: ""
 author: ["Leon Kidlat"]
 date: 2023-10-17
 display_license: true
-attribution: "[Libingan ng mga Bayani photo](/images/graves-in-libingan-ng-mga-bayani.jpg) by [Aissa Richards](https://www.flickr.com/photos/71826795@N00/39106308). [Creative Commons](https://creativecommons.org/licenses/by/2.0/) BY 2.0."
+attribution: "[Libingan ng mga Bayani photo](/images/graves-in-libingan-ng-mga-bayani.jpg) by [Aissa Richards](https://www.flickr.com/photos/71826795@N00/39106308) ([CC BY 2.0](https://creativecommons.org/licenses/by/2.0/))."
 images: 
 - /images/graves-in-libingan-ng-mga-bayani.jpg
 tags:

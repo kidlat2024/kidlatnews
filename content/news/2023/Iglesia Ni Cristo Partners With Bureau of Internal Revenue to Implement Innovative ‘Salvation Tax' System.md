@@ -7,7 +7,7 @@ author: ["Leon Kidlat"]
 date: 2023-11-07
 xurl: https://twitter.com/kidlatnews2024/status/1753761998234653021
 display_license: true
-attribution: "[Bureau of Internal Revenue Building](/images/philippines-bureau-of-internal-revenue-bir.jpg) in Intramuros photo from [Wikimedia](https://commons.wikimedia.org/wiki/File:Intramurosjf0746_32.JPG). [Creative Commons](https://creativecommons.org/licenses/by-sa/3.0/deed.en) BY-SA 3.0."
+attribution: "[Bureau of Internal Revenue Building](/images/philippines-bureau-of-internal-revenue-bir.jpg) in Intramuros photo from [Wikimedia](https://commons.wikimedia.org/wiki/File:Intramurosjf0746_32.JPG) ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en))."
 images: 
 - /images/philippines-bureau-of-internal-revenue-bir.jpg
 tags:

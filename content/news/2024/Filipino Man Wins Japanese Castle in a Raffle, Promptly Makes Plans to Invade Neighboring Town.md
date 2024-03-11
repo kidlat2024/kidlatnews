@@ -6,7 +6,7 @@ description: ""
 author: ["Armando Kidlat"]
 date: 2024-02-12
 display_license: true
-attribution: "[Japanese castle](/images/kumamoto-castle-nagano-japan.jpg) photo from [Wikimedia](https://commons.wikimedia.org/wiki/File:Kumamoto_Castle_02n3200.jpg). [Creative Commons](https://creativecommons.org/licenses/by-sa/3.0/deed.en) BY-SA 3.0."
+attribution: "[Japanese castle](/images/kumamoto-castle-nagano-japan.jpg) photo from [Wikimedia](https://commons.wikimedia.org/wiki/File:Kumamoto_Castle_02n3200.jpg) ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en))."
 images: 
 - /images/kumamoto-castle-nagano-japan.jpg
 tags:

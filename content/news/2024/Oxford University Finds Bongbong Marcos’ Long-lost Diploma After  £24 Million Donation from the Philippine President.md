@@ -6,7 +6,7 @@ description: ""
 display_license: true
 author: ["Andres Kidlat"]
 date: 2024-03-08
-attribution: "Oxford University [Trinity College](/images/oxford-university-trinity-college.jpg) photo from [Wikimedia](https://commons.wikimedia.org/wiki/File:Trinity_College,_Oxford_-_geograph.org.uk_-_2181875.jpg). [Creative Commons](https://creativecommons.org/licenses/by-sa/2.0/deed.en) BY-SA 2.0."
+attribution: "Oxford University [Trinity College](/images/oxford-university-trinity-college.jpg) photo from [Wikimedia](https://commons.wikimedia.org/wiki/File:Trinity_College,_Oxford_-_geograph.org.uk_-_2181875.jpg) ([CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/deed.en))."
 images:
 - /images/oxford-university-trinity-college.jpg
 tags:

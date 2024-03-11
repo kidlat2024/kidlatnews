@@ -6,7 +6,7 @@ author: ["Leon Kidlat"]
 date: 2023-10-11
 xurl: https://twitter.com/kidlatnews2024/status/1759529014908318054
 display_license: true
-attribution: "[Canada Prime Minister Trudeau with wife](/images/canada-prime-minister-justin-trudeau-with-wife.jpg) photo from [Wikimedia](https://commons.wikimedia.org/wiki/File:Justin_and_Sophie_Trudeau_-_Global_Citizen_Festival_Hamburg_08.jpg). [Creative Commons](https://creativecommons.org/licenses/by-sa/4.0/deed.en) BY-SA 4.0."
+attribution: "[Canada Prime Minister Trudeau with wife](/images/canada-prime-minister-justin-trudeau-with-wife.jpg) photo from [Wikimedia](https://commons.wikimedia.org/wiki/File:Justin_and_Sophie_Trudeau_-_Global_Citizen_Festival_Hamburg_08.jpg) ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en))."
 images:
 - /images/canada-prime-minister-justin-trudeau-with-wife.jpg
 tags:

@@ -7,7 +7,7 @@ author: ["Leon Kidlat"]
 xurl: https://twitter.com/kidlatnews2024/status/1758812007799877832
 date: 2024-02-17
 display_license: true
-attribution: "President Ferdinand R. Marcos Jr. leads the oathtaking of Mr. Larry Gadon as Presidential Adviser for Poverty Alleviation [photo](/images/larry-gadon-with-president-bongbong-marcos.jpg) from [Wikimedia](https://commons.wikimedia.org/wiki/File:20230710_-_PBBM_Gadon_Presidential_Adviser_for_Poverty_Alleviation_oathtaking.jpg) (Public domain)."
+attribution: "President Ferdinand R. Marcos Jr. leads the oathtaking of Mr. Larry Gadon as Presidential Adviser for Poverty Alleviation [photo](/images/larry-gadon-with-president-bongbong-marcos.jpg) from [Wikimedia](https://commons.wikimedia.org/wiki/File:20230710_-_PBBM_Gadon_Presidential_Adviser_for_Poverty_Alleviation_oathtaking.jpg) (Public Domain)."
 images: 
 - /images/larry-gadon-with-president-bongbong-marcos.jpg
 tags:

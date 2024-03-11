@@ -7,7 +7,7 @@ xurl: https://twitter.com/kidlatnews2024/status/1758073113789784159
 author: ["Armando Kidlat"]
 date: 2024-02-15
 display_license: true
-attribution: "[University of Santo Tomas Main Building](/images/university-of-santo-tomas-main-building.jpg) photo from [Wikimedia](https://commons.wikimedia.org/wiki/File:400_Year_old_Beauty.jpg). [Creative Commons](https://creativecommons.org/licenses/by-sa/3.0/deed.en) BY-SA 3.0."
+attribution: "[University of Santo Tomas Main Building](/images/university-of-santo-tomas-main-building.jpg) photo from [Wikimedia](https://commons.wikimedia.org/wiki/File:400_Year_old_Beauty.jpg) ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en))."
 images: 
 - /images/university-of-santo-tomas-main-building.jpg
 tags:

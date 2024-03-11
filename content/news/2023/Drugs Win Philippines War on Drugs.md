@@ -7,7 +7,7 @@ author: ["Leon Kidlat"]
 date: 2023-11-15
 xurl: https://twitter.com/kidlatnews2024/status/1753747220917289055
 display_license: true
-attribution: "[Philippine President Bongbong Marcos](/images/philippine-president-bongbong-marcos.jpg) photo by Rey Baniquet for Presidential Communications Operations Office, [Wikimedia](https://commons.wikimedia.org/wiki/File:Bongbong_Marcos_inaugural_address_6.30.22_(4).jpg). Public Domain."
+attribution: "[Philippine President Bongbong Marcos](/images/philippine-president-bongbong-marcos.jpg) photo from [Wikimedia](https://commons.wikimedia.org/wiki/File:Bongbong_Marcos_inaugural_address_6.30.22_(4).jpg) (Public Domain)."
 images: 
 - /images/philippine-president-bongbong-marcos.jpg
 tags:

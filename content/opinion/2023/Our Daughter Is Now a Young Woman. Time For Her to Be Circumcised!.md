@@ -6,7 +6,7 @@ description: "Now is a good time to revive this largely forgotten tradition for 
 author: ["Katherine Kidlat"]
 date: 2023-10-24
 display_license: true
-attribution: "[Teaching FGM materials](/images/teaching-fgm-materials.jpg) photo by [Jessica Lea/DFID](https://www.flickr.com/photos/dfid/12345176104/). [Creative Commons](https://creativecommons.org/licenses/by/2.0/) BY-2.0."
+attribution: "[Teaching FGM materials](/images/teaching-fgm-materials.jpg) photo by [Jessica Lea/DFID](https://www.flickr.com/photos/dfid/12345176104/) ([CC BY-2.0](https://creativecommons.org/licenses/by/2.0/))."
 images:
 - /images/teaching-fgm-materials.jpg
 tags:

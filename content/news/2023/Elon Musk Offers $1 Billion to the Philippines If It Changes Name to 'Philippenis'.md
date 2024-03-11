@@ -6,7 +6,7 @@ description: ""
 author: ["Leon Kidlat"]
 date: 2023-10-28
 display_license: true
-attribution: "[Billionaire Elon Musk](/images/billionaire-elon-musk.jpg) photo by [Heisenberg Media](https://www.flickr.com/photos/88975472@N03/10611143395). [Creative Commons](https://creativecommons.org/licenses/by/2.0/deed.en) BY-2.0."
+attribution: "[Billionaire Elon Musk](/images/billionaire-elon-musk.jpg) photo by [Heisenberg Media](https://www.flickr.com/photos/88975472@N03/10611143395) ([CC BY-2.0](https://creativecommons.org/licenses/by/2.0/deed.en))."
 images:
 - /images/billionaire-elon-musk.jpg
 tags:

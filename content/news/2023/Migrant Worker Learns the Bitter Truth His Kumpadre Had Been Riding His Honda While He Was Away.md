@@ -6,7 +6,7 @@ description: ""
 author: ["Raul Kidlat"]
 date: 2023-11-11
 display_license: true
-attribution: "[1972 Honda CB750](/images/1972-honda-cb750.jpg) photo by [Steve Glover](https://www.flickr.com/photos/sg2012/46536377034). [Creative Commons](https://creativecommons.org/licenses/by/2.0/) BY 2.0."
+attribution: "[1972 Honda CB750](/images/1972-honda-cb750.jpg) photo by [Steve Glover](https://www.flickr.com/photos/sg2012/46536377034) ([CC BY 2.0](https://creativecommons.org/licenses/by/2.0/))."
 images: 
 - /images/1972-honda-cb750.jpg
 tags:

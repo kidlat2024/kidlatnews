@@ -9,7 +9,7 @@ xurl: https://twitter.com/kidlatnews2024/status/1762416151718686807
 images:
 - /images/jollibee-tagaytay-store-sign.jpg
 display_license: true
-attribution: "[Jollibee Tagaytay store sign](/images/jollibee-tagaytay-store-sign.jpg) photo by [scion_cho](https://www.flickr.com/photos/scion02b/3414525678/in/album-72157615661071557/). [Creative Commons](https://creativecommons.org/licenses/by-nc/2.0/) BY-NC 2.0."
+attribution: "[Jollibee Tagaytay store sign](/images/jollibee-tagaytay-store-sign.jpg) photo by [scion_cho](https://www.flickr.com/photos/scion02b/3414525678/in/album-72157615661071557/) ([CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/))."
 tags:
 - Philippine news satire
 - Jollibee
