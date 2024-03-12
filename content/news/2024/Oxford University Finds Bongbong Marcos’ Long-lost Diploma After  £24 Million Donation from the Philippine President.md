@@ -19,6 +19,7 @@ tags:
 - Ferdinand Magellan
 - Battle of Mactan
 - Philippines
+- Ferdinand Marcos
 kudlit: ‘single’ “double”
 ---
 (Oxford, England) -- [Oxford University](/tags/oxford-university/) registrar Gillian Aitken confirmed Thursday that after lying in the university's vault for forty years, President [Bongbong Marcos](/tags/bongbong-marcos/)’ long-lost diploma has finally been found, one week after the Philippine government donated £24 million to the university.
@@ -35,4 +36,4 @@ Other long-lost documents discovered in Trinity College's vault together with Pr
 
 "On behalf of Oxford University, I would like to extend my deepest apologies to President Marcos for misplacing his BA diploma all these years," continued Aitken, "and also to simultaneously express our gratitude for his government's unexpectedly generous donation."
 
-Aitken later confirmed that the remaining £22 million from President Marcos’ donation will be used to fund Oxford University's planned Bongbong Marcos School of Ethical Public Administration to promote scholarship on ethical governance in developing countries.
+Aitken later confirmed that the remaining £22 million from President Marcos’ donation will be used to fund Oxford University's planned [Ferdinand Marcos](/tags/ferdinand-marcos/) School of Good Governance to promote government ethics and transparency in developing countries.
