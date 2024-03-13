@@ -1,7 +1,7 @@
 ---
 draft: false
 content_type: NewsArticle
-title: "China Accuses the Philippines of Taking Advantage of Free Showers From Chinese Ships in the South China Sea"
+title: "China Accuses the Philippines of Taking Advantage of Free Showers From Chinese Ships in the West Philippine Sea"
 description: ""
 author: ["Leon Kidlat"]
 date: 2024-03-12
@@ -19,7 +19,7 @@ tags:
 - Vietnam
 kudlit: ‘single’ “double”
 ---
-(Beijing, China) -- [Chinese](/tags/china/) Foreign Ministry spokesperson Yize Qu on Monday accused the Philippine government of enabling Filipino marines to take advantage of free showers provided by Chinese Coast Guard ships in the [South China Sea](/tags/south-china-sea/) (called [West Philippine Sea](/tags/west-philippine-sea/) by the Philippines).
+(Beijing, China) -- [Chinese](/tags/china/) Foreign Ministry spokesperson Yize Qu on Monday accused the Philippine government of enabling Filipino marines to take advantage of free showers provided by Chinese Coast Guard ships in the [West Philippine Sea](/tags/west-philippine-sea/) ([South China Sea](/tags/south-china-sea/)).
 
 [`Photo: Chinese Coast Guard ships giving Filipinos free showers`](/images/chinese-coast-guard-ships-giving-filipinos-free-showers.jpg)
 
