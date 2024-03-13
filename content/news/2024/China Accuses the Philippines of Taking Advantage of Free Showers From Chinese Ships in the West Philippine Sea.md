@@ -28,8 +28,8 @@ kudlit: ‘single’ “double”
 
 According to Qu, crews of Philippine Navy ships were observed on numerous occasions preparing bottles of body soap and shampoo before sailing close to Chinese vessels in an effort to get free showers. This used to happen about twice or thrice a week in 2023 but increased to almost everyday since 2024 started, added Qu.
 
->"This unprofessional conduct of the Philippine Navy is stretching our resources and patience. In some days, Filipino crews were even seen to take showers from more than one Chinese ship. How many showers in one day do you even need to get clean, for God's sake?"
+>"This unprofessional conduct of the Philippine Navy is stretching our resources and patience. In some days, Filipino crews were even seen taking showers from more than one Chinese ship. How many showers in one day do you even need to get clean?"
 
 At the Philippine Defense Ministry press conference in Manila later that day, spokesperson Rey Candungan rebutted Chinese allegations of unprofessional behavior. "While we acknowledge that our marines sometimes take free showers from Chinese ships when they are low on water provisions, that they do it everyday is patently untrue," Candungan said. "And the alleged bottles of body soap and shampoo are pure inventions of the Chinese side. Our marines use sachets not bottles."
 
-Candungan also asked the Chinese Coast Guard to spray their showers high in the air and refrain from aiming at the crew directly as this might cause them to lose balance while scrubbing their bodies and shampooing their hair.
+Candungan also called on the Chinese Coast Guard to spray their shower heads high in the air and refrain from aiming at the crew directly as this might cause them to lose balance while scrubbing their bodies and shampooing their hair.
