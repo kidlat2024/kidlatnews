@@ -7,7 +7,7 @@ author: ["Raul Kidlat"]
 date: 2023-11-11
 display_license: true
 attribution: "[1972 Honda CB750](/images/1972-honda-cb750.jpg) photo by [Steve Glover](https://www.flickr.com/photos/sg2012/46536377034) ([CC BY 2.0](https://creativecommons.org/licenses/by/2.0/))."
-images: 
+images:
 - /images/1972-honda-cb750.jpg
 tags:
 - Philippine news satire
@@ -21,11 +21,13 @@ tags:
 - CB750
 kudlit: ‘single’ “double” ñ
 ---
-(Pasay City, Philippines) -- Alex Fillarca, 27, had not believed what he heard from family and friends, but now that she was right in front of him, there was no more denying the truth. 
+(Pasay City, Philippines) -- Alex Fillarca, 27, had not believed what he heard from family and friends, but now that she was right in front of him, there was no more denying the truth.
 
 He remembered phoning his brother from [Taiwan](/tags/taiwan/) to confirm the rumors. "Well, I thought you already knew," his brother had told him. "Everybody in our street knew what's up. There's even that one time he was riding her all night, everyone in the whole block could hear her engine moaning."
 
 He had come home unexpectedly, and now before his eyes was his 1972 [Honda](/tags/honda/) [CB750](/tags/cb750/), a beautiful air-cooled, four-cylinder work of mechanical wonder. Her luscious curves would make a hardened man weak at the knees. She was the love of his life.
+
+[`Photo: Fillarca’s beloved 1972 Honda CB750`](/images/1972-honda-cb750.jpg)
 
 He had imagined spending the rest his life together with her, but now he wasn't so sure anymore.
 

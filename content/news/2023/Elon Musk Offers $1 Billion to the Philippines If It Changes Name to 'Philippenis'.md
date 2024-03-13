@@ -25,6 +25,8 @@ tags:
 ---
 (Hawthorne, California) -- In a stunning development, billionaire entrepreneur [Elon Musk](/tags/elon-musk/) offered 1 billion dollars to the [Philippines](/tags/philippines/) if it would agree to change its name to 'Philippenis'.
 
+[`Photo: Billionaire Elon Musk proposing Philippines name change`](/images/billionaire-elon-musk.jpg)
+
 “I will give them a billion dollars right now and a blue verified badge on Twitter if they change their name to Philippenis,” Musk xed on [Twitter](/tags/twitter/). "All for the lolz!"
 
 Musk’s offer came after his earlier posts criticizing the Southeast Asian country for stirring up trouble in the [West Philippine Sea](/tags/west-philippine-sea/).

@@ -8,7 +8,7 @@ date: 2024-02-05
 xurl: https://twitter.com/kidlatnews2024/status/1754355717107278174
 display_license: true
 attribution: "[Chinese Province of Mindanao](/images/chinese-province-mindanao-map.png), adapted from [Google Maps](https:maps.google.com) ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en))."
-images: 
+images:
 - /images/chinese-province-mindanao-map.png
 tags:
 - Philippine news satire
@@ -44,11 +44,11 @@ kudlit: ‘single’ “double”
 ---
 (Manila, Philippines) -- After months of top-secret negotiations between the [Philippines](/tags/philippines/) and the [People's Republic of China](/tags/china), Philippine Secretary of Foreign Affairs Enrique Manalo and his Chinese counterpart Wang Yi announced at the joint press conference Monday that the Philippines has agreed to sell [Mindanao](/tags/mindanao/) and the surrounding islands to the Chinese-speaking nation for $20 billion, with $15 billion in cash and the remaining $5 billion payable in [non-fungible tokens](/tags/non-fungible-token/) (NFTs) and [Dogecoins](/tags/dogecoin/).
 
+[`Map: the new Chinese province of Mindanao (Mianlanlao)`](/images/chinese-province-mindanao-map.png)
+
 China also agreed to drop all import tariffs against Philippine bananas and pineapples, in exchange for the Philippines agreeing to drop all claims to [Ayungin Shoal](/tags/ayungin-shoal/) and [Bajo de Masinloc](/tags/bajo-de-masinloc/).
 
 Under the deal, Mindanao will become a province of China and renamed Mianlanlao, while its capital Davao City will be renamed Lapbau. Filipinos--including former president [Rodrigo Duterte](/tags/rodrigo-duterte/) who was in [Cebu](/tags/cebu/) at the time of the announcement--will be required to obtain a visa before they can visit the new Chinese province.
-
-[`Map: the Chinese province of Mindanao (Mianlanlao)`](/images/chinese-province-mindanao-map.png)
 
 The announcement stunned the gathered reporters who were expecting a press briefing about the ongoing tensions in the [West Philippine Sea](/tags/west-philippine-sea/).
 

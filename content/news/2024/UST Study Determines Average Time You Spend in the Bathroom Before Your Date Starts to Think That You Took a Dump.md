@@ -8,7 +8,7 @@ author: ["Armando Kidlat"]
 date: 2024-02-15
 display_license: true
 attribution: "[University of Santo Tomas Main Building](/images/university-of-santo-tomas-main-building.jpg) photo from [Wikimedia](https://commons.wikimedia.org/wiki/File:400_Year_old_Beauty.jpg) ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en))."
-images: 
+images:
 - /images/university-of-santo-tomas-main-building.jpg
 tags:
 - Philippine news satire
@@ -23,6 +23,8 @@ tags:
 kudlit: ‘single’ “double” Biñan
 ---
 (Manila, Philippines) -- A recent study conducted by the [University of Santo Tomas](/tags/university-of-santo-tomas/) ([UST](/tags/university-of-santo-tomas/)) School of Behavioral Science researchers determined that the average time you spend in the bathroom before your date starts to think that you took a dump is 6 minutes and 37 seconds.
+
+[`Photo: University of Santo Tomas Main Building`](/images/university-of-santo-tomas-main-building.jpg)
 
 The study, led by UST graduate students Crispin Manalastas and Evelyn Castro and published in the latest issue of *Trends in Cognitive Sciences*, involved a blind test of 487 male and 518 female university students from around [Metro Manila](/tags/metro-manila/), the largest of its kind to study behavioral patterns concerning the subject of taking a shit during a date.
 
