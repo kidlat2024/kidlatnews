@@ -5,6 +5,7 @@ title: "China Accuses the Philippines of Taking Advantage of Free Showers From C
 description: ""
 author: ["Leon Kidlat"]
 date: 2024-03-12
+xurl: https://twitter.com/kidlatnews2024/status/1767784690109612158
 display_license: true
 attribution: "[Chinese Coast Guard ships giving Filipinos free shower](/images/chinese-coast-guard-ships-giving-filipinos-free-showers.jpg) photo from Philippine Coast Guard via [Radio Free Asia](https://www.rfa.org/english/news/southchinasea/water-cannon-crew-injuries-03052024144905.html) (Public Domain)."
 images:
