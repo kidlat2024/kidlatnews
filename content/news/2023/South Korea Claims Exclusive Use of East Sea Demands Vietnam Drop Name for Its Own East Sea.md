@@ -28,14 +28,13 @@ tags:
 
 "There is only one [East Sea](/tags/east-sea/)," said the South Korean Foreign Ministry announcement, "and it's the one east of the Korean peninsula, not east of Vietnam. We have been using this name since ancient times when other Asian peoples didn't yet have the concept of ‘the direction from which the sun rises'. We therefore urge our Vietnamese counterparts to refrain from using 'East Sea' to refer to other seas, except for Korea's East Sea, erroneously known elsewhere as '[Sea of Japan](/tags/sea-of-japan/)'."
 
+[`Map: Southeast Asia showing Vietnam’s East Sea`](/images/southeast-asia-map-vietnam-east-sea.png)
+
 The Vietnamese Foreign Ministry, in turn, promptly rejected South Korea's demand. "East Sea is the body of water on the eastern side of [Vietnam](/tags/vietnam/) and nowhere else," said its spokesman Nguyen Kim. "We have been calling this sea the 'East Sea' a thousand years before other Asians were eating *kimchi*."
 
 [South Korea](/tags/south-korea/) has been actively lobbying the International Hydrographic Organization (IHO) by surreptitiously gifting its members prodigious bags of *kimchi* to rename the Sea of Japan as 'East Sea', insisting that the name 'Sea of Japan' became commonplace only when it was under Japanese rule and couldn't produce enough of those foul-smelling, fermented vegetables to influence the naming of this body of water.
 
-
-On the other hand, Vietnam also has its own East Sea, the name it uses for the South China Sea, where the disputed [Spratley Islands](/tags/spratley-islands) are located, a number of which it occupies. 
-
-[`Image: Southeast Asia map showing Vietnam's East Sea`](/images/southeast-asia-map-vietnam-east-sea.png)
+On the other hand, Vietnam also has its own East Sea, the name it uses for the South China Sea, where the disputed [Spratley Islands](/tags/spratley-islands) are located, a number of which it occupies.
 
 "The name East Sea is embedded in our culture," says Nguyen Tag, a well-known Vietnamese historian. "There are many Vietnamese sayings that contain ‘the East Sea’, like, ‘A thirsty couple of husband and wife is capable of draining dry the East Sea’, meaning they can achieve anything they want to if they're sufficiently hydrated,” Tag said.
 

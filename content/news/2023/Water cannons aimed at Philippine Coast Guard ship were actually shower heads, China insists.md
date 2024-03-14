@@ -31,7 +31,7 @@ The [Philippines](/tags/philippines/) and its ally the US has condemned the Chin
 
 According to Qu, when the Philippine ship sailed dangerously close by, Chinese crew noticed that their Filipino counterparts looked like they may not have taken a bath for days with their ragged clothes and sullen demeanor, being that there are no ports to take showers in for hundreds of kilometers in the disputed region.
 
-The Chinese crew, out of pity for their fellow sailors decided to douse them with body-soap-laden high-powered bursts of salty water. 
+The Chinese crew, out of pity for their fellow sailors decided to douse them with body-soap-laden high-powered bursts of salty water.
 
 "That is exactly what happened," says Qu, "and we are disappointed that our magnanimous gesture was interpreted negatively by the Philippines, no doubt at the instigation of the US."
 

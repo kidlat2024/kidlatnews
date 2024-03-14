@@ -39,6 +39,6 @@ To deprive rebels of cover, Dela Rosa's plan calls for the complete deforestatio
 
 Dela Rosa's speech was immediately condemned by [leftist](/tags/leftist/) organizations throughout the country.
 
-Leopoldo Villegas, spokesperson for the militant Alliance of Concerned Trees (ACT), whose objective is to unite trees and other leafy flora to struggle for their democratic rights and economic welfare, declared, "This is another harebrained scheme by a well-known [red-tagger](/tags/red-tagging/) to hide the government's incompetence in inacting meaningful reforms not only for trees and the environment, but for the whole Filipino population as well."
+Leopoldo Villegas, spokesperson for the militant Alliance of Concerned Trees (ACT), whose objective is to unite trees and other leafy flora to struggle for their democratic rights and economic welfare, declared, "This is another harebrained scheme by a well-known [red-tagger](/tags/red-tagging/) to hide the government's incompetence in enacting meaningful reforms not only for trees and the environment, but for the whole Filipino population as well."
 
 While Dela Rosa's plan also proposes that zoos be built all over the country to house wildlife that are going to be displaced by the destruction of their habitat, it is unclear whether the government or the private sector will provide the funds for their construction and maintenance.
