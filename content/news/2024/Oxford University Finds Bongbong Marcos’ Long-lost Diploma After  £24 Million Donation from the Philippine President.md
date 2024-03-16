@@ -5,6 +5,7 @@ title: "Oxford University Finds Bongbong Marcos’ Long-Lost Diploma After  £24
 description: ""
 display_license: true
 author: ["Andres Kidlat"]
+xurl: https://twitter.com/kidlatnews2024/status/1768808752512451036
 date: 2024-03-08
 attribution: "Oxford University [Trinity College](/images/oxford-university-trinity-college.jpg) photo from [Wikimedia](https://commons.wikimedia.org/wiki/File:Trinity_College,_Oxford_-_geograph.org.uk_-_2181875.jpg) ([CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/deed.en))."
 images:
