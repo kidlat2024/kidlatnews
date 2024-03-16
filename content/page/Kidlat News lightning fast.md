@@ -19,7 +19,7 @@ Kidlat News started out as an experiment to see whether we could build a viable 
 
 True to its minimalist roots, Kidlat News articles contain [no photos](https://sjmulder.nl/en/textonly.html) or videos, only text. Where photos or videos are needed, they are indicated with links, not embedded into the articles.
 
-[`Like this: Kidlat News graffiti`](/kidlat-news-graffiti.jpg)
+[`Like this: Kidlat News graffiti`](/kidlat-news-graffiti-1200x630.jpg)
 
 Kidlat News pages, therefore, should load blisteringly fast. No waiting around to read our highly-relevant, slightly out-of-date stories.
 
