@@ -2,6 +2,7 @@
 html, body {
     font-size:16px;
     font-family:Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif;
+    background-color: #fffbf4;
     margin:0 auto;
     padding:0 5px;
     max-width:40rem;
@@ -125,7 +126,7 @@ li {margin:0;font-size:1.3rem}
 /* TAGS */
 tags ul {
     margin:2rem 0;
-    display:flex; 
+    display:flex;
     flex-wrap:wrap;
     list-style-type:none;
     padding-left:0;
@@ -186,6 +187,27 @@ table, th, td {
   }
 th {background-color:#ebf6ff}
 hr {height:1px; border:0; background-color:#ccc}
+
+/* DETAILS */
+
+details {
+  margin-bottom: 1.5rem;
+  border-radius: .5rem;
+  background-color: #f5faff;
+  padding: .8rem 1rem;
+  font-size: 1.3rem;
+  font-weight: 600;
+}
+details p {
+  font-weight: 400;
+  background-color: white;
+  padding: .5rem .8rem;
+  border-radius: .3rem;
+  margin: 1rem 0 .5rem;
+  font-family: Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif;
+  font-size: 1.2rem;
+  line-height: 1.3;
+}
 
 /* DARK MODE */
 @media (prefers-color-scheme: dark){
