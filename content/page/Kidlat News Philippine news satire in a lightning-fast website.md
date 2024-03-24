@@ -50,7 +50,7 @@ Many have ceased publication, perhaps because, as the Philippine Daily Inquirer 
 
 This is probably the reason for the recent trend of "satirical news cards" popularized by social-media-based humor pages such as [International State College of the Philippines (ISCP)](https://www.facebook.com/ISCPhilippines), [Philippine Daily New Society](https://www.facebook.com/PhilippinePDNS/), and [Cebu Dairy News](https://www.facebook.com/cebudairynews).
 
-[`Graphic: ISCP BA in Mass Communication`](/images/international-state-college-of-the-philippines-satire-graphic.png)
+[`Graphic: ISCP BA in Mass Communication`](/images/international-state-college-of-the-philippines-satire-graphic.jpg)
 
 These are simply headlines over a graphic or photo which take less time to create and appreciate than the longer news article, and easier still to share on social media platforms like Facebook, Twitter and Reddit. Though often humorous, only a few can legitimately be considered as satire.
 

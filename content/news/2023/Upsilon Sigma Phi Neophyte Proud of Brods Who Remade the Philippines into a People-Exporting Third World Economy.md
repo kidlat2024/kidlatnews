@@ -6,9 +6,9 @@ description: ""
 author: ["Leon Kidlat"]
 date: 2023-09-18
 display_license: true
-attribution: "[Upsilon Sigma Phi seal](/images/upsilon-sigma-phi-fraternity-seal.png) image from [Wikimedia](https://commons.wikimedia.org/wiki/File:USP_Seal_Transparent.png) ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/))."
+attribution: "[Upsilon Sigma Phi seal](/images/upsilon-sigma-phi-fraternity-seal.jpg) image from [Wikimedia](https://commons.wikimedia.org/wiki/File:USP_Seal_Transparent.png) ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/))."
 images:
-- /images/upsilon-sigma-phi-fraternity-seal.png
+- /images/upsilon-sigma-phi-fraternity-seal.jpg
 tags:
 - Philippine news satire
 - Upsilon Sigma Phi

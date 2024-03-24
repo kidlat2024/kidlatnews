@@ -7,9 +7,9 @@ xurl: https://twitter.com/kidlatnews2024/status/1754358424555733191
 author: ["Leon Kidlat"]
 date: 2023-09-11
 display_license: true
-attribution: "[Vietnam East Sea](/images/southeast-asia-map-vietnam-east-sea.png) graphic from [Wikimedia](https://commons.wikimedia.org/wiki/File:Southeast_Asia_Political_Map_World_Factbook_2020.png) (Public Domain)."
+attribution: "[Vietnam East Sea](/images/southeast-asia-map-vietnam-east-sea.jpg) graphic from [Wikimedia](https://commons.wikimedia.org/wiki/File:Southeast_Asia_Political_Map_World_Factbook_2020.png) (Public Domain)."
 images:
-- /images/southeast-asia-map-vietnam-east-sea.png
+- /images/southeast-asia-map-vietnam-east-sea.jpg
 tags:
 - Philippine news satire
 - East Sea
