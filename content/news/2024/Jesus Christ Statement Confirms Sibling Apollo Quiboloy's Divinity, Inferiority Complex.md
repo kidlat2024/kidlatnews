@@ -5,6 +5,7 @@ title: "Jesus Christ Statement Confirms Sibling Apollo Quiboloy's Divinity, Infe
 description: ""
 author: ["Armando Kidlat"]
 date: 2024-03-28
+xurl: https://twitter.com/kidlatnews2024/status/1773283505448866047
 display_license: true
 attribution: "Apollo Quiboloy [photo](https://commons.wikimedia.org/wiki/File:Quiboloy_fbi_wanted_picture.png) and Jesus Christ [painting](https://commons.wikimedia.org/wiki/File:Spas_vsederzhitel_sinay.jpg) from Wikimedia (Public Domain)."
 images:
