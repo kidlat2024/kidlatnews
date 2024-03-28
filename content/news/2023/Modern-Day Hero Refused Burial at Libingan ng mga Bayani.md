@@ -7,7 +7,7 @@ author: ["Leon Kidlat"]
 date: 2023-10-17
 display_license: true
 attribution: "[Libingan ng mga Bayani photo](/images/graves-in-libingan-ng-mga-bayani.jpg) by [Aissa Richards](https://www.flickr.com/photos/71826795@N00/39106308) ([CC BY 2.0](https://creativecommons.org/licenses/by/2.0/))."
-images: 
+images:
 - /images/graves-in-libingan-ng-mga-bayani.jpg
 tags:
 - Philippine news satire
@@ -22,6 +22,7 @@ tags:
 - Taguig
 - Lani Cayetano
 - Bagong bayani
+kudlit: ‘single’ “double”
 ---
 (Taguig City, Philippines) -- [Modern-day hero](/tags/modern-day-hero/) and former [migrant worker](/tags/migrant-worker/) Idelfonso Torres, who passed away last Tuesday at the age of 56, was refused burial at the [Libingan ng mga Bayani](/tags/libingan-ng-mga-bayani/) (Cemetery of Heroes), his son Manuel Torres, 27, revealed at a press conference Tuesday.
 
@@ -31,10 +32,10 @@ tags:
 
 "Is that really how we treat our [OFWs](/tags/ofw/)?"
 
-Lynne Mae Batumbacal, spokesperson for the Philippine Army Support Command of the AFP responsible for the administration of the Libingan ng mga Bayani, confirmed that migrant workers--though often dubbed '[modern-day heroes](/tags/bagong-bayani/)'--are not, in fact, qualified to be buried at the heroes' cemetery.
+Lynne Mae Batumbacal, spokesperson for the Philippine Army Support Command of the AFP responsible for the administration of the Libingan ng mga Bayani, confirmed that migrant workers--though often dubbed ‘[modern-day heroes](/tags/bagong-bayani/)’--are not, in fact, qualified to be buried at the heroes' cemetery.
 
 >"As far as I know, no migrant worker is buried in the Libingan ng mga Bayani," said Batumbacal, "unless you count the Filipino soldiers who died heroically fighting America's wars abroad. As for OFWs being heroes, I think that is just a hoax."
- 
+
 Asked for comment, [Department of Migrant Workers](/tags/dmw) Undersecretary Hans Leo Cacdac did not directly address Mr. Torres’ grievance at this morning's press conference, but released a statement later that read:
 
 "Our office regularly receive reports of unscrupulous recruiters offering lucrative jobs and hero status to migrant workers. These are scams. Well-paying jobs abroad are exceedingly rare these days and nobody becomes a hero doing construction work. The public is enjoined to be vigilant about these fraudulent job offers."
