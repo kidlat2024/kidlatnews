@@ -26,7 +26,7 @@ kudlit: ‘single’ “double” Biñan
 
 As part of his country-wide tour for [poverty](/tags/poverty/) alleviation, Larry Gadon gave a rousing speech Saturday inside a packed community center in [Tondo](/tags/tondo/), [Manila](/tags/manila/) in which he urged his audience of slum dwellers to lose their "victim mentality" and escape poverty by "manifesting a richer life."
 
-[`Photo: Poverty buster Larry Gadon with President Marcos`](/images/larry-gadon-with-president-bongbong-marcos.jpg)
+[`Photo: President Marcos swears in Anti-Poverty Czar and motivational speaker Larry Gadon`](/images/larry-gadon-with-president-bongbong-marcos.jpg)
 
 "Being poor is the mindset of a loser," said the [Oriental Mindoro](/tags/oriental-mindoro/) politician who lost all three of his senatorial bids in the 2016, 2019 and 2022 elections. "It's all in the mind. You can end this state of misery you're in right now by having a positive outlook and planning your path to happiness. That means manifesting a richer life and just stop being poor."
 
