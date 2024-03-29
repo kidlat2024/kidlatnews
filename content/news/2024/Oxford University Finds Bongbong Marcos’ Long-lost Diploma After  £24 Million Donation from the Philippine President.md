@@ -25,7 +25,7 @@ kudlit: ‘single’ “double”
 ---
 (Oxford, England) -- [Oxford University](/tags/oxford-university/) registrar Gillian Aitken confirmed Thursday that after lying in the university's vault for forty years, President [Bongbong Marcos](/tags/bongbong-marcos/)’ long-lost diploma has finally been found, one week after the Philippine government donated £24 million to the university.
 
-[`Photo: Oxford University's Trinity College, where Marcos’ diploma was found`](/images/oxford-university-trinity-college.jpg)
+[`Photo: Oxford University’s Trinity College, where Marcos’ diploma was found`](/images/oxford-university-trinity-college.jpg)
 
 The diploma's discovery finally confirms that President Marcos had indeed completed his BA in Philosophy, Politics and Bagpiping from Oxford University, as he has always maintained throughout the years that he has been in politics.
 
