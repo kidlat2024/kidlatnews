@@ -1,10 +1,12 @@
 ---
 draft: false
 content_type: NewsArticle
-title: "Jesus Christ Statement Confirms Sibling Apollo Quiboloy's Divinity, Inferiority Complex"
+title: "Jesus Christ Confirms Sibling Apollo Quiboloy's Divinity, Inferiority Complex"
 description: ""
 author: ["Armando Kidlat"]
 date: 2024-03-28
+aliases:
+- /news/jesus-christ-statement-confirms-sibling-apollo-quiboloys-divinity-inferiority-complex/
 xurl: https://twitter.com/kidlatnews2024/status/1773283505448866047
 display_license: true
 attribution: "Apollo Quiboloy [photo](https://commons.wikimedia.org/wiki/File:Quiboloy_fbi_wanted_picture.png) and Jesus Christ [painting](https://commons.wikimedia.org/wiki/File:Spas_vsederzhitel_sinay.jpg) from Wikimedia (Public Domain)."
@@ -17,9 +19,10 @@ tags:
 - Vatican
 - Jehovah
 - Davao City
+- FBI
 kudlit: ‘single’ “double”
 ---
-(Vatican City) -- [Jesus Christ](/tags/jesus-christ/) released a statement through the [Vatican](/tags/vatican/) Wednesday confirming that the Filipino church leader and self-professed "Appointed Son of God" [Apollo Quiboloy](/tags/apollo-quiboloy/) is in fact his younger sibling, appointed by their father [Jehovah](/tags/jehovah/) to descend to Earth and save humanity from wokeness.
+(Vatican City) -- [Jesus Christ](/tags/jesus-christ/) released a statement through the [Vatican](/tags/vatican/) Wednesday confirming that the Filipino church leader, [FBI](/tags/fbi) fugitive, and self-professed "Appointed Son of God" [Apollo Quiboloy](/tags/apollo-quiboloy/) is in fact his younger sibling, appointed by their father [Jehovah](/tags/jehovah/) to save humanity from wokeness.
 
 "Verily I say onto you, do not persecute Apollo," Jesus Christ's statement read, "for he is my own flesh."
 
@@ -29,7 +32,7 @@ Apollo Quiboloy, the Savior's statement said, is actually Apollo Justus (Apollo 
 
 Four years younger than his more famous sibling, Apollo developed a severe inferiority complex as a young man and later harbored a deep resentment at his older brother especially after Jesus Christ died for the sins of mankind, rose up from the dead after three days and later became a celebrity, worshipped by members of the religion that now bears his name.
 
-As centuries went by, Apollo became increasingly estranged from the Holy Family and spent most of his time holed up in his room in Heaven reading *hentai manga* and playing video games all day, only coming out to cavort with questionable celestial beings.
+As centuries went by, Apollo became increasingly estranged from his family and spent most of his time holed up in his room in Heaven reading *hentai manga* and playing video games all day, only coming out to cavort with questionable celestial beings.
 
 After exhausting his infinite patience, Jehovah finally banished Apollo to Earth and commanded that he redeem himself by saving mankind from wokeness, just as Jesus Christ once saved mankind from their wicked ways.
 
@@ -37,4 +40,4 @@ After exhausting his infinite patience, Jehovah finally banished Apollo to Earth
 
 Jesus Christ, however, belied Quiboloy's other epithet of "Owner of the Universe."
 
-"That one actually belongs to my father Jehovah, God the Almighty, not Apollo," Christ's statement read, "and my brother only used that occasionally to impress insignificant mortals who are extremely gullible."
+"That one actually belongs to my father Jehovah, God the Almighty, not Apollo," Christ's statement read, "and my brother only used that occasionally to impress the extremely gullible, puny mortals."
