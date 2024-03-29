@@ -168,9 +168,12 @@ pre {
 	padding:1rem;
 }
 code {
+    display: block;
+    margin:0 0 1rem;
     font-size:1.1rem;
     font-family:'Jetbrains Mono',Consolas,monospace;
-    margin:0 0 1rem;
+    font-weight: 200;
+    line-height: 1.42;
     color:#f72b9f;
 }
 code a {color:#ff54b5}
