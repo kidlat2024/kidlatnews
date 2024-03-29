@@ -38,11 +38,11 @@ Of course, it takes a discerning reader to distinguish one from the other, and a
 
 Indeed, inventing a totally fictitious news article without employing the rhetorical elements of real satire would render the result as simply “fake news.”
 
-For example, before the 2022 Philippine President Elections, Rappler [accused Adobo Chronicles](https://www.rappler.com/newsbreak/in-depth/201969-difference-between-satire-fake-news-adobo-chronicles/), a self-proclaimed satire site, of writing and spreading a [fake news story](https://adobochronicles.com/2016/05/01/robredo-if-elected-vice-president-of-duterte-i-will-immediately-resign-my-post/), with little semblance to what would normally be considered as satire.
+For example, before the 2022 Philippine President Elections, Rappler [accused Adobo Chronicles](https://www.rappler.com/newsbreak/in-depth/201969-difference-between-satire-fake-news-adobo-chronicles/), a self-proclaimed satire site, of writing and spreading a fake news story, with little semblance to what would normally be considered as satire.
 
 ## Satire in Philippine media
 
-Besides the aforementioned Adobo Chronicles, there used to be a number of self-styled humor/satire news sites that existed in the 2010s such as [So, What's News](https://web.archive.org/web/20120622101108/http://sowhatsnews.wordpress.com/), [Mosquito Press](https://web.archive.org/web/20181212223555/http://mosquitopress.tumblr.com/), [Professional Heckler](https://web.archive.org/web/20160220054813/https://professionalheckler.com/), [Agila News](https://web.archive.org/web/20220227040530/https://agilanews.wordpress.com/), and [others](https://web.archive.org/web/20181225070510/https://www.eritastimes.com/).
+Besides the aforementioned Adobo Chronicles, there used to be a number of self-styled humor/satire news sites that existed in the 2010s such as *So, What's News*, *Mosquito Press*, *Professional Heckler*, *Agila News*, and others.
 
 Many have ceased publication, perhaps because, as the Philippine Daily Inquirer [recently observed](https://newsinfo.inquirer.net/1577334/i-think-therefore-i-laugh-what-now-for-pinoy-satire), satire--real satire--"has simply become unpopular."
 
