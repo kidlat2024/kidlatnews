@@ -30,7 +30,7 @@ Apollo Quiboloy, the Savior's statement said, is actually Apollo Justus (Apollo 
 
 [`Photo: Apollo Justus, aka Apollo Quiboloy, bears a striking resemblance to older brother Jesus Christ`](/images/apollo-quiboloy-jesus-christ.jpg)
 
-Four years younger than his more famous sibling, Apollo developed a severe inferiority complex as a young man and later harbored a deep resentment at his older brother especially after Jesus Christ died for the sins of mankind, rose up from the dead after three days and later became a celebrity, worshipped by members of the religion that now bears his name.
+Four years younger than his more famous sibling, Apollo developed a severe inferiority complex as a young man and deeply resented his older brother especially after Jesus Christ died for the sins of mankind, rose up from the dead after three days and later became a celebrity, worshipped by members of the religion that now bears his name.
 
 As centuries went by, Apollo became increasingly estranged from his family and spent most of his time holed up in his room in Heaven reading *hentai manga* and playing video games all day, only coming out to cavort with questionable celestial beings.
 
@@ -40,4 +40,4 @@ After exhausting his infinite patience, Jehovah finally banished Apollo to Earth
 
 Jesus Christ, however, belied Quiboloy's other epithet of "Owner of the Universe."
 
-"That one actually belongs to my father Jehovah, God the Almighty, not Apollo," Christ's statement read, "and my brother only used that occasionally to impress the extremely gullible, puny mortals."
+"That title surely belongs to my father Jehovah, God the Almighty, not Apollo," Christ's statement read, "and my brother only uses it at times to impress the extremely gullible, puny mortals."
