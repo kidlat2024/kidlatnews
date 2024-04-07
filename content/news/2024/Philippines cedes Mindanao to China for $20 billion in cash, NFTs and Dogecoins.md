@@ -44,7 +44,7 @@ kudlit: ‘single’ “double”
 ---
 (Manila, Philippines) -- After months of top-secret negotiations between the [Philippines](/tags/philippines/) and the [People's Republic of China](/tags/china), Philippine Secretary of Foreign Affairs Enrique Manalo and his Chinese counterpart Wang Yi announced at the joint press conference Monday that the Philippines has agreed to sell [Mindanao](/tags/mindanao/) and the surrounding islands to the Chinese-speaking nation for $20 billion, with $15 billion in cash and the remaining $5 billion payable in [non-fungible tokens](/tags/non-fungible-token/) (NFTs) and [Dogecoins](/tags/dogecoin/).
 
-[`Map: the new Chinese province of Mindanao (Mianlanlao)`](/images/chinese-province-mindanao-map.jpg)
+[`Image: Map of the new Chinese province of Mindanao (Mianlanlao) ceded by the Philippines to China`](/images/chinese-province-mindanao-map.jpg)
 
 China also agreed to drop all import tariffs against Philippine bananas and pineapples, in exchange for the Philippines agreeing to drop all claims to [Ayungin Shoal](/tags/ayungin-shoal/) and [Bajo de Masinloc](/tags/bajo-de-masinloc/).
 
