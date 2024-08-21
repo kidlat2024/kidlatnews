@@ -175,7 +175,7 @@ code {
 code a {color:#ff54b5}
 code a:hover {text-decoration:underline}
 article code {
-    display: block;
+    display: inline;
     margin: 2rem 0;
     line-height: 1.42;
 }
