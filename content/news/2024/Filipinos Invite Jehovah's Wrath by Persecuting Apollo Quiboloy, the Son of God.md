@@ -19,6 +19,8 @@ tags:
 - Jehovah
 - Davao City
 - FBI
+- Ramon Revilla Jr
+- Rodrigo Duterte
 kudlit: ‘single’ “double”
 ---
 (Manila) -- As if crushing poverty, rampant crime, environmental disasters and Senator [Robin Padilla](/tags/robin-padilla) are not enough, Filipinos risk further divine punishment coming their way by needlessly persecuting the Son of [Jehovah](/tags/jehovah), popularly known as [Apollo Quiboloy](/tags/apollo-quiboloy).
@@ -35,6 +37,6 @@ The [troubled younger brother](/news/jesus-christ-confirms-sibling-apollo-quibol
 
 His earthly mission has been cut short, however, when he was recently betrayed to the US, the Great Satan, by President [Bongbong Marcos](/tags/bongbong-marcos) for 30,000 pieces of silver.
 
-If convicted and given the death penalty, the second Son of God will be stripped and flogged, forced to carry his cross through the filthy streets of Manila, and crucified in front of the Quiapo Church together with Senator Ramon Revilla Jr and ex-president Rodrigo Duterte.
+If convicted and given the death penalty, the second Son of God will be stripped and flogged, forced to carry his cross through the filthy streets of Manila, and crucified in front of the Quiapo Church together with Senator [Ramon Revilla Jr](/tags/ramon-revilla-jr/) and ex-president [Rodrigo Duterte](/tags/rodrigo-duterte/).
 
 Quiboloy will then be rearrested after coming back from the dead and flown to the US to face further charges. It is not clear at this point whether he will face the same death by crucifixion in the US, nor whether he can resurrect a second time.
