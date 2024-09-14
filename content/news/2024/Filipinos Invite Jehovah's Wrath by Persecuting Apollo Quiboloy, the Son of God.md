@@ -27,14 +27,14 @@ Quiboloy has been arrested in [Davao City](/tags/davao-city) by agents of the Ph
 
 Philippine presidential spokesperson [Martin Andanar](/tags/martin-andanar) announced the charges in Malacañang Palace in Manila, capital of this godforsaken country.
 
->Quiboloy is also wanted by the FBI for sex trafficking, fraud, money laundering and indecent exposure, and he may yet be rearrested and extradited to the US after his crucifixion in the Philippines and expected resurrection after three days, just before he makes his escape by ascending to heaven.
+>Quiboloy is also wanted by the FBI for sex trafficking, fraud, money laundering and indecent exposure, and he may yet be rearrested and extradited to the US after his crucifixion and expected resurrection after three days, just before he makes his escape by ascending to heaven.
 
-Quiboloy, the [troubled younger brother](/news/jesus-christ-confirms-sibling-apollo-quiboloys-divinity-inferiority-complex/) of Christian celebrity [Jesus](/tags/jesus-christ), has been living among the wretched in the Philippines since the 1950s, sent to this hellhole by Jehovah to save the Filipinos from their sinful ways and corruption.
+The [troubled younger brother](/news/jesus-christ-confirms-sibling-apollo-quiboloys-divinity-inferiority-complex/) of religious celebrity [Jesus Christ](/tags/jesus-christ) has been living among the wretched in the Philippines since the 1950s, sent to this hellhole by Jehovah to save the Filipinos from their sinful ways and corruption.
 
 [`Image: Apollo Quiboloy FBI Most Wanted poster (detail)`](/images/apollo-quiboloy-fbi-most-wanted-poster.jpg)
 
 His earthly mission has been cut short, however, when he was recently betrayed to the US, the Great Satan, by President [Bongbong Marcos](/tags/bongbong-marcos) for 30,000 pieces of silver.
 
-If convicted and given the death penalty, the second Son of God will be stripped and flogged, forced to carry his cross through the filthy streets of Manila, and nailed to the cross in front of the Quiapo Church together with his two accomplices.
+If convicted and given the death penalty, the second Son of God will be stripped and flogged, forced to carry his cross through the filthy streets of Manila, and crucified in front of the Quiapo Church together with Senator Ramon Revilla Jr and ex-president Rodrigo Duterte.
 
-He will then be rearrested after coming back from the dead and flown to the US to face further charges. It is not clear at this point whether he will face the same death by crucifixion in the US, nor whether he can resurrect a second time.
+Quiboloy will then be rearrested after coming back from the dead and flown to the US to face further charges. It is not clear at this point whether he will face the same death by crucifixion in the US, nor whether he can resurrect a second time.
