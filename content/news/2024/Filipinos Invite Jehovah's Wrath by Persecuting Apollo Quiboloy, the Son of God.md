@@ -33,7 +33,7 @@ Philippine presidential spokesperson [Martin Andanar](/tags/martin-andanar) anno
 
 The [troubled younger brother](/news/jesus-christ-confirms-sibling-apollo-quiboloys-divinity-inferiority-complex/) of megachurch founder [Jesus Christ](/tags/jesus-christ) has been living among the wretched in the Philippines since the 1950s, sent to this hellhole by Jehovah to save the Filipinos from their sinful ways and corruption.
 
-[`Image: Apollo Quiboloy FBI Most Wanted poster (detail)`](/images/apollo-quiboloy-fbi-most-wanted-poster.jpg)
+[`Image: Apollo Quiboloy FBI Most Wanted poster`](/images/apollo-quiboloy-fbi-most-wanted-poster.jpg)
 
 His earthly mission has been cut short, however, when he was recently betrayed to the US, the Great Satan, by President [Bongbong Marcos](/tags/bongbong-marcos) for 30,000 pieces of silver.
 
