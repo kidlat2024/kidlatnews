@@ -1,7 +1,7 @@
 ---
 draft: false
 content_type: NewsArticle
-title: "Olympian Carlos Yulo Makes Peace With Mom, Gifts Her Lifelong Supply of Cotton Buds"
+title: "Olympian Carlos Yulo Makes Peace With Mom, Gifts Her Lifetime Supply of Cotton Buds"
 description: ""
 author: ["Raul Kidlat"]
 date: 2024-09-22
