@@ -25,7 +25,7 @@ After finishing first in the men's floor and vault competitions in the Paris Oly
 
 [`Photo: two-time Olympic gold medallist Carlos Yulo`](/images/carlos-yulo-olympian.jpg)
 
-However, Yulo's historic achievement have been marred by a highly public feud with his mother, whom he has accused of spending his money without his approval.
+However, Yulo's historic achievement has been marred by a highly public feud with his mother, whom he has accused of spending his money without his approval.
 
 But it did not take long for the soft-spoken Olympian, known to his friends and acquaintances for his generosity and kindness, for a change of heart regarding his estranged parent.
 
