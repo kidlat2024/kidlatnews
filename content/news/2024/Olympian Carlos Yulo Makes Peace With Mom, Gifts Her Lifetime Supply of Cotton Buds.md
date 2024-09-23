@@ -29,7 +29,7 @@ However, Yulo's historic achievement have been marred by a highly public feud wi
 
 But it did not take long for the soft-spoken Olympian, known to his friends and acquaintances for his generosity and kindness, for a change of heart regarding his parent.
 
-"Despite our misunderstandings, my mom is a very important person in my life," said Yulo during an interview with Kidlat News. "So I am giving her my lifetime supply of cotton buds as a sign of my earnestness to patch things up."
+"Despite our misunderstandings, my mom is a very important person in my life," said Yulo during an interview with Kidlat News. "That is why I am giving her my lifetime supply of cotton buds as a sign of my earnestness to patch things up."
 
 "Of all the awards that I have received," added the Olympian, "the Mercury Drug premium cotton buds made from natural fibers is one I highly appreciate because they are super effective in cleaning my ears after I shower after each gymnastics practice. I hope my mom will appreciate them as much as I do."
 
