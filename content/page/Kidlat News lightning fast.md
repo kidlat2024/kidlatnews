@@ -29,7 +29,7 @@ As measured by [Pingdom](https://tools.pingdom.com/) on October 22, 2023 at arou
 
 | News Site | Page Size | Load Time | Grade |
 | --- | ---:|:---:|:---:|
-| [Kidlat News](https://kild.at/) | 6.9kb | 0.65s | 99 |
+| [Kidlat News](https://kidl.at/) | 6.9kb | 0.65s | 99 |
 | [Manila Times](https://www.manilatimes.net/) | 4,300kb | 1.39s | 81 |
 | [Rappler](https://www.rappler.com/) | 4,200kb | 1.55s | 67 |
 | [Inquirer](https://www.inquirer.net/) | 11,300kb | 4.16s | 63 |

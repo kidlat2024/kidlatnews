@@ -4,7 +4,7 @@ content_type: NewsArticle
 title: "Senators Tito Sotto, Ronald Dela Rosa Introduce Bill to Change 'Lupang Hinirang' to 'Bayang Magiliw'"
 description: ""
 author: ["Leon Kidlat"]
-date: 2024-09-27
+date: 2024-10-01
 aliases:
 xurl: https://x.com/kidlatnews2024
 display_license: true
