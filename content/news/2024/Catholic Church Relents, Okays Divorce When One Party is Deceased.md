@@ -18,7 +18,7 @@ tags:
 - Catholic Bishops Conference of the Philippines
 kudlit: ‘single’ “double”
 ---
-(Quezon City) -- In a major victory for divorce proponents in the Philippines, the influential [Catholic Church](/tags/catholic-church) has agreed to drop its objection to couples divorcing when one of them is dead, paving the way for passing the long-awaited [Divorce Law](/tags/divorce-law) in the country.
+(Quezon City) -- In a major victory for divorce proponents in the Philippines, the influential [Catholic Church](/tags/catholic-church) has agreed to drop its objection to couples divorcing when one of them is already dead, paving the way for passing the long-awaited [Divorce Law](/tags/divorce-law) in the country.
 
 The Philippines and the [Vatican](/tags/vatican) are the only two countries in the world that has no divorce law.
 
