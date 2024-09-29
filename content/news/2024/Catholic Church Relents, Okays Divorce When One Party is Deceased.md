@@ -34,4 +34,4 @@ Bowing to public pressure, the [Catholic Bishops’ Conference of the Philippine
 
 Senator [Francis Escudero](/tags/francis-escudero), a vocal proponent of wives being buried with their deceased husbands, has repeatedly warned that the bill will increase spousal homicide, as desperate women might take the law into their own hands and devise ways to kill their spouses to escape abusive marriages.
 
-"We already have marriage annulment laws in the Philippines," said Escudero. "Women throughout the country already have access to this legal procedure to leave abusive relationships. Of course, the annulment process should be finalized before their husbands die. Otherwise, they will have no choice but to join their partners in the afterlife."
+"We already have marriage annulment laws in the Philippines," said Escudero. "Women throughout the country already have access to this legal procedure to leave abusive relationships. Of course, the annulment process should be finalized before their husbands die. Otherwise, they will have no choice but to join their partners in their journey to the afterlife."
