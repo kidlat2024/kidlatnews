@@ -22,7 +22,7 @@ kudlit: ‘single’ “double”
 
 The Philippines and the [Vatican](/tags/vatican) are the only two countries in the world that has no divorce law.
 
-Up until now, divorce in the Philippines is absolutely forbidden and women whose husbands have died are required by law to be buried together with their deceased spouses, while husbands have often escaped this legal requirement by bribing corrupt local officials.
+Divorce in the Philippines is absolutely forbidden even in death and women whose husbands died are required by law to be buried together with their deceased spouses, while husbands have often escaped this legal requirement by bribing corrupt local officials.
 
 >According to its text, the Divorce Bill is meant to liberate women from abusive relationships and help them “regain their dignity and avoid an untimely demise” when their husbands die before them.
 
