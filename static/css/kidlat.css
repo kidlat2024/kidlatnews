@@ -144,11 +144,11 @@ tags li a {text-decoration:none; color:#666}
 
 /* BLOCKQUOTE, ASIDE, PRE, CODE */
 blockquote {
-	margin:2rem 0;
+    margin:2rem 0;
 }
 blockquote p {
     font-family:inherit;
-    font-size:1.5rem;
+    font-size:1.4rem;
     font-weight:800;
     line-height:1.5;
     color:#d00a0a;
