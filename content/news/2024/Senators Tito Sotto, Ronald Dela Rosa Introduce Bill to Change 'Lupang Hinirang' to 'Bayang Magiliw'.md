@@ -22,14 +22,14 @@ kudlit: ‘single’ “double”
 
 The two senators introduced a bill on Tuesday that would formally change the name of the Philippine national anthem from Lupang Hinirang (Chosen Land) to Bayang Magiliw (Beloved Country). "Bayang Magiliw" are the first two words of the marching song that is massacred by all schoolchildren throughout the country at the flag ceremony every morning.
 
->"Somebody clearly messed up the title big-time when the anthem was translated into Tagalog from the original Spanish," continued [Senator Sotto](/tags/tito-sotto). "Our bill would only correct this unfortunate historical wrong; it would also stop the needless ridicule that comes the way of countless children--not to mention senators--who know our beloved anthem by the only name it should be called: Bayang Magiliw."
+"Somebody clearly messed up the title big-time when the anthem was translated into Tagalog from the original Spanish," continued [Senator Sotto](/tags/tito-sotto). "Our bill would not only correct this unfortunate historical wrong; it would also stop the needless ridicule that comes the way of countless children--not to mention senators--who know our beloved anthem by the only name it should be called: Bayang Magiliw."
 
 [`Photo: Senators Tito Sotto and Ronald dela Rosa`](/images/senator-tito-sotto-ronald-dela-rosa.jpg)
 
-"Insufferable snots like to call it [Lupang Hinirang](/tags/lupang-hinirang) but the name should really have been Bayang Magiliw from the start," explained [Senator Dela Rosa](/tags/ronald-dela-rosa). "Senator Sotto, would you kindly do us a favor and sing our Bayang Magiliw?"
+"Only insufferable snots like to call it [Lupang Hinirang](/tags/lupang-hinirang) but the name should really have been Bayang Magiliw from the start," explained [Senator Dela Rosa](/tags/ronald-dela-rosa). "Senator Sotto, would you kindly do us a favor and sing our Bayang Magiliw?"
 
 "Certainly," replied Senator Sotto. "Ahem... Bayang magiliw, perlas ng Pil..."
 
-"See?" declared Senator Dela Rosa triumphantly. "Did anyone hear "Lupang Hinirang" somewhere? The name is obviously, unmistakably, indisputably, "Bayang Magiliw," and anyone who says otherwise is a dumbass, and most likely a communist."
+"See?" Senator Dela Rosa smiled triumphantly. "Did anyone hear "Lupang Hinirang" somewhere? The name is obviously, unmistakably, indisputably, "Bayang Magiliw," and anyone who says otherwise is a dumbass, and most likely a communist."
 
 If the bill is signed into law, anyone caught using the name Lupang Hinirang would face a fine of 1,000 pesos and be forced to sing the national anthem 1,000 times in front of a government building as punishment.
