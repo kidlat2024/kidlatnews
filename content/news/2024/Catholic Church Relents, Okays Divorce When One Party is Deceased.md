@@ -18,7 +18,7 @@ tags:
 - Catholic Bishops Conference of the Philippines
 kudlit: ‘single’ “double”
 ---
-(Quezon City) -- In a major victory for divorce proponents in the Philippines, the influential [Catholic Church](/tags/catholic-church) has agreed to drop its objection to couples divorcing when one of them is already dead, paving the way for passing the long-awaited [Divorce Law](/tags/divorce-law) in the country.
+(Quezon City) -- In a major victory for divorce proponents in the Philippines, the influential [Catholic Bishops’ Conference of the Philippines](/tags/catholic-bishops-conference-of-the-philippines) has agreed to drop its objection to couples divorcing when one of them is already dead, paving the way for passing the long-awaited [Divorce Law](/tags/divorce-law) in the country.
 
 The Philippines and the [Vatican](/tags/vatican) are the only two countries in the world that has no law regarding divorce procedures for married couples.
 
@@ -26,7 +26,7 @@ Divorce in the Philippines is absolutely forbidden even in death and women whose
 
 >According to its text, the Divorce Bill is meant to liberate women from abusive relationships and help them “regain their dignity and avoid an untimely demise” in case their husbands die before them.
 
-Bowing to public pressure, the [Catholic Bishops’ Conference of the Philippines](/tags/catholic-bishops-conference-of-the-philippines)’ acquiescence has been hailed by women's rights advocates throughout the country even as conservative lawmakers and religious groups vow to continue the fight against the divorce bill that is making its way through the House of Representatives.
+Bowing to public pressure, the [Catholic Church](/tags/catholic-church)’s acquiescence has been hailed by women's rights advocates throughout the country even as conservative lawmakers and religious groups vow to continue the fight against the divorce bill that is making its way through the House of Representatives.
 
 "This is a big victory for women's liberation," said Cecille Goldberg-Cuenco, leader of the lobby group Divorce-4-Filipinos. "But we still have a long way to go until absolute equality."
 
