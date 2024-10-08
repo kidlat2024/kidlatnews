@@ -34,7 +34,7 @@ The two senators introduced a bill on Tuesday that would formally change the nam
 
 "See?!!" Dela Rosa ejaculated. "Did anyone hear the words "Lupang Hinirang" somewhere? If that is not yet obvious enough to everyone, the name is unmistakably, indisputably, "Bayang Magiliw," and anyone who says otherwise is a dumbass, and most likely a communist."
 
-Senator Sotto concluded the press conference with an eloquent plea (in Filipino):
+Senator Sotto concluded the press conference with an eloquent plea (in Filipino) for the name change:
 
 "These are the words I will leave you with: Few will have the greatness to bend history, but each of us can act, no matter how small, to change the course of events. When our small actions are combined, we can create a totality that will mark the entire history of this generation. Countless different movements of courage and determination shape the history of mankind. Each time a man stands up for an ideal, or acts to improve the lot of others, or strikes out against injustice, we create small movements. When these small movements come together, they form a powerful force which can sweep down even the mightiest walls of oppression."
 
