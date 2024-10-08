@@ -20,11 +20,11 @@ kudlit: ‘single’ “double”
 ---
 (Quezon City) -- "The name of our national anthem is [Bayang Magiliw](/tags/bayang-magiliw), not Lupang Hinirang," declared Senator Tito Sotto (in Filipino) at the joint press conference with Senator Ronald dela Rosa on Monday. "You know it, we know it, and all grade-school children all over the country know it."
 
-The two senators introduced a bill on Tuesday that would formally change the name of the Philippine national anthem from Lupang Hinirang (Chosen Land) to Bayang Magiliw (Beloved Country). "Bayang Magiliw" are the first two words of the marching song that is massacred by schoolchildren throughout the country at the flag ceremony every morning.
+The two senators introduced a bill on Tuesday that would legally change the name of the Philippine national anthem from Lupang Hinirang (Chosen Land) to Bayang Magiliw (Beloved Country). "Bayang Magiliw" are the first two words of the marching song that is massacred by schoolchildren throughout the country at the flag ceremony every morning.
 
 [`Photo: Senators Tito Sotto and Ronald dela Rosa`](/images/senator-tito-sotto-ronald-dela-rosa.jpg)
 
-"Four score and seven years ago our national heroes brought forth on this continent, a new nation," continued [Senator Sotto](/tags/tito-sotto),  "Conceived in Liberty, and dedicated to the proposition that all men are created equal. But somebody clearly messed up the title of the national anthem when it was translated into Tagalog from the original Spanish. That guy should have been shot together with Bonifacio."
+"Four score and seven years ago our national heroes brought forth on this continent, a new nation," continued [Senator Sotto](/tags/tito-sotto),  "Conceived in Liberty, and dedicated to the proposition that all men are created equal. But one of them clearly messed up the title of the national anthem when it was translated into Tagalog from the original Spanish. That guy should have been shot together with Bonifacio."
 
 >"Our bill would not only correct this unfortunate historical wrong; it would also stop the needless ridicule that comes the way of countless schoolchildren--not to mention politicians--who know our beloved anthem by the only name it should be called: Bayang Magiliw."
 
