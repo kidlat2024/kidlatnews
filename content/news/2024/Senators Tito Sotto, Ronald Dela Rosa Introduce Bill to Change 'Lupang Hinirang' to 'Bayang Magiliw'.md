@@ -28,7 +28,7 @@ The two senators introduced a bill on Tuesday that would legally change the name
 
 >"Our bill would not only correct this unfortunate historical wrong; it would also stop the needless ridicule that comes the way of countless schoolchildren--not to mention politicians--who know our beloved anthem by the only name it should be called: Bayang Magiliw."
 
-"Only insufferable snots in their ivory towers like to call it [Lupang Hinirang](/tags/lupang-hinirang), but the name should really have been Bayang Magiliw from the start," explained [Senator Dela Rosa](/tags/ronald-dela-rosa). "Let me illustrate my point. Esteemed Senator Sotto, would you kindly do us a favor and sing our national anthem?"
+"Only insufferable snots in their ivory towers call it [Lupang Hinirang](/tags/lupang-hinirang), but the name should really have been Bayang Magiliw from the start," explained [Senator Dela Rosa](/tags/ronald-dela-rosa). "Let me illustrate my point. Esteemed Senator Sotto, would you kindly do us a favor and sing our national anthem?"
 
 "Certainly," replied Sotto. "Ahem... Bayang magiliw, perlas ng silang..."
 
