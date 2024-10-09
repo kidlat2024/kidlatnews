@@ -10,7 +10,7 @@ xurl: https://x.com/kidlatnews2024
 display_license: true
 attribution: "Senator Francis Escudero photo from [Wikimedia](https://commons.wikimedia.org/wiki/File:Chiz_Escudero_at_Senate_session_9.24.14.jpg)."
 images:
-- /images/senator-francis-escudero.jpg
+- /images/senator-francis-escudero.gif
 tags:
 - Divorce Law
 - Catholic Church
@@ -30,7 +30,7 @@ Bowing to public pressure, the [Catholic Church](/tags/catholic-church)’s acqu
 
 "This is a big victory for women's liberation," said Cecille Goldberg-Cuenco, leader of the lobby group Divorce-4-Filipinos. "But we still have a long way to go until absolute equality."
 
-[`Photo: Senator Francis Escudero argues against divorce.`](/images/senator-francis-escudero.jpg)
+[`Photo: Senator Francis Escudero argues against divorce.`](/images/senator-francis-escudero.gif)
 
 Senator [Francis Escudero](/tags/francis-escudero), a vocal proponent of wives being buried with their deceased husbands, has repeatedly warned that the bill will increase spousal homicide, as desperate women might take the law into their own hands and devise ways to kill their husbands to escape abusive marriages.
 
