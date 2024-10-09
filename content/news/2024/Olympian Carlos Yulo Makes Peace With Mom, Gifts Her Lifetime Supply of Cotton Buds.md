@@ -10,7 +10,7 @@ xurl: https://x.com/kidlatnews2024
 display_license: true
 attribution: "Carlos Yulo photo from the [Wikimedia](https://commons.wikimedia.org/wiki/File:Carlos_Yulo-20240813-FilOlympians-ph8-1.jpg)."
 images:
-- /images/carlos-yulo-olympian.jpg
+- /images/carlos-yulo-olympian.gif
 tags:
 - Carlos Yulo
 - Paris Olympics
@@ -23,7 +23,7 @@ kudlit: ‘single’ “double”
 
 After finishing first in the men's floor and vault competitions in the Paris Olympics, Yulo received 20 billion pesos from various branches of the Philippine government, a 60-story condominium building in Makati from [Manny Villar](/tags/manny-villar), free [Philippine Airlines](/tags/philippine-airlines) flights for life, a Toyota Land Cruiser, a lifetime supply of ramen, and untold other prizes and awards.
 
-[`Photo: two-time Olympic gold medallist Carlos Yulo`](/images/carlos-yulo-olympian.jpg)
+[`Photo: two-time Olympic gold medallist Carlos Yulo`](/images/carlos-yulo-olympian.gif)
 
 However, Yulo's historic achievement has been marred by a highly public feud with his mother, whom he has accused of spending his money without his approval.
 

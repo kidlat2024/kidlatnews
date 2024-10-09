@@ -7,9 +7,9 @@ author: ["Armando Kidlat"]
 date: 2023-10-07
 xurl: https://twitter.com/kidlatnews2024/status/1762416151718686807
 images:
-- /images/jollibee-tagaytay-store-sign.jpg
+- /images/jollibee-tagaytay-store-sign.gif
 display_license: true
-attribution: "[Jollibee Tagaytay store sign](/images/jollibee-tagaytay-store-sign.jpg) photo by [scion_cho](https://www.flickr.com/photos/scion02b/3414525678/in/album-72157615661071557/) ([CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/))."
+attribution: "[Jollibee Tagaytay store sign](/images/jollibee-tagaytay-store-sign.gif) photo by [scion_cho](https://www.flickr.com/photos/scion02b/3414525678/in/album-72157615661071557/) ([CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/))."
 tags:
 - Philippine news satire
 - Jollibee

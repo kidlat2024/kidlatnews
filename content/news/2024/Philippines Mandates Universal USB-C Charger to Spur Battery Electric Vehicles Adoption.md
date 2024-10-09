@@ -10,7 +10,7 @@ xurl: https://x.com/kidlatnews2024
 display_license: true
 attribution: "Tesla vs USB-C charger, from [Wikimedia](https://commons.wikimedia.org/wiki/File:Tesla_charger_in_Finland.jpg) and [Pexels](https://www.pexels.com/photo/many-chargers-are-connected-to-an-electrical-outlet-on-a-white-background-16886334/)."
 images:
-- /images/tesla-usb-c-chargers.jpg
+- /images/tesla-usb-c-chargers.gif
 tags:
 - Tesla
 - Electric cars
@@ -23,7 +23,7 @@ kudlit: ‘single’ “double”
 ---
 (Manila) -- In a bid to accelerate the adoption of [battery electric vehicles](/tags/battery-electric-vehicles) ([BEV](/tags/bev)) in the country and reduce waste, the Philippine government introduced a new law on Wednesday that will require car companies to ensure that every BEV sold in the Philippines in 2026 will use the [USB-C](/tags/usb-c) port to charge its batteries, the same standard port used on mobile phones, tablets and cameras.
 
-[`Photo: Tesla vs USB-C charger`](/images/tesla-usb-c-chargers.jpg)
+[`Photo: Tesla vs USB-C charger`](/images/tesla-usb-c-chargers.gif)
 
 The law addresses the most common concerns of consumers against [electric cars](/tags/electric-cars): lack of charging infrastructure, slow charging times and range anxiety.
 

@@ -7,9 +7,9 @@ author: ["Leon Kidlat"]
 date: 2024-03-12
 xurl: https://twitter.com/kidlatnews2024/status/1767784690109612158
 display_license: true
-attribution: "[Chinese Coast Guard ships giving Filipinos free shower](/images/chinese-coast-guard-ships-giving-filipinos-free-showers.jpg) photo from Philippine Coast Guard via [Radio Free Asia](https://www.rfa.org/english/news/southchinasea/water-cannon-crew-injuries-03052024144905.html) (Public Domain)."
+attribution: "[Chinese Coast Guard ships giving Filipinos free shower](/images/chinese-coast-guard-ships-giving-filipinos-free-showers.gif) photo from Philippine Coast Guard via [Radio Free Asia](https://www.rfa.org/english/news/southchinasea/water-cannon-crew-injuries-03052024144905.html) (Public Domain)."
 images:
-- /images/chinese-coast-guard-ships-giving-filipinos-free-showers.jpg
+- /images/chinese-coast-guard-ships-giving-filipinos-free-showers.gif
 tags:
 - China
 - Philippines
@@ -22,7 +22,7 @@ kudlit: ‘single’ “double”
 ---
 (Beijing, China) -- [Chinese](/tags/china/) Foreign Ministry spokesperson Yize Qu on Monday accused the Philippine government of enabling Filipino marines to take advantage of free showers provided by Chinese Coast Guard ships in the [West Philippine Sea](/tags/west-philippine-sea/) ([South China Sea](/tags/south-china-sea/)).
 
-[`Photo: Chinese Coast Guard ships giving Filipinos free showers`](/images/chinese-coast-guard-ships-giving-filipinos-free-showers.jpg)
+[`Photo: Chinese Coast Guard ships giving Filipinos free showers`](/images/chinese-coast-guard-ships-giving-filipinos-free-showers.gif)
 
 "As is well known, Chinese vessels in the South China Sea generously provide free showers to any foreign ship that sails nearby without exception," said Qu. "This is true for [Vietnam](/tags/vietnam/) and the [Philippines](/tags/philippines/) as well as other hygiene-challenged [Southeast Asian](/tags/southeast-asia/) navies. But lately, the Philippines in particular has taken advantage of Chinese generosity and even sail their ships too close to get free showers almost everyday. We call on the Philippines to cease this dangerous and abusive behavior."
 

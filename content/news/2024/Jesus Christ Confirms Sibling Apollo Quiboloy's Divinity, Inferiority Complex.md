@@ -11,7 +11,7 @@ xurl: https://twitter.com/kidlatnews2024/status/1773283505448866047
 display_license: true
 attribution: "Apollo Quiboloy [photo](https://commons.wikimedia.org/wiki/File:Quiboloy_fbi_wanted_picture.png) and Jesus Christ [painting](https://commons.wikimedia.org/wiki/File:Spas_vsederzhitel_sinay.jpg) from Wikimedia (Public Domain)."
 images:
-- /images/apollo-quiboloy-jesus-christ.jpg
+- /images/apollo-quiboloy-jesus-christ.gif
 tags:
 - Jesus Christ
 - Apollo Quiboloy
@@ -28,7 +28,7 @@ kudlit: ‘single’ “double”
 
 Apollo Quiboloy, the Savior's statement said, is actually Apollo Justus (Apollo the Righteous) and was born of divine parents in 2 BCE in the small village of [Nazareth](/tags/nazareth/) in Galilee, not of Kapampangan parents in 1950 in [Davao City](/tags/davao-city/), as his Wikipedia page says.
 
-[`Photo: Apollo Justus, aka Apollo Quiboloy, bears a striking resemblance to older brother Jesus Christ`](/images/apollo-quiboloy-jesus-christ.jpg)
+[`Photo: Apollo Justus, aka Apollo Quiboloy, bears a striking resemblance to older brother Jesus Christ`](/images/apollo-quiboloy-jesus-christ.gif)
 
 Four years younger than his more famous sibling, Apollo developed a severe inferiority complex as a young man and deeply resented his older brother especially after Jesus Christ died for the sins of mankind, rose up from the dead after three days and later became a celebrity, worshipped by members of the religion that now bears his name.
 

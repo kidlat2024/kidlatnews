@@ -7,9 +7,9 @@ author: ["Leon Kidlat"]
 date: 2023-11-07
 xurl: https://twitter.com/kidlatnews2024/status/1753761998234653021
 display_license: true
-attribution: "[Bureau of Internal Revenue Building](/images/philippines-bureau-of-internal-revenue-bir.jpg) in Intramuros photo from [Wikimedia](https://commons.wikimedia.org/wiki/File:Intramurosjf0746_32.JPG) ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en))."
+attribution: "[Bureau of Internal Revenue Building](/images/philippines-bureau-of-internal-revenue-bir.gif) in Intramuros photo from [Wikimedia](https://commons.wikimedia.org/wiki/File:Intramurosjf0746_32.JPG) ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en))."
 images:
-- /images/philippines-bureau-of-internal-revenue-bir.jpg
+- /images/philippines-bureau-of-internal-revenue-bir.gif
 tags:
 - Philippine news satire
 - Iglesia ni Cristo
@@ -21,7 +21,7 @@ kudlit: ‘single’ “double”
 ---
 (Quezon City, Philippines) -- At a joint press conference Monday, [Iglesia ni Cristo](/tags/iglesia-ni-cristo/) (INC) executive minister [Eduardo Manalo](/tags/eduardo-manalo/) and [Bureau of Internal Revenue](/tags/bureau-of-internal-revenue/) (BIR) commisioner Romeo Lumagui, Jr. formally announced the implementation of an innovative system through which the BIR will directly deduct a 10% 'Salvation Tax' from Iglesia ni Cristo members’ salary every payday.
 
-[`Photo: Bureau of Internal Revenue building in Intramuros`](/images/philippines-bureau-of-internal-revenue-bir.jpg)
+[`Photo: Bureau of Internal Revenue building in Intramuros`](/images/philippines-bureau-of-internal-revenue-bir.gif)
 
 In what observers dubbed ‘tithing at the source,’ the implementation of the so-called [Salvation Tax](/tags/tax/) aims to streamline Iglesia ni Cristo's tithe collection process to prevent believers from falling into arrears, thereby ensuring the salvation of their souls and expediting their ascent to heaven at the time of their passing.
 

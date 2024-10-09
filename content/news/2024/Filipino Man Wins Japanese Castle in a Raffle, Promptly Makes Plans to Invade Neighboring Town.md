@@ -6,9 +6,9 @@ description: ""
 author: ["Armando Kidlat"]
 date: 2024-02-12
 display_license: true
-attribution: "[Japanese castle](/images/kubota-castle-akita-japan.jpg) photo from [Wikimedia](https://commons.wikimedia.org/wiki/File:Kubota_Castle_20170330.jpg) ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en))."
+attribution: "[Japanese castle](/images/kubota-castle-akita-japan.gif) photo from [Wikimedia](https://commons.wikimedia.org/wiki/File:Kubota_Castle_20170330.jpg) ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en))."
 images:
-- /images/kubota-castle-akita-japan.jpg
+- /images/kubota-castle-akita-japan.gif
 tags:
 - Philippine news satire
 - Samurai
@@ -27,7 +27,7 @@ kudlit: ‘single’ “double” ñ
 ---
 (Akita City, Japan) -- Biñan, [Laguna](/tags/laguna/) native and self-confessed [weeaboo](/tags/weeaboo/) Rodel Rosario, a 32-year-old factory worker in [Japan](/tags/japan/), have won an old [samurai](/tags/samurai/) castle located in rural [Akita Prefecture](/tags/akita-prefecture/) in a raffle conducted on January 29, 2024 by the prefectural government to dispose abandoned houses and other derelict properties.
 
-[`Photo: Kubota Castle in Akita Prefecture won by Rosario in a raffle`](/images/kubota-castle-akita-japan.jpg)
+[`Photo: Kubota Castle in Akita Prefecture won by Rosario in a raffle`](/images/kubota-castle-akita-japan.gif)
 
 Included with the castle is title of its previous owner ("Daimyo of Kubota"), the surrounding five-hectare land and various samurai castle paraphernalia such as armors and weapons, farming implements and Edo-period household utensils.
 

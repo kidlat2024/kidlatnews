@@ -7,9 +7,9 @@ author: ["Leon Kidlat"]
 date: 2023-11-15
 xurl: https://twitter.com/kidlatnews2024/status/1753747220917289055
 display_license: true
-attribution: "[Philippine President Bongbong Marcos](/images/philippine-president-bongbong-marcos.jpg) photo from [Wikimedia](https://commons.wikimedia.org/wiki/File:Bongbong_Marcos_inaugural_address_6.30.22_(4).jpg) (Public Domain)."
+attribution: "[Philippine President Bongbong Marcos](/images/philippine-president-bongbong-marcos.gif) photo from [Wikimedia](https://commons.wikimedia.org/wiki/File:Bongbong_Marcos_inaugural_address_6.30.22_(4).jpg) (Public Domain)."
 images:
-- /images/philippine-president-bongbong-marcos.jpg
+- /images/philippine-president-bongbong-marcos.gif
 tags:
 - Philippine news satire
 - Bongbong Marcos
@@ -26,7 +26,7 @@ kudlit: ‘single’ “double”
 ---
 (Manila, Philippines) -- President [Bongbong Marcos](/tags/bongbong-marcos/) declared at Tuesday's press conference that drugs have decisively won the [Philippines](/tags/philippines/)’ [War on Drugs](/tags/war-on-drugs/), one year after former president [Rodrigo Duterte](/tags/rodrigo-duterte/), the architect of the brutal six-year war on illicit substances, left office.
 
-[`Photo: President Bongbong Marcos announcing the end of the War on Drugs`](/images/philippine-president-bongbong-marcos.jpg)
+[`Photo: President Bongbong Marcos announcing the end of the War on Drugs`](/images/philippine-president-bongbong-marcos.gif)
 
 As a token of surrender, President Marcos had a day earlier pardoned and released from prison former senator [Leila de Lima](/tags/leila-de-lima/), the feared drug lord and head of the powerful Bilibid Drug Cartel which controls drug distribution in [Metro Manila](/tags/metro-manila/) and Luzon.
 

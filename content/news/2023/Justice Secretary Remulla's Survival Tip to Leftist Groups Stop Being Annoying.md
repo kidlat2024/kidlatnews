@@ -6,9 +6,9 @@ description: ""
 author: ["Leon Kidlat"]
 date: 2023-10-13
 display_license: true
-attribution: "[DOJ Secretary Jesus Crispin Remulla](/images/philippine-doj-secretary-jesus-crispin-remulla.jpg) photo from [Wikimedia](https://commons.wikimedia.org/wiki/File:Sec._Jesus_Crispin_Remulla_-_DOJ_Official_Portrait_(cropped).jpg?uselang=en#Licensing) (Public Domain)."
+attribution: "[DOJ Secretary Jesus Crispin Remulla](/images/philippine-doj-secretary-jesus-crispin-remulla.gif) photo from [Wikimedia](https://commons.wikimedia.org/wiki/File:Sec._Jesus_Crispin_Remulla_-_DOJ_Official_Portrait_(cropped).jpg?uselang=en#Licensing) (Public Domain)."
 images:
-- /images/philippine-doj-secretary-jesus-crispin-remulla.jpg
+- /images/philippine-doj-secretary-jesus-crispin-remulla.gif
 tags:
 - Philippine news satire
 - Jesus Crispin Remulla

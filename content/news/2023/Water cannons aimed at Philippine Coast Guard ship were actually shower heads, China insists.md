@@ -5,9 +5,9 @@ content_type: NewsArticle
 author: ["Leon Kidlat"]
 display_license: true
 xurl: https://twitter.com/kidlatnews2024/status/1753770004921958407
-attribution: "[Philippine Coast Guard vessel](/images/philippine-coast-guard-vessel-west-philippine-sea.jpg) photo from [Philippine Information Agency](https://pia.gov.ph/features/2022/12/20/pangarap-ng-mga-mangingisda-ng-la-union-tinupad-ng-bfar) (Public Domain)."
+attribution: "[Philippine Coast Guard vessel](/images/philippine-coast-guard-vessel-west-philippine-sea.gif) photo from [Philippine Information Agency](https://pia.gov.ph/features/2022/12/20/pangarap-ng-mga-mangingisda-ng-la-union-tinupad-ng-bfar) (Public Domain)."
 images:
-- /images/philippine-coast-guard-vessel-west-philippine-sea.jpg
+- /images/philippine-coast-guard-vessel-west-philippine-sea.gif
 date: 2023-09-23
 tags:
 - Philippine news satire

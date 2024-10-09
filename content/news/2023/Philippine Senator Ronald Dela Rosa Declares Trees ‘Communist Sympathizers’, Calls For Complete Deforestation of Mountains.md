@@ -7,9 +7,9 @@ author: ["Leon Kidlat"]
 date: 2023-11-04
 xurl: https://twitter.com/kidlatnews2024/status/1753749671011627290
 display_license: true
-attribution: "[Philippine Senator Ronald 'Bato' Dela Rosa](/images/philippine-senator-ronald-bato-dela-rosa.jpg) photo from [Wikimedia](https://commons.wikimedia.org/wiki/File:Ronald_dela_Rosa_073116.jpg) (Public Domain)."
+attribution: "[Philippine Senator Ronald 'Bato' Dela Rosa](/images/philippine-senator-ronald-bato-dela-rosa.gif) photo from [Wikimedia](https://commons.wikimedia.org/wiki/File:Ronald_dela_Rosa_073116.jpg) (Public Domain)."
 images:
-- /images/philippine-senator-ronald-bato-dela-rosa.jpg
+- /images/philippine-senator-ronald-bato-dela-rosa.gif
 tags:
 - Philippine news satire
 - Ronald dela Rosa
@@ -23,7 +23,7 @@ kudlit: ‘single’ “double”
 ---
 (Pasay City, Philippines) -- In a priviledged speech on the [Philippine Senate](/tags/philippine-senate/) floor Friday, Senator [Ronald 'Bato' dela Rosa](/tags/ronald-dela-rosa/) declared that trees are 'communist sympathizers' that should be eradicated from the country's mountains through legislation.
 
-[`Photo: Philippine Senator Ronald Dela Rosa announcing death to all trees`](/images/philippine-senator-ronald-bato-dela-rosa.jpg)
+[`Photo: Philippine Senator Ronald Dela Rosa announcing death to all trees`](/images/philippine-senator-ronald-bato-dela-rosa.gif)
 
 "Let's state the obvious," said Dela Rosa, "Since the late 1960s when the [New People's Army](/tags/new-peoples-army/) insurgency began in the Philippines, trees have been firmly on the rebels’ side. They are traitors. They give the insurgents shelter and hide them from government forces. I have never seen plants as leftist as trees in my whole life. The sooner we get rid of them, the sooner we get rid of the New People's Army."
 

@@ -6,9 +6,9 @@ author: ["Leon Kidlat"]
 date: 2023-10-11
 xurl: https://twitter.com/kidlatnews2024/status/1759529014908318054
 display_license: true
-attribution: "[Canada Prime Minister Trudeau with wife](/images/canada-prime-minister-justin-trudeau-with-wife.jpg) photo from [Wikimedia](https://commons.wikimedia.org/wiki/File:Justin_and_Sophie_Trudeau_-_Global_Citizen_Festival_Hamburg_08.jpg) ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en))."
+attribution: "[Canada Prime Minister Trudeau with wife](/images/canada-prime-minister-justin-trudeau-with-wife.gif) photo from [Wikimedia](https://commons.wikimedia.org/wiki/File:Justin_and_Sophie_Trudeau_-_Global_Citizen_Festival_Hamburg_08.jpg) ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en))."
 images:
-- /images/canada-prime-minister-justin-trudeau-with-wife.jpg
+- /images/canada-prime-minister-justin-trudeau-with-wife.gif
 tags:
 - Philippine news satire
 - Canada
@@ -23,7 +23,7 @@ tags:
 ---
 (Manila, Philippines) -- During the telephone conference between the two heads of state Tuesday, Canadian Prime Minister Justin Trudeau lauded the friendly relations between the two countries and thanked President [Bongbong Marcos](/tags/bongbong-marcos/) for the Philippine government's continued cooperation in regularly supplying Canada with [high-grade Filipinos](/tags/migrant-workers/).
 
-[`Photo: Canadian Prime Minister Justin Trudeau with wife`](/images/canada-prime-minister-justin-trudeau-with-wife.jpg)
+[`Photo: Canadian Prime Minister Justin Trudeau with wife`](/images/canada-prime-minister-justin-trudeau-with-wife.gif)
 
 "In 2022, [Canada](/tags/canada/) imported a record 1,200 tons of Filipinos," said Trudeau according to the transcripts. "At an average of around 80kg each, that adds up to around--let's see--15,000 individuals, give or take a few."
 

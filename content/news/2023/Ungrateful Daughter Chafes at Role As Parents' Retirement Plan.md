@@ -7,7 +7,7 @@ author: ["Armando Kidlat"]
 date: 2023-10-03
 display_license: true
 images:
-- /kidlat-graffiti.jpg
+- /kidlat-graffiti.gif
 tags:
 - Philippine news satire
 - retirement plan

@@ -6,9 +6,9 @@ description: ""
 author: ["Leon Kidlat"]
 date: 2023-10-28
 display_license: true
-attribution: "[Billionaire Elon Musk](/images/billionaire-elon-musk.jpg) photo by [Heisenberg Media](https://www.flickr.com/photos/88975472@N03/10611143395) ([CC BY-2.0](https://creativecommons.org/licenses/by/2.0/deed.en))."
+attribution: "[Billionaire Elon Musk](/images/billionaire-elon-musk.gif) photo by [Heisenberg Media](https://www.flickr.com/photos/88975472@N03/10611143395) ([CC BY-2.0](https://creativecommons.org/licenses/by/2.0/deed.en))."
 images:
-- /images/billionaire-elon-musk.jpg
+- /images/billionaire-elon-musk.gif
 tags:
 - Philippine news satire
 - Elon Musk
@@ -25,7 +25,7 @@ tags:
 ---
 (Hawthorne, California) -- In a stunning development, billionaire entrepreneur [Elon Musk](/tags/elon-musk/) offered 1 billion dollars to the [Philippines](/tags/philippines/) if it would agree to change its name to 'Philippenis'.
 
-[`Photo: Billionaire Elon Musk proposing Philippines name change`](/images/billionaire-elon-musk.jpg)
+[`Photo: Billionaire Elon Musk proposing Philippines name change`](/images/billionaire-elon-musk.gif)
 
 “I will give them a billion dollars right now and a blue verified badge on Twitter if they change their name to Philippenis,” Musk xed on [Twitter](/tags/twitter/). "All for the lolz!"
 

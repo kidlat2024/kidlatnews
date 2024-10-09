@@ -6,9 +6,9 @@ description: ""
 author: ["Raul Kidlat"]
 date: 2023-11-11
 display_license: true
-attribution: "[1972 Honda CB750](/images/1972-honda-cb750.jpg) photo by [Steve Glover](https://www.flickr.com/photos/sg2012/46536377034) ([CC BY 2.0](https://creativecommons.org/licenses/by/2.0/))."
+attribution: "[1972 Honda CB750](/images/1972-honda-cb750.gif) photo by [Steve Glover](https://www.flickr.com/photos/sg2012/46536377034) ([CC BY 2.0](https://creativecommons.org/licenses/by/2.0/))."
 images:
-- /images/1972-honda-cb750.jpg
+- /images/1972-honda-cb750.gif
 tags:
 - Philippine news satire
 - Migrant worker
@@ -27,7 +27,7 @@ He remembered phoning his brother from [Taiwan](/tags/taiwan/) to confirm the ru
 
 He had come home unexpectedly, and now before his eyes was his 1972 [Honda](/tags/honda/) [CB750](/tags/cb750/), a beautiful air-cooled, four-cylinder work of mechanical wonder. Her luscious curves would make a hardened man weak at the knees. She was the love of his life.
 
-[`Photo: Fillarca’s beloved 1972 Honda CB750`](/images/1972-honda-cb750.jpg)
+[`Photo: Fillarca’s beloved 1972 Honda CB750`](/images/1972-honda-cb750.gif)
 
 He had imagined spending the rest his life together with her, but now he wasn't so sure anymore.
 

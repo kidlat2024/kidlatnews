@@ -6,9 +6,9 @@ description: ""
 author: ["Raul Kidlat"]
 date: 2024-02-24
 display_license: true
-attribution: "[San Pedro Cathedral Davao City](/images/san-pedro-cathedral-davao-city.jpg) photo from [Wikimedia](https://commons.wikimedia.org/wiki/File:San_Pedro_Cathedal_and_its_Belfry.jpg) ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en))."
+attribution: "[San Pedro Cathedral Davao City](/images/san-pedro-cathedral-davao-city.gif) photo from [Wikimedia](https://commons.wikimedia.org/wiki/File:San_Pedro_Cathedal_and_its_Belfry.jpg) ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en))."
 images:
-- /images/san-pedro-cathedral-davao-city.jpg
+- /images/san-pedro-cathedral-davao-city.gif
 tags:
 - Philippine news satire
 - War on Drugs
@@ -25,7 +25,7 @@ kudlit: ‘single’ “double” piña
 
 "As a [Roman Catholic](/tags/roman-catholic/) I don't really favor any side in this conflict," tweeted Esteban, "but my heart goes out to all the innocent civilians--both Israelis and Palestinians--lost in this totally unnecessary bloodshed. I go to church every Sunday and pray that the war would end soon."
 
-[`Photo: San Pedro Cathedral in Davao City, where Esteban prays for the end of the Middle East conflict`](/images/san-pedro-cathedral-davao-city.jpg
+[`Photo: San Pedro Cathedral in Davao City, where Esteban prays for the end of the Middle East conflict`](/images/san-pedro-cathedral-davao-city.gif
 )
 
 A proud [Davao](/tags/davao/) native and [Diehard Duterte Supporter](/tags/diehard-duterte-supporter/) ([DDS](/tags/dds/)), Esteban loudly applauded the former president's [War on Drugs](/tags/war-on-drugs/) even as human rights violations mounted and innocent people were increasingly getting killed.

@@ -7,9 +7,9 @@ author: ["Leon Kidlat"]
 xurl: https://twitter.com/kidlatnews2024/status/1758812007799877832
 date: 2024-02-17
 display_license: true
-attribution: "President Ferdinand R. Marcos Jr. leads the oathtaking of Mr. Larry Gadon as Presidential Adviser for Poverty Alleviation [photo](/images/larry-gadon-with-president-bongbong-marcos.jpg) from [Wikimedia](https://commons.wikimedia.org/wiki/File:20230710_-_PBBM_Gadon_Presidential_Adviser_for_Poverty_Alleviation_oathtaking.jpg) (Public Domain)."
+attribution: "President Ferdinand R. Marcos Jr. leads the oathtaking of Mr. Larry Gadon as Presidential Adviser for Poverty Alleviation [photo](/images/larry-gadon-with-president-bongbong-marcos.gif) from [Wikimedia](https://commons.wikimedia.org/wiki/File:20230710_-_PBBM_Gadon_Presidential_Adviser_for_Poverty_Alleviation_oathtaking.jpg) (Public Domain)."
 images:
-- /images/larry-gadon-with-president-bongbong-marcos.jpg
+- /images/larry-gadon-with-president-bongbong-marcos.gif
 tags:
 - Larry Gadon
 - Poverty
@@ -26,7 +26,7 @@ kudlit: ‘single’ “double” Biñan
 
 As part of his country-wide tour for [poverty](/tags/poverty/) alleviation, Larry Gadon gave a rousing speech Saturday inside a packed community center in [Tondo](/tags/tondo/), [Manila](/tags/manila/) in which he urged his audience of slum dwellers to lose their "victim mentality" and escape poverty by "manifesting a richer life."
 
-[`Photo: President Marcos swears in Anti-Poverty Czar and motivational speaker Larry Gadon`](/images/larry-gadon-with-president-bongbong-marcos.jpg)
+[`Photo: President Marcos swears in Anti-Poverty Czar and motivational speaker Larry Gadon`](/images/larry-gadon-with-president-bongbong-marcos.gif)
 
 "Being poor is the mindset of a loser," said the [Oriental Mindoro](/tags/oriental-mindoro/) politician who lost all three of his senatorial bids in the 2016, 2019 and 2022 elections. "It's all in the mind. You can end this state of misery you're in right now by having a positive outlook and planning your path to happiness. That means manifesting a richer life and just stop being poor."
 

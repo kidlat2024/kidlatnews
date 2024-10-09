@@ -6,9 +6,9 @@ description: ""
 author: ["Raul Kidlat"]
 date: 2024-02-09
 display_license: true
-attribution: "[Aquilino “Koko” Pimentel III photo](/images/senator-aquilino-koko-pimentel-iii-pcso.jpg) from [Wikimedia](https://commons.wikimedia.org/wiki/File:Koko_Pimentel.jpg) (Public Domain), PCSO promo graphic from [PCSO Facebook Page](https://www.facebook.com/photo.php?fbid=687231836922355&set=pb.100069066345193.-2207520000&type=3) (Public Domain)."
+attribution: "[Aquilino “Koko” Pimentel III photo](/images/senator-aquilino-koko-pimentel-iii-pcso.gif) from [Wikimedia](https://commons.wikimedia.org/wiki/File:Koko_Pimentel.jpg) (Public Domain), PCSO promo graphic from [PCSO Facebook Page](https://www.facebook.com/photo.php?fbid=687231836922355&set=pb.100069066345193.-2207520000&type=3) (Public Domain)."
 images:
-- /images/senator-aquilino-koko-pimentel-iii-pcso.jpg
+- /images/senator-aquilino-koko-pimentel-iii-pcso.gif
 tags:
 - Philippine news satire
 - Philippines
@@ -28,7 +28,7 @@ The winning number was 02-04-06-08-10-12.
 
 Senator Pimentel, who has no recollection of ever buying a lotto ticket, called the win "an unexpected but pleasant surprise."
 
-[`Photo: Extremely lucky Senator Koko Pimentel wins PCSO draw`](/images/senator-aquilino-koko-pimentel-iii-pcso.jpg)
+[`Photo: Extremely lucky Senator Koko Pimentel wins PCSO draw`](/images/senator-aquilino-koko-pimentel-iii-pcso.gif)
 
 "Frankly, I have always thought that winning the lotto was only true in fairy tales," Pimentel told a reporter in an interview.  "Meant for someone else but not for me. So I was skeptical when my secretary texted me to say I won. And then I saw her face."
 
