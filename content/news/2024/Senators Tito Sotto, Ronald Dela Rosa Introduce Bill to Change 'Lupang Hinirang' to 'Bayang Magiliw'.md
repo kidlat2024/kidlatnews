@@ -10,7 +10,7 @@ xurl: https://x.com/kidlatnews2024
 display_license: true
 attribution: "Senators [Tito Sotto](https://commons.wikimedia.org/wiki/File:Tito_Sotto_III_(cropped).jpg) and [Ronald dela Rosa](https://commons.wikimedia.org/wiki/File:Ronald_dela_Rosa_073116.jpg) from Wikimedia."
 images:
-- /images/senator-tito-sotto-ronald-dela-rosa.jpg
+- /images/senator-tito-sotto-ronald-dela-rosa.gif
 tags:
 - Tito Sotto
 - Ronald dela Rosa
@@ -22,7 +22,7 @@ kudlit: ‘single’ “double”
 
 The two senators introduced a bill on Tuesday that would legally change the name of the Philippine national anthem from Lupang Hinirang (Chosen Land) to Bayang Magiliw (Beloved Country). "Bayang Magiliw" are the first two words of the marching song that is massacred by schoolchildren throughout the country at the flag ceremony every morning.
 
-[`Photo: Senators Tito Sotto and Ronald dela Rosa`](/images/senator-tito-sotto-ronald-dela-rosa.jpg)
+[`Photo: Senators Tito Sotto and Ronald dela Rosa`](/images/senator-tito-sotto-ronald-dela-rosa.gif)
 
 "Four score and seven years ago our national heroes brought forth on this continent, a new nation," continued [Senator Sotto](/tags/tito-sotto),  "Conceived in Liberty, and dedicated to the proposition that all men are created equal. But one of them clearly messed up the title of the national anthem when it was translated into Tagalog from the original Spanish. That guy should have been shot together with Bonifacio."
 
