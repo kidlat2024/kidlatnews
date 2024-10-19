@@ -43,7 +43,7 @@ Researchers have long believed that the Aswangs’ nocturnal nature, aversion to
 
 The Spanish colonizers of the Philippines have recorded numerous reports from locals of Aswang sightings in remote parts of Panay Island since the 1600s but these have not been fully substantiated. In many instances the reports portray the Aswangs as vampire-like creatures, sucking the blood and entrails of animals and other human beings with their long proboscis-like tongues.
 
-[`Illustration: Aswang (Homo aswangis) artist reconstruction `](/images/homo-aswangis-aswang-university-of-the-philippines-los-banos.gif)
+[`Illustration: Artist reconstruction from canine and bone fragments of an Aswang (Homo aswangis) in the forest of Panay Island`](/images/homo-aswangis-aswang-university-of-the-philippines-los-banos.gif)
 
 However, according to Professor Dela Cruz, even if the stories were true, these stragglers could not have survived for very long as Aswangs were reportedly easily weakened or killed by holy water and crucifixes brought to the islands by the Christian colonizers.
 
