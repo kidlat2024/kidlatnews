@@ -31,7 +31,7 @@ kudlit: ‘single’ “double” eñe
 ---
 (Los Baños, Laguna) -- 78 percent of residents of Panay Island in the provinces of [Aklan](/tags/aklan), [Antique](/tags/antique), [Capiz](/tags/capiz) and [Iloilo](/tags/iloilo) have Aswang DNA, according to a recent study by researchers from the [University of the Philippines](/tags/university-of-the-philippines) in [Los Baños](/tags/university-of-the-philippines-los-baños) entitled "DNA Sequencing and Analysis of Panay Island Population" and published in the latest issue of *Nature*.
 
-The latest study was made possible after the first sequencing of complete Aswang DNA was performed by a team from [Ateneo de Manila University](/tags/ateneo-university) in 2008.
+The latest study was made possible after a team from [Ateneo de Manila University](/tags/ateneo-university) conducted the first complete Aswang genome sequencing in 2008.
 
 The [Aswangs](/tags/aswang) (*Homo aswangis*) are an extinct group of archaic humans who lived in the island of Panay until about 20,000 years ago. Possibly related to *Homo luzonensis*, their remains--canine teeth and bone fragments--were discovered in 1977 in Langub Cave in Dumalag, Capiz.
 
