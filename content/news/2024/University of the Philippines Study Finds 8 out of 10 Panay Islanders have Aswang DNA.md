@@ -47,6 +47,6 @@ The Spanish colonizers of the Philippines have recorded numerous reports from lo
 
 However, according to Professor Dela Cruz, even if the stories were true, these stragglers could not have survived for very long as Aswangs were reportedly easily weakened or killed by holy water and crucifixes brought to the islands by the Christian colonizers.
 
-An interesting result of the study also reveals that members of families of political dynasties on the island that belong to the highest socioeconomic class have an especially high percentage--as much as 20 percent--of Aswang DNA compared to the local population.
+An interesting result of the study also reveals that members of families of political dynasties on the island that belong to the highest socioeconomic class have an exceptionally high percentage--as much as 20 percent--of Aswang DNA compared to the local population.
 
-Professor Dela Cruz surmise that this finding reflects the propensity of politicians and other affluent landowners in Panay Island to suck their constituents dry, much like their ancient ancestors with whom they share a large portion of their DNA.
+The cause of this is presently unknown and may be a subject of further research, but Professor Dela Cruz surmises that this finding reflects the propensity of politicians and other affluent landowners in Panay Island to suck their constituents dry, much like their ancient ancestors with whom they share a large portion of their DNA.
