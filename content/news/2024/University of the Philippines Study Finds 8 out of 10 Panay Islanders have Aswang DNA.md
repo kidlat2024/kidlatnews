@@ -35,7 +35,7 @@ The latest study was made possible after a team from [Ateneo de Manila Universit
 
 The [Aswangs](/tags/aswang) (*Homo aswangis*) are an extinct group of archaic humans who lived in the island of Panay until about 20,000 years ago. Possibly related to *Homo luzonensis*, their remains--canine teeth and bone fragments--were discovered in 1977 in Langub Cave in Dumalag, Capiz.
 
-"Scientists broadly agree that after the arrival of modern humans to [Panay Island](/tags/panay-island) some 40,000 to 50,000 years ago, *Homo aswangis* and modern humans continued to co-exist for thousands of years," said lead researcher Margie dela Cruz, professor of anthropology at UP Los Baños.
+"Scientists broadly agree that after the arrival of modern humans to the Philippine archipelago some 40,000 to 50,000 years ago, *Homo aswangis* and modern humans continued to co-exist for thousands of years in [Panay Island](/tags/panay-island)," said lead researcher Margie dela Cruz, professor of anthropology at UP Los Baños.
 
 >"The Aswangs were eventually displaced and became extinct, but not before interbreeding with the modern [Austronesian](/tags/austronesian) humans who spoke proto-[Hiligaynon](/tags/hiligaynon) and whose descendants now inhabit the islands. Our study shows that Austronesian-Aswang interbreeding in Panay Island was fairly common as reflected in the DNA of its modern inhabitants."
 
