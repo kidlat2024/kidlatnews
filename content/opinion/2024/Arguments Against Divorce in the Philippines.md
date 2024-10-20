@@ -3,7 +3,7 @@ draft: false
 content_type: NewsArticle
 title: "Arguments Against Divorce in the Philippines"
 description: ""
-author: ["Raul Kidlat"]
+author: ["Katherine Kidlat"]
 date: 2024-10-20
 aliases:
 xurl: https://x.com/kidlatnews2024
