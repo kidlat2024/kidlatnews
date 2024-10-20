@@ -17,13 +17,13 @@ tags:
 - Gender equality
 kudlit: ‘single’ “double” eñe
 ---
-Making a divorce law in the Philippines is a monumentally bad idea. Here's why:
+Crafting a divorce law in the Philippines is a monumentally bad idea. Here's why:
 
-- We will lose our status as "The Only Country Besides the Vatican Where Divorce is Illegal". Think about that for a second before you babble about gender equality and all that nonsense.
+- We will lose our status as "The Only Country Besides the Vatican Where Divorce is Illegal." Think about that for a second before you babble about gender equality and all that nonsense.
 
 - You're not a Muslim, are you?
 
-- Just go and visit the doctor to cover up your bruises from last night's fight. It's so much cheaper (not to mention quicker) than going through a divorce.
+- Just go and see the doctor to cover up those bruises from last night's fight. It's so much cheaper (not to mention quicker) than going through a divorce.
 
 - Women are their husbands’ property, like his oxen and donkeys. I bet you didn't know that, did you? Ignorance is no excuse; read up on the Bible and educate yourself.
 
