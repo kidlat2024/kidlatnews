@@ -1,7 +1,7 @@
 ---
 draft: false
 content_type: NewsArticle
-title: "Arguments Against Divorce in the Philippines"
+title: "We Don't Need a Divorce Law in the Philippines"
 description: ""
 author: ["Katherine Kidlat"]
 date: 2024-10-20
