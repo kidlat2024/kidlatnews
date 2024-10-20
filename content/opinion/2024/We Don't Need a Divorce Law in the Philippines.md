@@ -25,10 +25,10 @@ Crafting a divorce law in the Philippines is a monumentally bad idea. Here's why
 
 - Just go and see the doctor to cover up those bruises from last night's fight. It's so much cheaper (not to mention quicker) than going through a divorce.
 
-- You are your husband's property, like his oxen and donkeys. I bet you didn't know that, did you? Ignorance is no excuse; read up on the Bible and educate yourself.
+- You are your husband's property, like his oxen and donkeys. You didn't know that, did you? Ignorance is no excuse; read up on the Bible and educate yourself.
 
-- That guy at work you think you could hook up with after you divorce your husband? I bet he's a bigger asshole that your current one.
+- That guy at work you think you could hook up with after you divorce your husband? I bet he's a bigger asshole that your current spouse.
 
 - Have you tried marriage counseling? Confessing your sins? Putting a portrait of Jesus in your bedroom?
 
-- You're just a selfish bitch.
+- Maybe you're just a selfish bitch.
