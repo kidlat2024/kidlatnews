@@ -25,7 +25,7 @@ Crafting a divorce law in the Philippines is a monumentally bad idea. Here's why
 
 - Just go and see the doctor to cover up those bruises from last night's fight. It's so much cheaper (not to mention quicker) than going through a divorce.
 
-- Women are their husbands’ property, like his oxen and donkeys. I bet you didn't know that, did you? Ignorance is no excuse; read up on the Bible and educate yourself.
+- You are your husband's property, like his oxen and donkeys. I bet you didn't know that, did you? Ignorance is no excuse; read up on the Bible and educate yourself.
 
 - That guy at work you think you could hook up with after you divorce your husband? I bet he's a bigger asshole that your current one.
 
