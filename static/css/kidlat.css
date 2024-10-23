@@ -1,7 +1,7 @@
 /* CONTAINERS */
 html, body {
     font-size:16px;
-    font-family:Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif;
+    font-family:'IBM Plex Sans Condensed',Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif;
     background-color: #fff3ea;
     margin:0 auto;
     padding:0 5px;
@@ -41,17 +41,17 @@ footer a {text-decoration:none; color:#000}
 
 /* PARAGRAPHS, HEADINGS, LINKS */
 p {
-    font-size:1.2rem;
+    font-size:1.3rem;
     font-family:Georgia,Times,'Times New Roman',serif;
     line-height:1.57;
     margin:0 0 1.5rem;
 }
 p a:hover {text-decoration:underline}
-h1        {font-size:2.2rem; margin:0 0 1.5rem}
-h2        {font-size:1.8rem}
-h3        {font-size:1.5rem}
+h1        {font-size:2.6rem; margin:0 0 1.5rem}
+h2        {font-size:2.13rem}
+h3        {font-size:1.77rem}
 h3 a      {color:#d228ad}
-h4        {font-size:1.35rem}
+h4        {font-size:1.59rem}
 h1,h2,h4  {font-weight:800;line-height:1.13; letter-spacing:-0.037rem}
 h4        {margin-bottom:0.5rem}
 .related  {color:#7c7777}
@@ -67,15 +67,15 @@ ul, ol {
 li {margin:0;font-size:1.3rem}
 
 .line ul {
-    font-size:1.5rem;
-    font-family:Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif;
+    font-size:1.77rem;
+    font-family:'IBM Plex Sans Condensed',Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif;
     line-height:1.15;
     margin:1rem 0 0;
     padding-left:0;
     list-style-type:none;
 }
 .line li {
-    font-size:1.4rem;
+    font-size:1.65rem;
     padding:.7rem 0 .8rem;
     border-top:1px solid #ddd;
     margin:0;
@@ -87,7 +87,7 @@ li {margin:0;font-size:1.3rem}
 .line li a:hover           {text-decoration:underline}
 .line li:nth-child(10n+1) {
 	letter-spacing:-0.037rem;
-    font-size:1.8rem;
+    font-size:2.13rem;
     font-weight:800;
     line-height:1.13;
 }
@@ -102,15 +102,15 @@ li {margin:0;font-size:1.3rem}
 .line li:nth-child(7) {font-weight:800}
 
 .related ul {
-    font-size:1.5rem;
-    font-family:Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif;
+    font-size:1.77rem;
+    font-family:'IBM Plex Sans Condensed',Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif;
     line-height:1.15;
     margin:1rem 0 0;
     padding-left:0;
     list-style-type:none;
 }
 .related li {
-    font-size:1.4rem;
+    font-size:1.65rem;
     padding:.7rem 0 .8rem;
     border-top:1px solid #ddd;
     margin:0;
@@ -132,8 +132,8 @@ tags ul {
     padding-left:0;
 }
 tags li {
-    font-size:.9rem;
-    font-family:Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif;
+    font-size:1.06rem;
+    font-family:'IBM Plex Sans Condensed',Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif;
     margin:0 .5rem .5rem 0;
     padding:0 .4rem .1rem;
     border:none;
@@ -144,11 +144,11 @@ tags li a {text-decoration:none; color:#666}
 
 /* BLOCKQUOTE, ASIDE, PRE, CODE */
 blockquote {
-    margin:2rem 0;
+	margin:2rem 0;
 }
 blockquote p {
     font-family:inherit;
-    font-size:1.4rem;
+    font-size:1.89rem;
     font-weight:800;
     line-height:1.5;
     color:#d00a0a;
@@ -175,7 +175,7 @@ code {
 code a {color:#ff54b5}
 code a:hover {text-decoration:underline}
 article code {
-    display: inline;
+    display: block;
     margin: 2rem 0;
     line-height: 1.42;
 }
@@ -207,7 +207,7 @@ details p {
   padding: .5rem .8rem;
   border-radius: .3rem;
   margin: 1rem 0 .5rem;
-  font-family: Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif;
+  font-family: 'IBM Plex Sans Condensed',Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif;
   font-size: 1.2rem;
   line-height: 1.3;
 }
@@ -237,20 +237,20 @@ th                         {background-color:#484b4f}
 /* MOBILE SCREEN */
 @media screen and (max-width: 550px) {
 header                     {margin:0 0 1.5rem}
-h1                         {font-size:1.86rem; margin:0 0 1rem}
-h2                         {font-size:1.51rem}
-h3, description            {font-size:1.36rem}
-h4, p, li, .sitename a     {font-size:1.2rem}
+h1                         {font-size:2.20rem; margin:0 0 1rem}
+h2                         {font-size:1.78rem}
+h3, description            {font-size:1.61rem}
+h4, p, li, .sitename a     {font-size:1.42rem}
 description                {margin:1rem 0}
-.postmeta, code, th, td    {font-size:0.93rem}
-.line ul                   {font-size:1.26rem}
-.line li                   {font-size:1.26rem}
-.line li:nth-child(1)      {font-size:1.52rem}
-.line li:nth-child(10n+11) {font-size:1.52rem}
-tags li, .license          {font-size:0.75rem}
-footer                     {font-size:0.93rem; padding:.5rem 0}
+.postmeta, code, th, td    {font-size:1.10rem}
+.line ul                   {font-size:1.49rem}
+.line li                   {font-size:1.49rem}
+.line li:nth-child(1)      {font-size:1.79rem}
+.line li:nth-child(10n+11) {font-size:1.79rem}
+tags li, .license          {font-size:0.89rem}
+footer                     {font-size:1.10rem; padding:.5rem 0}
 p                          {margin:0 0 1rem}
 blockquote                 {margin:1.5rem 0}
-blockquote p               {font-size:1.36rem}
+blockquote p               {font-size:1.61rem}
 .license                   {margin:0 0 1.5rem}
 }
