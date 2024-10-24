@@ -221,9 +221,9 @@ h1, h2, h3                 {color:#ffde00}
 h3 a                       {color:#f27ad8}
 .related                   {color:#e266ce}
 .line li, .related li      {border-top:1px solid #5F6674}
-.line li:nth-child(10n+1) a{color:#1aaef2}
+.line li:nth-child(10n+1) a{color:#ffde00}
 .line li:nth-child(10n+11) {border-top:1px solid #5F6674}
-.line li:nth-child(7) a    {color:#1aaef2}
+.line li:nth-child(7) a    {color:#ffde00}
 .line li a, .related li a  {color:#DBE0EA}
 tags li                    {background-color:#111}
 footer                     {border-top:1px solid #5F6674;color:#5F6674}
