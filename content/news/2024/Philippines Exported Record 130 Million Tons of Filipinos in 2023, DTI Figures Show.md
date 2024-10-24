@@ -22,15 +22,15 @@ kudlit: ‘single’ “double” eñe
 ---
 (Makati City) -- According to the latest statistics from the [Department of Trade and Industry](/tags/department-of-trade-and-industry) (DTI), the Philippines exported a record 129,600,000 tons of Filipinos in 2023, roughly equivalent to 2,160,000 individuals (at 60kg/individual), generating a total of PhP 239 billion in revenue.
 
-Filipinos remain by far the Philippines top export, followed by electrical machinery and equipment (including computers), ores and metals, and fruits and nuts.
+[Filipinos](/tags/filipinos) remain by far the Philippines top export, followed by electrical machinery and equipment (including computers), ores and metals, and fruits and nuts.
 
-"The Philippines continues to lead the world in the export of high-grade [Filipinos](/tags/filipinos)," said DTI Secretary Ma. Cristina Roque. "No other country comes close."
+"The Philippines continues to lead the world in the export of high-grade Filipinos," said DTI Secretary Ma. Cristina Roque. "No other country comes close."
 
->"By leveraging our strengths as a nation in the fields of childbearing and English education, we will continue to be able to answer the worldwide demand for highly skilled, competitively priced Filipinos."
+>"By leveraging our strengths as a nation in the fields of childbearing and English education, we will continue to be able to satisfy the worldwide demand for highly skilled, competitively priced Filipinos."
 
 Of the total volume of exported Filipinos, 72 million tons (roughly 1.2 million individuals) were of the female variety, and the remaining 57.6 million tons (about 960,000 individuals) were of the male variety.
 
-[`Figure: Export of Filipinos worldwide and in Asia`](/images/2023-export-of-filipinos-worldwide-asia.png)
+[`Figure: Export of Filipinos worldwide and in Asia in 2023`](/images/2023-export-of-filipinos-worldwide-asia.png)
 
 By region, the leading export destinations of Filipinos are Asia (77.4%), North and South America (9.8%) and Europe (8.4%).
 
