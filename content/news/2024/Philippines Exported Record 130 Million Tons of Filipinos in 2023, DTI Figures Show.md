@@ -36,4 +36,4 @@ The leading export destinations of Filipinos are Asia (77.4%), North and South A
 
 Among Asian countries, [Saudi Arabia](/tags/saudi-arabia) imported the largest volume of Filipinos at  25.9 million tons, accounting for 20 percent of the total, followed by [United Arab Emirates](/tags/united-arab-emirates) (17.6 million tons) and [Kuwait](/tags/kuwait) (8.4 million tons).
 
-Despite rosy projections by Secretary Roque, however, the Philippines still has a large inventory of idle Filipinos carried over from the Covid pandemic, when worldwide trade in Filipinos fell. Unsubstantiated reports suggest the country is seeking to offload them at discounted prices to either Russia or North Korea, although Roque denies the DTI has those plans in the pipeline.
+Despite rosy projections by Secretary Roque, however, the Philippines still has a large inventory of idle Filipinos carried over from the Covid pandemic, when worldwide trade in Filipinos fell. Unsubstantiated reports suggest the country is seeking to offload its excess stock at discounted prices to either Russia or North Korea, although Roque denies the DTI has those plans in the pipeline.
