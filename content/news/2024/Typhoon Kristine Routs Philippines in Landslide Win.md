@@ -24,7 +24,7 @@ kudlit: ‘single’ “double” eñe
 ---
 (Manila, Philippines) -- Despite hopeful expectations from Filipino spectators that the Philippines would come out of this match with a vital draw, severe tropical storm Kristine's offensive combination of gale-force winds and torrential rain proved too devastating, resulting in a landslide win for the away team.
 
-The Philippines’ score against typhoons now stands at a depressing 0 Win, 4 Draws, and 217 losses, with a total of 221 matches played since 1998 when [PAGASA](/tags/philippine-atmospheric-geophysical-and-astronomical-services-administration) first started tabulating scores.
+The Philippines’ score against typhoons now stands at a depressing 0 Wins, 4 Draws, and 217 Losses, with a total of 221 matches played since 1998 when [PAGASA](/tags/philippine-atmospheric-geophysical-and-astronomical-services-administration) first started tabulating scores.
 
 Attracting little attention when it emerged in a low-pressure area in the [Philippine Sea](/tags/philippine-sea) west of Guam on October 19, [Typhoon Kristine](/tags/typhoon-kristine) first drew concern from  PAGASA when it entered the Philippines’ area of responsibility as a tropical depression two days later to challenge the island nation to a match.
 
