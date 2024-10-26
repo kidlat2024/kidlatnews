@@ -1,7 +1,7 @@
 ---
 draft: false
 content_type: NewsArticle
-title: "Typhoon Kristine Buries Philippines in Landslide Win"
+title: "Typhoon Kristine Routs Philippines in Landslide Win"
 description: ""
 author: ["Leon Kidlat"]
 date: 2024-10-26
@@ -34,7 +34,7 @@ Lacking any meaningful offensive power against typhoons, the Team Philippines’
 
 However, aided by a warming Pacific Ocean caused by climate change, by October 23 Kristine had developed into a severe tropical cyclone which threatened the archipelago with fierce winds, powerful storm surges and record rainfall.
 
->After initial probing feints along Luzon's eastern coastal areas, Kristine finally broke through the lightly defended province of [Isabela](/tags/isabela) in northern Luzon, later overwhelming further resistance with its furious winds and heavy rainfall bringing destruction and floods throughout the archipelago.
+>After initial probing feints along Luzon's eastern flank, Kristine finally broke through the lightly defended province of [Isabela](/tags/isabela) in northern Luzon, later overwhelming further resistance throughout the archipelago with its furious winds and heavy rainfall bringing destruction and floods.
 
 Team Philippines’ manager [Bongbong Marcos](/tags/ferdinand-marcos-jr) cut a lonely figure when he admitted defeat early on the first hours of the match saying he felt "a little helpless" in the face of Kristine's unstoppable onslaught.
 
@@ -42,12 +42,12 @@ By then, much of the Philippines’ defenses have already capitulated, beaten do
 
 [`Photo: Flooded rice fields in Naga, Camarines Sur`](/images/flooded-rice-fields-naga-camarines-sur.jpg)
 
-On the morning of October 24, Kristine and its entourage finally left the defeated nation after a 24-hour rampage that left dozens dead, millions displaced and billions of pesos in damage.
+On the morning of October 24, Kristine and its entourage finally left the defeated nation after a 24-hour rampage that left dozens dead, millions more displaced and billions of pesos in damage.
 
-The painful loss exposed yet again Team Philippines’ inadequacies against its perennial adversaries.
+The painful loss exposed yet again Team Philippines’ inadequacies against its perennial adversary, its costly defensive errors proving decisive despite its home field advantage. It also calls into question whether Marcos is the right manager to lead the team out of its seemingly permanent rut.
 
-Despite earlier promises to strengthen its defense, the country's flood-control measures were nowhere to be found, despite billions of pesos allotted for their budget. Continued deforestation not only in Sierra Madre but throughout the archipelago had also weakened the already fragile defenses against rain and flooding.
+Despite earlier promises to strengthen its defense, the country's flood-control measures were nowhere to be found, despite billions of pesos allotted for their budget. Continued [deforestation](https://kidl.at/news/philippine-senator-ronald-dela-rosa-declares-trees-communist-sympathizers-calls-for-complete-deforestation-of-mountains/) not only in Sierra Madre but throughout the archipelago had also weakened the already fragile defenses against rain and flooding.
 
-Pundits agree, however, that sacking the manager would probably change little in the long run, and that the team's problems are structural, requiring painful restructuring and decades-long investments in expensive defense and flood-control mechanisms.
+Despite his obvious faults, however, pundits agree that sacking Marcos would probably matter little in the long run, and that the team's problems are structural, requiring painful reforms and decades-long investments in expensive defense and flood-control mechanisms.
 
-But after yet another devastating loss--47th in a row--supporters who are still drenched in rain have began to wonder when enough is enough.
+But after yet another devastating loss--47th in a row--supporters, many still drenched in rain, have began to wonder when enough is enough.
