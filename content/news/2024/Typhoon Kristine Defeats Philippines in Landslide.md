@@ -40,7 +40,7 @@ Team Philippines’ manager [Bongbong Marcos](/tags/ferdinand-marcos-jr) cut a l
 
 By then, much of the Philippines’ defense have already capitulated, beaten down by furious winds and flooded by up to 3 meters of water in many places.
 
-[`Photo: Flooded rice fields in Naga, Camarines Sur`](/image/flooded-rice-fields-naga-camarines-sur.jpg)
+[`Photo: Flooded rice fields in Naga, Camarines Sur`](/images/flooded-rice-fields-naga-camarines-sur.jpg)
 
 On the morning of October 24, Kristine finally left the defeated nation after a 24-hour rampage that left dozens dead, millions displaced and billions of pesos in damage.
 
