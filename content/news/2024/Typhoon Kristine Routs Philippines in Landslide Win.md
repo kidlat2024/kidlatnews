@@ -20,6 +20,7 @@ tags:
 - Ferdinand Marcos Jr.
 - Philippine Sea
 - Isabela
+- Team Philippines
 kudlit: ‘single’ “double” eñe
 ---
 (Manila, Philippines) -- Despite hopeful expectations from Filipino spectators that the Philippines would come out of this match with a vital draw, severe tropical storm Kristine's offensive combination of gale-force winds and torrential rain proved too devastating, resulting in a landslide win for the away team.
@@ -34,9 +35,9 @@ Lacking any meaningful offensive power against weather phenomena, the Team Phili
 
 However, aided by a warming Pacific Ocean caused by climate change, by October 23 Kristine had morphed into a severe tropical cyclone which threatened the archipelago with fierce winds, powerful storm surges and record rainfall.
 
->After initial probing feints along Luzon's eastern flank, Kristine finally broke through the lightly defended province of [Isabela](/tags/isabela) in northern Luzon, and later overwhelmed token resistance throughout the archipelago with its furious winds and heavy rainfall bringing destruction and floods.
+>After initial probing feints along Luzon's eastern flank, Kristine finally broke through the lightly defended province of [Isabela](/tags/isabela) in northern Luzon, and later overwhelmed token resistance throughout the archipelago with its furious winds and heavy rainfall bringing widespread destruction and flooding.
 
-Team Philippines’ manager [Bongbong Marcos](/tags/ferdinand-marcos-jr) cut a lonely figure when he admitted defeat early on the first hours of the match saying he felt "a little helpless" in the face of Kristine's unstoppable onslaught.
+Team Philippines’ manager [Bongbong Marcos](/tags/ferdinand-marcos-jr) cut a lonely figure when he admitted defeat early on during the first hours of the match saying he felt "a little helpless" in the face of Kristine's unstoppable onslaught.
 
 By then, much of the Philippines’ defenses have already capitulated, beaten down by 110kmh winds and flooded by up to 3 meters of water in many places.
 
@@ -50,4 +51,4 @@ Notwithstanding earlier promises to strengthen its defense, the country's flood-
 
 Despite his obvious faults, however, pundits agree that sacking Marcos would probably matter little in the long run, and that the team's problems are structural, requiring painful reforms and decades-long investments in expensive defense and flood-control mechanisms.
 
-But after yet another devastating loss--47th in a row--supporters, many still drenched in rain, have began to wonder when enough is enough.
+But after yet another devastating loss--47th in a row--even ardent supporters, many still drenched in rain, have begun to wonder when enough is enough.
