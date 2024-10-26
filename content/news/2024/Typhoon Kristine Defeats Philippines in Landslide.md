@@ -19,6 +19,7 @@ tags:
 - Sierra Madre
 - Ferdinand Marcos Jr.
 - Philippine Sea
+- Isabela
 kudlit: ‘single’ “double” eñe
 ---
 (Manila, Philippines) -- Despite initial hopeful expectations from Filipino spectators that the country would come out of this match with a vital draw, severe tropical storm Kristine's offensive prowess proved too irresistible and destroyed hapless Philippines in a devastating landslide win.
@@ -33,13 +34,13 @@ The Philippines’ defense relies heavily on its much vaunted [Sierra Madre](/ta
 
 However, aided by a warming Pacific Ocean caused by climate change, by October 23 Kristine had developed into a severe tropical cyclone which threatened the archipelago with fierce winds, powerful storm surges and record rainfall.
 
->After initial probing feints along Luzon's eastern coastal areas, Kristine finally broke through the lightly defended province of Isabela in northern Luzon, later overwhelming further resistance with its 110km/h winds and heavy rainfall bringing floods and destruction throughout the archipelago.
+>After initial probing feints along Luzon's eastern coastal areas, Kristine finally broke through the lightly defended province of [Isabela](/tags/isabela) in northern Luzon, later overwhelming further resistance with its 110km/h winds and heavy rainfall bringing floods and destruction throughout the archipelago.
 
 Team Philippines’ manager [Bongbong Marcos](/tags/ferdinand-marcos-jr) cut a lonely figure when he admitted defeat early on the first hours of the match saying he felt "a little helpless" in the face of Kristine's unstoppable onslaught.
 
 By then, much of the Philippines’ defense have already capitulated, beaten down by furious winds and flooded by up to 3 meters of water in many places.
 
-[Photo: Flooded rice fields in Naga, Camarines Sur](/image/flooded-rice-fields-naga-camarines-sur.jpg)
+[`Photo: Flooded rice fields in Naga, Camarines Sur`](/image/flooded-rice-fields-naga-camarines-sur.jpg)
 
 On the morning of October 24, Kristine finally left the defeated nation after a 24-hour rampage that left dozens dead, millions displaced and billions of pesos in damage.
 
