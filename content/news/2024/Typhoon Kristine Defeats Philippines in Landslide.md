@@ -1,7 +1,7 @@
 ---
 draft: false
 content_type: NewsArticle
-title: "Typhoon Kristine Defeats Philippines in Landslide"
+title: "Typhoon Kristine Buries Philippines in Landslide Win"
 description: ""
 author: ["Leon Kidlat"]
 date: 2024-10-26
@@ -22,30 +22,32 @@ tags:
 - Isabela
 kudlit: ‘single’ “double” eñe
 ---
-(Manila, Philippines) -- Despite initial hopeful expectations from Filipino spectators that the country would come out of this match with a vital draw, severe tropical storm Kristine's offensive prowess proved too irresistible and destroyed hapless Philippines in a devastating landslide win.
+(Manila, Philippines) -- Despite hopeful expectations from Filipino spectators that the Philippines would come out of this match with a vital draw, severe tropical storm Kristine's offensive combination of gale-force winds and torrential rain proved too devastating, resulting in a landslide win for the away team.
 
-The Philippines’ score against typhoons now stands at a depressing 0 Win, 4 Draws, 217 losses, with a total of 221 matches played since 1998 when [PAGASA](/tags/philippine-atmospheric-geophysical-and-astronomical-services-administration) first started recording scores.
+The Philippines’ score against typhoons now stands at a depressing 0 Win, 4 Draws, 217 losses, with a total of 221 matches played since 1998 when [PAGASA](/tags/philippine-atmospheric-geophysical-and-astronomical-services-administration) first started tabulating scores.
 
-Attracting little attention when it emerged in a low-pressure area in the [Philippine Sea](/tags/philippine-sea) west of Guam on October 19, [Typhoon Kristine](/tags/typhoon-kristine) first drew concern from  PAGASA when it entered the Philippines’ area of responsibility as a tropical depression two days later and challenged the island nation to a match.
+Attracting little attention when it emerged in a low-pressure area in the [Philippine Sea](/tags/philippine-sea) west of Guam on October 19, [Typhoon Kristine](/tags/typhoon-kristine) first drew concern from  PAGASA when it entered the Philippines’ area of responsibility as a tropical depression two days later to challenge the island nation to a match.
 
 [`Graphic: Severe tropical storm Kristine tore through the Philippine island of Luzon`](/images/severe-tropical-storm-kristine-trami.jpg)
 
-The Philippines’ defense relies heavily on its much vaunted [Sierra Madre](/tags/sierra-madre), a phalanx of mountains that runs north-south across its main island of Luzon protecting its eastern flanks, and its much publicized recent investments in flood-control measures backed by a budget of PHP182 billion in 2023 and PHP244 billion in 2024.
+Lacking any meaningful offensive power against typhoons, the Team Philippines’ defensive play relies heavily on its much vaunted [Sierra Madre](/tags/sierra-madre), a phalanx of mountains that runs north-south across its main island of Luzon protecting its eastern flanks, and its much publicized recent investments in flood-control measures backed by a budget of PHP182 billion in 2023 and PHP244 billion in 2024.
 
 However, aided by a warming Pacific Ocean caused by climate change, by October 23 Kristine had developed into a severe tropical cyclone which threatened the archipelago with fierce winds, powerful storm surges and record rainfall.
 
->After initial probing feints along Luzon's eastern coastal areas, Kristine finally broke through the lightly defended province of [Isabela](/tags/isabela) in northern Luzon, later overwhelming further resistance with its 110km/h winds and heavy rainfall bringing floods and destruction throughout the archipelago.
+>After initial probing feints along Luzon's eastern coastal areas, Kristine finally broke through the lightly defended province of [Isabela](/tags/isabela) in northern Luzon, later overwhelming further resistance with its furious winds and heavy rainfall bringing destruction and floods throughout the archipelago.
 
 Team Philippines’ manager [Bongbong Marcos](/tags/ferdinand-marcos-jr) cut a lonely figure when he admitted defeat early on the first hours of the match saying he felt "a little helpless" in the face of Kristine's unstoppable onslaught.
 
-By then, much of the Philippines’ defense have already capitulated, beaten down by furious winds and flooded by up to 3 meters of water in many places.
+By then, much of the Philippines’ defenses have already capitulated, beaten down by 110kmh winds and flooded by up to 3 meters of water in many places.
 
 [`Photo: Flooded rice fields in Naga, Camarines Sur`](/images/flooded-rice-fields-naga-camarines-sur.jpg)
 
-On the morning of October 24, Kristine finally left the defeated nation after a 24-hour rampage that left dozens dead, millions displaced and billions of pesos in damage.
+On the morning of October 24, Kristine and its entourage finally left the defeated nation after a 24-hour rampage that left dozens dead, millions displaced and billions of pesos in damage.
 
-The painful loss exposed yet again Team Philippines’ inadequacies.
+The painful loss exposed yet again Team Philippines’ inadequacies against its perennial adversaries.
 
-Despite its earlier promises to strengthen its defense, the promised flood-control measures seemed nowhere to be found, despite billions of pesos of allotted budgets. Continued deforestation not only in Sierra Madre but throughout the archipelago had also weakened the already fragile defenses against flooding.
+Despite earlier promises to strengthen its defense, the country's flood-control measures were nowhere to be found, despite billions of pesos allotted for their budget. Continued deforestation not only in Sierra Madre but throughout the archipelago had also weakened the already fragile defenses against rain and flooding.
 
-Pundits agree, however, that sacking the manager would probably change little in the long run, and that the team's problems are structural. But after another devastating loss--47th in a row--supporters have began to wonder when enough is enough.
+Pundits agree, however, that sacking the manager would probably change little in the long run, and that the team's problems are structural, requiring painful restructuring and decades-long investments in expensive defense and flood-control mechanisms.
+
+But after yet another devastating loss--47th in a row--supporters who are still drenched in rain have began to wonder when enough is enough.
