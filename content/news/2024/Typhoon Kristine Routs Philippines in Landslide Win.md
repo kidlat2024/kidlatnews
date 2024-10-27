@@ -31,7 +31,7 @@ Attracting little attention when it emerged in a low-pressure area in the [Phili
 
 [`Graphic: Severe tropical storm Kristine tore through the Philippine island of Luzon`](/images/severe-tropical-storm-kristine-trami.jpg)
 
-Lacking any meaningful offensive power against weather phenomena, the Team Philippines’ defensive play relies heavily on its much vaunted [Sierra Madre](/tags/sierra-madre), a phalanx of mountains that runs north-south across its main island of Luzon protecting its eastern flanks, and its much publicized recent investments in flood-control measures backed by a budget of PHP182 billion in 2023 and PHP244 billion in 2024.
+Lacking any meaningful offensive power against weather phenomena, Team Philippines’ defensive play relies heavily on its much vaunted [Sierra Madre](/tags/sierra-madre), a phalanx of mountains that runs north-south across its main island of Luzon protecting its eastern flanks, and its much publicized recent investments in flood-control measures backed by a budget of PHP182 billion in 2023 and PHP244 billion in 2024.
 
 However, aided by a warming Pacific Ocean caused by climate change, by October 23 Kristine had morphed into a severe tropical cyclone which threatened the archipelago with fierce winds, powerful storm surges and record rainfall.
 
@@ -45,7 +45,7 @@ By then, much of the Philippines’ defenses have already capitulated, beaten do
 
 On the morning of October 24, Kristine and its entourage finally left the defeated nation after a 24-hour rampage that left dozens dead, millions more displaced and billions of pesos in damage.
 
-The painful loss exposed yet again Team Philippines’ familiar failings against its perennial adversary, its inadequate preparation and costly defensive errors proving decisive despite its home field advantage. It also calls into question whether Marcos is the right manager to lead the team out of its seemingly permanent rut.
+The painful loss exposed yet again Team Philippines’ familiar failings against its perennial adversary, its inadequate match preparations and costly defensive errors proving decisive despite its home field advantage. It also calls into question whether Marcos is the right manager to lead the team out of its seemingly permanent rut.
 
 Notwithstanding earlier promises to strengthen its defense, the country's flood-control measures were nowhere to be found, despite billions of pesos allotted for their budget. Continued [deforestation](https://kidl.at/news/philippine-senator-ronald-dela-rosa-declares-trees-communist-sympathizers-calls-for-complete-deforestation-of-mountains/) not only in Sierra Madre but throughout the archipelago had also weakened the already fragile defenses against rain and flooding.
 
