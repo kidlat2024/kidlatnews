@@ -37,7 +37,7 @@ However, aided by a warming Pacific Ocean caused by climate change, by October 2
 
 >After initial probing feints along Luzon's eastern flank, Kristine finally broke through the lightly defended province of [Isabela](/tags/isabela) in northern Luzon, and later overwhelmed token resistance throughout the archipelago with its furious winds and heavy rainfall bringing widespread destruction and flooding.
 
-Team Philippines’ manager [Bongbong Marcos](/tags/ferdinand-marcos-jr) cut an isolated figure when he admitted defeat early on during the first hours of the match saying he felt "a little helpless" in the face of Kristine's unstoppable onslaught.
+Team Philippines’ manager [Bongbong Marcos](/tags/ferdinand-marcos-jr) cut an isolated figure when he conceded defeat early on during the first hours of the match saying he felt "a little helpless" in the face of Kristine's unstoppable onslaught.
 
 By then, much of the Philippines’ defenses have already capitulated, beaten down by 110kmh winds and flooded by up to 3 meters of water in many places.
 
