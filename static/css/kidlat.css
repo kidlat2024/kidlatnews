@@ -1,7 +1,7 @@
 /* FONT FOR LOGO, H1 */
 @font-face {
   font-family: 'IBM Plex Sans Condensed';
-  src: url('/fonts/IBMPlexSansCondensed-Bold.ttf');
+  src: url('/fonts/IBMPlexSansCondensed-Bold.woff2');
   font-weight: bold;
 }
 
