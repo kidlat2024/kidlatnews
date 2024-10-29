@@ -47,12 +47,12 @@ p {
     margin:0 0 1.5rem;
 }
 p a:hover {text-decoration:underline}
-h1        {font-size:2.2rem; margin:0 0 1.5rem}
+h1        {font-size:2.8rem; margin:0 0 1.5rem; font-family:'Franklin Gothic Demi Cond','Founders Grotesk Condensed','Robot Condensed','Ubuntu Condensed',serif;}
 h2        {font-size:1.8rem}
 h3        {font-size:1.5rem}
 h3 a      {color:#d228ad}
 h4        {font-size:1.35rem}
-h1,h2,h4  {font-weight:800;line-height:1.13; letter-spacing:-0.037rem}
+h1,h2,h4  {font-weight:700;line-height:1.13; letter-spacing:-0.037rem}
 h4        {margin-bottom:0.5rem}
 .related  {color:#7c7777}
 a         {color:#105fb3; text-decoration:none}
