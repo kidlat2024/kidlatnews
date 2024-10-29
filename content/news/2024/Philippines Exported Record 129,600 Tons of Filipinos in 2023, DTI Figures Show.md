@@ -1,11 +1,11 @@
 ---
 draft: false
 content_type: NewsArticle
-title: "Philippines Exported Record 130 Million Tons of Filipinos in 2023, DTI Figures Show"
+title: "Philippines Exported Record 129,600 Tons of Filipinos in 2023, DTI Figures Show"
 description: ""
 author: ["Leon Kidlat"]
 date: 2024-10-24
-aliases:
+aliases: "/news/philippines-exported-record-130-million-tons-of-filipinos-in-2023-dti-figures-show/"
 xurl: https://x.com/kidlatnews2024
 display_license: true
 attribution: ""
@@ -20,7 +20,7 @@ tags:
 - Kuwait
 kudlit: ‘single’ “double” eñe
 ---
-(Makati City) -- According to the latest statistics from the [Department of Trade and Industry](/tags/department-of-trade-and-industry) (DTI), the Philippines exported a record 129,600,000 tons of Filipinos in 2023, roughly equivalent to 2,160,000 individuals (at 60kg/individual), generating a total of PhP 239 billion in revenue.
+(Makati City) -- According to the latest statistics from the [Department of Trade and Industry](/tags/department-of-trade-and-industry) (DTI), the Philippines exported a record 129,600 tons of Filipinos in 2023, roughly equivalent to 2,160,000 individuals (at 60kg/individual), generating a total of PhP239 billion in revenue.
 
 [Filipinos](/tags/filipinos) remain by far the Philippines top export, followed by electrical machinery and equipment (including computers), ores and metals, and fruits and nuts.
 
