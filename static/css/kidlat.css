@@ -14,7 +14,6 @@ header {margin:0 0 2rem}
     display:inline-block;
 }
 .sitename a {
-	font-family:'IBM Plex Sans Condensed';
     font-size:1.3rem;
     font-weight:700;
     color:#fff;
@@ -48,7 +47,7 @@ p {
     margin:0 0 1.5rem;
 }
 p a:hover {text-decoration:underline}
-h1        {font-size:2.6rem; margin:0 0 1.5rem;font-family:'IBM Plex Sans Condensed'}
+h1        {font-size:2.2rem; margin:0 0 1.5rem}
 h2        {font-size:1.8rem}
 h3        {font-size:1.5rem}
 h3 a      {color:#d228ad}
@@ -238,7 +237,7 @@ th                         {background-color:#484b4f}
 /* MOBILE SCREEN */
 @media screen and (max-width: 550px) {
 header                     {margin:0 0 1.5rem}
-h1                         {font-size:2.2rem; margin:0 0 1rem}
+h1                         {font-size:1.86rem; margin:0 0 1rem}
 h2                         {font-size:1.51rem}
 h3, description            {font-size:1.36rem}
 h4, p, li, .sitename a     {font-size:1.2rem}
