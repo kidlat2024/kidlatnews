@@ -217,13 +217,13 @@ details p {
 html,body                  {background-color:#212529;color:#DBE0EA}
 .postmeta                  {color:#a8a8a8}
 a                          {color:#41b0e3}
-h1, h2, h3                 {color:#ffde00}
+h1, h2, h3                 {color:#a4cfd9}
 h3 a                       {color:#f27ad8}
 .related                   {color:#e266ce}
 .line li, .related li      {border-top:1px solid #5F6674}
-.line li:nth-child(10n+1) a{color:#ffde00}
+.line li:nth-child(10n+1) a{color:#a4cfd9}
 .line li:nth-child(10n+11) {border-top:1px solid #5F6674}
-.line li:nth-child(7) a    {color:#ffde00}
+.line li:nth-child(7) a    {color:#a4cfd9}
 .line li a, .related li a  {color:#DBE0EA}
 tags li                    {background-color:#111}
 footer                     {border-top:1px solid #5F6674;color:#5F6674}
