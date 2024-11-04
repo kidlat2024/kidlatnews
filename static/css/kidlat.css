@@ -58,7 +58,6 @@ footer {
     padding:.5rem 0 1.5rem;
     border-top:1px solid #ccc;
     font-size:1.1rem;
-    font-weight:300;
     letter-spacing:-1px;
 }
 footer a {text-decoration:none; color:#000}
@@ -76,7 +75,7 @@ h2        {font-size:1.8rem}
 h3        {font-size:1.5rem}
 h3 a      {color:#d228ad}
 h4        {font-size:1.35rem}
-h1,h2,h4  {font-weight:700;line-height:1.13; letter-spacing:-1px;}
+h1,h2,h4  {font-weight:800;line-height:1.13; letter-spacing:-1px;}
 h4        {margin-bottom:0.5rem}
 .related  {color:#7c7777}
 a         {color:#105fb3; text-decoration:none}
