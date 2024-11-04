@@ -11,7 +11,7 @@
 /* CONTAINERS */
 html, body {
     font-size:16px;
-    font-family:Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif;
+    font-family:'Jetbrains Mono',monospace;
     background-color: #fff3ea;
     margin:0 auto;
     padding:0 5px;
@@ -26,7 +26,6 @@ header {margin:0 0 2rem}
 .sitename a {
     font-size:1.3rem;
     font-weight:700;
-    font-family:'Jetbrains Mono',monospace;
     color:#fff;
     text-decoration:none;
 }
@@ -38,15 +37,29 @@ description {
     line-height:1.37;
     letter-spacing:-0.037rem;
 }
-.postmeta {font-family:'Jetbrains Mono',monospace;font-size:1.1rem; display:block; margin:0 0 1rem 0; color:#8a8a8a}
-.postmeta a {color:#f72b9f}
-.license {font-size:0.9rem; display:block; margin:0 0 2rem 0}
-footer {
-    padding:.5rem 0 1.5rem;
+.postmeta {
     font-size:1.1rem;
-    border-top:1px solid #ccc;
+    letter-spacing:-1px;
+    display:block;
+    margin:0 0 1rem 0;
+    color:#8a8a8a;
+}
+.postmeta a {color:#f72b9f}
+.license {
+    display:block;
+    margin:0 0 2rem 0;
+    font-size:0.9rem;
+    letter-spacing:-1px;
+    color:#8a8a8a;
+}
+footer {
     display:flex;
     justify-content:space-between;
+    padding:.5rem 0 1.5rem;
+    border-top:1px solid #ccc;
+    font-size:1.1rem;
+    font-weight:300;
+    letter-spacing:-1px;
 }
 footer a {text-decoration:none; color:#000}
 
@@ -63,7 +76,7 @@ h2        {font-size:1.8rem}
 h3        {font-size:1.5rem}
 h3 a      {color:#d228ad}
 h4        {font-size:1.35rem}
-h1,h2,h4  {font-family:'Jetbrains Mono',monospace;font-weight:800;line-height:1.13; letter-spacing:-1px;}
+h1,h2,h4  {font-weight:700;line-height:1.13; letter-spacing:-1px;}
 h4        {margin-bottom:0.5rem}
 .related  {color:#7c7777}
 a         {color:#105fb3; text-decoration:none}
@@ -95,11 +108,12 @@ li {margin:0;font-size:1.3rem}
     color:#000;
     text-decoration:none;
     letter-spacing:-0.037rem}
-.line li a:hover           {text-decoration:underline}
+.line li a:hover {text-decoration:underline}
 .line li:nth-child(10n+1) {
-	letter-spacing:-0.037rem;
+    font-family:'Jetbrains Mono',monospace;
     font-size:1.8rem;
-    font-weight:800;
+    font-weight:700;
+    letter-spacing:-1px;
     line-height:1.13;
 }
 .line li:nth-child(1) {
@@ -110,7 +124,11 @@ li {margin:0;font-size:1.3rem}
     border-top:1px solid #ddd;
     padding:15px 0 20px;
 }
-.line li:nth-child(7) {font-weight:800}
+.line li:nth-child(7) {
+    font-family:'Jetbrains Mono',monospace;
+    font-weight:800;
+    letter-spacing:-1px;
+}
 
 .related ul {
     font-size:1.5rem;
@@ -158,11 +176,9 @@ blockquote {
     margin:2rem 0;
 }
 blockquote p {
-    font-family:inherit;
     font-size:1.4rem;
-    font-weight:800;
-    line-height:1.5;
-    color:#d00a0a;
+    font-style:italic;
+    color:#ec5f66;
 }
 .dgray-yellow, .red-white {
     margin: 0 0 1.5rem;
@@ -180,7 +196,7 @@ pre {
 }
 code {
     font-size:1.1rem;
-    font-family:'Jetbrains Mono',Consolas,monospace;
+    font-family:'Jetbrains Mono',monospace;
     color:#f72b9f;
 }
 code a {color:#ff54b5}
@@ -228,14 +244,15 @@ details p {
 html,body                  {background-color:#212529;color:#DBE0EA}
 .postmeta                  {color:#a8a8a8}
 a                          {color:#41b0e3}
-h1, h2, h3                 {color:#fe0;font-family:'Jetbrains Mono',monospace}
+h1, h2, h3                 {color:#fe0}
 h3 a                       {color:#f27ad8}
 .related                   {color:#e266ce}
 .line li, .related li      {border-top:1px solid #5F6674}
-.line li:nth-child(10n+1) a{color:#fe0;font-family:'Jetbrains Mono',monospace}
+.line li:nth-child(10n+1) a{color:#fe0}
 .line li:nth-child(10n+11) {border-top:1px solid #5F6674}
-.line li:nth-child(7) a    {color:#fe0;font-family:'Jetbrains Mono',monospace}
+.line li:nth-child(7) a    {color:#fe0}
 .line li a, .related li a  {color:#DBE0EA}
+.license                   {color:#a8a8a8}
 tags li                    {background-color:#111}
 footer                     {border-top:1px solid #5F6674;color:#5F6674}
 footer a                   {color:#A2A5AC}
