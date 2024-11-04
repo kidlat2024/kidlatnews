@@ -19,7 +19,7 @@ kudlit: ‘single’ “double” eñe
 ---
 Passing a divorce law in the Philippines is a really bad idea. Here's why:
 
-- We will lose our status as "The Only Country Besides the Vatican Where Divorce is Illegal." Think about that for a second before you babble about gender equality and all that nonsense.
+- We will lose our prestigious title as The Only Country Besides the Vatican Where Divorce is Illegal™. Think about that for a second before you babble about gender equality and all that nonsense.
 
 - You're not a Muslim, are you?
 
