@@ -38,4 +38,4 @@ Among Asian countries, [Saudi Arabia](/tags/saudi-arabia) imported the largest v
 
 Despite rosy projections by Secretary Roque, however, the Philippines still has a large inventory of excess Filipinos carried over from the Covid pandemic, when worldwide trade in Filipinos fell.
 
-Unsubstantiated reports suggest the country is seeking to offload its surplus stock at discounted prices to either Russia or North Korea for use in these countries' defense industries, although Roque denies the DTI has those plans in the pipeline.
+Unsubstantiated reports suggest the country is seeking to offload its surplus stock at discounted prices to either Russia or North Korea for use in these countries’ defense industries, although Roque denies the DTI has those plans in the pipeline.
