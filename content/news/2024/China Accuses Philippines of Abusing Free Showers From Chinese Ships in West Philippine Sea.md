@@ -1,7 +1,7 @@
 ---
 draft: false
 content_type: NewsArticle
-title: "China Accuses the Philippines of Taking Advantage of Free Showers From Chinese Ships in the West Philippine Sea"
+title: "China Accuses Philippines of Abusing Free Showers From Chinese Ships in West Philippine Sea"
 description: ""
 author: ["Leon Kidlat"]
 date: 2024-03-12

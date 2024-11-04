@@ -17,7 +17,7 @@ tags:
 - Gender equality
 kudlit: ‘single’ “double” eñe
 ---
-Crafting a divorce law in the Philippines is a monumentally bad idea. Here's why:
+Passing a divorce law in the Philippines is a really bad idea. Here's why:
 
 - We will lose our status as "The Only Country Besides the Vatican Where Divorce is Illegal." Think about that for a second before you babble about gender equality and all that nonsense.
 
