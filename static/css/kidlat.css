@@ -1,3 +1,8 @@
+/* CUSTOM FONT */
+@font-face {font-family: 'Jetbrains Mono';
+  src: url('/fonts/Jetbrains-Mono.woff2');
+}
+
 /* CONTAINERS */
 html, body {
     font-size:16px;
@@ -16,6 +21,7 @@ header {margin:0 0 2rem}
 .sitename a {
     font-size:1.3rem;
     font-weight:700;
+    font-family:'Jetbrains Mono',monospace;
     color:#fff;
     text-decoration:none;
 }
@@ -27,7 +33,7 @@ description {
     line-height:1.37;
     letter-spacing:-0.037rem;
 }
-.postmeta {font-size:1.1rem; display:block; margin:0 0 1rem 0; color:#8a8a8a}
+.postmeta {font-family:'Jetbrains Mono',monospace;font-size:1.1rem; display:block; margin:0 0 1rem 0; color:#8a8a8a}
 .postmeta a {color:#f72b9f}
 .license {font-size:0.9rem; display:block; margin:0 0 2rem 0}
 footer {
@@ -217,13 +223,13 @@ details p {
 html,body                  {background-color:#212529;color:#DBE0EA}
 .postmeta                  {color:#a8a8a8}
 a                          {color:#41b0e3}
-h1, h2, h3                 {color:#fe0}
+h1, h2, h3                 {color:#fe0;font-family:'Jetbrains Mono',monospace}
 h3 a                       {color:#f27ad8}
 .related                   {color:#e266ce}
 .line li, .related li      {border-top:1px solid #5F6674}
-.line li:nth-child(10n+1) a{color:#fe0}
+.line li:nth-child(10n+1) a{color:#fe0;font-family:'Jetbrains Mono',monospace}
 .line li:nth-child(10n+11) {border-top:1px solid #5F6674}
-.line li:nth-child(7) a    {color:#fe0}
+.line li:nth-child(7) a    {color:#fe0;font-family:'Jetbrains Mono',monospace}
 .line li a, .related li a  {color:#DBE0EA}
 tags li                    {background-color:#111}
 footer                     {border-top:1px solid #5F6674;color:#5F6674}
