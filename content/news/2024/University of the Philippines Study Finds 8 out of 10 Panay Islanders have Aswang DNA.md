@@ -1,7 +1,7 @@
 ---
 draft: false
 content_type: NewsArticle
-title: "University of the Philippines Study Finds 8 out of 10 Panay Islanders have Aswang DNA"
+title: "University of the Philippines Study Finds 8 Out of 10 Panay Islanders Have Aswang DNA"
 description: ""
 author: ["Armando Kidlat"]
 date: 2024-10-19
