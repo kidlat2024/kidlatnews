@@ -1,7 +1,7 @@
 ---
 draft: false
 content_type: NewsArticle
-title: "Jollibee CEO Ernesto Tanmantiong Sues Company, Demands Paid Leave, 13th-Month Pay"
+title: "Jollibee CEO Tanmantiong Sues Company, Demands Paid Leave, 13th-Month Pay"
 description: ""
 author: ["Armando Kidlat"]
 date: 2023-10-07

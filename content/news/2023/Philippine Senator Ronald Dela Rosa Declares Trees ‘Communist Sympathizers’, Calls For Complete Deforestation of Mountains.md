@@ -1,7 +1,7 @@
 ---
 draft: false
 content_type: NewsArticle
-title: "Senator Ronald Dela Rosa Declares Trees 'Communist Sympathizers,' Calls For Complete Deforestation of Mountains"
+title: "Senator Dela Rosa Declares Trees 'Communist Sympathizers,' Calls For Complete Deforestation of Mountains"
 description: ""
 author: ["Leon Kidlat"]
 date: 2023-11-04

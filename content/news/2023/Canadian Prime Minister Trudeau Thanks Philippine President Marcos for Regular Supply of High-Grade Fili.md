@@ -1,6 +1,6 @@
 ---
 content_type: NewsArticle
-title: "Canadian Prime Minister Trudeau Thanks Philippine President Marcos for Regular Supply of High-Grade Filipinos"
+title: "Canadian PM Trudeau Thanks President Marcos for Regular Supply of High-Grade Filipinos"
 description: ""
 author: ["Leon Kidlat"]
 date: 2023-10-11
