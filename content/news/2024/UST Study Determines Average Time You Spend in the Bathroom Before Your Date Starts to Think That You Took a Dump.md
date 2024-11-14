@@ -1,7 +1,7 @@
 ---
 draft: false
 content_type: NewsArticle
-title: "University of Santo Tomas Study Determines Average Time You Spend in the Bathroom Before Your Date Starts to Think That You Took a Dump"
+title: "UST Study Determines Average Time You Spend in the Bathroom Before Your Date Starts to Think That You Took a Dump"
 description: ""
 xurl: https://twitter.com/kidlatnews2024/status/1758073113789784159
 author: ["Armando Kidlat"]

@@ -1,7 +1,7 @@
 ---
 draft: false
 content_type: NewsArticle
-title: "Iglesia Ni Cristo Partners With Bureau of Internal Revenue to Implement Innovative 'Salvation Tax' System"
+title: "Iglesia Ni Cristo Partners With BIR to Implement Innovative 'Salvation Tax' System"
 description: ""
 author: ["Leon Kidlat"]
 date: 2023-11-07
