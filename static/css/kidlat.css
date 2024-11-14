@@ -27,9 +27,8 @@ html, body {
     padding:0 5px;
     max-width:40rem;
 }
-header {margin:0 0 2rem}
-.sitename {
-    padding: 3px 10px 5px;
+header {margin:0 0 2rem}.sitename {
+    padding: 3px 10px;
     background-color:#e00;
     display:inline-block;
 }
@@ -277,18 +276,18 @@ th                         {background-color:#484b4f}
 /* MOBILE SCREEN */
 @media screen and (max-width: 550px) {
 header                     {margin:0 0 1.5rem}
-h1                         {font-size:2.53rem; margin:0 0 1rem}
-h2                         {font-size:2.06rem}
-h3, description            {font-size:1.85rem}
+h1                         {font-size:2.4rem; margin:0 0 1rem}
+h2                         {font-size:2.0rem}
+h3, description            {font-size:1.8rem}
 h4, p, li, .sitename a     {font-size:1.2rem}
 description                {margin:1rem 0}
-.postmeta, code, th, td    {font-size:0.93rem}
+.postmeta, code, th, td    {font-size:1.1rem}
 .line ul                   {font-size:1.26rem}
 .line li                   {font-size:1.26rem}
-.line li:nth-child(1)      {font-size:1.52rem}
-.line li:nth-child(10n+11) {font-size:1.52rem}
-tags li, .license          {font-size:0.75rem}
-footer                     {font-size:0.93rem; padding:.5rem 0}
+.line li:nth-child(1)      {font-size:2.4rem}
+.line li:nth-child(10n+11) {font-size:1.8rem}
+tags li, .license          {font-size:0.85rem}
+footer                     {font-size:1.1rem; padding:.5rem 0}
 p                          {margin:0 0 1rem}
 blockquote                 {margin:1.5rem 0}
 blockquote p               {font-size:1.36rem}
