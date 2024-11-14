@@ -1,7 +1,7 @@
 ---
 draft: false
 content_type: NewsArticle
-title: "Upsilon Sigma Phi Neophyte Proud of Brods Who Remade the Philippines into a People-Exporting Third World Economy"
+title: "Upsilon Sigma Phi Neophyte Proud of Brods Who Remade the Philippines Into a People-Exporting Third World Economy"
 description: ""
 author: ["Leon Kidlat"]
 date: 2023-09-18
