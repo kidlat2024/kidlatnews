@@ -115,7 +115,7 @@ li {margin:0;font-size:1.3rem}
     text-decoration:none;
     letter-spacing:-0.037rem;
 }
-.line li a:hover {color:#c00}
+.line li a:hover {color:#f72b9f}
 .line li:nth-child(10n+1) {
     font-family:'IBM Plex Sans Condensed',sans-serif;
     font-size:2.45rem;
