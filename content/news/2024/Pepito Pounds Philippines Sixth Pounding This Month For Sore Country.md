@@ -26,7 +26,7 @@ Packing wind speeds of 195kmh and gusts up to 325kmh as it battered the Philippi
 
 >Pepito is the sixth consecutive typhoon to assault disaster-weary Philippines in a month, after [Kristine](/news/typhoon-kristine-routs-philippines-in-landslide-win/), Leon, Marce, Nika and Ofel.
 
-"It's a catastrophe," President Marcos](/tags/bongbong-marcos/) lamented at his weekly press conference. "It's obscene the way these cyclones take turns hammering our country. But there's nothing we can do but sit back and watch."
+"It's a catastrophe," [President Marcos](/tags/bongbong-marcos/) lamented at his weekly press conference. "It's obscene the way these cyclones take turns hammering our country. But there's nothing we can do but sit back and watch."
 
 Typhoons are an annual scourge for the Philippines but human-caused climate change has increased their intensity and penetrative power as oceans warm, causing more pain and soreness than usual.
 
