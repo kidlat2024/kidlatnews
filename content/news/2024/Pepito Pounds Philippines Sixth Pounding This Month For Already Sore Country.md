@@ -24,7 +24,7 @@ kudlit: ‘single’ “double”
 
 Packing wind speeds of 195kmh and gusts of up to 325kmh as it battered the Philippines’ vulnerable eastern side, Pepito brought more soreness to the already suffering country.
 
->Pepito is the sixth typhoon to assault disaster-weary Philippines in a month, after suffering successive humiliation from [Kristine](/news/typhoon-kristine-routs-philippines-in-landslide-win/), Leon, Marce, Nika and Ofel.
+>Pepito is the sixth typhoon to assault disaster-weary Philippines in a month, after the country has already suffered successive humiliation from Kristine, Leon, Marce, Nika and Ofel.
 
 "It's a catastrophe," [President Marcos](/tags/bongbong-marcos/) lamented at his weekly press conference. "It's obscene the way these cyclones take turns hammering our country. But there's nothing we can do but bend over and deal with it."
 
