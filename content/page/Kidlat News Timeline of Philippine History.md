@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 content_type: NewsArticle
 title: "Kidlat News’ Timeline of Philippine History"
 description: "Everything you've always wanted to know about Philippine history, but were afraid to ask"
