@@ -115,7 +115,7 @@ li {margin:0;font-size:1.3rem}
     text-decoration:none;
     letter-spacing:-0.037rem;
 }
-.line li a:hover {color:#f72b9f}
+.line li a:hover {color:#d00a0a}
 .line li:nth-child(10n+1) {
     font-family:'IBM Plex Sans Condensed',sans-serif;
     font-size:2.45rem;
@@ -191,6 +191,11 @@ blockquote p {
     line-height:1.5;
     color:#d00a0a;
 }
+.date {
+    font-family: 'IBM Plex Sans Condensed',sans-serif;
+    font-weight: 700;
+    color: #ec1b45;
+}
 .dgray-yellow, .red-white {
     margin: 0 0 1.5rem;
     padding: 1rem 1.5rem;
@@ -263,7 +268,9 @@ h3 a                       {color:#f27ad8}
 .line li:nth-child(10n+11) {border-top:1px solid #5F6674}
 .line li:nth-child(7) a    {color:#fe0}
 .line li a, .related li a  {color:#DBE0EA}
+.line li a:hover           {color:#f72b9f}
 .license                   {color:#a8a8a8}
+.date                      {color:#ea788f}
 tags li                    {background-color:#111}
 footer                     {border-top:1px solid #5F6674;color:#5F6674}
 footer a                   {color:#A2A5AC}
