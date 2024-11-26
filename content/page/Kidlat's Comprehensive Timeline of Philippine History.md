@@ -191,7 +191,7 @@ Here is a comprehensive timeline of Philippine history to understand this enigma
 
 - <span class=year>1565</span> Miguel Lopez de Legazpi arrives in Cebu with four ships and 380 men and gently persuades Rajah Tupas at gunpoint to accept Jesus Christ as his savior, in case he might die prematurely from an accident or God knows what. Rajah Tupas sort of agrees.
 
-- <span class=year>1574</span> Famished after months of seafaring and looting, Chinese pirate Limahong raids Manila for some decent fried rice and dim sum.
+- <span class=year>1574</span> Famished after months of seafaring and looting, Chinese pirate Limahong raids Manila for some decent fried rice and dim sum. He tears up the place after finding none.
 
 - <span class=year>1593</span> The Dominicans print the *Doctrina Christiana*, the first ever publication in the islands. Later, they also secretly print the country’s first erotic novel *Biag ni Lam-ang* which they only share among themselves.
 
@@ -232,7 +232,7 @@ Here is a comprehensive timeline of Philippine history to understand this enigma
 
 - <span class=year>1893</span> Tiburcio Kidlat publishes the first Philippine newspaper *Ang Kidlat*, aiming to shine a spotlight on the vices, follies and abuses of the ruling Spanish. He is promptly arrested and shot.
 
-- <span class=year>1896 August</span> Bonifacio, Emilio Jacinto and other Katipuneros realize they have torn up their *cedula* by mistake instead of their grocery receipts, prompting the Cry of Pugadlawin.
+- <span class=year>1896 August</span> Bonifacio, Emilio Jacinto and other Katipuneros horribly realize they have torn up their *cedula* by mistake instead of their grocery receipts, prompting the Cry of Pugadlawin.
 
 - <span class=year>1896 December</span> Spanish authorities finally execute Rizal by firing squad at Bagumbayan for writing exceedingly bad novels that everybody hated.
 
@@ -242,7 +242,7 @@ Here is a comprehensive timeline of Philippine history to understand this enigma
 
 - <span class=year>1898 April</span> The Americans, feeling left out of the European-led conquering and colonizing stuff and casting covetous eyes on Cuba, Guam and Philippines, declares war on Spain.
 
-- <span class=year>1898 May</span> Aguinaldo and his men return to Cavite with a new flag which they bought from Alibaba for 10 yuan and a shipful of stuffed toys from Hong Kong Disneyland.
+- <span class=year>1898 May</span> Freshly rested, Aguinaldo and his men return to Cavite with a new flag which they bought from Alibaba for 10 yuan and a shipful of stuffed toys from Hong Kong Disneyland.
 
 - <span class=year>1898 June</span> Aguinaldo elects himself President and declares independence from Spain, completely oblivious to the fact that Spain has already sold the Philippines to the US just the day before.
 
@@ -272,7 +272,7 @@ Here is a comprehensive timeline of Philippine history to understand this enigma
  
 - <span class=year>1946</span> Yamashita is hanged by the American weaboos occupying Manila after refusing to reveal the locations of all Pokéballs.
 
-- <span class=year>1946</span> US grants Philippines independence and buggers off to Japan, leaving the Philippines alone to clean up their gigantic mess. Japan gives 10,000 brooms and 5,000 mops to Philippines as war reparation.
+- <span class=year>1946</span> US grants Philippines independence and buggers off to Japan, leaving the Philippines alone to clean up their gigantic mess. Japan donates 10,000 brooms and 5,000 mops as war reparation.
  
 ### 1950s: Filipinos Run the Country Like Hell
 
