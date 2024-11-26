@@ -78,9 +78,9 @@ p {
 p a:hover  {text-decoration:underline}
 h1         {font-size:2.8rem; margin:0 0 1rem}
 h2         {font-size:2.2rem; margin-bottom:1rem}
-h3         {font-size:2.0rem; margin-bottom:1rem}
+h3         {font-size:1.8rem; margin-bottom:1rem}
 h3 a       {color:#d228ad}
-h4         {font-size:1.8rem}
+h4         {font-size:1.6rem}
 h1,h2,h3,h4{font-weight:700;line-height:1.13; letter-spacing:-0.037rem;}
 h4         {margin-bottom:0.5rem}
 .related   {color:#7c7777}
@@ -191,7 +191,7 @@ blockquote p {
     line-height:1.5;
     color:#d00a0a;
 }
-.date {
+.year {
     font-family: 'IBM Plex Sans Condensed',sans-serif;
     font-weight: 700;
     color: #ec1b45;
@@ -270,7 +270,7 @@ h3 a                       {color:#f27ad8}
 .line li a, .related li a  {color:#DBE0EA}
 .line li a:hover           {color:#f72b9f}
 .license                   {color:#a8a8a8}
-.date                      {color:#ea788f}
+.year                      {color:#ea788f}
 tags li                    {background-color:#111}
 footer                     {border-top:1px solid #5F6674;color:#5F6674}
 footer a                   {color:#A2A5AC}
@@ -285,7 +285,7 @@ th                         {background-color:#484b4f}
 header                     {margin:0 0 1.5rem}
 h1                         {font-size:2.2rem; margin:0 0 1rem}
 h2                         {font-size:2.0rem}
-h3, description            {font-size:1.8rem}
+h3, description            {font-size:1.6rem}
 h4, p, li, .sitename a     {font-size:1.2rem}
 description                {margin:1rem 0}
 .postmeta, code, th, td    {font-size:1.1rem}
