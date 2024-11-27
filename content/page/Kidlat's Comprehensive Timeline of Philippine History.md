@@ -191,7 +191,7 @@ Here is a comprehensive timeline of Philippine history to understand this enigma
 
 - <span class=year>1565</span> Miguel Lopez de Legazpi arrives in Cebu with four ships and 380 men and gently persuades Rajah Tupas at gunpoint to accept Jesus Christ as his savior, in case he might die prematurely from an accident or God knows what. Rajah Tupas sort of agrees.
 
-- <span class=year>1574</span> Famished after months of seafaring and looting, Chinese pirate Limahong raids Manila for some decent fried rice and dim sum. He tears up the place after finding none.
+- <span class=year>1574</span> Famished after months of seafaring and looting, Chinese pirate Limahong raids Manila for some decent fried rice and dim sum. He runs amok after finding nothing but sinigang and pinakbet.
 
 - <span class=year>1593</span> The Dominicans print the *Doctrina Christiana*, the first ever publication in the islands. Later, they also secretly print the country’s first erotic novel *Biag ni Lam-ang* which they only share among themselves.
 
@@ -261,6 +261,10 @@ Here is a comprehensive timeline of Philippine history to understand this enigma
 - <span class=year>1907</span> Americans trick Macario Sakay and his heavy metal band Tagalog Republic to perform in Cavite, and arrest all members when they can't play kundiman songs. Sakay is eventually hanged and buried with his beloved Kirk Hammett signature ESP guitar.
  
 - <span class=year>1908</span> University of the Philippines is established in Manila. The first batch of students cut classes and stage demonstrations on Taft Avenue shouting "Down with the Aguinaldo-US dictatorship!"
+
+{{/* 
+- <span class=year>1939</span> President Manuel Quezon declares "I would rather have a government run like hell by Filipinos than a government run like heaven by Americans". 
+*/}} 
  
 - <span class=year>1941</span> Japanese troops land in the Philippines, giving the Filipinos their first taste of Hello Kitty toys and hentai porn. Filipinos opposed to deviant pornography retreat to Corregidor to make a last stand.
  
@@ -284,7 +288,7 @@ Here is a comprehensive timeline of Philippine history to understand this enigma
  
 - <span class=year>1968</span> Jose Maria Sison founds the Communist Party of the Philippines (CPP) whose aim is to distribute the misery equally among the Filipino bourgeoisie and proletariat alike.
  
-- <span class=year>1969</span> Bernabe Buscayno organizes New People's Army (NPA), the CPP's armed wing, to give its message of communist dystopia more bite.
+- <span class=year>1969</span> Bernabe Buscayno organizes New People's Army (NPA), the CPP's armed wing, to give CPP's message of communist dystopia more bite.
  
 - <span class=year>1971</span> Nur Misuari and Muslim leaders in Mindanao establish the Moro National Liberation Front, aiming to create a separate Islamic country in southern Philippines, where they can do the exploiting of their fellow Muslims instead of the Christian leaders in Manila.
  
@@ -310,4 +314,4 @@ Here is a comprehensive timeline of Philippine history to understand this enigma
  
 - <span class=year>1986</span> Trapped in a massive traffic in EDSA, thousands of commuters decide to leave their buses and  walk home, clogging the highway and accidentally triggering the People Power Revolution that drive President Marcos from power. Corazon "Heart" Aquino becomes president.
  
-- <span class=year>1994</span> Philippines makes its first connection to the Internet, when an unidentified employee of the Philippine Network Foundation downloads a topless photo of Tracy Lords.
+- <span class=year>1994</span> Philippines makes its first connection to the Internet, when an unidentified employee of the Philippine Network Foundation downloads a topless photo of Tracy Lords from a Stanford University server.
