@@ -5,7 +5,7 @@ title: "Kidlat's Comprehensive Timeline of Philippine History"
 description: "Everything you've always wanted to know about the history of the Philippines, but were afraid to ask"
 author: ["Kidlat Staff"]
 date: 2024-11-25
-aliases:
+aliases: "/kidlats-comprehensive-timeline-of-philippine-history/"
 xurl: 
 display_license: true
 attribution: ""
@@ -108,6 +108,7 @@ tags:
 - Manga
 - Manila
 - Manila Times
+- Manuel Quezon
 - Mariano Gomez
 - Martial Law
 - Mayon Volcano
@@ -160,6 +161,7 @@ tags:
 - Tomoyuki Yamashita
 - Tracy Lords
 - Tripoli Agreement
+- UNESCO
 - United States
 - University of Santo Tomas
 - University of the Philippines
@@ -174,6 +176,8 @@ The only Roman Catholic nation in Asia, Filipinos are deeply religious yet hopel
 Here is a comprehensive timeline of Philippine history to understand this enigma of a country.
 
 ### Pre-Hispanic, When Living Was Easy
+
+[//]: # - <span class=year>50,000 BC</span>Mrs. *Homo luzonensis*, who lives in a modest cave in northern Cagayan Valley, nags her husband from sunrise to sundown for more fruits and nuts.
 
 - <span class=year>40,000 BC</span> Escaping the tiger-infested jungles of China, Nognog and his Negrito clan arrive on the islands after paddling across the Batanes Strait. They find the islands’ jungles relatively pleasant, with only giant pythons to deal with.
 
@@ -196,6 +200,8 @@ Here is a comprehensive timeline of Philippine history to understand this enigma
 - <span class=year>1593</span> The Dominicans print the *Doctrina Christiana*, the first ever publication in the islands. Later, they also secretly print the country’s first erotic novel *Biag ni Lam-ang* which they only share among themselves.
 
 ### 1600s: The Spanish Make Themselves at Home
+
+- <span class=year>1600</span> The Igorots, who came to the islands when nobody was watching, begin building the rice terraces in the Cordilleras. They immediately apply for inclusion as UNESCO World Heritage Site.
 
 - <span class=year>1603</span> In what is now known as the Sangley Rebellion, the Spanish massacre some 20,000 Chinese residents of Manila because they all suspiciously look like Limahong and they hate that sonofabitch.
 
@@ -262,9 +268,7 @@ Here is a comprehensive timeline of Philippine history to understand this enigma
  
 - <span class=year>1908</span> University of the Philippines is established in Manila. The first batch of students cut classes and stage demonstrations on Taft Avenue shouting "Down with the Aguinaldo-US dictatorship!"
 
-{{/* 
-- <span class=year>1939</span> President Manuel Quezon declares "I would rather have a government run like hell by Filipinos than a government run like heaven by Americans". 
-*/}} 
+- <span class=year>1939</span> Severely overestimating the mental capacity of the Filipino voter, President Manuel Quezon declares "I would rather have a government run like hell by Filipinos than a government run like heaven by Americans".
  
 - <span class=year>1941</span> Japanese troops land in the Philippines, giving the Filipinos their first taste of Hello Kitty toys and hentai porn. Filipinos opposed to deviant pornography retreat to Corregidor to make a last stand.
  
@@ -314,4 +318,4 @@ Here is a comprehensive timeline of Philippine history to understand this enigma
  
 - <span class=year>1986</span> Trapped in a massive traffic in EDSA, thousands of commuters decide to leave their buses and  walk home, clogging the highway and accidentally triggering the People Power Revolution that drive President Marcos from power. Corazon "Heart" Aquino becomes president.
  
-- <span class=year>1994</span> Philippines makes its first connection to the Internet, when an unidentified employee of the Philippine Network Foundation downloads a topless photo of Tracy Lords from a Stanford University server.
+- <span class=year>1994</span> Philippines makes its first connection to the Internet, when an unidentified employee of the Philippine Network Foundation downloads a topless photo of Tracy Lords from a server in CERN.
