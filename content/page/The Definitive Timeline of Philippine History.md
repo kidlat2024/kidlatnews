@@ -177,8 +177,7 @@ Here is a comprehensive timeline of Philippine history to understand this enigma
 
 ### Pre-Hispanic, When Living Was Easy
 
-
-[//]: # - <span class=year>50,000 BC</span>Mrs. *Homo luzonensis*, who lives in a modest cave in northern Cagayan Valley, nags her husband from sunrise to sundown for more fruits and nuts.
+<!-- - <span class=year>50,000 BC</span>Mrs. *Homo luzonensis*, who lives in a modest cave in northern Cagayan Valley, nags her husband from sunrise to sundown for more fruits and nuts. -->
 
 
 - <span class=year>40,000 BC</span> Escaping the tiger-infested jungles of China, Nognog and his Negrito clan arrive on the islands after paddling across the Batanes Strait. They find the islands’ jungles relatively pleasant, with only giant pythons to deal with.
