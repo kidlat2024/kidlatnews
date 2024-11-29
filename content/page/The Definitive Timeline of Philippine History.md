@@ -196,6 +196,8 @@ Here is a comprehensive timeline of Philippine history to understand this enigma
 
 - <span class=year>1565</span> Miguel Lopez de Legazpi arrives in Cebu with four ships and 380 men and gently persuades Rajah Tupas at gunpoint to accept Jesus Christ as his savior, in case he might die prematurely from an accident or God knows what. Rajah Tupas sort of agrees.
 
+<!-- - <span class=year>1570</span> Legazpi's men together with their Visayan allies battle Rajah Sulayman of Manila.   -->
+
 - <span class=year>1574</span> Famished after months of seafaring and looting, Chinese pirate Limahong raids Manila for some decent fried rice and dim sum. He runs amok after finding nothing but sinigang and pinakbet.
 
 - <span class=year>1593</span> The Dominicans print the *Doctrina Christiana*, the first ever publication in the islands. Later, they also secretly print the country’s first erotic novel *Biag ni Lam-ang* which they only share among themselves.
@@ -204,7 +206,7 @@ Here is a comprehensive timeline of Philippine history to understand this enigma
 
 - <span class=year>1600</span> The Igorots, who came to the islands when nobody was watching, begin building the rice terraces in the Cordilleras. They immediately apply for inclusion as UNESCO World Heritage Site.
 
-- <span class=year>1603</span> In what is now known as the Sangley Rebellion, the Spanish massacre some 20,000 Chinese residents of Manila because they all suspiciously look like Limahong and they hate that sonofabitch.
+- <span class=year>1603</span> In what is now known as the Sangley Rebellion, the Spanish massacre some 20,000 Chinese residents of Manila because they all look suspiciously like Limahong and they hate that sonofabitch.
 
 - <span class=year>1611</span> University of Santo Tomas, Asia's first, is established. Subjects include Latin, Astrology, Exorcism, Alchemy and Wet Nursing.
 
@@ -273,7 +275,7 @@ Here is a comprehensive timeline of Philippine history to understand this enigma
  
 - <span class=year>1941</span> Japanese troops land in the Philippines, giving the Filipinos their first taste of Hello Kitty toys and hentai porn. Filipinos opposed to deviant pornography retreat to Corregidor to make a last stand.
  
-- <span class=year>1942</span> March General Douglas MacArthur escapes Philippines to Australia, uttering the iconic words "I'll be back."
+- <span class=year>1942</span> General Douglas MacArthur escapes Philippines to Australia, uttering the iconic words "I'll be back."
  
 - <span class=year>1944</span> General Tomoyuki Yamashita buries 10,000 Pokéballs all over the country and dares the Filipinos to try find them all. Those who can't are bayonetted on the spot.
   
@@ -293,11 +295,11 @@ Here is a comprehensive timeline of Philippine history to understand this enigma
  
 - <span class=year>1968</span> Jose Maria Sison founds the Communist Party of the Philippines (CPP) whose aim is to distribute the misery equally among the Filipino bourgeoisie and proletariat alike.
  
-- <span class=year>1969</span> Bernabe Buscayno organizes New People's Army (NPA), the CPP's armed wing, to give CPP's message of communist dystopia more bite.
+- <span class=year>1969</span> Bernabe Buscayno organizes the New People's Army (NPA), the CPP's armed wing, to give their message of communist dystopia more bite.
  
 - <span class=year>1971</span> Nur Misuari and Muslim leaders in Mindanao establish the Moro National Liberation Front, aiming to create a separate Islamic country in southern Philippines, where they can do the exploiting of their fellow Muslims instead of the Christian leaders in Manila.
  
-- <span class=year>1972</span> Robots Voltes V and Mazinger Z invade Manila; President Marcos places country under Martial Law.
+- <span class=year>1972</span> Super Robots Voltes V and Mazinger Z invade Manila; President Marcos places country under Martial Law.
  
 - <span class=year>1973</span> First Lady Imelda Marcos buys her 17th pair of Hermes shoes in Paris, telling her husband "This is the last, dear, I promise."
  
@@ -311,7 +313,7 @@ Here is a comprehensive timeline of Philippine history to understand this enigma
 
 - <span class=year>1980</span> Action-fantasy film *Ang Panday* starring Fernando Poe, Jr. debuts on IMAX theaters, sporting cutting-edge CGI and 4D-surround sound.
  
-- <span class=year>1981</span> President Marcos lifts Martial Law after Philippine army successfully repels Voltes V and Mazinger Z from the country.
+- <span class=year>1981</span> Giant mechs successfully expelled, President Marcos lifts Martial Law.
  
 - <span class=year>1983</span> A motley crue of NPA hitmen, military SWAT soldiers and CIA operatives assassinate Senator Benigno "Ninoy" Aquino Jr. from fifty different angles after the deducing the airport where his plane will land from his name.
  
