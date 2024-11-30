@@ -28,11 +28,13 @@ tags:
 - Bernabe Buscayno
 - Biag ni Lam-ang
 - Bicol Region
+- Brown Brothers
 - Bourgeoisie
 - Cabanatuan City
 - Camp Crame
 - Cebu
 - Celia Flor
+- CERN
 - Chocolate Hills
 - Christian
 - Communist Party of the Philippines
@@ -93,6 +95,7 @@ tags:
 - Kawi script
 - Kirk Hammett
 - Korean War
+- Korean dramas
 - Kundiman
 - Laguna Copperplate Inscription
 - Land of the Rising Sun
@@ -159,6 +162,7 @@ tags:
 - Tiburcio Kidlat
 - Tinikling
 - Tomoyuki Yamashita
+- Tondo
 - Tracy Lords
 - Tripoli Agreement
 - UNESCO
@@ -175,34 +179,41 @@ The only Roman Catholic nation in Asia, Filipinos are deeply religious yet hopel
 
 Here is a comprehensive timeline of Philippine history to understand this enigma of a country.
 
-### Pre-Hispanic, When Living Was Easy
+## Pre-Hispanic
 
 <!-- - <span class=year>50,000 BC</span>Mrs. *Homo luzonensis*, who lives in a modest cave in northern Cagayan Valley, nags her husband from sunrise to sundown for more fruits and nuts. -->
 
+- <span class=year>40,000 BCE</span> Escaping the tiger-infested jungles of China, Nognog and his Negrito clan arrive on the islands after paddling across the Batanes Strait. They find the islands’ jungles relatively pleasant, with only giant pythons to deal with.
 
-- <span class=year>40,000 BC</span> Escaping the tiger-infested jungles of China, Nognog and his Negrito clan arrive on the islands after paddling across the Batanes Strait. They find the islands’ jungles relatively pleasant, with only giant pythons to deal with.
+- <span class=year>20,000 BCE</span> Mr. Tabon man prepares a tasty meal of roasted bats and tarsier head soup just outside his cave in southern Palawan while watching the spectacular sunset of the West Philippine Sea marred by Chinese Coast Guard boats on the horizon.
 
-- <span class=year>20,000 BC</span> Mr. Tabon man prepares a tasty meal of roasted bats and tarsier head soup just outside his cave in southern Palawan while watching the spectacular sunset of the West Philippine Sea marred by Chinese Coast Guard boats on the horizon.
+- <span class=year>3,000 BCE</span> Standing on the coast of mainland Asia, Moana and her Austronesian kin embark on a great journey to colonize each and every island of Southeast Asia and the Pacific Ocean. The laziest and least adventurous of them settle on the first islands they see: the Philippine archipelago.
 
-- <span class=year>3,000 BC</span> Standing on the coast of mainland Asia, Moana and her Austronesian kin embark on a great journey to colonize each and every island of Southeast Asia and the Pacific Ocean. The laziest and least adventurous of them settle on the first islands they see: the Philippine archipelago.
+- <span class=year>900 CE</span> Hindu-Buddhist polity of Tondo is founded on the northern shores of Pasig River in Luzon. The settlers later build the Smokey Mountain, the biggest landfill in the Srivijavan Empire where territories near and far can dump their trash.
 
-### 1500s: Uninvited, the Spanish Let Themselves In
+- <span class=year>1240</span> Arabs introduce Islam to Sulu, where it spread througout the archipelago. Native Filipinos who keep several wives and slaves now have a religious justification for it.
+
+- <span class=year>1258</span> Muslim principality of Manila is founded on the southern shores of Pasig River. The name comes from the manila folders and envelopes which grow on manila trees abundant in the area, trade in which brings modest prosperity to the fledgling settlement.
+
+- <span class=year>1300</span> Motorcycle-riding Indian usurers, frustraded by the Filipino natives’ propensity to forget their debts, introduce the Brahmic writing script Baybayin to the islands to have a clearer record of who owes how much.
+
+## Spanish Colonization (1521-1898)
+
+Uninvited, and with the help of cannons, guns and bayonets, the Spanish gently persuade the natives to abandon their heathen ways and embrace Jesus Christ.
 
 - <span class=year>1521 March</span> Out of nowhere, explorer Ferdinand Magellan lands on Limasawa Island in Southern Leyte and invites the natives to a bible study. The natives have no idea what on Earth is going on but they join anyway because there are free snacks.
 
-- <span class=year>1521 April</span> Rajah Humabon of Cebu, not realizing what nasty diseases the Europeans brought with them, performs the Blood Compact with Magellan. He trades his two wives in return for some trinkets.
+- <span class=year>1521 April</span> Rajah Humabon of Cebu, not realizing what nasty diseases the Europeans brought with them, performs the blood compact with Magellan. He trades two of his wives in return for some trinkets.
 
 - <span class=year>1521 April</span> Datu Lapulapu, fed up with Magellan's bullshit, hacks him to death when he lands on Mactan Island. Magellan's maggot-infested corpse makes the first circumnavigation of the globe when it reaches Spain on September the following year.
 
-- <span class=year>1565</span> Miguel Lopez de Legazpi arrives in Cebu with four ships and 380 men and gently persuades Rajah Tupas at gunpoint to accept Jesus Christ as his savior, in case he might die prematurely from an accident or God knows what. Rajah Tupas sort of agrees.
+- <span class=year>1565</span> Miguel Lopez de Legazpi arrives in Cebu with four ships and 380 men and exhort Rajah Tupas at gunpoint to accept Jesus Christ as his savior, in case he might die prematurely from some accident or God knows what. Rajah Tupas sort of agrees.
 
 <!-- - <span class=year>1570</span> Legazpi's men together with their Visayan allies battle Rajah Sulayman of Manila.   -->
 
 - <span class=year>1574</span> Famished after months of seafaring and looting, Chinese pirate Limahong raids Manila for some decent fried rice and dim sum. He runs amok after finding nothing but sinigang and pinakbet.
 
 - <span class=year>1593</span> The Dominicans print the *Doctrina Christiana*, the first ever publication in the islands. Later, they also secretly print the country’s first erotic novel *Biag ni Lam-ang* which they only share among themselves.
-
-### 1600s: The Spanish Make Themselves at Home
 
 - <span class=year>1600</span> The Igorots, who came to the islands when nobody was watching, begin building the rice terraces in the Cordilleras. They immediately apply for inclusion as UNESCO World Heritage Site.
 
@@ -212,26 +223,25 @@ Here is a comprehensive timeline of Philippine history to understand this enigma
 
 - <span class=year>1627</span> The first batch of nurses graduate from University of Santo Tomas. They board the first ship out of Manila to migrate to the UK.
 
-### 1700s: Not Much Happening
-
-- <span class=year>1763</span> Gabriela Silang, founds the first feminist and LGBTQ+ movement in the Philippines. The Spanish, who are very conservative, have her cancelled.
-
-
-### 1800s: Filipinos Think They Can Do Better
+- <span class=year>1763</span> Gabriela Silang, founds the first feminist and LGBTQ+ movement in the Philippines. The Spanish, who are very conservative, have her permanently cancelled.
 
 - <span class=year>1814</span> Mount Mayon violently erupts, disrupting hiking activities in the Bicol Region. The resulting ashfall buries thousands of Bicolanos, who are notoriously slow walkers.
 
 - <span class=year>1829</span> Dagohoy Revolt in Bohol, the longest rebellion against Spanish rule in Philippine history, ends after the rebels get lost inside the Chocolate Hills.
 
-- <span class=year>1838</span> Francisco Balagtas publishes the epically long poem *Florante at Laura*. It is panned by critics who don't have the slightest idea where the country of Albania is, but the steamy movie adaptation starring Leopoldo Salcedo and Celia Flor is a big hit.
+- <span class=year>1834</span> A complete set of Kapre skeleton is unearthed in Bambang, Nueva Viscaya.
 
-- <span class=year>1872</span> Petty Spanish authorities execute the Filipino priests Gomburza (Gomez, Burgos, Zamora) for having a memorable portmanteau, which Filipino schoolchildren use as mnemonic for pop quizzes.
+- <span class=year>1838</span> Francisco Balagtas publishes the epic *Florante at Laura*. It is panned by critics who don't have the slightest idea where the country of Albania is, but the steamy movie adaptation starring Leopoldo Salcedo and Celia Flor is a big hit.
 
-- <span class=year>1874</span> A complete set of Kapre skeleton is unearthed in Bambang, Nueva Viscaya.
+### Filipino Nationalist Movement (1872-1898)
+
+After 300 years under Spanish oppression, Filipinos slowly wake up to the fact that they can probably do the oppression of their fellow Filipinos just as well, maybe even better.
+
+- <span class=year>1872</span> Hidebound and petty Spanish authorities execute the Filipino priests Gomburza (Gomez, Burgos, Zamora) for having a memorable portmanteau, which Filipino schoolchildren use as mnemonic for pop quizzes.
 
 - <span class=year>1878</span> The Sultan of Sulu leases Sabah to the British North Borneo Company, who assured him they will return the territory after "just a couple of years, cross our hearts and hope to die."
 
-- <span class=year>1887</span> Jose Rizal publishes the subversive novel *Noli Me Tangere*, earning him the ire of Spanish authorities, and of high school students everywhere who are then required to make a book report about it.
+- <span class=year>1887</span> Jose Rizal publishes the subversive novel *Noli Me Tangere*, earning him the ire of Spanish authorities, and of high school students everywhere who are then required to submit a book report about it.
 
 - <span class=year>1891</span> Ignoring the universally bad reviews of his earlier novel, Rizal tries again and publishes its equally bad but more action-packed sequel *El Filibusterismo*, featuring more sexy scenes and car chases.
 
@@ -249,7 +259,7 @@ Here is a comprehensive timeline of Philippine history to understand this enigma
 
 - <span class=year>1897 December</span> Katipunan and Spanish authorities sign the Pact of Biak-na-Bato, awarding the Filipinos’ revolutionary efforts with an all-expense paid trip to Hong Kong.
 
-- <span class=year>1898 April</span> The Americans, feeling left out of the European-led conquering and colonizing stuff and casting covetous eyes on Cuba, Guam and Philippines, declares war on Spain.
+- <span class=year>1898 April</span> The Americans, feeling left out of the European-led conquering and colonizing activities and casting covetous eyes on Cuba, Guam and Philippines, declares war on Spain.
 
 - <span class=year>1898 May</span> Freshly rested, Aguinaldo and his men return to Cavite with a new flag which they bought from Alibaba for 10 yuan and a shipful of stuffed toys from Hong Kong Disneyland.
 
@@ -257,63 +267,71 @@ Here is a comprehensive timeline of Philippine history to understand this enigma
 
 - <span class=year>1898 June</span> The last fifty Spanish soldiers in the country barricade themselves in a church in Baler, Quezon to shoot the movie *Our Last Men in the Philippines*, which will later win the Goya Awards for best costume.
 
+## American Rule (1898-1946)
+
+In which the Americans try to educate their Brown Brothers after they massacre some of the first.
+
 - <span class=year>1898 October</span> *Manila Times* publishes its first issue. Columnist Rigoberto Tiglao lambasts the Spanish and Americans and urge the Katipuneros to throw their lot with the Chinese.
 
 - <span class=year>1899 June</span> Men loyal to Aguinaldo assassinate Antonio Luna in Cabanatuan City. Rumor has it that Luna is loathed by Aguinaldo, who has always wanted to grow a bushy mustache but can't.
 
 - <span class=year>1899 December</span> Boy General Gregorio Del Pilar, who is only seven at the time, is killed in Battle of Tirad Pass against the Americans.
 
-### 1900s: Uncle Sam Comes to the Rescue
-
-- <span class=year>1901</span> Through an elaborate ruse involving dancing clowns from Macabebe, Pampanga, US forces capture Aguinaldo, who proclaims he was on the Americans’ side all along.
+- <span class=year>1901 March</span> Through an elaborate ruse involving dancing clowns from Macabebe, Pampanga, US forces capture Aguinaldo, who proclaims he was on the Americans’ side all along.
  
 - <span class=year>1907</span> Americans trick Macario Sakay and his heavy metal band Tagalog Republic to perform in Cavite, and arrest all members when they can't play kundiman songs. Sakay is eventually hanged and buried with his beloved Kirk Hammett signature ESP guitar.
  
 - <span class=year>1908</span> University of the Philippines is established in Manila. The first batch of students cut classes and stage demonstrations on Taft Avenue shouting "Down with the Aguinaldo-US dictatorship!"
 
-- <span class=year>1939</span> Severely overestimating the mental capacity of the Filipino voter, President Manuel Quezon declares "I would rather have a government run like hell by Filipinos than a government run like heaven by Americans".
- 
+- <span class=year>1939</span> Severely overestimating the mental capacity of the Indio voter, President Manuel Quezon declares "I would rather have a government run like hell by Filipinos than a government run like heaven by Americans".
+
+### Japanese Occupation (1941-1945)
+
+Japan tries to persuade the Filipinos to join its Greater East Asia Co-Prosperity Sphere alliance by bombing and bayonetting everyone to submission.
+
 - <span class=year>1941</span> Japanese troops land in the Philippines, giving the Filipinos their first taste of Hello Kitty toys and hentai porn. Filipinos opposed to deviant pornography retreat to Corregidor to make a last stand.
  
-- <span class=year>1942</span> General Douglas MacArthur escapes Philippines to Australia, uttering the iconic words "I'll be back."
+- <span class=year>1942</span> General Douglas MacArthur evades his ninja assassins and escapes to Australia, uttering the iconic words "I'll be back."
  
 - <span class=year>1944</span> General Tomoyuki Yamashita buries 10,000 Pokéballs all over the country and dares the Filipinos to try find them all. Those who can't are bayonetted on the spot.
   
 - <span class=year>1945</span> Awakened by the atomic bombings of Hiroshima and Nagasaki, a disoriented Godzilla mistakenly reduces Manila to rubbles instead of Tokyo.
  
 - <span class=year>1946</span> Yamashita is hanged by the American weaboos occupying Manila after refusing to reveal the locations of all Pokéballs.
-
-- <span class=year>1946</span> US grants Philippines independence and buggers off to Japan, leaving the Philippines alone to clean up their gigantic mess. Japan donates 10,000 brooms and 5,000 mops as war reparation.
  
-### 1950s: Filipinos Run the Country Like Hell
+## Philippine Independence (1946-present)
 
-- <span class=year>1950</span> Severely addicted to Korean dramas, hundreds of Philippine soldiers volunteer to join the Korean War.
+The Filipinos finally get free reign to run the country like hell.
 
-- <span class=year>1957</span> President Ramon Magsaysay dies in plane crash. Investigations reveal that the pilot was playing tetris at the time.
+- <span class=year>1946</span> The US unceremoniously dumps Philippines and buggers off to Japan, leaving the Philippines alone to clean up their gigantic mess. Japan donates 10,000 brooms and 5,000 mops as war reparation.
+
+- <span class=year>1950</span> Hundreds of Philippine soldiers join the American-led forces in the Korean War. Most will return home with PTSD and a severe addiction to Korean dramas.
+
+- <span class=year>1957</span> Popular President Ramon Magsaysay dies in a plane crash. Investigations later reveal that the pilot was playing Manhole on a Nintendo Game & Watch while manning the plane's controls.
  
 - <span class=year>1965</span> Ferdinand Marcos, descendant of Ferdinand Magellan, is elected president.
  
-- <span class=year>1968</span> Jose Maria Sison founds the Communist Party of the Philippines (CPP) whose aim is to distribute the misery equally among the Filipino bourgeoisie and proletariat alike.
+- <span class=year>1968</span> Jose Maria Sison founds the Communist Party of the Philippines (CPP) whose aim is to distribute the growing misery equally among the Filipino bourgeoisie and proletariat alike.
  
 - <span class=year>1969</span> Bernabe Buscayno organizes the New People's Army (NPA), the CPP's armed wing, to give their message of communist dystopia more bite.
  
 - <span class=year>1971</span> Nur Misuari and Muslim leaders in Mindanao establish the Moro National Liberation Front, aiming to create a separate Islamic country in southern Philippines, where they can do the exploiting of their fellow Muslims instead of the Christian leaders in Manila.
  
-- <span class=year>1972</span> Super Robots Voltes V and Mazinger Z invade Manila; President Marcos places country under Martial Law.
+- <span class=year>1972</span> Super Robots Voltes V and Mazinger Z attack Manila with the help of their Filipino communist cadres; President Marcos places country under Martial Law.
  
 - <span class=year>1973</span> First Lady Imelda Marcos buys her 17th pair of Hermes shoes in Paris, telling her husband "This is the last, dear, I promise."
  
 - <span class=year>1974</span> Hiroo Onoda, the first-ever *hikikomori*, comes out of his cave and surrenders in Lubang Island, Mindoro. His hideout reveals World War II-era rifles, discarded cups of instant ramen, and a massive collection of manga.
  
-- <span class=year>1976</span> Muammar Gaddafi and Imelda Marcos perform a bed-in in Libya to protest the ongoing conflict in Muslim Mindanao, resulting in the Tripoli Agreement.
+- <span class=year>1976</span> Muammar Gaddafi and Imelda Marcos perform a week-long bed-in in Libya to protest the ongoing conflict in Muslim Mindanao, resulting in the Tripoli Agreement.
  
-- <span class=year>1977</span> Mae Anne Padolina, the first Japayuki, departs for the glorious Land of the Rising Sun to perform *tinikling* and *maglalatik* for cultural events. Tens of thousand others enroll in folk dance classes.
- 
-- <span class=year>1978</span> Folk-singer Fredie Aguilar releases the iconic song "Anak Ka Ng Ina Mo" which is eventually shortened to "Anak" for marketing purposes. It is eventually translated to a billion languages.
+- <span class=year>1977</span> Mae Anne Padolina, the first Japayuki, departs for the glorious Land of the Rising Sun to perform tinikling and maglalatik for cultural events. Tens of thousand others enroll in folk dance classes.
+
+- <span class=year>1978</span> Folk-singer Fredie Aguilar releases the iconic song "Anak Ka Ng Ina Mo" which is eventually shortened to "Anak" for marketing purposes. It is eventually translated and sung to a billion languages.
 
 - <span class=year>1980</span> Action-fantasy film *Ang Panday* starring Fernando Poe, Jr. debuts on IMAX theaters, sporting cutting-edge CGI and 4D-surround sound.
  
-- <span class=year>1981</span> Giant mechs successfully expelled, President Marcos lifts Martial Law.
+- <span class=year>1981</span> Giant mechs and communists successfully expelled, President Marcos lifts Martial Law.
  
 - <span class=year>1983</span> A motley crue of NPA hitmen, military SWAT soldiers and CIA operatives assassinate Senator Benigno "Ninoy" Aquino Jr. from fifty different angles after the deducing the airport where his plane will land from his name.
  
