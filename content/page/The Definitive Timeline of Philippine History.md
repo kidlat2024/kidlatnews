@@ -269,7 +269,7 @@ After 300 years under Spanish oppression, Filipinos slowly wake up to the fact t
 
 ## American Rule (1898-1946)
 
-In which the Americans try to educate their Brown Brothers after they massacre some of the first.
+Americans try to educate their Little Brown Brothers after they massacre some of them first.
 
 - <span class=year>1898 October</span> *Manila Times* publishes its first issue. Columnist Rigoberto Tiglao lambasts the Spanish and Americans and urge the Katipuneros to throw their lot with the Chinese.
 
@@ -283,11 +283,11 @@ In which the Americans try to educate their Brown Brothers after they massacre s
  
 - <span class=year>1908</span> University of the Philippines is established in Manila. The first batch of students cut classes and stage demonstrations on Taft Avenue shouting "Down with the Aguinaldo-US dictatorship!"
 
-- <span class=year>1939</span> Severely overestimating the mental capacity of the Indio voter, President Manuel Quezon declares "I would rather have a government run like hell by Filipinos than a government run like heaven by Americans".
+- <span class=year>1939</span> Severely overestimating the mental capacity of the Filipino voter, President Manuel Quezon declares "I would rather have a government run like hell by Filipinos than a government run like heaven by Americans".
 
 ### Japanese Occupation (1941-1945)
 
-Japan tries to persuade the Filipinos to join its Greater East Asia Co-Prosperity Sphere alliance by bombing and bayonetting everyone to submission.
+Japan entice the Filipinos to join its Greater East Asia Co-Prosperity Sphere alliance by bombing and bayonetting everyone to submission.
 
 - <span class=year>1941</span> Japanese troops land in the Philippines, giving the Filipinos their first taste of Hello Kitty toys and hentai porn. Filipinos opposed to deviant pornography retreat to Corregidor to make a last stand.
  
@@ -310,6 +310,8 @@ The Filipinos finally get free reign to run the country like hell.
 - <span class=year>1957</span> Popular President Ramon Magsaysay dies in a plane crash. Investigations later reveal that the pilot was playing Manhole on a Nintendo Game & Watch while manning the plane's controls.
  
 - <span class=year>1965</span> Ferdinand Marcos, descendant of Ferdinand Magellan, is elected president.
+
+- <span class=year>1967</span> After the Philippines’ nonstop badgering that went on for years, Thailand, Singapore, Malaysia and Indonesia finally agree to form the Association of Southeast Asian Nations (ASEAN) just to shut her up.
  
 - <span class=year>1968</span> Jose Maria Sison founds the Communist Party of the Philippines (CPP) whose aim is to distribute the growing misery equally among the Filipino bourgeoisie and proletariat alike.
  
@@ -317,7 +319,7 @@ The Filipinos finally get free reign to run the country like hell.
  
 - <span class=year>1971</span> Nur Misuari and Muslim leaders in Mindanao establish the Moro National Liberation Front, aiming to create a separate Islamic country in southern Philippines, where they can do the exploiting of their fellow Muslims instead of the Christian leaders in Manila.
  
-- <span class=year>1972</span> Super Robots Voltes V and Mazinger Z attack Manila with the help of their Filipino communist cadres; President Marcos places country under Martial Law.
+- <span class=year>1972</span> Super Robots Voltes V and Mazinger Z attack Manila with the help of local Filipino communist cadres; President Marcos places country under Martial Law.
  
 - <span class=year>1973</span> First Lady Imelda Marcos buys her 17th pair of Hermes shoes in Paris, telling her husband "This is the last, dear, I promise."
  
@@ -331,12 +333,26 @@ The Filipinos finally get free reign to run the country like hell.
 
 - <span class=year>1980</span> Action-fantasy film *Ang Panday* starring Fernando Poe, Jr. debuts on IMAX theaters, sporting cutting-edge CGI and 4D-surround sound.
  
-- <span class=year>1981</span> Giant mechs and communists successfully expelled, President Marcos lifts Martial Law.
+- <span class=year>1981</span> Giant mechs and communist traitors successfully expelled, President Marcos lifts Martial Law.
  
 - <span class=year>1983</span> A motley crue of NPA hitmen, military SWAT soldiers and CIA operatives assassinate Senator Benigno "Ninoy" Aquino Jr. from fifty different angles after the deducing the airport where his plane will land from his name.
  
 - <span class=year>1986</span> Marcos ally General Favian Fer discovers racy love letters between Defense Secretary Juan Ponce Enrile and RAM leader Gregorio Honasan and orders them arrested. The lovers elope to Camp Crame on EDSA.
  
 - <span class=year>1986</span> Trapped in a massive traffic in EDSA, thousands of commuters decide to leave their buses and  walk home, clogging the highway and accidentally triggering the People Power Revolution that drive President Marcos from power. Corazon "Heart" Aquino becomes president.
+
+<!-- - <span class=year>1991</span> Mt. Pinatubo in Luzon violently erupts, ejecting enormous amounts of ash and gas high into the atmosphere and cooling the planet for the next two years. -->
  
 - <span class=year>1994</span> Philippines makes its first connection to the Internet, when an unidentified employee of the Philippine Network Foundation downloads a topless photo of Tracy Lords from a server in CERN.
+
+- <span class=year>2006</span> Sportsman Leo Oracion makes history as the 1,874th person to climb Mount Everest.
+
+<!-- - <span class=year>2009</span> Maguindanao Massacre -->
+
+- <span class=year>2010</span> The Manila Hostage Crisis inside a tourist bus comes to a successful end when members of an elite SWAT team shoot the hostage-taker and all hostages that were not already dead.
+
+- <span class=year>2013</span> Department of Education introduces the K-12 Program, through which basic education that can be taught in 10 years are stretched to 12 to enable Filipino schoolchildren to have more time each day for social media.
+
+- <span class=year>2015</span> The National Mapping and Resource Information Authority announces it has found the 400 islands that the country feared were lost after they were blown away by typhoon Yolanda.
+
+<!-- - <span class=year>2016</span> President Rodrigo Duterte announces War on Drugs and provides the Philippine National Police with tanks, bombs and guns to pulverize -->

@@ -194,7 +194,7 @@ blockquote p {
 .year {
     font-family: 'IBM Plex Sans Condensed',sans-serif;
     font-weight: 700;
-    color: #ec1b45;
+    color: #d00a0a;
 }
 .dgray-yellow, .red-white {
     margin: 0 0 1.5rem;
@@ -270,7 +270,6 @@ h3 a                       {color:#f27ad8}
 .line li a, .related li a  {color:#DBE0EA}
 .line li a:hover           {color:#f72b9f}
 .license                   {color:#a8a8a8}
-.year                      {color:#ea788f}
 tags li                    {background-color:#111}
 footer                     {border-top:1px solid #5F6674;color:#5F6674}
 footer a                   {color:#A2A5AC}
