@@ -177,12 +177,12 @@ Colony of Spain for more than three hundred years and of America for another fif
 
 Here is a comprehensive timeline of Philippine history to understand how we have come to this present mess.
 
-1. [Pre-Colonial Period](#pre-colonial-period)
+1. [Pre-Colonial Period](#pre-colonial-period-prehistory-1521)
 2. [Spanish Rule](#spanish-rule-1521-1898) (with [Nationalist Movement](#filipino-nationalist-movement-1872-1898) subsection)
 3. [American Rule](#american-rule-1898-1946) (with [Japanese Occupation](#japanese-occupation-1941-1945) subsection)
 4. [Independence](#independence-1946-present)
 
-## 1. Pre-Colonial Period
+## Pre-Colonial Period (Prehistory-1521)
 
 <!--
 - <span class=year>50,000 BC</span>Mrs. *Homo luzonensis*, who lives in a modest cave in northern Cagayan Valley, nags her husband from sunrise to sundown for more fruits and nuts.
@@ -310,7 +310,7 @@ Japan entice the Filipinos to join its Greater East Asia Co-Prosperity Sphere by
  
 ## Independence (1946-present)
 
-Unshackled from foreign intervention, Filipinos finally get free reign to run the country like hell and fuck with their fellow Filipinos.
+Unshackled from foreign intervention, Filipinos finally get free reign to run the country like hell.
 
 - <span class=year>1946</span> Yamashita is hanged by the American weaboos occupying Manila after refusing to reveal the locations of all Pokéballs.
 
