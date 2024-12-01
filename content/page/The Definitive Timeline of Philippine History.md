@@ -173,15 +173,21 @@ tags:
 - Weaboo
 kudlit: ‘single’ “double” eñe
 ---
-Colony of Spain for more than three hundred years and of America for another fifty, the Philippines has had less than a hundred years to run its messy house by itself.
+Colony of Spain for more than three hundred years and of America for another fifty, the Philippines has had less than a hundred years to put its house in order on its own.
 
-The only Roman Catholic nation in Asia, Filipinos are deeply religious yet hopelessly corrupt.
+Here is a comprehensive timeline of Philippine history to understand how we have come to this present mess.
 
-Here is a comprehensive timeline of Philippine history to understand this enigma of a country.
+1. [Pre-Colonial Period](#1-pre-colonial-period)
+2. [Spanish Rule](#2-spanish-rule) (with "[Nationalist Movement](#philippine-nationalist-movement) subsection)
+3. [American Rule](#3-american-rule)
+4. [Japanese Occupation](#4-japanese-occupation)
+5. [Independence](#5-independence)
 
-## Pre-Hispanic
+## 1. Pre-Colonial Period
 
-<!-- - <span class=year>50,000 BC</span>Mrs. *Homo luzonensis*, who lives in a modest cave in northern Cagayan Valley, nags her husband from sunrise to sundown for more fruits and nuts. -->
+<!--
+- <span class=year>50,000 BC</span>Mrs. *Homo luzonensis*, who lives in a modest cave in northern Cagayan Valley, nags her husband from sunrise to sundown for more fruits and nuts.
+-->
 
 - <span class=year>40,000 BCE</span> Escaping the tiger-infested jungles of China, Nognog and his Negrito clan arrive on the islands after paddling across the Batanes Strait. They find the islands’ jungles relatively pleasant, with only giant pythons to deal with.
 
@@ -197,7 +203,7 @@ Here is a comprehensive timeline of Philippine history to understand this enigma
 
 - <span class=year>1300</span> Motorcycle-riding Indian usurers, frustraded by the Filipino natives’ propensity to forget their debts, introduce the Brahmic writing script Baybayin to the islands to have a clearer record of who owes how much.
 
-## Spanish Colonization (1521-1898)
+## 2. Spanish Rule (1521-1898)
 
 Uninvited, and with the help of cannons, guns and bayonets, the Spanish gently persuade the natives to abandon their heathen ways and embrace Jesus Christ.
 
@@ -209,7 +215,9 @@ Uninvited, and with the help of cannons, guns and bayonets, the Spanish gently p
 
 - <span class=year>1565</span> Miguel Lopez de Legazpi arrives in Cebu with four ships and 380 men and exhort Rajah Tupas at gunpoint to accept Jesus Christ as his savior, in case he might die prematurely from some accident or God knows what. Rajah Tupas sort of agrees.
 
-<!-- - <span class=year>1570</span> Legazpi's men together with their Visayan allies battle Rajah Sulayman of Manila.   -->
+<!--
+- <span class=year>1570</span> Legazpi's men together with their Visayan allies battle Rajah Sulayman of Manila.
+-->
 
 - <span class=year>1574</span> Famished after months of seafaring and looting, Chinese pirate Limahong raids Manila for some decent fried rice and dim sum. He runs amok after finding nothing but sinigang and pinakbet.
 
@@ -235,7 +243,7 @@ Uninvited, and with the help of cannons, guns and bayonets, the Spanish gently p
 
 ### Filipino Nationalist Movement (1872-1898)
 
-After 300 years under Spanish oppression, Filipinos slowly wake up to the fact that they can probably do the oppression of their fellow Filipinos just as well, maybe even better.
+After 300 years under Spanish yoke, Filipinos come to realize that they can probably do the oppression of their fellow Filipinos just as well as the Spanish, maybe even better.
 
 - <span class=year>1872</span> Hidebound and petty Spanish authorities execute the Filipino priests Gomburza (Gomez, Burgos, Zamora) for having a memorable portmanteau, which Filipino schoolchildren use as mnemonic for pop quizzes.
 
@@ -257,25 +265,25 @@ After 300 years under Spanish oppression, Filipinos slowly wake up to the fact t
 
 - <span class=year>1897 March</span> Emilio Aguinaldo, the original *Trapo*, hijacks the Katipunan at the Tejeros Convention by bribing everyone in attendance, setting the tone of Philippine politics for the next hundred years.
 
-- <span class=year>1897 December</span> Katipunan and Spanish authorities sign the Pact of Biak-na-Bato, awarding the Filipinos’ revolutionary efforts with an all-expense paid trip to Hong Kong.
+- <span class=year>1897 December</span> Katipunan and Spanish authorities sign the Pact of Biak-na-Bato, awarding the Filipinos’ revolutionary efforts with an all-expense-paid trip to Hong Kong.
 
 - <span class=year>1898 April</span> The Americans, feeling left out of the European-led conquering and colonizing activities and casting covetous eyes on Cuba, Guam and Philippines, declares war on Spain.
 
 - <span class=year>1898 May</span> Freshly rested, Aguinaldo and his men return to Cavite with a new flag which they bought from Alibaba for 10 yuan and a shipful of stuffed toys from Hong Kong Disneyland.
 
-- <span class=year>1898 June</span> Aguinaldo elects himself President and declares independence from Spain, completely oblivious to the fact that Spain has already sold the Philippines to the US just the day before.
+## 3. American Rule (1898-1946)
+
+Without being asked, the Americans muscle in and assume the role of mentoring their Little Brown Brothers--after they massacre some of them first.
+
+- <span class=year>1898 June</span> Aguinaldo elects himself President and declares independence from Spain, except that Spain has already sold the Philippines to the US just the day before.
 
 - <span class=year>1898 June</span> The last fifty Spanish soldiers in the country barricade themselves in a church in Baler, Quezon to shoot the movie *Our Last Men in the Philippines*, which will later win the Goya Awards for best costume.
-
-## American Rule (1898-1946)
-
-Americans try to educate their Little Brown Brothers after they massacre some of them first.
 
 - <span class=year>1898 October</span> *Manila Times* publishes its first issue. Columnist Rigoberto Tiglao lambasts the Spanish and Americans and urge the Katipuneros to throw their lot with the Chinese.
 
 - <span class=year>1899 June</span> Men loyal to Aguinaldo assassinate Antonio Luna in Cabanatuan City. Rumor has it that Luna is loathed by Aguinaldo, who has always wanted to grow a bushy mustache but can't.
 
-- <span class=year>1899 December</span> Boy General Gregorio Del Pilar, who is only seven at the time, is killed in Battle of Tirad Pass against the Americans.
+- <span class=year>1899 December</span> Boy General Gregorio Del Pilar, who is only seven at the time, is killed in the Battle of Tirad Pass against the Americans.
 
 - <span class=year>1901 March</span> Through an elaborate ruse involving dancing clowns from Macabebe, Pampanga, US forces capture Aguinaldo, who proclaims he was on the Americans’ side all along.
  
@@ -285,25 +293,29 @@ Americans try to educate their Little Brown Brothers after they massacre some of
 
 - <span class=year>1939</span> Severely overestimating the mental capacity of the Filipino voter, President Manuel Quezon declares "I would rather have a government run like hell by Filipinos than a government run like heaven by Americans".
 
-### Japanese Occupation (1941-1945)
+## 4. Japanese Occupation (1941-1945)
 
-Japan entice the Filipinos to join its Greater East Asia Co-Prosperity Sphere alliance by bombing and bayonetting everyone to submission.
+Japan entice the Filipinos to join its Greater East Asia Co-Prosperity Sphere by bayonetting everyone to submission.
 
-- <span class=year>1941</span> Japanese troops land in the Philippines, giving the Filipinos their first taste of Hello Kitty toys and hentai porn. Filipinos opposed to deviant pornography retreat to Corregidor to make a last stand.
+- <span class=year>1941</span> Japanese troops land in the Philippines, giving the Filipinos their first taste of *kawaii* Hello Kitty toys and hentai porn. Filipinos opposed to deviant pornography retreat to Corregidor to make a last stand.
  
 - <span class=year>1942</span> General Douglas MacArthur evades his ninja assassins and escapes to Australia, uttering the iconic words "I'll be back."
- 
+
+<!-- 
+- <span class=year>1942</span> Bataan Death March
+-->
+
 - <span class=year>1944</span> General Tomoyuki Yamashita buries 10,000 Pokéballs all over the country and dares the Filipinos to try find them all. Those who can't are bayonetted on the spot.
   
 - <span class=year>1945</span> Awakened by the atomic bombings of Hiroshima and Nagasaki, a disoriented Godzilla mistakenly reduces Manila to rubbles instead of Tokyo.
  
 - <span class=year>1946</span> Yamashita is hanged by the American weaboos occupying Manila after refusing to reveal the locations of all Pokéballs.
  
-## Philippine Independence (1946-present)
+## 5. Independence (1946-present)
 
-The Filipinos finally get free reign to run the country like hell.
+Unshackled from foreign intervention, Filipinos finally get free reign to run the country like hell and fuck with their fellow Filipinos.
 
-- <span class=year>1946</span> The US unceremoniously dumps Philippines and buggers off to Japan, leaving the Philippines alone to clean up their gigantic mess. Japan donates 10,000 brooms and 5,000 mops as war reparation.
+- <span class=year>1946</span> The US unceremoniously dumps the Philippines and buggers off to Japan, leaving the Filipinos alone to clean up their gigantic mess. Japan donates 10,000 brooms and 5,000 mops as war reparation.
 
 - <span class=year>1950</span> Hundreds of Philippine soldiers join the American-led forces in the Korean War. Most will return home with PTSD and a severe addiction to Korean dramas.
 
@@ -311,7 +323,7 @@ The Filipinos finally get free reign to run the country like hell.
  
 - <span class=year>1965</span> Ferdinand Marcos, descendant of Ferdinand Magellan, is elected president.
 
-- <span class=year>1967</span> After the Philippines’ nonstop badgering that went on for years, Thailand, Singapore, Malaysia and Indonesia finally agree to form the Association of Southeast Asian Nations (ASEAN) just to shut her up.
+- <span class=year>1967</span> After enduring the Philippines’ nonstop badgering, Thailand, Singapore, Malaysia and Indonesia finally agree to form the Association of Southeast Asian Nations (ASEAN) just to shut her up. Philippines immediately proposes *paluwagan* to her new best friends.
  
 - <span class=year>1968</span> Jose Maria Sison founds the Communist Party of the Philippines (CPP) whose aim is to distribute the growing misery equally among the Filipino bourgeoisie and proletariat alike.
  
@@ -323,36 +335,42 @@ The Filipinos finally get free reign to run the country like hell.
  
 - <span class=year>1973</span> First Lady Imelda Marcos buys her 17th pair of Hermes shoes in Paris, telling her husband "This is the last, dear, I promise."
  
+- <span class=year>1974</span> President Marcos realize the Philippines possesses a valuable and virtually inexhaustible commodity for trade: Filipinos. He creates government agencies to select and certify the best varieties for export, first to the Middle East, then to the rest of the world.
+
 - <span class=year>1974</span> Hiroo Onoda, the first-ever *hikikomori*, comes out of his cave and surrenders in Lubang Island, Mindoro. His hideout reveals World War II-era rifles, discarded cups of instant ramen, and a massive collection of manga.
- 
+
 - <span class=year>1976</span> Muammar Gaddafi and Imelda Marcos perform a week-long bed-in in Libya to protest the ongoing conflict in Muslim Mindanao, resulting in the Tripoli Agreement.
  
 - <span class=year>1977</span> Mae Anne Padolina, the first Japayuki, departs for the glorious Land of the Rising Sun to perform tinikling and maglalatik for cultural events. Tens of thousand others enroll in folk dance classes.
 
-- <span class=year>1978</span> Folk-singer Fredie Aguilar releases the iconic song "Anak Ka Ng Ina Mo" which is eventually shortened to "Anak" for marketing purposes. It is eventually translated and sung to a billion languages.
+- <span class=year>1978</span> Folk-singer Fredie Aguilar releases the iconic song "Anak Ka ng Ina Mo" which is eventually shortened to "Anak" for marketing purposes. It is eventually translated and sung to a billion languages.
 
 - <span class=year>1980</span> Action-fantasy film *Ang Panday* starring Fernando Poe, Jr. debuts on IMAX theaters, sporting cutting-edge CGI and 4D-surround sound.
  
-- <span class=year>1981</span> Giant mechs and communist traitors successfully expelled, President Marcos lifts Martial Law.
+- <span class=year>1981</span> Giant mechs and communist rebels successfully repelled, President Marcos lifts Martial Law.
  
 - <span class=year>1983</span> A motley crue of NPA hitmen, military SWAT soldiers and CIA operatives assassinate Senator Benigno "Ninoy" Aquino Jr. from fifty different angles after the deducing the airport where his plane will land from his name.
  
 - <span class=year>1986</span> Marcos ally General Favian Fer discovers racy love letters between Defense Secretary Juan Ponce Enrile and RAM leader Gregorio Honasan and orders them arrested. The lovers elope to Camp Crame on EDSA.
  
-- <span class=year>1986</span> Trapped in a massive traffic in EDSA, thousands of commuters decide to leave their buses and  walk home, clogging the highway and accidentally triggering the People Power Revolution that drive President Marcos from power. Corazon "Heart" Aquino becomes president.
+- <span class=year>1986</span> Trapped in a massive traffic in EDSA, tens of thousands of commuters decide to leave their buses and walk home, clogging the highway and accidentally triggering the People Power Revolution that drive President Marcos from power. Corazon "Heart" Aquino becomes president.
 
-<!-- - <span class=year>1991</span> Mt. Pinatubo in Luzon violently erupts, ejecting enormous amounts of ash and gas high into the atmosphere and cooling the planet for the next two years. -->
+<!--
+- <span class=year>1991</span> Mt. Pinatubo in Luzon violently erupts, ejecting enormous amounts of ash and gas high into the atmosphere and cooling the planet for the next two years.
+-->
  
-- <span class=year>1994</span> Philippines makes its first connection to the Internet, when an unidentified employee of the Philippine Network Foundation downloads a topless photo of Tracy Lords from a server in CERN.
+- <span class=year>1994</span> Philippines makes its first connection to the Internet, when an employee of the Philippine Network Foundation downloads a topless photo of Tracy Lords from a server in CERN.
 
 - <span class=year>2006</span> Sportsman Leo Oracion makes history as the 1,874th person to climb Mount Everest.
 
-<!-- - <span class=year>2009</span> Maguindanao Massacre -->
+<!--
+- <span class=year>2009</span> Maguindanao Massacre
+-->
 
 - <span class=year>2010</span> The Manila Hostage Crisis inside a tourist bus comes to a successful end when members of an elite SWAT team shoot the hostage-taker and all hostages that were not already dead.
 
-- <span class=year>2013</span> Department of Education introduces the K-12 Program, through which basic education that can be taught in 10 years are stretched to 12 to enable Filipino schoolchildren to have more time each day for social media.
+- <span class=year>2013</span> Department of Education introduces the K-12 Program, through which basic education that can be taught in 10 years is stretched to 12 to enable Filipino schoolchildren to have more time each day for social media.
 
-- <span class=year>2015</span> The National Mapping and Resource Information Authority announces it has found the 400 islands that the country feared were lost after they were blown away by typhoon Yolanda.
+- <span class=year>2015</span> The National Mapping and Resource Information Authority announces it has finally located the 400 islands that the country feared were lost after they were blown away by typhoon Yolanda.
 
-<!-- - <span class=year>2016</span> President Rodrigo Duterte announces War on Drugs and provides the Philippine National Police with tanks, bombs and guns to pulverize -->
+- <span class=year>2016</span> President Rodrigo Duterte announces an all-out War on Drugs and provides the police with tanks, bombs and guns to shoot, burn, crush, and force to submission all kinds of drugs wherever they see them. Tens of thousands of Filipino bystanders die from stray bullets.
