@@ -177,11 +177,10 @@ Colony of Spain for more than three hundred years and of America for another fif
 
 Here is a comprehensive timeline of Philippine history to understand how we have come to this present mess.
 
-1. [Pre-Colonial Period](#1-pre-colonial-period)
-2. [Spanish Rule](#2-spanish-rule) (with "[Nationalist Movement](#philippine-nationalist-movement) subsection)
-3. [American Rule](#3-american-rule)
-4. [Japanese Occupation](#4-japanese-occupation)
-5. [Independence](#5-independence)
+1. [Pre-Colonial Period](#pre-colonial-period)
+2. [Spanish Rule](#spanish-rule-1521-1898) (with [Nationalist Movement](#filipino-nationalist-movement-1872-1898) subsection)
+3. [American Rule](#american-rule-1898-1946) (with [Japanese Occupation](#japanese-occupation-1941-1945) subsection)
+4. [Independence](#independence-1946-present)
 
 ## 1. Pre-Colonial Period
 
@@ -203,7 +202,7 @@ Here is a comprehensive timeline of Philippine history to understand how we have
 
 - <span class=year>1300</span> Motorcycle-riding Indian usurers, frustraded by the Filipino natives’ propensity to forget their debts, introduce the Brahmic writing script Baybayin to the islands to have a clearer record of who owes how much.
 
-## 2. Spanish Rule (1521-1898)
+## Spanish Rule (1521-1898)
 
 Uninvited, and with the help of cannons, guns and bayonets, the Spanish gently persuade the natives to abandon their heathen ways and embrace Jesus Christ.
 
@@ -271,7 +270,7 @@ After 300 years under Spanish yoke, Filipinos come to realize that they can prob
 
 - <span class=year>1898 May</span> Freshly rested, Aguinaldo and his men return to Cavite with a new flag which they bought from Alibaba for 10 yuan and a shipful of stuffed toys from Hong Kong Disneyland.
 
-## 3. American Rule (1898-1946)
+## American Rule (1898-1946)
 
 Without being asked, the Americans muscle in and assume the role of mentoring their Little Brown Brothers--after they massacre some of them first.
 
@@ -293,7 +292,7 @@ Without being asked, the Americans muscle in and assume the role of mentoring th
 
 - <span class=year>1939</span> Severely overestimating the mental capacity of the Filipino voter, President Manuel Quezon declares "I would rather have a government run like hell by Filipinos than a government run like heaven by Americans".
 
-## 4. Japanese Occupation (1941-1945)
+### Japanese Occupation (1941-1945)
 
 Japan entice the Filipinos to join its Greater East Asia Co-Prosperity Sphere by bayonetting everyone to submission.
 
@@ -309,11 +308,11 @@ Japan entice the Filipinos to join its Greater East Asia Co-Prosperity Sphere by
   
 - <span class=year>1945</span> Awakened by the atomic bombings of Hiroshima and Nagasaki, a disoriented Godzilla mistakenly reduces Manila to rubbles instead of Tokyo.
  
-- <span class=year>1946</span> Yamashita is hanged by the American weaboos occupying Manila after refusing to reveal the locations of all Pokéballs.
- 
-## 5. Independence (1946-present)
+## Independence (1946-present)
 
 Unshackled from foreign intervention, Filipinos finally get free reign to run the country like hell and fuck with their fellow Filipinos.
+
+- <span class=year>1946</span> Yamashita is hanged by the American weaboos occupying Manila after refusing to reveal the locations of all Pokéballs.
 
 - <span class=year>1946</span> The US unceremoniously dumps the Philippines and buggers off to Japan, leaving the Filipinos alone to clean up their gigantic mess. Japan donates 10,000 brooms and 5,000 mops as war reparation.
 
@@ -323,7 +322,7 @@ Unshackled from foreign intervention, Filipinos finally get free reign to run th
  
 - <span class=year>1965</span> Ferdinand Marcos, descendant of Ferdinand Magellan, is elected president.
 
-- <span class=year>1967</span> After enduring the Philippines’ nonstop badgering, Thailand, Singapore, Malaysia and Indonesia finally agree to form the Association of Southeast Asian Nations (ASEAN) just to shut her up. Philippines immediately proposes *paluwagan* to her new best friends.
+- <span class=year>1967</span> After enduring the Philippines’ nonstop badgering, Thailand, Singapore, Malaysia and Indonesia finally agree to form the Association of Southeast Asian Nations (ASEAN) just to shut her up. The Philippines immediately proposes *paluwagan* to her new best friends.
  
 - <span class=year>1968</span> Jose Maria Sison founds the Communist Party of the Philippines (CPP) whose aim is to distribute the growing misery equally among the Filipino bourgeoisie and proletariat alike.
  
