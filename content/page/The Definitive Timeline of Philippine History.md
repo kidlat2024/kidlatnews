@@ -194,17 +194,17 @@ Here is a comprehensive timeline of Philippine history to understand how we have
 
 - <span class=year>3,000 BCE</span> Standing on the coast of mainland Asia, Moana and her Austronesian kin embark on a great journey to colonize each and every island of Southeast Asia and the Pacific Ocean. The laziest and least adventurous of them settle on the first islands they see: the Philippine archipelago.
 
-- <span class=year>900 CE</span> Hindu-Buddhist polity of Tondo is founded on the northern shores of Pasig River in Luzon. The settlers later build the Smokey Mountain, the biggest landfill in the Srivijavan Empire where territories near and far can dump their trash.
+- <span class=year>900 CE</span> Hindu-Buddhist barangay of Tondo is founded on the northern shores of Pasig River in Luzon. The settlers later build the Smokey Mountain, the biggest landfill in the Srivijayan Empire where territories near and far can dump their trash.
 
 - <span class=year>1240</span> Arabs introduce Islam to Sulu, where it spread througout the archipelago. Native Filipinos who keep several wives and slaves now have a religious justification for it.
 
 - <span class=year>1258</span> Muslim principality of Manila is founded on the southern shores of Pasig River. The name comes from the manila folders and envelopes which grow on manila trees abundant in the area, trade in which brings modest prosperity to the fledgling settlement.
 
-- <span class=year>1300</span> Motorcycle-riding Indian usurers, frustraded by the Filipino natives’ propensity to forget their debts, introduce the Brahmic writing script Baybayin to the islands to have a clearer record of who owes how much.
+- <span class=year>1300</span> Frustrated by the Filipino natives’ propensity to forget their debts, moped-riding Bumbays introduce the Brahmic writing script Baybayin to the islands to have a paper record of who owes how much.
 
 ## Spanish Rule (1521-1898)
 
-Uninvited, and with the help of cannons, guns and bayonets, the Spanish gently persuade the natives to abandon their heathen ways and embrace Jesus Christ.
+Uninvited, and with the help of cannons, guns and bayonets, the Spanish gently persuade the natives to abandon their heathen ways and embrace Jesus Christ. They also do some killing, stealing, land-grabbing, raping and torturing on the side.
 
 - <span class=year>1521 March</span> Out of nowhere, explorer Ferdinand Magellan lands on Limasawa Island in Southern Leyte and invites the natives to a bible study. The natives have no idea what on Earth is going on but they join anyway because there are free snacks.
 
@@ -334,11 +334,11 @@ Unshackled from foreign intervention, Filipinos finally get free reign to run th
  
 - <span class=year>1973</span> First Lady Imelda Marcos buys her 17th pair of Hermes shoes in Paris, telling her husband "This is the last, dear, I promise."
  
-- <span class=year>1974</span> President Marcos realize the Philippines possesses a valuable and virtually inexhaustible commodity for trade: Filipinos. He creates government agencies to select and certify the best varieties for export, first to the Middle East, then to the rest of the world.
+- <span class=year>1974</span> President Marcos realizes the country possesses a valuable and virtually inexhaustible commodity for trade: Filipinos. He creates government agencies to select and certify the best varieties for export, first to the Middle East, then to the rest of the world.
 
 - <span class=year>1974</span> Hiroo Onoda, the first-ever *hikikomori*, comes out of his cave and surrenders in Lubang Island, Mindoro. His hideout reveals World War II-era rifles, discarded cups of instant ramen, and a massive collection of manga.
 
-- <span class=year>1976</span> Muammar Gaddafi and Imelda Marcos perform a week-long bed-in in Libya to protest the ongoing conflict in Muslim Mindanao, resulting in the Tripoli Agreement.
+- <span class=year>1976</span> Muammar Gaddafi and Imelda Marcos stage a week-long bed-in in Libya to protest the ongoing conflict in Muslim Mindanao, resulting in the Tripoli Agreement.
  
 - <span class=year>1977</span> Mae Anne Padolina, the first Japayuki, departs for the glorious Land of the Rising Sun to perform tinikling and maglalatik for cultural events. Tens of thousand others enroll in folk dance classes.
 
@@ -360,16 +360,16 @@ Unshackled from foreign intervention, Filipinos finally get free reign to run th
  
 - <span class=year>1994</span> Philippines makes its first connection to the Internet, when an employee of the Philippine Network Foundation downloads a topless photo of Tracy Lords from a server in CERN.
 
-- <span class=year>2006</span> Sportsman Leo Oracion makes history as the 1,874th person to climb Mount Everest.
+- <span class=year>2006</span> Mountaineer Leo Oracion makes history as the 1,874th person to climb Mount Everest.
 
 <!--
 - <span class=year>2009</span> Maguindanao Massacre
 -->
 
-- <span class=year>2010</span> The Manila Hostage Crisis inside a tourist bus comes to a successful end when members of an elite SWAT team shoot the hostage-taker and all hostages that were not already dead.
+- <span class=year>2010</span> The Manila Hostage Crisis inside a tourist bus comes to a successful end when members of an elite SWAT team shoot the hostage-taker and all hostages that are not already dead.
 
 - <span class=year>2013</span> Department of Education introduces the K-12 Program, through which basic education that can be taught in 10 years is stretched to 12 to enable Filipino schoolchildren to have more time each day for social media.
 
 - <span class=year>2015</span> The National Mapping and Resource Information Authority announces it has finally located the 400 islands that the country feared were lost after they were blown away by typhoon Yolanda.
 
-- <span class=year>2016</span> President Rodrigo Duterte announces an all-out War on Drugs and provides the police with tanks, bombs and guns to shoot, burn, crush, and force to submission all kinds of drugs wherever they see them. Tens of thousands of Filipino bystanders die from stray bullets.
+- <span class=year>2016</span> President Rodrigo Duterte announces an all-out War on Drugs and provides the police with tanks, bombs and guns to shoot on sight all kinds of illicit substances wherever they see them. Tens of thousands of Filipino bystanders die from stray bullets.
