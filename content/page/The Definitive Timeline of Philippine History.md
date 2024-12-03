@@ -184,9 +184,7 @@ Here is a comprehensive timeline of Philippine history to understand how we have
 
 ## Pre-Colonial Period (Prehistory-1521)
 
-<!--
-- <span class=year>50,000 BC</span>Mrs. *Homo luzonensis*, who lives in a modest cave in northern Cagayan Valley, nags her husband from sunrise to sundown for more fruits and nuts.
--->
+- <span class=year>50,000 BCE</span> Mrs. *Homo luzonensis*, a 4-foot-8-inch pygmy lady who lives in a musky cave in northern Cagayan Valley, nags her husband incessantly for more fruits and nuts, and a nice little bungalow to live in.
 
 - <span class=year>40,000 BCE</span> Escaping the tiger-infested jungles of China, Nognog and his Negrito clan arrive on the islands after paddling across the Batanes Strait. They find the islands’ jungles relatively pleasant, with only giant pythons to deal with.
 
@@ -194,7 +192,7 @@ Here is a comprehensive timeline of Philippine history to understand how we have
 
 - <span class=year>3,000 BCE</span> Standing on the coast of mainland Asia, Moana and her Austronesian kin embark on a great journey to colonize each and every island of Southeast Asia and the Pacific Ocean. The laziest and least adventurous of them settle on the first islands they see: the Philippine archipelago.
 
-- <span class=year>900 CE</span> Hindu-Buddhist barangay of Tondo is founded on the northern shores of Pasig River in Luzon. The settlers later build the Smokey Mountain, the biggest landfill in the Srivijayan Empire where territories near and far can dump their trash.
+- <span class=year>900 CE</span> Hindu-Buddhist barangay of Tondo is founded on the northern shores of Pasig River in Luzon. The settlers later build the fabled Smokey Mountain, the biggest landfill in the Srivijayan Empire where territories near and far can dump their trash.
 
 - <span class=year>1240</span> Arabs introduce Islam to Sulu, where it spread througout the archipelago. Native Filipinos who keep several wives and slaves now have a religious justification for it.
 
@@ -272,7 +270,7 @@ After 300 years under Spanish yoke, Filipinos come to realize that they can prob
 
 ## American Rule (1898-1946)
 
-Without being asked, the Americans muscle in and assume the role of mentoring their Little Brown Brothers--after they massacre some of them first.
+Americans muscle in and assume the role of mentoring their Little Brown Brothers--after they massacre some of them first.
 
 - <span class=year>1898 June</span> Aguinaldo elects himself President and declares independence from Spain, except that Spain has already sold the Philippines to the US just the day before.
 
@@ -288,9 +286,9 @@ Without being asked, the Americans muscle in and assume the role of mentoring th
  
 - <span class=year>1907</span> Americans trick Macario Sakay and his heavy metal band Tagalog Republic to perform in Cavite, and arrest all members when they can't play kundiman songs. Sakay is eventually hanged and buried with his beloved Kirk Hammett signature ESP guitar.
  
-- <span class=year>1908</span> University of the Philippines is established in Manila. The first batch of students cut classes and stage demonstrations on Taft Avenue shouting "Down with the Aguinaldo-US dictatorship!"
+- <span class=year>1908</span> University of the Philippines is established in Manila. The first batch of students cut classes and stage demonstrations on Taft Avenue shouting "Down with the US-Aguinaldo dictatorship!" and "Asia for Asians!"
 
-- <span class=year>1939</span> Severely overestimating the mental capacity of the Filipino voter, President Manuel Quezon declares "I would rather have a government run like hell by Filipinos than a government run like heaven by Americans".
+- <span class=year>1939</span> Anticipating the likes of such brilliant leaders as Marcos, Estrada and Duterte, strangely prescient President Manuel Quezon declares "I would rather have a government run like hell by Filipinos than a government run like heaven by Americans."
 
 ### Japanese Occupation (1941-1945)
 
@@ -306,11 +304,11 @@ Japan entice the Filipinos to join its Greater East Asia Co-Prosperity Sphere by
 
 - <span class=year>1944</span> General Tomoyuki Yamashita buries 10,000 Pokéballs all over the country and dares the Filipinos to try find them all. Those who can't are bayonetted on the spot.
   
-- <span class=year>1945</span> Awakened by the atomic bombings of Hiroshima and Nagasaki, a disoriented Godzilla mistakenly reduces Manila to rubbles instead of Tokyo.
+- <span class=year>1945</span> Awakened by the atomic bombings of Hiroshima and Nagasaki, a disoriented Godzilla mistakenly lumbers to Manila and reduces the city to rubble instead of Tokyo.
  
 ## Independence (1946-present)
 
-Unshackled from foreign intervention, Filipinos finally get free reign to run the country like hell.
+Unshackled from foreign intervention, Filipinos finally get free rein to run the country like hell.
 
 - <span class=year>1946</span> Yamashita is hanged by the American weaboos occupying Manila after refusing to reveal the locations of all Pokéballs.
 
@@ -334,7 +332,7 @@ Unshackled from foreign intervention, Filipinos finally get free reign to run th
  
 - <span class=year>1973</span> First Lady Imelda Marcos buys her 17th pair of Hermes shoes in Paris, telling her husband "This is the last, dear, I promise."
  
-- <span class=year>1974</span> President Marcos realizes the country possesses a valuable and virtually inexhaustible commodity for trade: Filipinos. He creates government agencies to select and certify the best varieties for export, first to the Middle East, then to the rest of the world.
+- <span class=year>1974</span> Marcos realizes the country has a valuable and virtually inexhaustible commodity for trade: Filipinos. He creates government agencies to select and certify the best varieties for export, first to the Middle East, then to the rest of the world.
 
 - <span class=year>1974</span> Hiroo Onoda, the first-ever *hikikomori*, comes out of his cave and surrenders in Lubang Island, Mindoro. His hideout reveals World War II-era rifles, discarded cups of instant ramen, and a massive collection of manga.
 
@@ -354,13 +352,11 @@ Unshackled from foreign intervention, Filipinos finally get free reign to run th
  
 - <span class=year>1986</span> Trapped in a massive traffic in EDSA, tens of thousands of commuters decide to leave their buses and walk home, clogging the highway and accidentally triggering the People Power Revolution that drive President Marcos from power. Corazon "Heart" Aquino becomes president.
 
-<!--
-- <span class=year>1991</span> Mt. Pinatubo in Luzon violently erupts, ejecting enormous amounts of ash and gas high into the atmosphere and cooling the planet for the next two years.
--->
- 
+- <span class=year>1991</span> Using highly sophisticated equipment and their senses of sight and hearing, scientists at the Philippine Institute of Volcanology and Seismology (PHILVOCS) predict the violent eruption of Mt. Pinatubo just ten seconds after the volcano shoots a massive ash column 20km into the atmosphere.
+
 - <span class=year>1994</span> Philippines makes its first connection to the Internet, when an employee of the Philippine Network Foundation downloads a topless photo of Tracy Lords from a server in CERN.
 
-- <span class=year>2006</span> Mountaineer Leo Oracion makes history as the 1,874th person to climb Mount Everest.
+- <span class=year>2006</span> Filipino mountaineer Leo Oracion makes history as the 1,874th person to climb Mount Everest.
 
 <!--
 - <span class=year>2009</span> Maguindanao Massacre
