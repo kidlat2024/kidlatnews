@@ -184,7 +184,7 @@ Here is a comprehensive timeline of Philippine history to understand how we have
 
 ## Pre-Colonial Period (Prehistory-1521)
 
-- <span class=year>50,000 BCE</span> Mrs. *Homo luzonensis*, a 4-foot-8-inch pygmy lady who lives in a musky cave in northern Cagayan Valley, nags her husband incessantly for more fruits and nuts, and a nice little bungalow to live in.
+- <span class=year>50,000 BCE</span> Mrs. *Homo luzonensis*, a 4-foot-8-inch pygmy lady who lives in a muggy cave in northern Cagayan Valley, nags her husband incessantly for more fruits and nuts to eat, and a nice little bungalow to live in.
 
 - <span class=year>40,000 BCE</span> Escaping the tiger-infested jungles of China, Nognog and his Negrito clan arrive on the islands after paddling across the Batanes Strait. They find the islands’ jungles relatively pleasant, with only giant pythons to deal with.
 
@@ -192,13 +192,13 @@ Here is a comprehensive timeline of Philippine history to understand how we have
 
 - <span class=year>3,000 BCE</span> Standing on the coast of mainland Asia, Moana and her Austronesian kin embark on a great journey to colonize each and every island of Southeast Asia and the Pacific Ocean. The laziest and least adventurous of them settle on the first islands they see: the Philippine archipelago.
 
-- <span class=year>900 CE</span> Hindu-Buddhist barangay of Tondo is founded on the northern shores of Pasig River in Luzon. The settlers later build the fabled Smokey Mountain, the biggest landfill in the Srivijayan Empire where territories near and far can dump their trash.
+- <span class=year>800 CE</span> Hindu-Buddhist barangay of Tondo is founded on the northern shores of Pasig River in Luzon. The settlers later build the fabled Smokey Mountain, the biggest landfill in the Srivijayan Empire where territories near and far can dump their trash.
+
+- <span class=year>900</span> Frustrated by the Filipino natives’ propensity to forget their debts, moped-riding Bumbays introduce the Brahmic writing script Kawi to the islands to have a paper record of who owes what.
 
 - <span class=year>1240</span> Arabs introduce Islam to Sulu, where it spread througout the archipelago. Native Filipinos who keep several wives and slaves now have a religious justification for it.
 
 - <span class=year>1258</span> Muslim principality of Manila is founded on the southern shores of Pasig River. The name comes from the manila folders and envelopes which grow on manila trees abundant in the area, trade in which brings modest prosperity to the fledgling settlement.
-
-- <span class=year>1300</span> Frustrated by the Filipino natives’ propensity to forget their debts, moped-riding Bumbays introduce the Brahmic writing script Baybayin to the islands to have a paper record of who owes how much.
 
 ## Spanish Rule (1521-1898)
 
@@ -326,13 +326,13 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
  
 - <span class=year>1969</span> Bernabe Buscayno organizes the New People's Army (NPA), the CPP's armed wing, to give their message of communist dystopia more bite.
  
-- <span class=year>1971</span> Nur Misuari and Muslim leaders in Mindanao establish the Moro National Liberation Front, aiming to create a separate Islamic country in southern Philippines, where they can do the exploiting of their fellow Muslims instead of the Christian leaders in Manila.
+- <span class=year>1971</span> Nur Misuari and Muslim leaders in Mindanao establish the Moro National Liberation Front, aiming to create a separate Islamic country in southern Philippines where they can do the exploiting of their fellow Muslims instead of the Christian leaders in Manila.
  
 - <span class=year>1972</span> Super Robots Voltes V and Mazinger Z attack Manila with the help of local Filipino communist cadres; President Marcos places country under Martial Law.
  
-- <span class=year>1973</span> First Lady Imelda Marcos buys her 17th pair of Hermes shoes in Paris, telling her husband "This is the last, dear, I promise."
+- <span class=year>1973</span> First Lady Imelda Marcos buys her 37th pair of Hermes shoes in Paris, telling her husband "This is the last, dear, I promise."
  
-- <span class=year>1974</span> Marcos realizes the country has a valuable and virtually inexhaustible commodity for trade: Filipinos. He creates government agencies to select and certify the best varieties for export, first to the Middle East, then to the rest of the world.
+- <span class=year>1974</span> Marcos realizes the country has a valuable and virtually inexhaustible commodity for trade: Filipinos. He creates government agencies to select the best varieties for export, first to the Middle East, then to the rest of the world.
 
 - <span class=year>1974</span> Hiroo Onoda, the first-ever *hikikomori*, comes out of his cave and surrenders in Lubang Island, Mindoro. His hideout reveals World War II-era rifles, discarded cups of instant ramen, and a massive collection of manga.
 
@@ -352,9 +352,9 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
  
 - <span class=year>1986</span> Trapped in a massive traffic in EDSA, tens of thousands of commuters decide to leave their buses and walk home, clogging the highway and accidentally triggering the People Power Revolution that drive President Marcos from power. Corazon "Heart" Aquino becomes president.
 
-- <span class=year>1991</span> Using highly sophisticated equipment and their senses of sight and hearing, scientists at the Philippine Institute of Volcanology and Seismology (PHILVOCS) predict the violent eruption of Mt. Pinatubo just ten seconds after the volcano shoots a massive ash column 20km into the atmosphere.
+- <span class=year>1991</span> Using sophisticated equipment and their advanced observation skills, scientists at the Philippine Institute of Volcanology and Seismology (PHILVOCS) accurately predict the eruption of Mt. Pinatubo just ten seconds after the volcano shoots a massive ash column 20km into the atmosphere.
 
-- <span class=year>1994</span> Philippines makes its first connection to the Internet, when an employee of the Philippine Network Foundation downloads a topless photo of Tracy Lords from a server in CERN.
+- <span class=year>1994</span> Philippines makes its first connection to the Internet when an employee of the Philippine Network Foundation downloads a topless photo of Tracy Lords from a server in CERN.
 
 - <span class=year>2006</span> Filipino mountaineer Leo Oracion makes history as the 1,874th person to climb Mount Everest.
 
@@ -364,7 +364,7 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
 
 - <span class=year>2010</span> The Manila Hostage Crisis inside a tourist bus comes to a successful end when members of an elite SWAT team shoot the hostage-taker and all hostages that are not already dead.
 
-- <span class=year>2013</span> Department of Education introduces the K-12 Program, through which basic education that can be taught in 10 years is stretched to 12 to enable Filipino schoolchildren to have more time each day for social media.
+- <span class=year>2013</span> The Department of Education introduces the K-12 Program through which basic education that can be taught in 10 years is stretched to 12 to enable Filipino schoolchildren to have more time each day for social media.
 
 - <span class=year>2015</span> The National Mapping and Resource Information Authority announces it has finally located the 400 islands that the country feared were lost after they were blown away by typhoon Yolanda.
 
