@@ -184,7 +184,7 @@ Here is a comprehensive timeline of Philippine history to understand how we have
 
 ## Pre-Colonial Period (Prehistory-1521)
 
-- <span class=year>50,000 BCE</span> Mrs. *Homo luzonensis*, a 4-foot-8-inch pygmy lady who lives in a muggy cave in northern Cagayan Valley, nags her husband incessantly for more fruits and nuts to eat, and a nice little bungalow to live in.
+- <span class=year>50,000 BCE</span> Mrs. *Homo luzonensis*, a pygmy lady who lives in a muggy cave in northern Cagayan Valley, nags her husband incessantly for more fruits and nuts to eat, and a nice little bungalow to live in.
 
 - <span class=year>40,000 BCE</span> Escaping the tiger-infested jungles of China, Nognog and his Negrito clan arrive on the islands after paddling across the Batanes Strait. They find the islands’ jungles relatively pleasant, with only giant pythons to deal with.
 
@@ -194,7 +194,7 @@ Here is a comprehensive timeline of Philippine history to understand how we have
 
 - <span class=year>800 CE</span> Hindu-Buddhist barangay of Tondo is founded on the northern shores of Pasig River in Luzon. The settlers later build the fabled Smokey Mountain, the biggest landfill in the Srivijayan Empire where territories near and far can dump their trash.
 
-- <span class=year>900</span> Frustrated by the Filipino natives’ propensity to forget their debts, moped-riding Bumbays introduce the Brahmic writing script Kawi to the islands to have a paper record of who owes what.
+- <span class=year>900 CE</span> Frustrated by the Filipino natives’ propensity to forget their debts, moped-riding Bumbays introduce the Brahmic writing script Kawi to the islands to have a paper record of who owes what.
 
 - <span class=year>1240</span> Arabs introduce Islam to Sulu, where it spread througout the archipelago. Native Filipinos who keep several wives and slaves now have a religious justification for it.
 
@@ -286,7 +286,7 @@ Americans muscle in and assume the role of mentoring their Little Brown Brothers
  
 - <span class=year>1907</span> Americans trick Macario Sakay and his heavy metal band Tagalog Republic to perform in Cavite, and arrest all members when they can't play kundiman songs. Sakay is eventually hanged and buried with his beloved Kirk Hammett signature ESP guitar.
  
-- <span class=year>1908</span> University of the Philippines is established in Manila. The first batch of students cut classes and stage demonstrations on Taft Avenue shouting "Down with the US-Aguinaldo dictatorship!" and "Asia for Asians!"
+- <span class=year>1908</span> University of the Philippines is established in Manila. The first batch of students cut classes and stage demonstrations on Taft Avenue shouting "Down with the US-Aguinaldo dictatorship! Asia for Asians!"
 
 - <span class=year>1939</span> Anticipating the likes of such brilliant leaders as Marcos, Estrada and Duterte, strangely prescient President Manuel Quezon declares "I would rather have a government run like hell by Filipinos than a government run like heaven by Americans."
 
@@ -306,13 +306,13 @@ Japan entice the Filipinos to join its Greater East Asia Co-Prosperity Sphere by
   
 - <span class=year>1945</span> Awakened by the atomic bombings of Hiroshima and Nagasaki, a disoriented Godzilla mistakenly lumbers to Manila and reduces the city to rubble instead of Tokyo.
  
+- <span class=year>1945</span> Yamashita is hanged by the American weaboos occupying Manila after he couldn't find the Pokéballs buried under the enormous piles of debris covering the city.
+
 ## Independence (1946-present)
 
 Unshackled from foreign intervention, Filipinos finally get free rein to run the country like hell.
 
-- <span class=year>1946</span> Yamashita is hanged by the American weaboos occupying Manila after refusing to reveal the locations of all Pokéballs.
-
-- <span class=year>1946</span> The US unceremoniously dumps the Philippines and buggers off to Japan, leaving the Filipinos alone to clean up their gigantic mess. Japan donates 10,000 brooms and 5,000 mops as war reparation.
+- <span class=year>1946</span> The US dumps the Philippines and buggers off to Japan, leaving the Filipinos alone to clean up their gigantic mess. Japan donates 10,000 brooms and 5,000 mops as war reparation.
 
 - <span class=year>1950</span> Hundreds of Philippine soldiers join the American-led forces in the Korean War. Most will return home with PTSD and a severe addiction to Korean dramas.
 
@@ -352,7 +352,7 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
  
 - <span class=year>1986</span> Trapped in a massive traffic in EDSA, tens of thousands of commuters decide to leave their buses and walk home, clogging the highway and accidentally triggering the People Power Revolution that drive President Marcos from power. Corazon "Heart" Aquino becomes president.
 
-- <span class=year>1991</span> Using sophisticated equipment and their advanced observation skills, scientists at the Philippine Institute of Volcanology and Seismology (PHILVOCS) accurately predict the eruption of Mt. Pinatubo just ten seconds after the volcano shoots a massive ash column 20km into the atmosphere.
+- <span class=year>1991</span> Using sophisticated equipment and their advanced observation skills, scientists at the Philippine Institute of Volcanology and Seismology (PHILVOCS) accurately predict the violent eruption of Mt. Pinatubo just ten seconds after the volcano shoots a massive ash column 20km into the atmosphere.
 
 - <span class=year>1994</span> Philippines makes its first connection to the Internet when an employee of the Philippine Network Foundation downloads a topless photo of Tracy Lords from a server in CERN.
 
