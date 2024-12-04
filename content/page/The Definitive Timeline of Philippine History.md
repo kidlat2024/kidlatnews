@@ -316,7 +316,7 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
 
 - <span class=year>1950</span> Hundreds of Philippine soldiers join the American-led forces in the Korean War. Most will return home with PTSD and a severe addiction to Korean dramas.
 
-- <span class=year>1957</span> Popular President Ramon Magsaysay dies in a plane crash. Investigations later reveal that the pilot was playing Manhole on a Nintendo Game & Watch while manning the plane's controls.
+- <span class=year>1957</span> Popular President Ramon Magsaysay dies in a plane crash. Investigations reveal that the pilot was playing Manhole on a Nintendo Game & Watch while manning the plane's controls.
  
 - <span class=year>1965</span> Ferdinand Marcos, descendant of Ferdinand Magellan, is elected president.
 
@@ -332,7 +332,7 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
  
 - <span class=year>1973</span> First Lady Imelda Marcos buys her 37th pair of Hermes shoes in Paris, telling her husband "This is the last, dear, I promise."
  
-- <span class=year>1974</span> Marcos realizes the country has a valuable and virtually inexhaustible commodity for trade: Filipinos. He creates government agencies to select the best varieties for export, first to the Middle East, then to the rest of the world.
+- <span class=year>1974</span> The country discovers a valuable and virtually inexhaustible commodity for trade: Filipinos. Marcos creates government agencies to select the most suitable varieties for export, first to the Middle East, then to the rest of the world.
 
 - <span class=year>1974</span> Hiroo Onoda, the first-ever *hikikomori*, comes out of his cave and surrenders in Lubang Island, Mindoro. His hideout reveals World War II-era rifles, discarded cups of instant ramen, and a massive collection of manga.
 
@@ -364,8 +364,18 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
 
 - <span class=year>2010</span> The Manila Hostage Crisis inside a tourist bus comes to a successful end when members of an elite SWAT team shoot the hostage-taker and all hostages that are not already dead.
 
+- <span class=year>2012</span> Philippines lodges protest to China after it discovers several Chinese Coast Guard ships dragging Scarborough Shoal from its usual location near Zambales to a site just 10km from Hainan Island.
+
 - <span class=year>2013</span> The Department of Education introduces the K-12 Program through which basic education that can be taught in 10 years is stretched to 12 to enable Filipino schoolchildren to have more time each day for social media.
 
 - <span class=year>2015</span> The National Mapping and Resource Information Authority announces it has finally located the 400 islands that the country feared were lost after they were blown away by typhoon Yolanda.
 
 - <span class=year>2016</span> President Rodrigo Duterte announces an all-out War on Drugs and provides the police with tanks, bombs and guns to shoot on sight all kinds of illicit substances wherever they see them. Tens of thousands of Filipino bystanders die from stray bullets.
+
+<!--
+- <span class=year>2020</span> Coronavirus
+-->
+
+<!--
+- <span class=year>2021</span> Hidilyn Diaz wins a gold medal at the Women's 55 kg event for weightlifting in Tokyo, Japan during the 2020 Tokyo Olympics.
+-->
