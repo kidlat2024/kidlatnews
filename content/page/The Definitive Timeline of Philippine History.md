@@ -361,7 +361,7 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
  
 - <span class=year>1986</span> Trapped in a massive traffic in EDSA, tens of thousands of commuters decide to leave their buses and walk home, clogging the highway and accidentally triggering the People Power Revolution that drive President Marcos from power. Corazon "Heart" Aquino becomes president.
 
-- <span class=year>1991</span> Using sophisticated equipment and their advanced observation skills, scientists at the Philippine Institute of Volcanology and Seismology (PHILVOCS) accurately predict the violent eruption of Mt. Pinatubo just ten seconds after the volcano shoots a massive ash column 20km into the atmosphere.
+- <span class=year>1991</span> Using their highly developed deduction skills, scientists at the Philippine Institute of Volcanology and Seismology (PHILVOCS) accurately predict the imminent eruption of Mt. Pinatubo after observing the volcano shoot a massive ash column 20km into the atmosphere.
 
 - <span class=year>1994</span> Philippines makes its first connection to the Internet when an employee of the Philippine Network Foundation downloads a topless photo of Tracy Lords from a server in CERN.
 
