@@ -39,6 +39,7 @@ tags:
 - Christian
 - Communist Party of the Philippines
 - Corazon Aquino
+- CPP-NPA
 - Cry of Pugadlawin
 - Cuba
 - Dagohoy Revolt
@@ -67,6 +68,7 @@ tags:
 - Gregorio del Pilar
 - Gregorio Honasan
 - Guam
+- Hainan Island
 - Hello Kitty
 - Hentai
 - Hermes
@@ -90,6 +92,7 @@ tags:
 - Jose Maria Sison
 - Jose Rizal
 - Juan Ponce Enrile
+- K-12 Program
 - Kapre
 - Katipunan
 - Kawi script
@@ -100,6 +103,7 @@ tags:
 - Laguna Copperplate Inscription
 - Land of the Rising Sun
 - Las Islas Filipinas
+- Leo Oracion
 - Leopoldo Salcedo
 - Leyte
 - Limahong
@@ -121,6 +125,7 @@ tags:
 - Mindoro
 - Moana
 - Moro National Liberation Front
+- Mount Pinatubo
 - Muammar Gaddafi
 - Muslim
 - Muslim Mindanao
@@ -139,7 +144,9 @@ tags:
 - Paoay Church
 - Paris
 - People Power Revolution
+- Philippine Institute of Volcanology and Seismology
 - Philippines
+- PHILVOCS
 - Pokéball
 - Proletariat
 - Rajah Sulayman
@@ -151,6 +158,7 @@ tags:
 - Sabah
 - Samar
 - Sangley Rebellion
+- Scarborough Shoal
 - Southeast Asia
 - Spain
 - Sultanate of Sulu
@@ -171,6 +179,7 @@ tags:
 - University of the Philippines
 - Voltes V
 - Weaboo
+- Zambales
 kudlit: ‘single’ “double” eñe
 ---
 Colony of Spain for more than three hundred years and of America for another fifty, the Philippines has had less than a hundred years to put its house in order on its own.
@@ -364,7 +373,7 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
 
 - <span class=year>2010</span> The Manila Hostage Crisis inside a tourist bus comes to a successful end when members of an elite SWAT team shoot the hostage-taker and all hostages that are not already dead.
 
-- <span class=year>2012</span> Philippines lodges protest to China after it discovers several Chinese Coast Guard ships dragging Scarborough Shoal from its usual location near Zambales to a site just 10km from Hainan Island.
+- <span class=year>2012</span> Philippines lodges strong protest to China after it discovers several Chinese Coast Guard ships dragging Scarborough Shoal from its usual location near Zambales to a site just 10km from Hainan Island.
 
 - <span class=year>2013</span> The Department of Education introduces the K-12 Program through which basic education that can be taught in 10 years is stretched to 12 to enable Filipino schoolchildren to have more time each day for social media.
 
