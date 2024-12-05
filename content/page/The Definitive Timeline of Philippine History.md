@@ -8,9 +8,9 @@ date: 2024-11-25
 aliases: "/kidlats-comprehensive-timeline-of-philippine-history/"
 xurl: 
 display_license: true
-attribution: ""
+attribution: "Photos of [Filipinos for export](https://commons.wikimedia.org/wiki/File:Rodrigo_Duterte_and_his_delegation_pose_for_a_photograph_while_on_board_Philippine_Airlines_bound_for_Vietnam_on_September_28.jpg), [Mount Pinatubo](https://commons.wikimedia.org/wiki/File:Pinatubo_Ausbruch_1991.jpg) from Wikimedia."
 images:
-- /kidlat-news-graffiti-600x315.gif
+- /images/filipinos-exported-to-vietnam-aboard-philippine-airlines.gif
 tags:
 - Albania
 - Alibaba
@@ -341,7 +341,9 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
  
 - <span class=year>1973</span> First Lady Imelda Marcos buys her 37th pair of Hermes shoes in Paris, telling her husband "This is the last, dear, I promise."
  
-- <span class=year>1974</span> The country discovers a valuable and virtually inexhaustible commodity for trade: Filipinos. Marcos creates government agencies to select the most suitable varieties for export, first to the Middle East, then to the rest of the world.
+- <span class=year>1974</span> Philippines discovers a valuable and virtually inexhaustible commodity for trade: Filipinos. Marcos creates government agencies to select the most suitable varieties for export, first to the Middle East, then to the rest of the world.
+
+[`Photo: Filipinos being exported to Vietnam aboard Philippine Airlines.`](/images/filipinos-exported-to-vietnam-aboard-philippine-airlines.gif)
 
 - <span class=year>1974</span> Hiroo Onoda, the first-ever *hikikomori*, comes out of his cave and surrenders in Lubang Island, Mindoro. His hideout reveals World War II-era rifles, discarded cups of instant ramen, and a massive collection of manga.
 
@@ -363,7 +365,7 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
 
 - <span class=year>1991</span> Using their highly developed deduction skills, scientists at the Philippine Institute of Volcanology and Seismology (PHILVOCS) accurately predict the imminent eruption of Mt. Pinatubo after observing the volcano shoot a massive ash column 20km into the atmosphere.
 
-[`Photo: PHILVOCS scientists accurately predict Mount Pinatubo eruption after observing its massive ash column.`](/images/mount-pinatubo-shoots-massive-ash-column.gif)
+[`Photo: PHILVOCS scientists predict Mount Pinatubo eruption after observing its massive ash column.`](/images/mount-pinatubo-shoots-massive-ash-column.gif)
 
 - <span class=year>1994</span> Philippines makes its first connection to the Internet when an employee of the Philippine Network Foundation downloads a topless photo of Tracy Lords from a server in CERN.
 
