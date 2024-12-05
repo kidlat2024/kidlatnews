@@ -8,7 +8,7 @@ date: 2024-11-25
 aliases: "/kidlats-comprehensive-timeline-of-philippine-history/"
 xurl: 
 display_license: true
-attribution: "Photos of [Filipinos for export](https://commons.wikimedia.org/wiki/File:Rodrigo_Duterte_and_his_delegation_pose_for_a_photograph_while_on_board_Philippine_Airlines_bound_for_Vietnam_on_September_28.jpg), [Mount Pinatubo](https://commons.wikimedia.org/wiki/File:Pinatubo_Ausbruch_1991.jpg) from Wikimedia."
+attribution: "Photos of [Godzilla](https://commons.wikimedia.org/wiki/File:Godzilla_(1954).jpg), [Filipinos for export](https://commons.wikimedia.org/wiki/File:Rodrigo_Duterte_and_his_delegation_pose_for_a_photograph_while_on_board_Philippine_Airlines_bound_for_Vietnam_on_September_28.jpg), [Mount Pinatubo](https://commons.wikimedia.org/wiki/File:Pinatubo_Ausbruch_1991.jpg) from Wikimedia."
 images:
 - /images/filipinos-exported-to-vietnam-aboard-philippine-airlines.gif
 tags:
@@ -291,6 +291,8 @@ Americans muscle in and assume the role of mentoring their Little Brown Brothers
 
 - <span class=year>1899 December</span> Boy General Gregorio Del Pilar, who is only seven at the time, is killed in the Battle of Tirad Pass against the Americans.
 
+[`General Gregorio del Pilar, 7, riding a wooden horse at Tirad Pass.`](/images/gregorio-del-pilar-on-a-wooden-horse.gif)
+
 - <span class=year>1901 March</span> Through an elaborate ruse involving dancing clowns from Macabebe, Pampanga, US forces capture Aguinaldo, who proclaims he was on the Americans’ side all along.
  
 - <span class=year>1907</span> Americans trick Macario Sakay and his heavy metal band Tagalog Republic to perform in Cavite, and arrest all members when they can't play kundiman songs. Sakay is eventually hanged and buried with his beloved Kirk Hammett signature ESP guitar.
@@ -314,6 +316,8 @@ Japan entice the Filipinos to join its Greater East Asia Co-Prosperity Sphere by
 - <span class=year>1944</span> General Tomoyuki Yamashita buries 10,000 Pokéballs all over the country and dares the Filipinos to try find them all. Those who can't are bayonetted on the spot.
   
 - <span class=year>1945</span> Awakened by the atomic bombings of Hiroshima and Nagasaki, a disoriented Godzilla mistakenly lumbers to Manila and reduces the city to rubble instead of Tokyo.
+
+[`Photo: Godzilla destroys Manila.`](/images/godzilla-destroying-manila.gif)
  
 - <span class=year>1945</span> Yamashita is hanged by the American weaboos occupying Manila after he couldn't find the Pokéballs buried under the enormous piles of debris covering the city.
 
