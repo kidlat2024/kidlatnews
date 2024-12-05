@@ -61,7 +61,7 @@ tags:
 - Fernando Poe, Jr
 - Florante at Laura
 - Francisco Balagtas
-- Fredie Aguilar
+- Freddie Aguilar
 - Gabriela Silang
 - Gomburza
 - Goya Awards
@@ -349,7 +349,7 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
  
 - <span class=year>1977</span> Mae Anne Padolina, the first Japayuki, departs for the glorious Land of the Rising Sun to perform tinikling and maglalatik for cultural events. Tens of thousand others enroll in folk dance classes.
 
-- <span class=year>1978</span> Folk-singer Fredie Aguilar releases the iconic song "Anak Ka ng Ina Mo" which is eventually shortened to "Anak" for marketing purposes. It is eventually translated and sung to a billion languages.
+- <span class=year>1978</span> Folk-singer Freddie Aguilar releases the iconic song "Anak Ka ng Ina Mo" which is eventually shortened to "Anak" for marketing purposes. It is eventually translated and sung to a billion languages.
 
 - <span class=year>1980</span> Action-fantasy film *Ang Panday* starring Fernando Poe, Jr. debuts on IMAX theaters, sporting cutting-edge CGI and 4D-surround sound.
  
@@ -362,6 +362,8 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
 - <span class=year>1986</span> Trapped in a massive traffic in EDSA, tens of thousands of commuters decide to leave their buses and walk home, clogging the highway and accidentally triggering the People Power Revolution that drive President Marcos from power. Corazon "Heart" Aquino becomes president.
 
 - <span class=year>1991</span> Using their highly developed deduction skills, scientists at the Philippine Institute of Volcanology and Seismology (PHILVOCS) accurately predict the imminent eruption of Mt. Pinatubo after observing the volcano shoot a massive ash column 20km into the atmosphere.
+
+[`Photo: PHILVOCS scientists accurately predict Mount Pinatubo eruption after observing its massive ash column.`](/images/mount-pinatubo-shoots-massive-ash-column.gif)
 
 - <span class=year>1994</span> Philippines makes its first connection to the Internet when an employee of the Philippine Network Foundation downloads a topless photo of Tracy Lords from a server in CERN.
 
