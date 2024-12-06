@@ -253,6 +253,8 @@ After 300 years under Spanish yoke, Filipinos come to realize that they can prob
 
 - <span class=year>1872</span> Hidebound and petty Spanish authorities execute the Filipino priests Gomburza (Gomez, Burgos, Zamora) for having a memorable portmanteau, which Filipino schoolchildren use as mnemonic for pop quizzes.
 
+[`Illustration: Filipino priests Mariano Gomez, Jose Burgos and Jacinto Zamora, who are almost never seen apart.`](/images/gomburza-gomez-burgos-zamora.gif)
+
 - <span class=year>1878</span> The Sultan of Sulu leases Sabah to the British North Borneo Company, who assured him they will return the territory after "just a couple of years, cross our hearts and hope to die."
 
 - <span class=year>1887</span> Jose Rizal publishes the subversive novel *Noli Me Tangere*, earning him the ire of Spanish authorities, and of high school students everywhere who are then required to submit a book report about it.
@@ -291,7 +293,7 @@ Americans muscle in and assume the role of mentoring their Little Brown Brothers
 
 - <span class=year>1899 December</span> Boy General Gregorio Del Pilar, who is only seven at the time, is killed in the Battle of Tirad Pass against the Americans.
 
-[`General Gregorio del Pilar, 7, riding a wooden horse at Tirad Pass.`](/images/gregorio-del-pilar-on-a-wooden-horse.gif)
+[`Photo: Boy General Gregorio del Pilar, 7, riding a wooden horse at Tirad Pass.`](/images/gregorio-del-pilar-on-a-wooden-horse.gif)
 
 - <span class=year>1901 March</span> Through an elaborate ruse involving dancing clowns from Macabebe, Pampanga, US forces capture Aguinaldo, who proclaims he was on the Americans’ side all along.
  
@@ -347,7 +349,7 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
  
 - <span class=year>1974</span> Philippines discovers a valuable and virtually inexhaustible commodity for trade: Filipinos. Marcos creates government agencies to select the most suitable varieties for export, first to the Middle East, then to the rest of the world.
 
-[`Photo: Filipinos being exported to Vietnam aboard Philippine Airlines.`](/images/filipinos-exported-to-vietnam-aboard-philippine-airlines.gif)
+[`Photo: Filipinos selected for export to Vietnam aboard Philippine Airlines.`](/images/filipinos-exported-to-vietnam-aboard-philippine-airlines.gif)
 
 - <span class=year>1974</span> Hiroo Onoda, the first-ever *hikikomori*, comes out of his cave and surrenders in Lubang Island, Mindoro. His hideout reveals World War II-era rifles, discarded cups of instant ramen, and a massive collection of manga.
 
