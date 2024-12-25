@@ -211,7 +211,7 @@ Here is a comprehensive timeline of Philippine history to understand how we have
 
 ## Spanish Rule (1521-1898)
 
-Uninvited, and with the help of cannons, guns and bayonets, the Spanish gently persuade the natives to abandon their heathen ways and embrace Jesus Christ. They also do some killing, stealing, land-grabbing, raping and torturing on the side.
+Uninvited, and with the help of cannons, guns and bayonets, the Spanish gently persuade the natives to abandon their heathen ways and embrace Jesus Christ. They also do some killing, stealing, land-grabbing, raping and torturing on the side when Jesus is not looking.
 
 - <span class=year>1521 March</span> Out of nowhere, explorer Ferdinand Magellan lands on Limasawa Island in Southern Leyte and invites the natives to a bible study. The natives have no idea what on Earth is going on but they join anyway because there are free snacks.
 
@@ -233,9 +233,9 @@ Uninvited, and with the help of cannons, guns and bayonets, the Spanish gently p
 
 - <span class=year>1603</span> In what is now known as the Sangley Rebellion, the Spanish massacre some 20,000 Chinese residents of Manila because they all look suspiciously like Limahong and they hate that sonofabitch.
 
-- <span class=year>1611</span> University of Santo Tomas, Asia's first, is established. Subjects include Latin, Astrology, Exorcism, Alchemy and Wet Nursing.
+- <span class=year>1611</span> The University of Santo Tomas, Asia's first, is established. Subjects include Latin, Astrology, Exorcism, Alchemy and Wet Nursing.
 
-- <span class=year>1627</span> The first batch of nurses graduate from University of Santo Tomas. They board the first ship out of Manila to migrate to the UK.
+- <span class=year>1615</span> The first batch of nurses graduate from the University of Santo Tomas. They board the first ship out of Manila to migrate to the UK.
 
 - <span class=year>1763</span> Gabriela Silang, founds the first feminist and LGBTQ+ movement in the Philippines. The Spanish, who are very conservative, have her permanently cancelled.
 
@@ -251,9 +251,9 @@ Uninvited, and with the help of cannons, guns and bayonets, the Spanish gently p
 
 After 300 years under Spanish yoke, Filipinos come to realize that they can probably do the oppression of their fellow Filipinos just as well as the Spanish, maybe even better.
 
-- <span class=year>1872</span> Hidebound and petty Spanish authorities execute the Filipino priests Gomburza (Gomez, Burgos, Zamora) for having a memorable portmanteau, which Filipino schoolchildren use as mnemonic for pop quizzes.
-
 [`Illustration: Filipino priests Mariano Gomez, Jose Burgos and Jacinto Zamora, who are almost never seen apart.`](/images/gomburza-gomez-burgos-zamora.gif)
+
+- <span class=year>1872</span> Hidebound and petty Spanish authorities execute the Filipino priests Gomburza (Gomez, Burgos, Zamora) for having a memorable portmanteau, which Filipino schoolchildren use as mnemonic for pop quizzes.
 
 - <span class=year>1878</span> The Sultan of Sulu leases Sabah to the British North Borneo Company, who assured him they will return the territory after "just a couple of years, cross our hearts and hope to die."
 
@@ -273,7 +273,7 @@ After 300 years under Spanish yoke, Filipinos come to realize that they can prob
 
 - <span class=year>1897 March</span> Emilio Aguinaldo, the original *Trapo*, hijacks the Katipunan at the Tejeros Convention by bribing everyone in attendance, setting the tone of Philippine politics for the next hundred years.
 
-- <span class=year>1897 December</span> Katipunan and Spanish authorities sign the Pact of Biak-na-Bato, awarding the Filipinos’ revolutionary efforts with an all-expense-paid trip to Hong Kong.
+- <span class=year>1897 December</span> Katipunan and Spanish authorities sign the Pact of Biak-na-Bato, awarding the Filipinos’ revolutionary efforts with an all-expense-paid holiday to Hong Kong.
 
 - <span class=year>1898 April</span> The Americans, feeling left out of the European-led conquering and colonizing activities and casting covetous eyes on Cuba, Guam and Philippines, declares war on Spain.
 
@@ -305,15 +305,13 @@ Americans muscle in and assume the role of mentoring their Little Brown Brothers
 
 ### Japanese Occupation (1941-1945)
 
-Japan entice the Filipinos to join its Greater East Asia Co-Prosperity Sphere by bayonetting everyone to submission.
+Japan entice the Filipinos to join its stupendous Greater East Asia Co-Prosperity Sphere by bayonetting everyone to submission.
 
 - <span class=year>1941</span> Japanese troops land in the Philippines, giving the Filipinos their first taste of *kawaii* Hello Kitty toys and hentai porn. Filipinos opposed to deviant pornography retreat to Corregidor to make a last stand.
  
-- <span class=year>1942</span> General Douglas MacArthur evades his ninja assassins and escapes to Australia, uttering the iconic words "I'll be back."
+- <span class=year>1942</span> General Douglas MacArthur evades his ninja assassins and escapes to Australia, uttering the iconic words "Sayonara, bitches."
 
-<!-- 
-- <span class=year>1942</span> Bataan Death March
--->
+- <span class=year>1942</span> The Fall of Bataan is followed by the 105-kilometer Bataan Death March, during which Filipino and American prisoners of war are forced to march while hopping and skipping rope. Those who lose balance are shot or bayonetted.
 
 - <span class=year>1944</span> General Tomoyuki Yamashita buries 10,000 Pokéballs all over the country and dares the Filipinos to try find them all. Those who can't are bayonetted on the spot.
   
@@ -321,7 +319,7 @@ Japan entice the Filipinos to join its Greater East Asia Co-Prosperity Sphere by
 
 [`Photo: Godzilla destroys Manila.`](/images/godzilla-destroying-manila.gif)
  
-- <span class=year>1945</span> Yamashita is hanged by the American weaboos occupying Manila after he couldn't find the Pokéballs buried under the enormous piles of debris covering the city.
+- <span class=year>1945</span> Yamashita is hanged by the American weaboos occupying Manila after he fails to locate the Pokéballs buried under the enormous piles of debris covering the city.
 
 ## Independence (1946-present)
 
@@ -335,7 +333,7 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
  
 - <span class=year>1965</span> Ferdinand Marcos, descendant of Ferdinand Magellan, is elected president.
 
-- <span class=year>1967</span> After enduring the Philippines’ nonstop badgering, Thailand, Singapore, Malaysia and Indonesia finally agree to form the Association of Southeast Asian Nations (ASEAN) just to shut her up. The Philippines immediately proposes *paluwagan* to her new best friends.
+- <span class=year>1967</span> Finally caving in to the Philippines’ nonstop badgering, Thailand, Singapore, Malaysia and Indonesia finally agree to form the Association of Southeast Asian Nations (ASEAN) just to shut her up. The Philippines immediately proposes *paluwagan* to her new best friends.
  
 - <span class=year>1968</span> Jose Maria Sison founds the Communist Party of the Philippines (CPP) whose aim is to distribute the growing misery equally among the Filipino bourgeoisie and proletariat alike.
  
@@ -343,7 +341,7 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
  
 - <span class=year>1971</span> Nur Misuari and Muslim leaders in Mindanao establish the Moro National Liberation Front, aiming to create a separate Islamic country in southern Philippines where they can do the exploiting of their fellow Muslims instead of the Christian leaders in Manila.
  
-- <span class=year>1972</span> Super Robots Voltes V and Mazinger Z attack Manila with the help of local Filipino communist cadres; President Marcos places country under Martial Law.
+- <span class=year>1972</span> Super Robots Voltes V and Mazinger Z attack Manila with the help of local Filipino communist cadres; President Marcos declares Martial Law.
  
 - <span class=year>1973</span> First Lady Imelda Marcos buys her 37th pair of Hermes shoes in Paris, telling her husband "This is the last, dear, I promise."
  
@@ -357,7 +355,7 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
  
 - <span class=year>1977</span> Mae Anne Padolina, the first Japayuki, departs for the glorious Land of the Rising Sun to perform tinikling and maglalatik for cultural events. Tens of thousand others enroll in folk dance classes.
 
-- <span class=year>1978</span> Folk-singer Freddie Aguilar releases the iconic song "Anak Ka ng Ina Mo" which is eventually shortened to "Anak" for marketing purposes. It is eventually translated and sung to a billion languages.
+- <span class=year>1978</span> Folk-singer Freddie Aguilar releases the iconic song "Anak Ka ng Ina Mo" which is then shortened to "Anak" for marketing purposes. It is eventually translated and sung to a billion languages.
 
 - <span class=year>1980</span> Action-fantasy film *Ang Panday* starring Fernando Poe, Jr. debuts on IMAX theaters, sporting cutting-edge CGI and 4D-surround sound.
  
@@ -367,9 +365,9 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
  
 - <span class=year>1986</span> Marcos ally General Favian Fer discovers racy love letters between Defense Secretary Juan Ponce Enrile and RAM leader Gregorio Honasan and orders them arrested. The lovers elope to Camp Crame on EDSA.
  
-- <span class=year>1986</span> Trapped in a massive traffic in EDSA, tens of thousands of commuters decide to leave their buses and walk home, clogging the highway and accidentally triggering the People Power Revolution that drive President Marcos from power. Corazon "Heart" Aquino becomes president.
+- <span class=year>1986</span> Trapped in a massive traffic in EDSA highway, tens of thousands of commuters decide to leave their buses and walk home, clogging the highway and accidentally triggering the People Power Revolution that drive President Marcos from power. Corazon "Heart" Aquino becomes president.
 
-- <span class=year>1991</span> Using their highly developed deduction skills, scientists at the Philippine Institute of Volcanology and Seismology (PHILVOCS) accurately predict the imminent eruption of Mt. Pinatubo after observing the volcano shoot a massive ash column 20km into the atmosphere.
+- <span class=year>1991</span> Using their highly advanced observation and deduction skills, scientists at the Philippine Institute of Volcanology and Seismology (PHILVOCS) accurately predict the imminent eruption of Mt. Pinatubo after observing the volcano shoot a massive ash column 20km into the atmosphere.
 
 [`Photo: PHILVOCS scientists predict Mount Pinatubo eruption after observing its massive ash column.`](/images/mount-pinatubo-shoots-massive-ash-column.gif)
 
@@ -381,7 +379,7 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
 - <span class=year>2009</span> Maguindanao Massacre
 -->
 
-- <span class=year>2010</span> The Manila Hostage Crisis inside a tourist bus comes to a successful end when members of an elite SWAT team shoot the hostage-taker and all hostages that are not already dead.
+- <span class=year>2010</span> The Manila Hostage Crisis inside a tourist bus comes to a successful end when members of an elite SWAT team shoot the hostage-taker and all other hostages that are not already dead.
 
 - <span class=year>2012</span> Philippines lodges strong protest to China after it discovers several Chinese Coast Guard ships dragging Scarborough Shoal from its usual location near Zambales to a site just 10km from Hainan Island.
 
@@ -389,7 +387,7 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
 
 - <span class=year>2015</span> The National Mapping and Resource Information Authority announces it has finally located the 400 islands that the country feared were lost after they were blown away by typhoon Yolanda.
 
-- <span class=year>2016</span> President Rodrigo Duterte announces an all-out War on Drugs and provides the police with tanks, bombs and guns to shoot on sight all kinds of illicit substances wherever they see them. Tens of thousands of Filipino bystanders die from stray bullets.
+- <span class=year>2016</span> President Rodrigo Duterte announces an all-out War on Drugs and provides the police with tanks, bombs and guns to shoot on sight all kinds of illicit substances wherever they see them, even while being smoked, injected or snorted by users. Tens of thousands of Filipino bystanders die from stray bullets.
 
 <!--
 - <span class=year>2020</span> Coronavirus
