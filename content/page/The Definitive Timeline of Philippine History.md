@@ -195,7 +195,7 @@ Here is a comprehensive timeline of Philippine history to understand how we have
 
 - <span class=year>50,000 BCE</span> Mrs. *Homo luzonensis*, a pygmy lady who lives in a muggy cave in northern Cagayan Valley, nags her husband incessantly for more fruits and nuts to eat, and a nice little bungalow to live in.
 
-- <span class=year>40,000 BCE</span> Escaping the tiger-infested jungles of China, Nognog and his Negrito clan arrive on the islands after paddling across the Batanes Strait. They find the islands’ jungles relatively pleasant, with only giant pythons to deal with.
+- <span class=year>40,000 BCE</span> Escaping the tiger-infested jungles of southern China, Nognog and his Negrito clan arrive on the islands after paddling across the Batanes Strait. They find the islands’ jungles relatively pleasant, with only giant pythons to deal with.
 
 - <span class=year>20,000 BCE</span> Mr. Tabon man prepares a tasty meal of roasted bats and tarsier head soup just outside his cave in southern Palawan while watching the spectacular sunset of the West Philippine Sea marred by Chinese Coast Guard boats on the horizon.
 
@@ -215,7 +215,7 @@ Uninvited, and with the help of cannons, guns and bayonets, the Spanish gently p
 
 - <span class=year>1521 March</span> Out of nowhere, explorer Ferdinand Magellan lands on Limasawa Island in Southern Leyte and invites the natives to a bible study. The natives have no idea what on Earth is going on but they join anyway because there are free snacks.
 
-- <span class=year>1521 April</span> Rajah Humabon of Cebu, not realizing what nasty diseases the Europeans brought with them, performs the blood compact with Magellan. He trades two of his wives in return for some trinkets.
+- <span class=year>1521 April</span> Rajah Humabon of Cebu performs the blood compact with Magellan and promptly goes down with smallpox. In a fit of fever-induced delirium, he trades two of his wives in return for some trinkets.
 
 - <span class=year>1521 April</span> Datu Lapulapu, fed up with Magellan's bullshit, hacks him to death when he lands on Mactan Island. Magellan's maggot-infested corpse makes the first circumnavigation of the globe when it reaches Spain on September the following year.
 
@@ -253,7 +253,7 @@ After 300 years under Spanish yoke, Filipinos come to realize that they can prob
 
 [`Illustration: Filipino priests Mariano Gomez, Jose Burgos and Jacinto Zamora, who are almost never seen apart.`](/images/gomburza-gomez-burgos-zamora.gif)
 
-- <span class=year>1872</span> Hidebound and petty Spanish authorities execute the Filipino priests Gomburza (Gomez, Burgos, Zamora) for having a memorable portmanteau, which Filipino schoolchildren use as mnemonic for pop quizzes.
+- <span class=year>1872</span> Petty Spanish authorities execute the Filipino priests Gomburza (Gomez, Burgos, Zamora) for having a memorable portmanteau, which Filipino schoolchildren use as mnemonic for pop quizzes.
 
 - <span class=year>1878</span> The Sultan of Sulu leases Sabah to the British North Borneo Company, who assured him they will return the territory after "just a couple of years, cross our hearts and hope to die."
 
@@ -325,7 +325,7 @@ Japan entice the Filipinos to join its stupendous Greater East Asia Co-Prosperit
 
 Unshackled from foreign intervention, Filipinos finally get free rein to run the country like hell.
 
-- <span class=year>1946</span> The US dumps the Philippines and buggers off to Japan, leaving the Filipinos alone to clean up their gigantic mess. Japan donates 10,000 brooms and 5,000 mops as war reparation.
+- <span class=year>1946</span> The US dumps the Philippines and buggers off to Japan, leaving the Filipinos alone to clean up their gigantic mess. Japan donates 100,000 brooms and 50,000 mops as war reparation.
 
 - <span class=year>1950</span> Hundreds of Philippine soldiers join the American-led forces in the Korean War. Most will return home with PTSD and a severe addiction to Korean dramas.
 
@@ -351,7 +351,7 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
 
 - <span class=year>1974</span> Hiroo Onoda, the first-ever *hikikomori*, comes out of his cave and surrenders in Lubang Island, Mindoro. His hideout reveals World War II-era rifles, discarded cups of instant ramen, and a massive collection of manga.
 
-- <span class=year>1976</span> Muammar Gaddafi and Imelda Marcos stage a week-long bed-in in Libya to protest the ongoing conflict in Muslim Mindanao, resulting in the Tripoli Agreement.
+- <span class=year>1976</span> Imelda Marcos and Muammar Gaddafi stage a week-long bed-in in Libya to protest the ongoing conflict in Muslim Mindanao, resulting in the Tripoli Agreement, whereby they encourage the feuding parties to "Make love, not war."
  
 - <span class=year>1977</span> Mae Anne Padolina, the first Japayuki, departs for the glorious Land of the Rising Sun to perform tinikling and maglalatik for cultural events. Tens of thousand others enroll in folk dance classes.
 
@@ -363,7 +363,7 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
  
 - <span class=year>1983</span> A motley crue of NPA hitmen, military SWAT soldiers and CIA operatives assassinate Senator Benigno "Ninoy" Aquino Jr. from fifty different angles after the deducing the airport where his plane will land from his name.
  
-- <span class=year>1986</span> Marcos ally General Favian Fer discovers racy love letters between Defense Secretary Juan Ponce Enrile and RAM leader Gregorio Honasan and orders them arrested. The lovers elope to Camp Crame on EDSA.
+- <span class=year>1986</span> Marcos ally General Favian Fer erupts with jealousy after he discovers racy love letters between Defense Secretary Juan Ponce Enrile and RAM leader Gregorio Honasan and orders them arrested. The lovers elope to Camp Crame on EDSA.
  
 - <span class=year>1986</span> Trapped in a massive traffic in EDSA highway, tens of thousands of commuters decide to leave their buses and walk home, clogging the highway and accidentally triggering the People Power Revolution that drive President Marcos from power. Corazon "Heart" Aquino becomes president.
 
@@ -383,7 +383,7 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
 
 - <span class=year>2012</span> Philippines lodges strong protest to China after it discovers several Chinese Coast Guard ships dragging Scarborough Shoal from its usual location near Zambales to a site just 10km from Hainan Island.
 
-- <span class=year>2013</span> The Department of Education introduces the K-12 Program through which basic education that can be taught in 10 years is stretched to 12 to enable Filipino schoolchildren to have more time each day for social media.
+- <span class=year>2013</span> The Department of Education introduces the K-12 Program through which basic education that can be taught in 10 years is stretched to 12 to enable Filipino schoolchildren to have more time each day for Facebook.
 
 - <span class=year>2015</span> The National Mapping and Resource Information Authority announces it has finally located the 400 islands that the country feared were lost after they were blown away by typhoon Yolanda.
 
