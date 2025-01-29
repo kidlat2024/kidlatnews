@@ -287,7 +287,7 @@ Americans muscle in and assume the role of mentoring their Little Brown Brothers
 
 - <span class=year>1898 June</span> The last fifty Spanish soldiers in the country barricade themselves in a church in Baler, Quezon to shoot the movie *Our Last Men in the Philippines*, which will later win the Goya Awards for best costume.
 
-- <span class=year>1898 October</span> *Manila Times* publishes its first issue. Columnist Rigoberto Tiglao lambasts the Spanish and Americans and urge the Katipuneros to throw their lot with the Chinese.
+- <span class=year>1898 October</span> *Manila Times* publishes its first issue. Columnist [Rigoberto Tiglao](https://rigobertotiglao.com/) lambasts the Spanish and Americans and urge the Katipuneros to throw their lot with the Chinese.
 
 - <span class=year>1899 June</span> Men loyal to Aguinaldo assassinate Antonio Luna in Cabanatuan City. Rumor has it that Luna is loathed by Aguinaldo, who has always wanted to grow a bushy mustache but can't.
 
