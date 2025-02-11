@@ -185,7 +185,7 @@ kudlit: ‘single’ “double” eñe
 ---
 Colony of Spain for more than three hundred years and of America for another fifty, the Philippines has had less than a hundred years to put its house in order on its own.
 
-Here is a comprehensive timeline of Philippine history to understand how we have come to this present mess.
+Here is a comprehensive timeline of Philippine history to understand how we have come to this glorious mess.
 
 1. [Pre-Colonial Period](#pre-colonial-period-prehistory-1521)
 2. [Spanish Rule](#spanish-rule-1521-1898) (with [Nationalist Movement](#filipino-nationalist-movement-1872-1898) subsection)
@@ -388,7 +388,7 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
 
 - <span class=year>2015</span> The National Mapping and Resource Information Authority announces it has finally located the 400 islands that the country feared were lost after they were blown away by typhoon Yolanda.
 
-- <span class=year>2016</span> President Rodrigo Duterte announces an all-out War on Drugs and provides the police with tanks, bombs and guns to shoot on sight all kinds of illicit substances wherever they see them, even while being smoked, injected or snorted by users. Tens of thousands of Filipino bystanders die from stray bullets.
+- <span class=year>2016</span> President Rodrigo Duterte announces an all-out War on Drugs and orders the police to shoot on sight all kinds of illicit substances wherever they see them, even while being smoked, injected or snorted by users. Tens of thousands of Filipino bystanders die from stray bullets.
 
 <!--
 - <span class=year>2020</span> Coronavirus
