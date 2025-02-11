@@ -149,6 +149,7 @@ tags:
 - PHILVOCS
 - Pokéball
 - Proletariat
+- Quiapo
 - Rajah Sulayman
 - Rajah Tupas
 - Rajay Humabon
@@ -265,7 +266,7 @@ After 300 years under Spanish yoke, Filipinos come to realize that they can prob
 
 - <span class=year>1892</span> Rizal returns to the Philippines from Spain and is immediately exiled to Dapitan, just behind the Thomas Aquinas building of UST.
 
-- <span class=year>1893</span> Tiburcio Kidlat publishes the first Philippine newspaper *Ang Kidlat*, aiming to shine a spotlight on the vices, follies and abuses of the ruling Spanish. He is promptly arrested and shot.
+- <span class=year>1893</span> Tiburcio Kidlat publishes the first Philippine newspaper *[Ang Kidlat](https://kidl.at)*, aiming to shine a spotlight on the vices, follies and abuses of the ruling Spanish. He is promptly arrested and shot.
 
 - <span class=year>1896 August</span> Bonifacio, Emilio Jacinto and other Katipuneros horribly realize they have torn up their *cedula* by mistake instead of their grocery receipts, prompting the Cry of Pugadlawin.
 
@@ -317,7 +318,7 @@ Japan entice the Filipinos to join its stupendous Greater East Asia Co-Prosperit
   
 - <span class=year>1945</span> Awakened by the atomic bombings of Hiroshima and Nagasaki, a disoriented Godzilla mistakenly lumbers to Manila and reduces the city to rubble instead of Tokyo.
 
-[`Photo: Godzilla destroys Manila.`](/images/godzilla-destroying-manila.gif)
+[`Photo: Godzilla destroys downtown Quiapo in Manila.`](/images/godzilla-destroying-manila.gif)
  
 - <span class=year>1945</span> Yamashita is hanged by the American weaboos occupying Manila after he fails to locate the Pokéballs buried under the enormous piles of debris covering the city.
 
@@ -333,13 +334,13 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
  
 - <span class=year>1965</span> Ferdinand Marcos, descendant of Ferdinand Magellan, is elected president.
 
-- <span class=year>1967</span> Finally caving in to the Philippines’ nonstop badgering, Thailand, Singapore, Malaysia and Indonesia finally agree to form the Association of Southeast Asian Nations (ASEAN) just to shut her up. The Philippines immediately proposes *paluwagan* to her new best friends.
+- <span class=year>1967</span> Finally caving in to the Philippines’ nonstop badgering, Thailand, Singapore, Malaysia and Indonesia agree to form the Association of Southeast Asian Nations (ASEAN) just to shut her up. The Philippines immediately proposes *paluwagan* to her new best friends.
  
 - <span class=year>1968</span> Jose Maria Sison founds the Communist Party of the Philippines (CPP) whose aim is to distribute the growing misery equally among the Filipino bourgeoisie and proletariat alike.
  
 - <span class=year>1969</span> Bernabe Buscayno organizes the New People's Army (NPA), the CPP's armed wing, to give their message of communist dystopia more bite.
  
-- <span class=year>1971</span> Nur Misuari and Muslim leaders in Mindanao establish the Moro National Liberation Front, aiming to create a separate Islamic country in southern Philippines where they can do the exploiting of their fellow Muslims instead of the Christian leaders in Manila.
+- <span class=year>1971</span> Nur Misuari and Muslim leaders in Mindanao establish the Moro National Liberation Front (MNLF), aiming to create a separate Islamic country in southern Philippines where they can do the exploiting of their fellow Muslims instead of the Christian leaders in Manila.
  
 - <span class=year>1972</span> Super Robots Voltes V and Mazinger Z attack Manila with the help of local Filipino communist cadres; President Marcos declares Martial Law.
  
