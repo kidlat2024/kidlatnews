@@ -315,7 +315,7 @@ Japan entice the Filipinos to join its glorious Greater East Asia Co-Prosperity 
  
 - <span class=year>1942</span> General Douglas MacArthur evades his ninja assassins and escapes to Australia, uttering the iconic words "Sayonara, bitches."
 
-- <span class=year>1942</span> The Fall of Bataan is followed by the 105-kilometer Bataan Death March, during which Filipino and American prisoners of war are forced to march while hopping and skipping rope. Those who lose balance are shot or bayonetted.
+- <span class=year>1942</span> The Fall of Bataan is followed by the gruelling Takeshi's Death March, during which Filipino and American prisoners must march nonstop on their way to Takeshi's Castle while avoiding obstacles and physical challenges. Those who tumble are eliminated with bayonets.
 
 - <span class=year>1944</span> General Tomoyuki Yamashita buries 10,000 Pokéballs all over the country and dares the Filipinos to try find them all. Those who can't are bayonetted on the spot.
   
