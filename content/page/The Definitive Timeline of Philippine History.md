@@ -190,7 +190,7 @@ Here is a comprehensive timeline of Philippine history to understand how we have
 1. [Pre-Colonial Period](#pre-colonial-period-prehistory-1521)
 2. [Spanish Rule](#spanish-rule-1521-1898) (with [Nationalist Movement](#filipino-nationalist-movement-1872-1898) subsection)
 3. [American Rule](#american-rule-1898-1946)
-4. [Japanese Occupation](#japanese-occupation-1941-1945) subsection)
+4. [Japanese Occupation](#japanese-occupation-1941-1945)
 5. [Independence](#independence-1946-present)
 
 ## Pre-Colonial Period (Prehistory-1521)
