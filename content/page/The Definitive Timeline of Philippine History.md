@@ -189,8 +189,9 @@ Here is a comprehensive timeline of Philippine history to understand how we have
 
 1. [Pre-Colonial Period](#pre-colonial-period-prehistory-1521)
 2. [Spanish Rule](#spanish-rule-1521-1898) (with [Nationalist Movement](#filipino-nationalist-movement-1872-1898) subsection)
-3. [American Rule](#american-rule-1898-1946) (with [Japanese Occupation](#japanese-occupation-1941-1945) subsection)
-4. [Independence](#independence-1946-present)
+3. [American Rule](#american-rule-1898-1946)
+4. [Japanese Occupation](#japanese-occupation-1941-1945) subsection)
+5. [Independence](#independence-1946-present)
 
 ## Pre-Colonial Period (Prehistory-1521)
 
@@ -304,9 +305,9 @@ Americans muscle in and assume the role of mentoring their Little Brown Brothers
 
 - <span class=year>1939</span> Anticipating the likes of such brilliant leaders as Marcos, Estrada and Duterte, strangely prescient President Manuel Quezon declares "I would rather have a government run like hell by Filipinos than a government run like heaven by Americans."
 
-### Japanese Occupation (1941-1945)
+## Japanese Occupation (1941-1945)
 
-Japan entice the Filipinos to join its stupendous Greater East Asia Co-Prosperity Sphere by bayonetting everyone to submission.
+Japan entice the Filipinos to join its glorious Greater East Asia Co-Prosperity Sphere by bayonetting everyone to submission.
 
 - <span class=year>1941</span> Japanese troops land in the Philippines, giving the Filipinos their first taste of *kawaii* Hello Kitty toys and hentai porn. Filipinos opposed to deviant pornography retreat to Corregidor to make a last stand.
  
@@ -354,9 +355,9 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
 
 - <span class=year>1976</span> Imelda Marcos and Muammar Gaddafi stage a week-long bed-in in Libya to protest the ongoing conflict in Muslim Mindanao, resulting in the Tripoli Agreement, whereby they encourage the feuding parties to "Make love, not war."
  
-- <span class=year>1977</span> Mae Anne Padolina, the first Japayuki, departs for the glorious Land of the Rising Sun to perform tinikling and maglalatik for cultural events. Tens of thousand others enroll in folk dance classes.
+- <span class=year>1977</span> Mae Anne Padolina, the first Japayuki, departs for the Land of the Rising Yen to perform tinikling and maglalatik for cultural events. Tens of thousand others enroll in folk dance classes.
 
-- <span class=year>1978</span> Folk-singer Freddie Aguilar releases the iconic song "Anak Ka ng Ina Mo" which is then shortened to "Anak" for marketing purposes. It is eventually translated and sung to a billion languages.
+- <span class=year>1978</span> Folk-singer Freddie Aguilar releases the iconic song "Anak Ka Ng Ina Mo" which is then shortened to "Anak" for marketing purposes. It is eventually translated and sung to a billion languages.
 
 - <span class=year>1980</span> Action-fantasy film *Ang Panday* starring Fernando Poe, Jr. debuts on IMAX theaters, sporting cutting-edge CGI and 4D-surround sound.
  
