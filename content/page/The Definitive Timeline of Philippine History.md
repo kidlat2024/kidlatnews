@@ -209,7 +209,7 @@ Here is a comprehensive timeline of Philippine history to understand how we have
 
 - <span class=year>900 CE</span> Frustrated by the Filipino natives’ propensity to forget their debts, moped-riding Bumbays introduce the Brahmic writing script Kawi to the islands to have a paper record of who owes what.
 
-- <span class=year>1240</span> Arabs introduce Islam to Sulu, where it spread througout the archipelago. Native Filipinos who keep several wives and slaves now have a religious justification for it.
+- <span class=year>1240</span> Arabs introduce Islam to Sulu, where it spread througout the archipelago. Native Filipinos who keep several wives and slaves now have a convenient religious justification for it.
 
 - <span class=year>1258</span> Muslim principality of Manila is founded on the southern shores of Pasig River. The name comes from the manila folders and envelopes which grow on manila trees abundant in the area, trade in which brings modest prosperity to the fledgling settlement.
 
@@ -229,7 +229,7 @@ Uninvited, and with the help of cannons, guns and bayonets, the Spanish gently p
 - <span class=year>1570</span> Legazpi's men together with their Visayan allies battle Rajah Sulayman of Manila.
 -->
 
-- <span class=year>1574</span> Famished after months of seafaring and looting, Chinese pirate Limahong raids Manila for some decent fried rice and dim sum. He runs amok after finding nothing but sinigang and pinakbet.
+- <span class=year>1574</span> Famished after months of seafaring and looting, Chinese pirate Limahong raids Manila for some decent fried rice and dim sum. He runs amok after finding nothing but *sinigang* and *pinakbet*.
 
 - <span class=year>1593</span> The Dominicans print the *Doctrina Christiana*, the first ever publication in the islands. Later, they also secretly print the country’s first erotic novel *Biag ni Lam-ang* which they only share among themselves.
 
@@ -237,19 +237,19 @@ Uninvited, and with the help of cannons, guns and bayonets, the Spanish gently p
 
 - <span class=year>1603</span> In what is now known as the Sangley Rebellion, the Spanish massacre some 20,000 Chinese residents of Manila because they all look suspiciously like Limahong and they hate that sonofabitch.
 
-- <span class=year>1611</span> The University of Santo Tomas, Asia's first, is established. Subjects include Latin, Astrology, Exorcism, Alchemy and Wet Nursing.
+- <span class=year>1611</span> Miguel de Benavides establishes the University of Santo Tomas, the first university in Asia where exorcism is taught. Other subjects include Latin, Astrology, Alchemy and Wet Nursing.
 
 - <span class=year>1615</span> The first batch of nurses graduate from the University of Santo Tomas. They board the first ship out of Manila to migrate to the UK.
 
-- <span class=year>1763</span> Gabriela Silang, founds the first feminist and LGBTQ+ movement in the Philippines. The Spanish, who are very conservative, have her permanently cancelled.
+- <span class=year>1763</span> Gabriela Silang founds the first feminist and LGBTQ+ movement in the Philippines. The Spanish, who are very conservative, have her permanently cancelled.
 
 - <span class=year>1814</span> Mount Mayon violently erupts, disrupting hiking activities in the Bicol Region. The resulting ashfall buries thousands of Bicolanos, who are notoriously slow walkers.
 
 - <span class=year>1829</span> Dagohoy Revolt in Bohol, the longest rebellion against Spanish rule in Philippine history, ends after the rebels get lost inside the Chocolate Hills.
 
-- <span class=year>1834</span> A complete set of Kapre skeleton is unearthed in Bambang, Nueva Viscaya.
-
 - <span class=year>1838</span> Francisco Balagtas publishes the epic *Florante at Laura*. It is panned by critics who don't have the slightest idea where the country of Albania is, but the steamy movie adaptation starring Leopoldo Salcedo and Celia Flor is a big hit.
+
+- <span class=year>1861</span> A complete set of Kapre skeleton is unearthed in Bambang, Nueva Viscaya, promting a rethinking of evolutionary biology.
 
 ### Filipino Nationalist Movement (1872-1898)
 
@@ -271,13 +271,13 @@ After 300 years under Spanish yoke, Filipinos come to realize that they can prob
 
 - <span class=year>1893</span> Tiburcio Kidlat publishes the first Philippine newspaper *[Ang Kidlat](https://kidl.at)*, aiming to shine a spotlight on the vices, follies and abuses of the ruling Spanish. He is promptly arrested and shot.
 
-- <span class=year>1896 August</span> Bonifacio, Emilio Jacinto and other Katipuneros horribly realize they have torn up their *cedula* by mistake instead of their grocery receipts, prompting the Cry of Pugadlawin.
+- <span class=year>1896 August</span> Bonifacio, Emilio Jacinto and other Katipuneros horribly realize that they have torn up their *cedula* by mistake instead of their grocery receipts, prompting the Cry of Pugadlawin.
 
 - <span class=year>1896 December</span> Spanish authorities finally execute Rizal by firing squad at Bagumbayan for writing exceedingly bad novels that everybody hated.
 
 - <span class=year>1897 March</span> Emilio Aguinaldo, the original *Trapo*, hijacks the Katipunan at the Tejeros Convention by bribing everyone in attendance, setting the tone of Philippine politics for the next hundred years.
 
-- <span class=year>1897 December</span> Katipunan and Spanish authorities sign the Pact of Biak-na-Bato, awarding the Filipinos’ revolutionary efforts with an all-expense-paid holiday to Hong Kong.
+- <span class=year>1897 December</span> The Katipunan and Spanish authorities sign the Pact of Biak-na-Bato, rewarding the Filipinos’ revolutionary efforts with an all-expense-paid holiday to Hong Kong.
 
 - <span class=year>1898 April</span> The Americans, feeling left out of the European-led conquering and colonizing activities and casting covetous eyes on Cuba, Guam and Philippines, declares war on Spain.
 
@@ -315,7 +315,7 @@ Japan entice the Filipinos to join its glorious Greater East Asia Co-Prosperity 
  
 - <span class=year>1942</span> General Douglas MacArthur evades his ninja assassins and escapes to Australia, uttering the iconic words "Sayonara, bitches."
 
-- <span class=year>1942</span> The Fall of Bataan is followed by the gruelling Takeshi's Death March, during which Filipino and American prisoners must march nonstop on their way to Takeshi's Castle while avoiding obstacles and physical challenges. Those who tumble are eliminated with bayonets.
+- <span class=year>1942</span> The Fall of Bataan is followed by the gruelling Takeshi's Death March, during which Filipino and American prisoners march nonstop on their way to Takeshi's Castle while avoiding obstacles and dodging bayonets. Those who get hit by bayonets are eliminated.
 
 - <span class=year>1944</span> General Tomoyuki Yamashita buries 10,000 Pokéballs all over the country and dares the Filipinos to try find them all. Those who can't are bayonetted on the spot.
   
@@ -331,7 +331,7 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
 
 - <span class=year>1946</span> The US dumps the Philippines and buggers off to Japan, leaving the Filipinos alone to clean up their gigantic mess. Japan donates 100,000 brooms and 50,000 mops as war reparation.
 
-- <span class=year>1950</span> Hundreds of Philippine soldiers join the American-led forces in the Korean War. Most will return home with PTSD and a severe addiction to Korean dramas.
+- <span class=year>1950</span> Hundreds of Philippine soldiers join the American-led forces in the Korean War. They return home later with PTSD and a severe addiction to Korean dramas.
 
 - <span class=year>1957</span> Popular President Ramon Magsaysay dies in a plane crash. Investigations reveal that the pilot was playing Manhole on a Nintendo Game & Watch while manning the plane's controls.
  
@@ -345,11 +345,11 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
  
 - <span class=year>1971</span> Nur Misuari and Muslim leaders in Mindanao establish the Moro National Liberation Front (MNLF), aiming to create a separate Islamic country in southern Philippines where they can do the exploiting of their fellow Muslims instead of the Christian leaders in Manila.
  
-- <span class=year>1972</span> Super Robots Voltes V and Mazinger Z attack Manila with the help of local Filipino communist cadres; President Marcos declares Martial Law.
+- <span class=year>1972</span> Super Robots Voltes V and Mazinger Z attack Manila with the help of local Filipino communist cadres; President Marcos declares Martial Law to repel the invaders.
  
 - <span class=year>1973</span> First Lady Imelda Marcos buys her 37th pair of Hermes shoes in Paris, telling her husband "This is the last, dear, I promise."
  
-- <span class=year>1974</span> Philippines discovers a valuable and virtually inexhaustible commodity for trade: Filipinos. Marcos creates government agencies to select the most suitable varieties for export, first to the Middle East, then to the rest of the world.
+- <span class=year>1974</span> Philippines discovers a virtually inexhaustible commodity for trade: Filipinos. Marcos creates government agencies to select the most suitable varieties for export, first to the Middle East, then to the rest of the world.
 
 [`Photo: Filipinos selected for export to Vietnam aboard Philippine Airlines.`](/images/filipinos-exported-to-vietnam-aboard-philippine-airlines.gif)
 
@@ -357,7 +357,7 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
 
 - <span class=year>1976</span> Imelda Marcos and Muammar Gaddafi stage a week-long bed-in in Libya to protest the ongoing conflict in Muslim Mindanao, resulting in the Tripoli Agreement, whereby they encourage the feuding parties to "Make love, not war."
  
-- <span class=year>1977</span> Mae Anne Padolina, the first Japayuki, departs for the Land of the Rising Yen to perform tinikling and maglalatik for cultural events. Tens of thousand others enroll in folk dance classes.
+- <span class=year>1977</span> Mae Anne Padolina, the first Japayuki, departs for the Land of the Rising Yen to perform *tinikling* and *maglalatik* for cultural events. Tens of thousand others enroll in folk dance classes.
 
 - <span class=year>1978</span> Folk-singer Freddie Aguilar releases the iconic song "Anak Ka Ng Ina Mo" which is then shortened to "Anak" for marketing purposes. It is eventually translated and sung to a billion languages.
 
@@ -373,7 +373,7 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
 
 - <span class=year>1991</span> Using their highly advanced observation and deduction skills, scientists at the Philippine Institute of Volcanology and Seismology (PHILVOCS) accurately predict the imminent eruption of Mt. Pinatubo after observing the volcano shoot a massive ash column 20km into the atmosphere.
 
-[`Photo: PHILVOCS scientists predict Mount Pinatubo eruption after observing its massive ash column.`](/images/mount-pinatubo-shoots-massive-ash-column.gif)
+[`Photo: Mount Pinatubo shoots massive ash column, prompting PHILVOCS scientists to declare imminent eruption.`](/images/mount-pinatubo-shoots-massive-ash-column.gif)
 
 - <span class=year>1994</span> Philippines makes its first connection to the Internet when an employee of the Philippine Network Foundation downloads a topless photo of Tracy Lords from a server in CERN.
 
