@@ -1,0 +1,7 @@
+settings:
+width:50rem
+background:#fff
+related:display-none
+footer:display-none
+h1:2.6rem
+magnification:90%
