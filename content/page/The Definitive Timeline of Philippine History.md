@@ -213,6 +213,8 @@ Here is a comprehensive timeline of Philippine history to understand how we have
 
 - <span class=year>1258</span> Muslim principality of Manila is founded on the southern shores of Pasig River. The name comes from the manila folders and envelopes which grow on manila trees abundant in the area, trade in which brings modest prosperity to the fledgling settlement.
 
+- <span class=year>1467</span> Bored with the Kawi alphabet, literary snobs in Luzon invent the Baybayin script so they can have nice letters to use for tattoos and logos that uncouth natives can't read.
+
 ## Spanish Rule (1521-1898)
 
 Uninvited, and with the help of cannons, guns and bayonets, the Spanish gently persuade the natives to abandon their heathen ways and embrace Jesus Christ. They also do some killing, stealing, land-grabbing, raping and torturing on the side when Jesus is not looking.
