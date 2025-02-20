@@ -313,11 +313,11 @@ Americans muscle in and assume the role of mentoring their Little Brown Brothers
 
 Japan entice the Filipinos to join its glorious Greater East Asia Co-Prosperity Sphere by bayonetting everyone to submission.
 
-- <span class=year>1941</span> Japanese troops land in the Philippines, giving the Filipinos their first taste of *kawaii* Hello Kitty toys and hentai porn. Filipinos opposed to deviant pornography retreat to Corregidor to make a last stand.
+- <span class=year>1941</span> Japanese troops land in the Philippines, giving the Filipinos their first taste of *kawaii* Hello Kitty toys and hentai porn. Filipinos opposed to deviant pornography retreat to Corregidor Island to make a last stand.
  
 - <span class=year>1942</span> General Douglas MacArthur evades his ninja assassins and escapes to Australia, uttering the iconic words "Sayonara, bitches."
 
-- <span class=year>1942</span> The Fall of Bataan is followed by the gruelling Takeshi's Death March, during which Filipino and American prisoners march nonstop on their way to Takeshi's Castle while avoiding obstacles and dodging bayonets. Those who get hit by bayonets are eliminated.
+- <span class=year>1942</span> The Fall of Bataan is followed by the gruelling Takeshi's Death March, during which Filipino and American prisoners march nonstop on their way to Takeshi's Castle while avoiding obstacles and dodging bayonets. Those who get stabbed are eliminated.
 
 - <span class=year>1944</span> General Tomoyuki Yamashita buries 10,000 Pokéballs all over the country and dares the Filipinos to try find them all. Those who can't are bayonetted on the spot.
   
@@ -359,7 +359,7 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
 
 - <span class=year>1976</span> Imelda Marcos and Muammar Gaddafi stage a week-long bed-in in Libya to protest the ongoing conflict in Muslim Mindanao, resulting in the Tripoli Agreement, whereby they encourage the feuding parties to "Make love, not war."
  
-- <span class=year>1977</span> Mae Anne Padolina, the first Japayuki, departs for the Land of the Rising Yen to perform *tinikling* and *maglalatik* for cultural events. Tens of thousand others enroll in folk dance classes.
+- <span class=year>1977</span> Mae Anne Padolina, the first Japayuki, departs for the Land of the Rising Sun to perform *tinikling* and *maglalatik* for cultural events. Tens of thousand others enroll in folk dance classes.
 
 - <span class=year>1978</span> Folk-singer Freddie Aguilar releases the iconic song "Anak Ka Ng Ina Mo" which is then shortened to "Anak" for marketing purposes. It is eventually translated and sung to a billion languages.
 
