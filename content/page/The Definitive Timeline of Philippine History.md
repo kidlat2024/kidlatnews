@@ -213,7 +213,7 @@ Here is a comprehensive timeline of Philippine history to understand how we have
 
 - <span class=year>1258</span> Muslim principality of Manila is founded on the southern shores of Pasig River. The name comes from the manila folders and envelopes which grow on manila trees abundant in the area, trade in which brings modest prosperity to the fledgling settlement.
 
-- <span class=year>1467</span> Bored with the Kawi alphabet, literary snobs in Luzon invent the Baybayin script so they can have nice letters to use for tattoos and logos that uncouth natives can't read.
+- <span class=year>1367</span> Bored with the Kawi alphabet, literary snobs in Luzon invent the Baybayin script so they can have nice, decorative letters to use for tattoos and logos that uncouth natives can't read.
 
 ## Spanish Rule (1521-1898)
 
@@ -221,17 +221,17 @@ Uninvited, and with the help of cannons, guns and bayonets, the Spanish gently p
 
 - <span class=year>1521 March</span> Out of nowhere, explorer Ferdinand Magellan lands on Limasawa Island in Southern Leyte and invites the natives to a bible study. The natives have no idea what on Earth is going on but they join anyway because there are free snacks.
 
-- <span class=year>1521 April</span> Rajah Humabon of Cebu performs the blood compact with Magellan and promptly goes down with smallpox. In a fit of fever-induced delirium, he trades two of his wives in return for some trinkets.
+- <span class=year>1521 April</span> Unaware of what nasty germs the Europeans carry and ignoring basic hygiene practices, Rajah Humabon of Cebu performs the blood compact with Magellan and promptly goes down with smallpox. In a fit of fever-induced delirium, he trades two of his wives in return for some trinkets.
 
 - <span class=year>1521 April</span> Datu Lapulapu, fed up with Magellan's bullshit, hacks him to death when he lands on Mactan Island. Magellan's maggot-infested corpse makes the first circumnavigation of the globe when it reaches Spain on September the following year.
 
-- <span class=year>1565</span> Miguel Lopez de Legazpi arrives in Cebu with four ships and 380 men and exhort Rajah Tupas at gunpoint to accept Jesus Christ as his savior, in case he might die prematurely from some accident or God knows what. Rajah Tupas sort of agrees.
+- <span class=year>1565</span> Forty years after the Magellan debacle, Spain tries again and sends Miguel Lopez de Legazpi to Cebu with four ships and hundreds of men. Rajah Tupas surrenders his rajanate to the invaders for some vague promises of Christian afterlife.
 
-<!--
-- <span class=year>1570</span> Legazpi's men together with their Visayan allies battle Rajah Sulayman of Manila.
--->
+- <span class=year>1570</span> Legazpi sends men to Manila to get hold of manila folders for his files. They burn the city to the ground before returning to Cebu empty-handed.
 
-- <span class=year>1574</span> Famished after months of seafaring and looting, Chinese pirate Limahong raids Manila for some decent fried rice and dim sum. He runs amok after finding nothing but *sinigang* and *pinakbet*.
+- <span class=year>1571</span> Raring to tour Europe, Rajah Sulayman, Rajah Matanda, and Lakandula welcomes Legazpi to Manila and proclaims themselves Spanish subjects, so they can have Spanish passports and apply for a Schengen visa.
+
+- <span class=year>1574</span> Famished after months of seafaring and pirating, Chinese corsair Limahong raids Manila for some decent fried rice and dim sum. He runs amok after finding nothing but *sinigang* and *pinakbet*.
 
 - <span class=year>1593</span> The Dominicans print the *Doctrina Christiana*, the first ever publication in the islands. Later, they also secretly print the country’s first erotic novel *Biag ni Lam-ang* which they only share among themselves.
 
