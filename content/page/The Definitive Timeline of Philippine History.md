@@ -41,6 +41,7 @@ tags:
 - Corazon Aquino
 - CPP-NPA
 - Cry of Pugadlawin
+- Cry of Balintawak
 - Cuba
 - Dagohoy Revolt
 - Dapitan
@@ -273,7 +274,7 @@ After 300 years under Spanish yoke, Filipinos come to realize that they can prob
 
 - <span class=year>1893</span> Tiburcio Kidlat publishes the first Philippine newspaper *[Ang Kidlat](https://kidl.at)*, aiming to shine a spotlight on the vices, follies and abuses of the ruling Spanish. He is promptly arrested and shot.
 
-- <span class=year>1896 August</span> Bonifacio, Emilio Jacinto and other Katipuneros horribly realize that they have torn up their *cedula* by mistake instead of their grocery receipts, prompting the Cry of Pugadlawin.
+- <span class=year>1896 August</span> Bonifacio, Emilio Jacinto and other Katipuneros horribly realize that they have torn up their *cedula* by mistake instead of their grocery receipts, prompting the Cry of Pugadlawin. (Or maybe it was the Cry of Balintawak, we don't know for sure. There was so much wailing and crying, they forgot to make a note of where exactly it happened.)
 
 - <span class=year>1896 December</span> Spanish authorities finally execute Rizal by firing squad at Bagumbayan for writing exceedingly bad novels that everybody hated.
 
