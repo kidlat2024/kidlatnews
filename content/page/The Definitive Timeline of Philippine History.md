@@ -275,7 +275,7 @@ After 300 years under Spanish yoke, Filipinos come to realize that they can prob
 
 - <span class=year>1893</span> Tiburcio Kidlat publishes the first Philippine newspaper *[Ang Kidlat](https://kidl.at)*, aiming to shine a spotlight on the vices, follies and abuses of the ruling Spanish. He is promptly arrested and shot.
 
-- <span class=year>1896 August</span> Bonifacio, Emilio Jacinto and other Katipuneros horribly realize that they have torn up their *cedula* by mistake instead of their grocery receipts, prompting the Cry of Pugadlawin. (Also known as the Cry of Balintawak. There was so much wailing and crying, the Katipuneros forgot to make a note of where exactly it happened.)
+- <span class=year>1896 August</span> Bonifacio, Emilio Jacinto and other Katipuneros horribly realize that they have torn up their *cedula* by mistake instead of their grocery receipts, prompting the Cry of Pugadlawin (aka the Cry of Balintawak: there is so much wailing and crying on this day that nobody remembers to make a note of where exactly it happens).
 
 - <span class=year>1896 December</span> Spanish authorities finally execute Rizal by firing squad at Bagumbayan for writing exceedingly bad novels that everybody hated.
 
