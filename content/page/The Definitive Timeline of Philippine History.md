@@ -56,6 +56,7 @@ tags:
 - El Filibusterismo
 - Emilio Aguinaldo
 - Emilio Jacinto
+- Facebook
 - Favian Ver
 - Ferdinand Magellan
 - Ferdinand Marcos
@@ -188,7 +189,7 @@ Colony of Spain for more than three hundred years and of America for another fif
 
 Here is a comprehensive timeline of Philippine history to understand how we have come to this glorious mess.
 
-[`Download the PDF: The Definitive Timeline of Philippine History`](/pdf/definitive-timeline-of-philippine-history-90.pdf)
+[`Download the PDF: The Definitive Timeline of Philippine History`](/pdf/definitive-timeline-of-philippine-history.pdf)
 
 1. [Pre-Colonial Period](#pre-colonial-period-prehistory-1521)
 2. [Spanish Rule](#spanish-rule-1521-1898) (with [Nationalist Movement](#filipino-nationalist-movement-1872-1898) subsection)
