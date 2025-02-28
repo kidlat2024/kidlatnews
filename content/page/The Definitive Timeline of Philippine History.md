@@ -381,7 +381,7 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
 
 - <span class=year>1994</span> Philippines makes its first connection to the Internet when an employee of the Philippine Network Foundation downloads a topless photo of Tracy Lords from a server in CERN.
 
-- <span class=year>2006</span> Filipino mountaineer Leo Oracion makes history as the 1,874th person to climb Mount Everest.
+- <span class=year>2006</span> Fresh from conquering Mount Makiling, Filipino mountaineer Leo Oracion makes history as the first person to summit Mount Everest dressed only in flipflops and barong tagalog. He loses 7 fingers and all of his toes in the process.
 
 <!--
 - <span class=year>2009</span> Maguindanao Massacre
