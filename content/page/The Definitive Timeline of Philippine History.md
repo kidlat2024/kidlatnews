@@ -371,7 +371,7 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
  
 - <span class=year>1983</span> A motley crue of NPA hitmen, military SWAT soldiers and CIA operatives assassinate Senator Benigno "Ninoy" Aquino Jr. from fifty different angles after the deducing the airport where his plane will land from his name.
  
-- <span class=year>1986</span> Marcos ally General Favian Fer erupts with jealousy after he discovers racy love letters between Defense Secretary Juan Ponce Enrile and RAM leader Gregorio Honasan and orders them arrested. The lovers elope to Camp Crame on EDSA.
+- <span class=year>1986</span> Marcos ally General Favian Ver erupts with jealous rage after he discovers racy love letters between Defense Secretary Juan Ponce Enrile and RAM leader Gregorio Honasan. He orders them arrested but the lovers elope to Camp Crame on EDSA.
  
 - <span class=year>1986</span> Trapped in a massive traffic in EDSA highway, tens of thousands of commuters decide to leave their buses and walk home, clogging the highway and accidentally triggering the People Power Revolution that drive President Marcos from power. Corazon "Heart" Aquino becomes president.
 
@@ -395,7 +395,7 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
 
 - <span class=year>2015</span> The National Mapping and Resource Information Authority announces it has finally located the 400 islands that the country feared were lost after they were blown away by typhoon Yolanda.
 
-- <span class=year>2016</span> President Rodrigo Duterte announces an all-out War on Drugs and orders the police to shoot on sight all kinds of illicit substances wherever they see them, even while being smoked, injected or snorted by users. Tens of thousands of Filipino bystanders die from stray bullets.
+- <span class=year>2016</span> President Rodrigo Duterte announces an all-out War on Drugs and orders the police to shoot on sight all kinds of illicit substances wherever they see them, even while being smoked, injected or snorted by users. Tens of thousands of Filipinos die from stray bullets.
 
 <!--
 - <span class=year>2020</span> Coronavirus
@@ -403,4 +403,8 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
 
 <!--
 - <span class=year>2021</span> Hidilyn Diaz wins a gold medal at the Women's 55 kg event for weightlifting in Tokyo, Japan during the 2020 Tokyo Olympics.
+-->
+
+<!--
+- <span class=year>2022</span> Nostalgic of the golden age of growth and glamour under the dictatorship of the first Marcos presidency, 31 million stoned Filipinos elect Ferdinand "Bongbong" Marcos, Jr. as president.
 -->
