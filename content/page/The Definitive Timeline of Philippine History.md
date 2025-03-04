@@ -405,4 +405,4 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
 - <span class=year>2021</span> Hidilyn Diaz wins a gold medal at the Women's 55 kg event for weightlifting in Tokyo, Japan during the 2020 Tokyo Olympics.
 -->
 
-- <span class=year>2022</span> 31 million survivors of Duterte's War on Drugs, stoned out of their minds, elect Ferdinand "Bongbong" Marcos, Jr. as president.
+- <span class=year>2022</span> 31 million survivors of Duterte's War on Drugs, stoned out of their minds, elect Ferdinand "Bongbong" Marcos, Jr. as president in a landslide.
