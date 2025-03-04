@@ -397,12 +397,10 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
 
 - <span class=year>2016</span> President Rodrigo Duterte announces an all-out War on Drugs and orders the police to shoot on sight all kinds of illicit substances wherever they see them, even while being smoked, injected or snorted by users. Tens of thousands of Filipinos die from stray bullets.
 
+- <span class=year>2022</span> 31 million survivors of Duterte's War on Drugs, stoned out of their minds, elect Ferdinand "Bongbong" Marcos, Jr. as president in a landslide.
+
 <!--
 - <span class=year>2020</span> Coronavirus
--->
 
-<!--
 - <span class=year>2021</span> Hidilyn Diaz wins a gold medal at the Women's 55 kg event for weightlifting in Tokyo, Japan during the 2020 Tokyo Olympics.
 -->
-
-- <span class=year>2022</span> 31 million survivors of Duterte's War on Drugs, stoned out of their minds, elect Ferdinand "Bongbong" Marcos, Jr. as president in a landslide.
