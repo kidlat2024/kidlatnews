@@ -333,7 +333,7 @@ Japan entice the Filipinos to join its glorious Greater East Asia Co-Prosperity 
 
 Unshackled from foreign intervention, Filipinos finally get free rein to run the country like hell.
 
-- <span class=year>1946</span> The US dumps the Philippines and buggers off to Japan, leaving the Filipinos alone to clean up their gigantic mess. Japan donates 100,000 brooms and 50,000 mops as war reparation.
+- <span class=year>1946</span> US dumps high school sweetheart Philippines for hot but abusive Japan, leaving the Filipinos alone to clean up their gigantic mess. Japan donates 100,000 brooms and 50,000 mops as war reparation.
 
 - <span class=year>1950</span> Hundreds of Philippine soldiers join the American-led forces in the Korean War. They return home later with PTSD and a severe addiction to Korean dramas.
 
