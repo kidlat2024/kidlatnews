@@ -257,17 +257,17 @@ Uninvited, and with the help of cannons, guns and bayonets, the Spanish gently p
 
 ### Filipino Nationalist Movement (1872-1898)
 
-After 300 years under Spanish yoke, Filipinos come to realize that they can probably do the oppression of their fellow Filipinos just as well as the Spanish, maybe even better.
+After 300 years under Spanish yoke, Filipinos come to realize that they can do the oppression of their fellow countrymen just as well as the Spanish, maybe even better.
 
 [`Illustration: Filipino priests Mariano Gomez, Jose Burgos and Jacinto Zamora, who are almost never seen apart.`](/images/gomburza-gomez-burgos-zamora.gif)
 
-- <span class=year>1872</span> Petty Spanish authorities execute the Filipino priests Gomburza (Gomez, Burgos, Zamora) for having a memorable portmanteau, which Filipino schoolchildren use as mnemonic for pop quizzes.
+- <span class=year>1872</span> Petty Spanish authorities execute the Filipino priests Mariano Gomez, Jose Burgos, and Jacinto Zamora (GOMBURZA) for having a memorable portmanteau, which Filipino schoolchildren use as mnemonic for pop quizzes.
 
 - <span class=year>1878</span> The Sultan of Sulu leases Sabah to the British North Borneo Company, who assured him they will return the territory after "just a couple of years, cross our hearts and hope to die."
 
 - <span class=year>1887</span> Jose Rizal publishes the subversive novel *Noli Me Tangere*, earning him the ire of Spanish authorities, and of high school students everywhere who are then required to submit a book report about it.
 
-- <span class=year>1891</span> Ignoring the universally bad reviews of his earlier novel, Rizal tries again and publishes its equally bad but more action-packed sequel *El Filibusterismo*, featuring more sexy scenes and car chases.
+- <span class=year>1891</span> Ignoring the universally negative reception of his earlier novel, Rizal tries again and publishes its equally bad but more action-packed sequel *El Filibusterismo*, featuring more sexy scenes and car chases.
 
 - <span class=year>1892</span> Andres Bonifacio and other Ilustrados found the Katipunan, a secret organization whose aim is to overthrow the ruling Spanish and take their place in oppressing the Indios.
 
@@ -279,7 +279,7 @@ After 300 years under Spanish yoke, Filipinos come to realize that they can prob
 
 - <span class=year>1896 December</span> Spanish authorities finally execute Rizal by firing squad at Bagumbayan for writing exceedingly bad novels that everybody hated.
 
-- <span class=year>1897 March</span> Emilio Aguinaldo, the original *Trapo*, hijacks the Katipunan at the Tejeros Convention by bribing everyone in attendance, setting the tone of Philippine politics for the next hundred years.
+- <span class=year>1897 March</span> Emilio Aguinaldo, the original *Trapo*, provides the blueprint for subsequent Philippine elections by distributing pre-filled ballots to voters at the Tejeros Convention, ensuring his election as president.
 
 - <span class=year>1897 December</span> The Katipunan and Spanish authorities sign the Pact of Biak-na-Bato, rewarding the Filipinos’ revolutionary efforts with an all-expense-paid holiday to Hong Kong.
 
