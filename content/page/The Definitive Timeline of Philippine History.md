@@ -229,9 +229,9 @@ Uninvited, and with the help of cannons, guns and bayonets, the Spanish gently p
 
 - <span class=year>1565</span> Forty years after the Magellan debacle, Spain tries again and sends Miguel Lopez de Legazpi to Cebu with four ships and hundreds of men. Rajah Tupas surrenders his rajanate to the invaders for some vague promises of Christian afterlife.
 
-- <span class=year>1570</span> Legazpi sends men to Manila to get hold of manila folders for his files. They burn the city to the ground before returning to Cebu empty-handed.
+- <span class=year>1570</span> Legazpi sends men to Manila to get hold of manila folders to organize the mountain of files in his office. The men burn the city to the ground before returning to Cebu empty-handed.
 
-- <span class=year>1571</span> Raring to tour Europe, Rajah Sulayman, Rajah Matanda, and Lakandula welcomes Legazpi to Manila and proclaims themselves Spanish subjects, so they can have Spanish passports and apply for a Schengen visa.
+- <span class=year>1571</span> Raring to tour Europe, Rajah Sulayman, Rajah Matanda, and Lakandula welcome Legazpi to Manila and proclaim themselves Spanish subjects, so they can have Spanish passports and apply for a Schengen visa.
 
 - <span class=year>1574</span> Famished after months of seafaring and pirating, Chinese corsair Limahong raids Manila for some decent fried rice and dim sum. He runs amok after finding nothing but *sinigang* and *pinakbet*.
 
@@ -397,10 +397,10 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
 
 - <span class=year>2016</span> President Rodrigo Duterte announces an all-out War on Drugs and orders the police to shoot on sight all kinds of illicit substances wherever they see them, even while being smoked, injected or snorted by users. Tens of thousands of Filipinos die from stray bullets.
 
-- <span class=year>2022</span> 31 million survivors of Duterte's War on Drugs, stoned out of their minds, elect Ferdinand "Bongbong" Marcos, Jr. as president in a landslide.
+- <span class=year>2022</span> 31 million survivors of Duterte's War on Drugs, blissfully stoned, elect Ferdinand "Bongbong" Marcos, Jr. as president in a landslide.
 
 <!--
 - <span class=year>2020</span> Coronavirus
 
-- <span class=year>2021</span> Hidilyn Diaz wins a gold medal at the Women's 55 kg event for weightlifting in Tokyo, Japan during the 2020 Tokyo Olympics.
+- <span class=year>2021</span> Hidilyn Diaz wins the Philippines' first olympic gold medal during the Women's 55 kg event for weightlifting in Tokyo, Japan at the 2020 Tokyo Olympics.
 -->
