@@ -261,7 +261,7 @@ After 300 years under Spanish yoke, Filipinos come to realize that they can do t
 
 [`Illustration: Filipino priests Mariano Gomez, Jose Burgos and Jacinto Zamora, who are almost never seen apart.`](/images/gomburza-gomez-burgos-zamora.gif)
 
-- <span class=year>1872</span> Petty Spanish authorities execute the Filipino priests Mariano Gomez, Jose Burgos, and Jacinto Zamora (GOMBURZA) for having a memorable portmanteau, which Filipino schoolchildren use as mnemonic for pop quizzes.
+- <span class=year>1872</span> Petty Spanish authorities execute the Filipino priests Gomez, Burgos, and Zamora (Gomburza) for having a memorable portmanteau, which Filipino schoolchildren use as mnemonic for pop quizzes.
 
 - <span class=year>1878</span> The Sultan of Sulu leases Sabah to the British North Borneo Company, who assured him they will return the territory after "just a couple of years, cross our hearts and hope to die."
 
@@ -275,11 +275,11 @@ After 300 years under Spanish yoke, Filipinos come to realize that they can do t
 
 - <span class=year>1893</span> Tiburcio Kidlat publishes the first Philippine newspaper *[Ang Kidlat](https://kidl.at)*, aiming to shine a spotlight on the vices, follies and abuses of the ruling Spanish. He is promptly arrested and shot.
 
-- <span class=year>1896 August</span> Bonifacio, Emilio Jacinto and other Katipuneros horribly realize that they have torn up their *cedula* by mistake instead of their grocery receipts, prompting the Cry of Pugadlawin (aka the Cry of Balintawak: there is so much wailing and crying on this day that nobody remembers to make a note of where exactly it happens).
+- <span class=year>1896 August</span> Bonifacio, Emilio Jacinto and other Katipuneros horribly realize that they have torn up their *cedula* by mistake instead of their grocery receipts, prompting the Cry of Pugadlawin, aka the Cry of Balintawak (there is so much wailing and crying on this day that nobody remembers to make a note of where exactly it happens).
 
-- <span class=year>1896 December</span> Spanish authorities finally execute Rizal by firing squad at Bagumbayan for writing exceedingly bad novels that everybody hated.
+- <span class=year>1896 December</span> High school students throughout the country cheer as Spanish authorities finally execute Rizal by firing squad at Bagumbayan for writing exceedingly bad novels that everybody hated.
 
-- <span class=year>1897 March</span> Emilio Aguinaldo, the original *Trapo*, provides the blueprint for subsequent Philippine elections by distributing pre-filled ballots to voters at the Tejeros Convention, ensuring his election as president.
+- <span class=year>1897 March</span> Emilio Aguinaldo, the original *Trapo*, displays exemplar statesmanship at the Tejeros Convention by distributing pre-filled ballots to voters, ensuring his election as president of the revolutionary government.
 
 - <span class=year>1897 December</span> The Katipunan and Spanish authorities sign the Pact of Biak-na-Bato, rewarding the Filipinos’ revolutionary efforts with an all-expense-paid holiday to Hong Kong.
 
@@ -293,7 +293,10 @@ Americans muscle in and assume the role of mentoring their Little Brown Brothers
 
 - <span class=year>1898 June</span> Aguinaldo elects himself President and declares independence from Spain, except that Spain has already sold the Philippines to the US just the day before.
 
-- <span class=year>1898 June</span> The last fifty Spanish soldiers in the country barricade themselves in a church in Baler, Quezon to shoot the movie *Our Last Men in the Philippines*, which will later win the Goya Awards for best costume.
+- <span class=year>1898 June</span> Fifty Spanish soldiers barricade themselves in a church in Baler, Quezon to shoot the movie *Our Last Men in the Philippines*, which will later win the Goya Awards for best costume.
+
+- <span class=year>1898 August</span> Cosplaying US and Spanish soldiers conduct the Mock Battle of Manila, using wooden swords and squirt guns,
+during which Spanish forces surrender to the Americans instead of the Filipino revolutionaries besieging Intramuros.
 
 - <span class=year>1898 October</span> *Manila Times* publishes its first issue. Columnist [Rigoberto Tiglao](https://rigobertotiglao.com/) lambasts the Spanish and Americans and urge the Katipuneros to throw their lot with the Chinese.
 
