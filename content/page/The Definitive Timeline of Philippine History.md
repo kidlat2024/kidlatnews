@@ -146,6 +146,7 @@ tags:
 - Paoay Church
 - Paris
 - People Power Revolution
+- Philippine Airlines
 - Philippine Institute of Volcanology and Seismology
 - Philippines
 - PHILVOCS
@@ -279,26 +280,27 @@ After 300 years under Spanish yoke, Filipinos come to realize that they can do t
 
 - <span class=year>1896 December</span> High school students throughout the country cheer as Spanish authorities finally execute Rizal by firing squad at Bagumbayan for writing exceedingly bad novels that everybody hated.
 
-- <span class=year>1897 March</span> Emilio Aguinaldo, the original *Trapo*, displays exemplar statesmanship at the Tejeros Convention by distributing pre-filled ballots to voters, ensuring his election as president of the revolutionary government.
+- <span class=year>1897 March</span> Emilio Aguinaldo, the original *Trapo*, displays exemplary statesmanship by rigging the first Philippine presidential election at the Tejeros Convention, ensuring his presidency of the revolutionary government. He caps it off by having Bonifacio tried and executed for treason when the latter disputes the result.
 
-- <span class=year>1897 December</span> The Katipunan and Spanish authorities sign the Pact of Biak-na-Bato, rewarding the Filipinos’ revolutionary efforts with an all-expense-paid holiday to Hong Kong.
+- <span class=year>1897 December</span> Spanish authorities sign the Pact of Biak-na-Bato, creating a truce and rewarding the Filipinos’ revolutionary efforts with an all-expense-paid holiday to Hong Kong for Aguinaldo and his men.
 
-- <span class=year>1898 April</span> The Americans, feeling left out of the European-led conquering and colonizing activities and casting covetous eyes on Cuba, Guam and Philippines, declares war on Spain.
+- <span class=year>1898 April</span> The Americans, feeling left out of the European-led conquering and colonizing activities and casting covetous eyes on Cuba and the Philippines, declares war on Spain.
 
-- <span class=year>1898 May</span> Freshly rested, Aguinaldo and his men return to Cavite with a new flag which they bought from Alibaba for 10 yuan and a shipful of stuffed toys from Hong Kong Disneyland.
+- <span class=year>1898 May</span> Freshly rested, Aguinaldo and his men return to Cavite with a knock-off Sint Maarten flag they bought from Alibaba and a shipful of stuffed toys from Hong Kong Disneyland.
+
+- <span class=year>1898 June</span> Aguinaldo declares independence from Spain, forgetting about the Americans who transported him back to the Philippines from Hong Kong and who are now negotiating with Spain to take the islands for themselves.
+
+- <span class=year>1898 June</span> Fifty Spanish soldiers barricade themselves in a church in Baler, Quezon to shoot the movie *1898, Our Last Men in the Philippines*, which will later win the Goya Awards for best costume.
 
 ## American Rule (1898-1946)
 
 Americans muscle in and assume the role of mentoring their Little Brown Brothers--after they massacre some of them first.
 
-- <span class=year>1898 June</span> Aguinaldo elects himself President and declares independence from Spain, except that Spain has already sold the Philippines to the US just the day before.
-
-- <span class=year>1898 June</span> Fifty Spanish soldiers barricade themselves in a church in Baler, Quezon to shoot the movie *Our Last Men in the Philippines*, which will later win the Goya Awards for best costume.
-
-- <span class=year>1898 August</span> Cosplaying US and Spanish soldiers conduct the Mock Battle of Manila, using wooden swords and squirt guns,
-during which Spanish forces surrender to the Americans instead of the Filipino revolutionaries besieging Intramuros.
+- <span class=year>1898 August</span> Cosplaying Spanish and US soldiers stage the mock Battle of Manila using wooden swords and spears, after which Spain cedes Intramuros to the US, avoiding the ignonimity of surrendering to the Filipino revolutionaries besieging the capital.
 
 - <span class=year>1898 October</span> *Manila Times* publishes its first issue. Columnist [Rigoberto Tiglao](https://rigobertotiglao.com/) lambasts the Spanish and Americans and urge the Katipuneros to throw their lot with the Chinese.
+
+- <span class=year>1899 February</span> Filipino cosplayers armed with squirt guns engage the American soldiers in Manila, but were fired upon with real bullets, starting the Philippine-American War.
 
 - <span class=year>1899 June</span> Men loyal to Aguinaldo assassinate Antonio Luna in Cabanatuan City. Rumor has it that Luna is loathed by Aguinaldo, who has always wanted to grow a bushy mustache but can't.
 
@@ -313,6 +315,8 @@ during which Spanish forces surrender to the Americans instead of the Filipino r
 - <span class=year>1908</span> University of the Philippines is established in Manila. The first batch of students cut classes and stage demonstrations on Taft Avenue shouting "Down with the US-Aguinaldo dictatorship! Asia for Asians!"
 
 - <span class=year>1939</span> Anticipating the likes of such brilliant leaders as Marcos, Estrada and Duterte, strangely prescient President Manuel Quezon declares "I would rather have a government run like hell by Filipinos than a government run like heaven by Americans."
+
+- <span class=year>1941</span> Philippine Airlines’ maiden flight from Manila to Baguio is delayed for four hours.
 
 ## Japanese Occupation (1941-1945)
 
