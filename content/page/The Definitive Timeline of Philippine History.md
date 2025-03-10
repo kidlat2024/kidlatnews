@@ -280,7 +280,7 @@ After 300 years under Spanish yoke, Filipinos come to realize that they can do t
 
 - <span class=year>1896 December</span> High school students throughout the country cheer as Spanish authorities finally execute Rizal by firing squad at Bagumbayan for writing exceedingly bad novels that everybody hated.
 
-- <span class=year>1897 March</span> Emilio Aguinaldo, the original *Trapo*, displays exemplary statesmanship by rigging the first Philippine presidential election at the Tejeros Convention, ensuring his presidency of the revolutionary government. He caps it off by having Bonifacio tried and executed for treason when the latter disputes the result.
+- <span class=year>1897 March</span> Emilio Aguinaldo, the original *Trapo*, displays exemplary statesmanship by rigging the first Philippine presidential election at the Tejeros Convention, ensuring his presidency of the revolutionary government. He caps it off by having Bonifacio executed for treason when the latter disputes the result.
 
 - <span class=year>1897 December</span> Spanish authorities sign the Pact of Biak-na-Bato, creating a truce and rewarding the Filipinos’ revolutionary efforts with an all-expense-paid holiday to Hong Kong for Aguinaldo and his men.
 
@@ -288,7 +288,7 @@ After 300 years under Spanish yoke, Filipinos come to realize that they can do t
 
 - <span class=year>1898 May</span> Freshly rested, Aguinaldo and his men return to Cavite with a knock-off Sint Maarten flag they bought from Alibaba and a shipful of stuffed toys from Hong Kong Disneyland.
 
-- <span class=year>1898 June</span> Aguinaldo declares independence from Spain, forgetting about the Americans who transported him back to the Philippines from Hong Kong and who are now negotiating with Spain to take the islands for themselves.
+- <span class=year>1898 June</span> Aguinaldo declares Philippine independence from Spain, forgetting about the Americans who transported him back to the country from Hong Kong and who are now negotiating with Spain to take the islands for themselves.
 
 - <span class=year>1898 June</span> Fifty Spanish soldiers barricade themselves in a church in Baler, Quezon to shoot the movie *1898, Our Last Men in the Philippines*, which will later win the Goya Awards for best costume.
 
@@ -296,7 +296,7 @@ After 300 years under Spanish yoke, Filipinos come to realize that they can do t
 
 Americans muscle in and assume the role of mentoring their Little Brown Brothers--after they massacre some of them first.
 
-- <span class=year>1898 August</span> Cosplaying Spanish and US soldiers stage the mock Battle of Manila using wooden swords and spears, after which Spain cedes Intramuros to the US, avoiding the ignonimity of surrendering to the Filipino revolutionaries besieging the capital.
+- <span class=year>1898 August</span> Cosplaying Spanish and US soldiers stage the mock Battle of Manila using wooden swords and spears, after which Spain surrenders Manila to the US, avoiding the ignonimity of waving the white flag to the Filipino revolutionaries besieging the capital.
 
 - <span class=year>1898 October</span> *Manila Times* publishes its first issue. Columnist [Rigoberto Tiglao](https://rigobertotiglao.com/) lambasts the Spanish and Americans and urge the Katipuneros to throw their lot with the Chinese.
 
@@ -316,7 +316,7 @@ Americans muscle in and assume the role of mentoring their Little Brown Brothers
 
 - <span class=year>1939</span> Anticipating the likes of such brilliant leaders as Marcos, Estrada and Duterte, strangely prescient President Manuel Quezon declares "I would rather have a government run like hell by Filipinos than a government run like heaven by Americans."
 
-- <span class=year>1941</span> Philippine Airlines’ maiden flight from Manila to Baguio is delayed for four hours.
+- <span class=year>1941</span> Asia's first national carrier Philippine Airlines’ maiden flight from Manila to Baguio is delayed for three hours while the crew try to wake up the hung-over pilot.
 
 ## Japanese Occupation (1941-1945)
 
@@ -409,5 +409,5 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
 <!--
 - <span class=year>2020</span> Coronavirus
 
-- <span class=year>2021</span> Hidilyn Diaz wins the Philippines' first olympic gold medal during the Women's 55 kg event for weightlifting in Tokyo, Japan at the 2020 Tokyo Olympics.
+- <span class=year>2021</span> Hidilyn Diaz, who used to lift her family's carabaos when she was small, wins the Philippines' first olympic gold medal during the Women's 55kg event for weightlifting in Tokyo, Japan at the 2020 Tokyo Olympics.
 -->
