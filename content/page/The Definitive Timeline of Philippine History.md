@@ -280,7 +280,7 @@ After 300 years under Spanish yoke, Filipinos come to realize that they can do t
 
 - <span class=year>1896 December</span> High school students throughout the country cheer as Spanish authorities finally execute Rizal by firing squad at Bagumbayan for writing exceedingly bad novels that everybody hated.
 
-- <span class=year>1897 March</span> Emilio Aguinaldo, the original *Trapo*, displays exemplary statesmanship by rigging the first Philippine presidential election at the Tejeros Convention, ensuring his presidency of the revolutionary government. He caps it off by having Bonifacio executed for treason when the latter disputes the result.
+- <span class=year>1897 March</span> Emilio Aguinaldo, the original *Trapo*, displays exemplary statesmanship at the Tejeros Convention by rigging the Philippines’ first ever presidential election, ensuring his leadership of the revolutionary government. He caps it off by having Bonifacio executed for treason when the latter disputes the result.
 
 - <span class=year>1897 December</span> Spanish authorities sign the Pact of Biak-na-Bato, creating a truce and rewarding the Filipinos’ revolutionary efforts with an all-expense-paid holiday to Hong Kong for Aguinaldo and his men.
 
@@ -288,7 +288,7 @@ After 300 years under Spanish yoke, Filipinos come to realize that they can do t
 
 - <span class=year>1898 May</span> Freshly rested, Aguinaldo and his men return to Cavite with a knock-off Sint Maarten flag they bought from Alibaba and a shipful of stuffed toys from Hong Kong Disneyland.
 
-- <span class=year>1898 June</span> Aguinaldo declares Philippine independence from Spain, forgetting about the Americans who transported him back to the country from Hong Kong and who are now negotiating with Spain to take the islands for themselves.
+- <span class=year>1898 June</span> Aguinaldo declares Philippine independence from Spain, forgetting about the Americans who transported him back to the country from Hong Kong and who are now secretly negotiating with Spain to seize the islands for themselves.
 
 - <span class=year>1898 June</span> Fifty Spanish soldiers barricade themselves in a church in Baler, Quezon to shoot the movie *1898, Our Last Men in the Philippines*, which will later win the Goya Awards for best costume.
 
@@ -316,7 +316,7 @@ Americans muscle in and assume the role of mentoring their Little Brown Brothers
 
 - <span class=year>1939</span> Anticipating the likes of such brilliant leaders as Marcos, Estrada and Duterte, strangely prescient President Manuel Quezon declares "I would rather have a government run like hell by Filipinos than a government run like heaven by Americans."
 
-- <span class=year>1941</span> Asia's first national carrier Philippine Airlines’ maiden flight from Manila to Baguio is delayed for three hours while the crew try to wake up the hung-over pilot.
+- <span class=year>1941</span> Asia's first national carrier Philippine Airlines’ maiden flight from Manila to Baguio is delayed for three hours while the crew frantically search for and wake up the hung-over pilot.
 
 ## Japanese Occupation (1941-1945)
 
