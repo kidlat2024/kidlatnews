@@ -212,7 +212,7 @@ Here is a comprehensive timeline of Philippine history to understand how we have
 
 - <span class=year>900 CE</span> Frustrated by the Filipino natives’ propensity to forget their debts, moped-riding Bumbays introduce the Brahmic writing script Kawi to the islands to have a paper record of who owes what.
 
-- <span class=year>1240</span> Arabs introduce Islam to Sulu, where it spread througout the archipelago. Native Filipinos who keep several wives and slaves now have a convenient religious justification for it.
+- <span class=year>1240</span> Arab traders introduce the trendy new religion of Islam to Sulu, where it spread throughout the archipelago. Native Filipinos who keep several wives and slaves now have a convenient religious justification for it.
 
 - <span class=year>1258</span> Muslim principality of Manila is founded on the southern shores of Pasig River. The name comes from the manila folders and envelopes which grow on manila trees abundant in the area, trade in which brings modest prosperity to the fledgling settlement.
 
@@ -220,7 +220,7 @@ Here is a comprehensive timeline of Philippine history to understand how we have
 
 ## Spanish Rule (1521-1898)
 
-Uninvited, and with the help of cannons, guns and bayonets, the Spanish gently persuade the natives to abandon their heathen ways and embrace Jesus Christ. They also do some killing, stealing, land-grabbing, raping and torturing on the side when Jesus is not looking.
+Uninvited, and with the help of cannons, guns and bayonets, the Spanish persuade the natives to abandon their heathen ways and embrace Jesus Christ. They also do some killing, stealing, land-grabbing, raping and torturing on the side when Jesus is not looking.
 
 - <span class=year>1521 March</span> Out of nowhere, explorer Ferdinand Magellan lands on Limasawa Island in Southern Leyte and invites the natives to a bible study. The natives have no idea what on Earth is going on but they join anyway because there are free snacks.
 

@@ -21,7 +21,7 @@ We may use the names and photos of public figures or actual businesses in our ar
 
 Satire is a legitimate [genre of literary arts](https://en.wikipedia.org/wiki/Satire) and is [protected](https://www.rappler.com/newsbreak/iq/highlights-cebu-judge-decision-dismissing-charges-vs-bambi-beltran/) [speech](https://lawreview.ust.edu.ph/political-satire-in-the-digital-age-magnifying-the-extent-of-protected-speech/), so please do not sue us.
 
-You may though, [steal our stories](/kidlat-news-steal-our-stories/). Or maybe follow us on Twitter ([`@kidlatnews2024`](https://twitter.com/kidlatnews2024)).
+You may though, [steal our stories](/kidlat-news-steal-our-stories/). <s>Or maybe follow us on Twitter ([`@kidlatnews2024`](https://twitter.com/kidlatnews2024)).</s> (X sucks.)
 
 
 ## Is satire 'fake news'?
@@ -44,9 +44,9 @@ For example, before the 2022 Philippine President Elections, Rappler [accused Ad
 
 Besides the aforementioned Adobo Chronicles, there used to be a number of self-styled humor/satire news sites that existed in the 2010s such as *So, What's News*, *Mosquito Press*, *Professional Heckler*, *Agila News*, and others.
 
-Many have ceased publication, perhaps because, as the Philippine Daily Inquirer [recently observed](https://newsinfo.inquirer.net/1577334/i-think-therefore-i-laugh-what-now-for-pinoy-satire), satire--real satire--"has simply become unpopular."
+Many have ceased publication perhaps because, as the Philippine Daily Inquirer [recently observed](https://newsinfo.inquirer.net/1577334/i-think-therefore-i-laugh-what-now-for-pinoy-satire), satire--real satire--"has simply become unpopular."
 
-"Satire, which is high comedy, is supposed to make people laugh, then think," said director Jose Javier Reyes in the same Inquirer article. "Problem is, people just want to laugh and don’t think.”
+"Satire, which is high comedy, is supposed to make people laugh, then think," said director Jose Javier Reyes. "Problem is, people just want to laugh and don’t think.”
 
 This is probably the reason for the recent trend of "satirical news cards" popularized by social-media-based humor pages such as [International State College of the Philippines (ISCP)](https://www.facebook.com/ISCPhilippines), [Philippine Daily New Society](https://www.facebook.com/PhilippinePDNS/), and [Cebu Dairy News](https://www.facebook.com/cebudairynews).
 
