@@ -228,7 +228,7 @@ Uninvited, and with the help of cannons, guns and bayonets, the Spanish persuade
 
 - <span class=year>1521 April</span> Datu Lapulapu, fed up with Magellan's bullshit, hacks him to death when he lands on Mactan Island. Magellan's maggot-infested corpse makes the first circumnavigation of the globe when it reaches Spain on September the following year.
 
-- <span class=year>1565</span> Forty years after the Magellan debacle, Spain tries again and sends Miguel Lopez de Legazpi to Cebu with four ships and hundreds of men. Rajah Tupas surrenders his rajanate to the invaders for some vague promises of Christian afterlife.
+- <span class=year>1565</span> Forty years after the Magellan debacle, Miguel Lopez de Legazpi appears with four ships and hundreds of men and establishes Spanish rule on Cebu. He names the islands *Felipinas* after *Filipinos*, a biscuit doughnut popular in Spain whose chocolate coating resembles the color of the natives’ skins.
 
 - <span class=year>1570</span> Legazpi sends men to Manila to get hold of manila folders to organize the mountain of files in his office. The men burn the city to the ground before returning to Cebu empty-handed.
 
@@ -258,7 +258,7 @@ Uninvited, and with the help of cannons, guns and bayonets, the Spanish persuade
 
 ### Filipino Nationalist Movement (1872-1898)
 
-After 300 years under Spanish yoke, Filipinos come to realize that they can do the oppression of their fellow countrymen just as well as the Spanish, maybe even better.
+After 300 years under Spanish yoke, Filipinos come to realize that they can do the oppression of their fellow countrymen just as well as their colonizers, maybe even better.
 
 [`Illustration: Filipino priests Mariano Gomez, Jose Burgos and Jacinto Zamora, who are almost never seen apart.`](/images/gomburza-gomez-burgos-zamora.gif)
 
@@ -310,7 +310,7 @@ Americans muscle in and assume the role of mentoring their Little Brown Brothers
 
 - <span class=year>1901 March</span> Through an elaborate ruse involving dancing clowns from Macabebe, Pampanga, US forces capture Aguinaldo, who proclaims he was on the Americans’ side all along.
  
-- <span class=year>1907</span> Americans trick Macario Sakay and his heavy metal band Tagalog Republic to perform in Cavite, and arrest all members when they can't play kundiman songs. Sakay is eventually hanged and buried with his beloved Kirk Hammett signature ESP guitar.
+- <span class=year>1907</span> Americans trick Macario Sakay and his heavy metal band Tagalog Republic into performing in Cavite, and arrest all members when they can't play kundiman songs. Sakay is eventually hanged and buried with his beloved Kirk Hammett signature ESP guitar.
  
 - <span class=year>1908</span> University of the Philippines is established in Manila. The first batch of students cut classes and stage demonstrations on Taft Avenue shouting "Down with the US-Aguinaldo dictatorship! Asia for Asians!"
 
@@ -394,7 +394,7 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
 - <span class=year>2009</span> Maguindanao Massacre
 -->
 
-- <span class=year>2010</span> The Manila Hostage Crisis inside a tourist bus comes to a successful end when members of an elite SWAT team shoot the hostage-taker and all other hostages that are not already dead.
+- <span class=year>2010</span> The Manila Hostage Crisis inside a tourist bus comes to a successful end when members of an elite SWAT team shoot the hostage-taker and all the hostages that are not already dead.
 
 - <span class=year>2012</span> Philippines lodges strong protest to China after it discovers several Chinese Coast Guard ships dragging Scarborough Shoal from its usual location near Zambales to a site just 10km from Hainan Island.
 
