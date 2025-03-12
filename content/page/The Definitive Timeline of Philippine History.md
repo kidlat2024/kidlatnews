@@ -228,7 +228,7 @@ Uninvited, and with the help of cannons, guns and bayonets, the Spanish persuade
 
 - <span class=year>1521 April</span> Datu Lapulapu, fed up with Magellan's bullshit, hacks him to death when he lands on Mactan Island. Magellan's maggot-infested corpse makes the first circumnavigation of the globe when it reaches Spain on September the following year.
 
-- <span class=year>1565</span> Forty years after the Magellan debacle, Miguel Lopez de Legazpi appears with four ships and hundreds of men and establishes Spanish rule on Cebu. He names the islands *Felipinas* after *Filipinos*, a biscuit doughnut popular in Spain whose chocolate coating resembles the color of the natives’ skins.
+- <span class=year>1565</span> Forty years after the Magellan debacle, Miguel Lopez de Legazpi appears with four ships and hundreds of men and establishes Spanish rule on Cebu. He names the islands *Felipinas* after his favorite snack Filipinos, a biscuit doughnut whose chocolate coating resembles the color of the natives’ skins.
 
 - <span class=year>1570</span> Legazpi sends men to Manila to get hold of manila folders to organize the mountain of files in his office. The men burn the city to the ground before returning to Cebu empty-handed.
 

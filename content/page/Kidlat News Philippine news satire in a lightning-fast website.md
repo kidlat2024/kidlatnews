@@ -21,8 +21,7 @@ We may use the names and photos of public figures or actual businesses in our ar
 
 Satire is a legitimate [genre of literary arts](https://en.wikipedia.org/wiki/Satire) and is [protected](https://www.rappler.com/newsbreak/iq/highlights-cebu-judge-decision-dismissing-charges-vs-bambi-beltran/) [speech](https://lawreview.ust.edu.ph/political-satire-in-the-digital-age-magnifying-the-extent-of-protected-speech/), so please do not sue us.
 
-You may though, [steal our stories](/kidlat-news-steal-our-stories/). <s>Or maybe follow us on Twitter ([`@kidlatnews2024`](https://twitter.com/kidlatnews2024)).</s> (X sucks.)
-
+You may though, [steal our stories](/kidlat-news-steal-our-stories/).
 
 ## Is satire 'fake news'?
 
