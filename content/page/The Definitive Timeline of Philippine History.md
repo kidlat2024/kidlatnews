@@ -1,6 +1,6 @@
 ---
 draft: false
-content_type: NewsArticle
+content_type: Article
 title: "The Definitive Timeline of Philippine History"
 description: "Everything you've always wanted to know about the history of the Philippines, but were afraid to ask"
 author: ["Kidlat Staff"]
@@ -10,8 +10,9 @@ xurl:
 display_license: true
 attribution: "Photos of [Godzilla](https://commons.wikimedia.org/wiki/File:Godzilla_(1954).jpg), [Filipinos for export](https://commons.wikimedia.org/wiki/File:Rodrigo_Duterte_and_his_delegation_pose_for_a_photograph_while_on_board_Philippine_Airlines_bound_for_Vietnam_on_September_28.jpg), [Mount Pinatubo](https://commons.wikimedia.org/wiki/File:Pinatubo_Ausbruch_1991.jpg) from Wikimedia."
 images:
-- /images/filipinos-exported-to-vietnam-aboard-philippine-airlines.gif
+- /images/definitive-timeline-of-philippine-history.gif
 tags:
+- 1898, Our Last Men in the Philippines
 - Albania
 - Alibaba
 - Anak
@@ -19,6 +20,8 @@ tags:
 - Ang Kidlat
 - Ang Panday
 - Antonio Luna
+- ASEAN
+- Association of Southeast Asian Nations
 - Australia
 - Austronesians
 - Bagumbayan
@@ -28,6 +31,7 @@ tags:
 - Bernabe Buscayno
 - Biag ni Lam-ang
 - Bicol Region
+- Bohol
 - Brown Brothers
 - Bourgeoisie
 - Cabanatuan City
@@ -56,11 +60,15 @@ tags:
 - El Filibusterismo
 - Emilio Aguinaldo
 - Emilio Jacinto
+- Epifanio de los Santos Avenue
 - Facebook
 - Favian Ver
 - Ferdinand Magellan
 - Ferdinand Marcos
+- Ferdinand Marcos, Jr
 - Fernando Poe, Jr
+- Felipinas
+- Filipinos
 - Florante at Laura
 - Francisco Balagtas
 - Freddie Aguilar
@@ -84,6 +92,7 @@ tags:
 - Ilustrados
 - IMAX
 - Imelda Marcos
+- Indonesia
 - Indios
 - Internet
 - Jacinto Zamora
@@ -103,6 +112,7 @@ tags:
 - Korean dramas
 - Kundiman
 - Laguna Copperplate Inscription
+- Lakandula
 - Land of the Rising Sun
 - Las Islas Filipinas
 - Leo Oracion
@@ -114,6 +124,7 @@ tags:
 - Macario Sakay
 - Mae Ann Padolina
 - Maglalatik
+- Malaysia
 - Manga
 - Manila
 - Manila Times
@@ -140,7 +151,6 @@ tags:
 - North Borneo Chartered Company
 - Nueva Viscaya
 - Nur Misuari
-- Our Last Men in the Philippines
 - Pact of Biak-na-Bato
 - Palawan
 - Paoay Church
@@ -153,9 +163,10 @@ tags:
 - Pokéball
 - Proletariat
 - Quiapo
+- Rajah Humabon
+- Rajah Matanda
 - Rajah Sulayman
 - Rajah Tupas
-- Rajay Humabon
 - Ramen
 - Rigoberto Tiglao
 - Ruy Lopez de Villalobos
@@ -163,6 +174,8 @@ tags:
 - Samar
 - Sangley Rebellion
 - Scarborough Shoal
+- Singapore
+- Sint Maarten
 - Southeast Asia
 - Spain
 - Sultanate of Sulu
@@ -171,6 +184,7 @@ tags:
 - Taft Avenue
 - Tagalog Republic
 - Tejeros Convention
+- Thailand
 - Tiburcio Kidlat
 - Tinikling
 - Tomoyuki Yamashita
@@ -182,6 +196,7 @@ tags:
 - University of Santo Tomas
 - University of the Philippines
 - Voltes V
+- War on Drugs
 - Weaboo
 - Zambales
 kudlit: ‘single’ “double” eñe
@@ -258,7 +273,7 @@ Uninvited, and with the help of cannons, guns and bayonets, the Spanish persuade
 
 ### Filipino Nationalist Movement (1872-1898)
 
-After 300 years under Spanish yoke, Filipinos come to realize that they can do the oppression of their fellow countrymen just as well as their colonizers, maybe even better.
+After 300 years under Spanish yoke, Filipinos come to realize that they can do the oppression of their fellow countrymen just as well as their European colonizers, maybe even better.
 
 [`Illustration: Filipino priests Mariano Gomez, Jose Burgos and Jacinto Zamora, who are almost never seen apart.`](/images/gomburza-gomez-burgos-zamora.gif)
 
@@ -286,7 +301,7 @@ After 300 years under Spanish yoke, Filipinos come to realize that they can do t
 
 - <span class=year>1898 April</span> The Americans, feeling left out of the European-led conquering and colonizing activities and casting covetous eyes on Cuba and the Philippines, declares war on Spain.
 
-- <span class=year>1898 May</span> Freshly rested, Aguinaldo and his men return to Cavite with a knock-off Sint Maarten flag they bought from Alibaba and a shipful of stuffed toys from Hong Kong Disneyland.
+- <span class=year>1898 May</span> Freshly rested, Aguinaldo and his men return to Cavite carrying a knock-off Sint Maarten flag they bought from Alibaba and a shipful of stuffed toys from Hong Kong Disneyland.
 
 - <span class=year>1898 June</span> Aguinaldo declares Philippine independence from Spain, forgetting about the Americans who transported him back to the country from Hong Kong and who are now secretly negotiating with Spain to seize the islands for themselves.
 
@@ -296,7 +311,7 @@ After 300 years under Spanish yoke, Filipinos come to realize that they can do t
 
 Americans muscle in and assume the role of mentoring their Little Brown Brothers--after they massacre some of them first.
 
-- <span class=year>1898 August</span> Cosplaying Spanish and US soldiers stage the mock Battle of Manila using wooden swords and spears, after which Spain surrenders Manila to the US, avoiding the ignonimity of waving the white flag to the Filipino revolutionaries besieging the capital.
+- <span class=year>1898 August</span> Cosplaying Spanish and US soldiers stage the mock Battle of Manila using wooden swords and papier-mâché shileds, after which Spain surrenders Manila to the US, avoiding the ignonimity of waving the white flag to the Filipino revolutionaries besieging the capital.
 
 - <span class=year>1898 October</span> *Manila Times* publishes its first issue. Columnist [Rigoberto Tiglao](https://rigobertotiglao.com/) lambasts the Spanish and Americans and urge the Katipuneros to throw their lot with the Chinese.
 
@@ -308,7 +323,7 @@ Americans muscle in and assume the role of mentoring their Little Brown Brothers
 
 [`Photo: Boy General Gregorio del Pilar, 7, riding a wooden horse at Tirad Pass.`](/images/gregorio-del-pilar-on-a-wooden-horse.gif)
 
-- <span class=year>1901 March</span> Through an elaborate ruse involving dancing clowns from Macabebe, Pampanga, US forces capture Aguinaldo, who proclaims he was on the Americans’ side all along.
+- <span class=year>1901</span> Through an elaborate ruse involving dancing clowns from Macabebe, Pampanga, US forces capture Aguinaldo, who proclaims he was on the Americans’ side all along.
  
 - <span class=year>1907</span> Americans trick Macario Sakay and his heavy metal band Tagalog Republic into performing in Cavite, and arrest all members when they can't play kundiman songs. Sakay is eventually hanged and buried with his beloved Kirk Hammett signature ESP guitar.
  
