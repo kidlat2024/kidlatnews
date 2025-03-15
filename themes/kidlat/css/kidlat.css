@@ -216,7 +216,7 @@ h1                         {font-size:1.86rem; margin:0 0 1rem}
 h2                         {font-size:1.51rem}
 h3, description            {font-size:1.36rem}
 h4, p, li, .sitename a     {font-size:1.2rem}
-description                {margin:1rem 0}
+description                {font-size:1.4rem; margin:1rem 0}
 .postmeta, code, th, td    {font-size:0.93rem}
 .line ul                   {font-size:1.26rem}
 .line li                   {font-size:1.26rem}
