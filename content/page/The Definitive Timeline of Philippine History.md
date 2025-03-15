@@ -311,7 +311,7 @@ After 300 years under Spanish yoke, Filipinos come to realize that they can do t
 
 Americans muscle in and assume the role of mentoring their Little Brown Brothers--after they massacre some of them first.
 
-- <span class=year>1898 August</span> Cosplaying Spanish and US soldiers stage the mock Battle of Manila using wooden swords and papier-mâché shileds, after which Spain surrenders Manila to the US, avoiding the ignonimity of waving the white flag to the Filipino revolutionaries besieging the capital.
+- <span class=year>1898 August</span> Cosplaying Spanish and US soldiers stage the mock Battle of Manila using wooden swords and papier-mâché shields, after which Spain surrenders Manila to the US, avoiding the ignonimity of waving the white flag to the Filipino revolutionaries besieging the capital.
 
 - <span class=year>1898 October</span> *Manila Times* publishes its first issue. Columnist [Rigoberto Tiglao](https://rigobertotiglao.com/) lambasts the Spanish and Americans and urge the Katipuneros to throw their lot with the Chinese.
 
