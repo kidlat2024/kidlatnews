@@ -405,10 +405,6 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
 
 - <span class=year>2006</span> Fresh from conquering Mount Makiling, Filipino mountaineer Leo Oracion makes history as the first person to summit Mount Everest dressed only in flipflops and barong tagalog. He loses 7 fingers and all of his toes in the process.
 
-<!--
-- <span class=year>2009</span> Maguindanao Massacre
--->
-
 - <span class=year>2010</span> The Manila Hostage Crisis inside a tourist bus comes to a successful end when members of an elite SWAT team shoot the hostage-taker and all the hostages that are not already dead.
 
 - <span class=year>2012</span> Philippines lodges strong protest to China after it discovers several Chinese Coast Guard ships dragging Scarborough Shoal from its usual location near Zambales to a site just 10km from Hainan Island.
@@ -420,9 +416,3 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
 - <span class=year>2016</span> President Rodrigo Duterte announces an all-out War on Drugs and orders the police to shoot on sight all kinds of illicit substances wherever they see them, even while being smoked, injected or snorted by users. Tens of thousands of Filipinos die from stray bullets.
 
 - <span class=year>2022</span> 31 million survivors of Duterte's War on Drugs, blissfully stoned, elect Ferdinand "Bongbong" Marcos, Jr. as president in a landslide.
-
-<!--
-- <span class=year>2020</span> Coronavirus
-
-- <span class=year>2021</span> Hidilyn Diaz, who used to lift her family's carabaos when she was small, wins the Philippines' first olympic gold medal during the Women's 55kg event for weightlifting in Tokyo, Japan at the 2020 Tokyo Olympics.
--->
