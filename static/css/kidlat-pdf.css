@@ -28,10 +28,10 @@
 html, body {
     font-size:16px;
     font-family:'IBM Plex Sans Condensed',sans-serif;
-    background-color: #fff3ea;
+    background-color: #fff;
     margin:0 auto;
     padding:0 5px;
-    max-width:40rem;
+    max-width:50rem;
 }
 header {margin:0 0 2rem}.sitename {
     padding: 3px 10px;
@@ -45,9 +45,9 @@ header {margin:0 0 2rem}.sitename {
     text-decoration:none;
 }
 description {
-    font-size:1.6rem;
+    font-size:1.3rem;
     display:block;
-    margin:1.5rem 0;
+    margin:0 0 1rem;
     font-weight:200;
     line-height:1.37;
     letter-spacing:-0.037rem;
@@ -66,7 +66,7 @@ description {
     color:#8a8a8a;
 }
 footer {
-    display:flex;
+    display:none;
     justify-content:space-between;
     padding:.5rem 0 1.5rem;
     border-top:1px solid #ccc;
@@ -82,14 +82,14 @@ p {
     margin:0 0 1.5rem;
 }
 p a:hover  {text-decoration:underline}
-h1         {font-size:2.8rem; margin:0 0 1rem}
-h2         {font-size:2.2rem; margin-bottom:1rem}
+h1         {font-size:2.6rem; margin:0 0 0.5rem}
+h2         {font-size:2.0rem; margin-bottom:1rem}
 h3         {font-size:1.8rem; margin-bottom:1rem}
 h3 a       {color:#d228ad}
 h4         {font-size:1.6rem}
 h1,h2,h3,h4{font-weight:700;line-height:1.13; letter-spacing:-0.037rem;}
 h4         {margin-bottom:0.5rem}
-.related   {color:#7c7777}
+.related   {color:#7c7777; display:none}
 a          {color:#105fb3; text-decoration:none}
 a:hover    {text-decoration:none}
 
