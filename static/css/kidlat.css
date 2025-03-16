@@ -18,8 +18,8 @@
     font-style:normal;
 }
 @font-face {
-    font-family: 'Lekton Regular';
-    src: url('/fonts/Lekton-Regular.woff2') format('woff2');
+    font-family: 'Jetbrains Mono';
+    src: url('/fonts/Jetbrains-Mono.woff2') format('woff2');
     font-weight:400;
     font-style:normal;
 }
@@ -218,7 +218,7 @@ pre {
 }
 code {
     font-size:1.1rem;
-    font-family:'Lekton Regular',monospace;
+    font-family:'Jetbrains Mono',monospace;
     color:#f72b9f;
 }
 code a {color:#ff54b5}
