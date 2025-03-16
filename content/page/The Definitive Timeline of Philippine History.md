@@ -235,7 +235,7 @@ Here is a comprehensive timeline of Philippine history to understand how we have
 
 ## Spanish Rule (1521-1898)
 
-Uninvited, and with the help of cannons, guns and bayonets, the Spanish persuade the natives to abandon their heathen ways and embrace Jesus Christ. They also do some killing, stealing, land-grabbing, raping and torturing on the side when Jesus is not looking.
+Uninvited, and with the help of cannons, guns and bayonets, the Spanish persuade the natives to abandon their heathen ways and embrace the peaceful message of Jesus Christ. They also do some killing, stealing, land-grabbing, raping and torturing on the side when Jesus is not looking.
 
 - <span class=year>1521 March</span> Out of nowhere, explorer Ferdinand Magellan lands on Limasawa Island in Southern Leyte and invites the natives to a bible study. The natives have no idea what on Earth is going on but they join anyway because there are free snacks.
 
@@ -275,9 +275,9 @@ Uninvited, and with the help of cannons, guns and bayonets, the Spanish persuade
 
 After 300 years under Spanish yoke, Filipinos come to realize that they can do the oppression of their fellow countrymen just as well as their European colonizers, maybe even better.
 
-[`Illustration: Filipino priests Mariano Gomez, Jose Burgos and Jacinto Zamora, who are almost never seen apart.`](/images/gomburza-gomez-burgos-zamora.gif)
+[`Illustration: Filipino priests Gomez, Burgos and Zamora, who are almost never seen apart.`](/images/gomburza-gomez-burgos-zamora.gif)
 
-- <span class=year>1872</span> Petty Spanish authorities execute the Filipino priests Gomez, Burgos, and Zamora (Gomburza) for having a memorable portmanteau, which Filipino schoolchildren use as mnemonic for pop quizzes.
+- <span class=year>1872</span> Petty Spanish authorities execute the Filipino priests Mariano Gomez, Jose Burgos, and Jacinto Zamora for having a corny portmanteau (Gomburza), which Filipino schoolchildren use as mnemonic for pop quizzes.
 
 - <span class=year>1878</span> The Sultan of Sulu leases Sabah to the British North Borneo Company, who assured him they will return the territory after "just a couple of years, cross our hearts and hope to die."
 
@@ -329,7 +329,7 @@ Americans muscle in and assume the role of mentoring their Little Brown Brothers
  
 - <span class=year>1908</span> University of the Philippines is established in Manila. The first batch of students cut classes and stage demonstrations on Taft Avenue shouting "Down with the US-Aguinaldo dictatorship! Asia for Asians!"
 
-- <span class=year>1939</span> Anticipating the likes of such brilliant leaders as Marcos, Estrada and Duterte, strangely prescient President Manuel Quezon declares "I would rather have a government run like hell by Filipinos than a government run like heaven by Americans."
+- <span class=year>1939</span> Anticipating the likes of such brilliant leaders as Ferdinand Marcos, Joseph Estrada and Rodrigo Duterte, strangely prescient President Manuel Quezon declares "I would rather have a government run like hell by Filipinos than a government run like heaven by Americans."
 
 - <span class=year>1941</span> Asia's first national carrier Philippine Airlines’ maiden flight from Manila to Baguio is delayed for three hours while the crew frantically search for and wake up the hung-over pilot.
 
@@ -349,7 +349,7 @@ Japan entice the Filipinos to join its glorious Greater East Asia Co-Prosperity 
 
 [`Photo: Godzilla destroys downtown Quiapo in Manila.`](/images/godzilla-destroying-manila.gif)
  
-- <span class=year>1945</span> Yamashita is hanged by the American weaboos occupying Manila after he fails to locate the Pokéballs buried under the enormous piles of debris covering the city.
+- <span class=year>1946</span> Yamashita is hanged by the American weaboos occupying Manila after he fails to locate the Pokéballs buried under the enormous piles of debris covering the city.
 
 ## Independence (1946-present)
 
@@ -371,7 +371,7 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
  
 - <span class=year>1971</span> Nur Misuari and Muslim leaders in Mindanao establish the Moro National Liberation Front (MNLF), aiming to create a separate Islamic country in southern Philippines where they can do the exploiting of their fellow Muslims instead of the Christian leaders in Manila.
  
-- <span class=year>1972</span> Super Robots Voltes V and Mazinger Z attack Manila with the help of local Filipino communist cadres; President Marcos declares Martial Law to repel the invaders.
+- <span class=year>1972</span> Super robots Voltes V and Mazinger Z attack Manila with the help of local Filipino communist cadres; President Marcos declares Martial Law to repel the invaders.
  
 - <span class=year>1973</span> First Lady Imelda Marcos buys her 37th pair of Hermes shoes in Paris, telling her husband "This is the last, dear, I promise."
  
@@ -403,7 +403,7 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
 
 - <span class=year>1994</span> Philippines makes its first connection to the Internet when an employee of the Philippine Network Foundation downloads a topless photo of Tracy Lords from a server in CERN.
 
-- <span class=year>2006</span> Fresh from conquering Mount Makiling, Filipino mountaineer Leo Oracion makes history as the first person to summit Mount Everest dressed only in flipflops and barong tagalog. He loses 7 fingers and all of his toes in the process.
+- <span class=year>2006</span> Fresh from conquering Mount Makiling, Filipino mountaineer Leo Oracion makes history as the first person to summit Mount Everest dressed only in flipflops and tank tops. He only loses seven fingers and all of his toes in the process.
 
 - <span class=year>2010</span> The Manila Hostage Crisis inside a tourist bus comes to a successful end when members of an elite SWAT team shoot the hostage-taker and all the hostages that are not already dead.
 
