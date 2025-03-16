@@ -219,6 +219,7 @@ pre {
 code {
     font-size:1.1rem;
     font-family:'Jetbrains Mono',monospace;
+    letter-spacing:-0.5px;
     color:#f72b9f;
 }
 code a {color:#ff54b5}

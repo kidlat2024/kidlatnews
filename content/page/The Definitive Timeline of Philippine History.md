@@ -121,6 +121,7 @@ tags:
 - Limahong
 - Limasawa Island
 - Lubang Island
+- Macabebe, Pampanga
 - Macario Sakay
 - Mae Ann Padolina
 - Maglalatik
@@ -275,7 +276,7 @@ Uninvited, and with the help of cannons, guns and bayonets, the Spanish persuade
 
 After 300 years under Spanish yoke, Filipinos come to realize that they can do the oppression of their fellow countrymen just as well as their European colonizers, maybe even better.
 
-[`Illustration: Filipino priests Gomez, Burgos and Zamora, who are almost never seen apart.`](/images/gomburza-gomez-burgos-zamora.gif)
+[`Photo: Filipino priests Gomez, Burgos and Zamora, who are almost never seen apart.`](/images/gomburza-gomez-burgos-zamora.gif)
 
 - <span class=year>1872</span> Petty Spanish authorities execute the Filipino priests Mariano Gomez, Jose Burgos, and Jacinto Zamora for having a corny portmanteau (Gomburza), which Filipino schoolchildren use as mnemonic for pop quizzes.
 
@@ -403,7 +404,7 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
 
 - <span class=year>1994</span> Philippines makes its first connection to the Internet when an employee of the Philippine Network Foundation downloads a topless photo of Tracy Lords from a server in CERN.
 
-- <span class=year>2006</span> Fresh from conquering Mount Makiling, Filipino mountaineer Leo Oracion makes history as the first person to summit Mount Everest dressed only in flipflops and tank tops. He only loses seven fingers and all of his toes in the process.
+- <span class=year>2006</span> Fresh from conquering Mount Makiling, Filipino mountaineer Leo Oracion makes history as the first person to summit Mount Everest dressed in flipflops and tank tops. He loses only seven fingers and all of his toes in the process.
 
 - <span class=year>2010</span> The Manila Hostage Crisis inside a tourist bus comes to a successful end when members of an elite SWAT team shoot the hostage-taker and all the hostages that are not already dead.
 

@@ -1,10 +1,5 @@
-Save as PDF
-width:50rem
-background:#fff
-h1:2.6rem; margin 0 0 .5rem
-h2:2.0rem
-description:1.3rem; 0 0 1rem
-related:display none
-footer:display none
+load alt css
+edit "download the pdf"
+output as pdf
 magnification:90%
 margins:0.4inch
