@@ -236,7 +236,7 @@ Here is a comprehensive timeline of Philippine history to understand how we have
 
 ## Spanish Rule (1521-1898)
 
-Uninvited, and with the help of cannons, guns and bayonets, the Spanish persuade the natives to abandon their heathen ways and embrace the peaceful message of Jesus Christ. They also do some killing, stealing, land-grabbing, raping and torturing on the side when Jesus is not looking.
+Uninvited, and with the help of cannons, guns and bayonets, the Spanish persuade the natives to abandon their heathen ways and embrace Jesus Christ’s message of peace. They also do some killing, stealing, land-grabbing, raping and torturing on the side when Jesus is not looking.
 
 - <span class=year>1521 March</span> Out of nowhere, explorer Ferdinand Magellan lands on Limasawa Island in Southern Leyte and invites the natives to a bible study. The natives have no idea what on Earth is going on but they join anyway because there are free snacks.
 
@@ -404,7 +404,7 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
 
 - <span class=year>1994</span> Philippines makes its first connection to the Internet when an employee of the Philippine Network Foundation downloads a topless photo of Tracy Lords from a server in CERN.
 
-- <span class=year>2006</span> Fresh from conquering Mount Makiling, Filipino mountaineer Leo Oracion makes history as the first person to summit Mount Everest dressed in flipflops and tank tops. He loses only seven fingers and all of his toes in the process.
+- <span class=year>2006</span> Fresh from conquering Mount Makiling, Filipino mountaineer Leo Oracion makes history as the first person to summit Mount Everest dressed only in flipflops and tank tops. He loses only seven fingers and all of his toes in the process.
 
 - <span class=year>2010</span> The Manila Hostage Crisis inside a tourist bus comes to a successful end when members of an elite SWAT team shoot the hostage-taker and all the hostages that are not already dead.
 
@@ -416,4 +416,4 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
 
 - <span class=year>2016</span> President Rodrigo Duterte announces an all-out War on Drugs and orders the police to shoot on sight all kinds of illicit substances wherever they see them, even while being smoked, injected or snorted by users. Tens of thousands of Filipinos die from stray bullets.
 
-- <span class=year>2022</span> Country's second Golden Age starts after 31 million survivors of Duterte's War on Drugs, blissfully stoned, elect Ferdinand "Bongbong" Marcos, Jr. as president in a landslide.
+- <span class=year>2022</span> The Philippines’ second Golden Age starts after 31 million survivors of Duterte's War on Drugs, blissfully stoned, elect Ferdinand "Bongbong" Marcos, Jr. as president in a landslide.
