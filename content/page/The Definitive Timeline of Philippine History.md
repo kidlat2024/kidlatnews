@@ -270,7 +270,7 @@ Uninvited, and with the help of cannons, guns and bayonets, the Spanish persuade
 
 - <span class=year>1838</span> Francisco Balagtas publishes the epic *Florante at Laura*. It is panned by critics who don't have the slightest idea where the country of Albania is, but the steamy movie adaptation starring Leopoldo Salcedo and Celia Flor is a big hit.
 
-- <span class=year>1861</span> A complete set of Kapre skeleton is unearthed in Bambang, Nueva Viscaya, promting a rethinking of evolutionary biology.
+- <span class=year>1861</span> A complete set of Kapre skeleton is unearthed in Bambang, Nueva Viscaya, prompting a rethinking of evolutionary biology.
 
 ### Filipino Nationalist Movement (1872-1898)
 
@@ -362,7 +362,7 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
 
 - <span class=year>1957</span> Popular President Ramon Magsaysay dies in a plane crash. Investigations reveal that the pilot was playing Manhole on a Nintendo Game & Watch while manning the plane's controls.
  
-- <span class=year>1965</span> Ferdinand Marcos, descendant of Ferdinand Magellan, is elected president.
+- <span class=year>1965</span> Ferdinand Marcos, descendant of Ferdinand Magellan, is elected president, starting the Philippines’ Golden Age, during which the ruling class loots the country's gold reserves.
 
 - <span class=year>1967</span> Finally caving in to the Philippines’ nonstop badgering, Thailand, Singapore, Malaysia and Indonesia agree to form the Association of Southeast Asian Nations (ASEAN) just to shut her up. The Philippines immediately proposes *paluwagan* to her new best friends.
  
@@ -416,4 +416,4 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
 
 - <span class=year>2016</span> President Rodrigo Duterte announces an all-out War on Drugs and orders the police to shoot on sight all kinds of illicit substances wherever they see them, even while being smoked, injected or snorted by users. Tens of thousands of Filipinos die from stray bullets.
 
-- <span class=year>2022</span> 31 million survivors of Duterte's War on Drugs, blissfully stoned, elect Ferdinand "Bongbong" Marcos, Jr. as president in a landslide.
+- <span class=year>2022</span> Country's second Golden Age starts after 31 million survivors of Duterte's War on Drugs, blissfully stoned, elect Ferdinand "Bongbong" Marcos, Jr. as president in a landslide.
