@@ -1,5 +1,6 @@
 load alt css
 edit "download the pdf"
+edit attribution
 output as pdf
 magnification:90%
 margins:0.4inch
