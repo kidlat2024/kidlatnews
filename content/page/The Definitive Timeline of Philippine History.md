@@ -132,6 +132,7 @@ tags:
 - Manuel Quezon
 - Mariano Gomez
 - Martial Law
+- Martin de Goiti
 - Mayon Volcano
 - Mazinger Z
 - Miguel Lopez de Legazpi
@@ -179,6 +180,7 @@ tags:
 - Sint Maarten
 - Southeast Asia
 - Spain
+- Srivijayan Empire
 - Sultanate of Sulu
 - Sulu
 - Tabon man
@@ -226,7 +228,7 @@ Here is a comprehensive timeline of Philippine history to understand how we have
 
 - <span class=year>800 CE</span> Hindu-Buddhist barangay of Tondo is founded on the northern shores of Pasig River in Luzon. The settlers later build the fabled Smokey Mountain, the biggest landfill in the Srivijayan Empire where territories near and far can dump their trash.
 
-- <span class=year>900 CE</span> Frustrated by the Filipino natives’ propensity to forget their debts, moped-riding Bumbays introduce the Brahmic writing script Kawi to the islands to have a paper record of who owes what.
+- <span class=year>900 CE</span> Frustrated by the native islanders’ propensity to forget their debts, moped-riding Bumbays introduce the Brahmic writing script Kawi to the islands to have a paper record of who owes what.
 
 - <span class=year>1240</span> Arab traders introduce the trendy new religion of Islam to Sulu, where it spread throughout the archipelago. Native Filipinos who keep several wives and slaves now have a convenient religious justification for it.
 
@@ -236,17 +238,19 @@ Here is a comprehensive timeline of Philippine history to understand how we have
 
 ## Spanish Rule (1521-1898)
 
-Uninvited, and with the help of cannons, guns and bayonets, the Spanish persuade the natives to abandon their heathen ways and embrace Jesus Christ’s message of peace. They also do some killing, stealing, land-grabbing, raping and torturing on the side when Jesus is not looking.
+Uninvited, and with the help of cannons, guns and bayonets, the Spanish persuade the islanders to abandon their heathen ways and embrace Jesus Christ’s message of peace. They also do some killing, stealing, land-grabbing, raping and torturing on the side when Jesus is not looking.
 
 - <span class=year>1521 March</span> Out of nowhere, explorer Ferdinand Magellan lands on Limasawa Island in Southern Leyte and invites the natives to a bible study. The natives have no idea what on Earth is going on but they join anyway because there are free snacks.
 
 - <span class=year>1521 April</span> Unaware of what nasty germs the Europeans carry and ignoring basic hygiene practices, Rajah Humabon of Cebu performs the blood compact with Magellan and promptly goes down with smallpox. In a fit of fever-induced delirium, he trades two of his wives in return for some trinkets.
 
-- <span class=year>1521 April</span> Datu Lapulapu, fed up with Magellan's bullshit, hacks him to death when he lands on Mactan Island. Magellan's maggot-infested corpse makes the first circumnavigation of the globe when it reaches Spain on September the following year.
+- <span class=year>1521 April</span> Datu Lapulapu, fed up with Magellan's Christian bullshit, hacks him to death when he lands on Mactan Island. Magellan's maggot-infested corpse makes the first circumnavigation of the globe when it reaches Spain on September the following year.
 
-- <span class=year>1565</span> Forty years after the Magellan debacle, Miguel Lopez de Legazpi appears with four ships and hundreds of men and establishes Spanish rule on Cebu. He names the islands *Felipinas* after his favorite snack Filipinos, a biscuit doughnut whose chocolate coating resembles the color of the natives’ skins.
+- <span class=year>1543</span> Ruy Lopez de Villalobos arrives and promptly gets lost around the islands until his starving crew resort to eating grubs and nasty plants that sicken them. Delirious and near death, he names the islands *Felipinas* after his favorite snack Filipinos, a biscuit doughnut whose chocolate coating resembles the color of the natives’ skins.
 
-- <span class=year>1570</span> Legazpi sends men to Manila to get hold of manila folders to organize the mountain of files in his office. The men burn the city to the ground before returning to Cebu empty-handed.
+- <span class=year>1565</span> Spain tries again and sends Miguel Lopez de Legazpi with four ships and hundreds of men to reestablish Spanish control over Cebu. Rajah Tupas meekly surrenders to Legazpi and grudgingly agrees to be baptized a Christian.
+
+- <span class=year>1570</span> Legazpi sends Martin de Goiti to Manila to get hold of manila folders to organize the growing mountain of files in his office. De Goiti and his men burn the city to the ground before returning to Cebu empty-handed.
 
 - <span class=year>1571</span> Raring to tour Europe, Rajah Sulayman, Rajah Matanda, and Lakandula welcome Legazpi to Manila and proclaim themselves Spanish subjects, so they can have Spanish passports and apply for a Schengen visa.
 
@@ -416,4 +420,4 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
 
 - <span class=year>2016</span> President Rodrigo Duterte announces an all-out War on Drugs and orders the police to shoot on sight all kinds of illicit substances wherever they see them, even while being smoked, injected or snorted by users. Tens of thousands of Filipinos die from stray bullets.
 
-- <span class=year>2022</span> The Philippines’ second Golden Age starts after 31 million survivors of Duterte's War on Drugs, blissfully stoned, elect Ferdinand "Bongbong" Marcos, Jr. as president in a landslide.
+- <span class=year>2022</span> The Philippines’ second Golden Age begins after 31 million survivors of Duterte's War on Drugs, blissfully stoned, elect Ferdinand "Bongbong" Marcos, Jr. as president in a landslide.
