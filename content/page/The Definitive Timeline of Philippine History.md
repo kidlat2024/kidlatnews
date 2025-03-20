@@ -288,7 +288,7 @@ After 300 years under Spanish yoke, Filipinos come to realize that they can do t
 
 - <span class=year>1878</span> The Sultan of Sulu leases Sabah to the British North Borneo Company, who assured him they will return the territory after "just a couple of years, cross our hearts and hope to die."
 
-- <span class=year>1884</span> Juan Luna's 767cm x 422cm showpiece *Spoliarium* wins the "Largest Painting Award" at the *Exposición Nacional de Bellas Artes* in Madrid. Luna was inspired to paint the dying gradiators in the classical style by Titian's *Rape of Europa*.
+- <span class=year>1884</span> Measuring 7.67m x 4.22m, Juan Luna's monumental showpiece *Spoliarium* wins the "Largest Painting Award" at the National Exhibition of Fine Arts in Madrid. Luna was inspired to paint the dying gradiators in the classical style after seeing Titian's *Rape of Europa*.
 
 - <span class=year>1887</span> Jose Rizal publishes the subversive novel *Noli Me Tangere*, earning him the ire of Spanish authorities, and of high school students everywhere who are then required to submit a book report about it.
 
