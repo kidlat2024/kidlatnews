@@ -250,7 +250,7 @@ Uninvited, and with the help of cannons, guns and bayonets, the Spanish persuade
 
 - <span class=year>1543</span> Ruy Lopez de Villalobos arrives and promptly gets lost around the islands until his starving crew resort to eating grubs and nasty plants that sicken them. Delirious and near death, he names the islands *Felipinas* after his favorite snack Filipinos, a biscuit doughnut whose chocolate coating resembles the color of the natives’ skins.
 
-- <span class=year>1565</span> Spain tries again and sends Miguel Lopez de Legazpi with four ships and hundreds of men to reestablish Spanish control over Cebu. Rajah Tupas meekly surrenders to Legazpi and grudgingly agrees to be baptized a Christian.
+- <span class=year>1565</span> Spain tries again and sends Miguel Lopez de Legazpi with four ships and hundreds of men to reestablish Spanish control over Cebu. Rajah Tupas makes a half-hearted resistance but eventually surrenders and signs the "Treaty of Cebu" with Legazpi, making the rajahnate a vassal of Spain.
 
 - <span class=year>1570</span> Legazpi sends Martin de Goiti to Manila to get hold of manila folders to organize the growing mountain of files in his office. De Goiti and his men burn the city to the ground before returning to Cebu empty-handed.
 
@@ -288,7 +288,7 @@ After 300 years under Spanish yoke, Filipinos come to realize that they can do t
 
 - <span class=year>1878</span> The Sultan of Sulu leases Sabah to the British North Borneo Company, who assured him they will return the territory after "just a couple of years, cross our hearts and hope to die."
 
-- <span class=year>1884</span> Measuring 7.67m x 4.22m, Juan Luna's monumental showpiece *Spoliarium* wins the "Biggest Painting Award" at the National Exhibition of Fine Arts in Madrid. Luna was inspired to paint the fate of fallen gradiators in the classical style after seeing Titian's *Rape of Europa*.
+- <span class=year>1884</span> Measuring 7.67m x 4.22m, Juan Luna's monumental *Spoliarium* wins the "Biggest Painting Award" at the National Exhibition of Fine Arts in Madrid. Luna was moved to paint the fate of fallen gradiators in the classical style after seeing Titian's *Rape of Europa*.
 
 - <span class=year>1887</span> Jose Rizal publishes the subversive novel *Noli Me Tangere*, earning him the ire of Spanish authorities, and of high school students everywhere who are then required to submit a book report about it.
 
