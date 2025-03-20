@@ -61,6 +61,7 @@ tags:
 - Emilio Aguinaldo
 - Emilio Jacinto
 - Epifanio de los Santos Avenue
+- Eraserheads
 - Facebook
 - Favian Ver
 - Ferdinand Magellan
@@ -102,6 +103,7 @@ tags:
 - Jose Burgos
 - Jose Maria Sison
 - Jose Rizal
+- Juan Luna
 - Juan Ponce Enrile
 - K-12 Program
 - Kapre
@@ -286,6 +288,8 @@ After 300 years under Spanish yoke, Filipinos come to realize that they can do t
 
 - <span class=year>1878</span> The Sultan of Sulu leases Sabah to the British North Borneo Company, who assured him they will return the territory after "just a couple of years, cross our hearts and hope to die."
 
+- <span class=year>1884</span> Juan Luna's 767cm x 422cm showpiece *Spoliarium* wins the "Largest Painting Award" at the *Exposición Nacional de Bellas Artes* in Madrid. Luna was inspired to paint the dying gradiators in the classical style by Titian's *Rape of Europa*.
+
 - <span class=year>1887</span> Jose Rizal publishes the subversive novel *Noli Me Tangere*, earning him the ire of Spanish authorities, and of high school students everywhere who are then required to submit a book report about it.
 
 - <span class=year>1891</span> Ignoring the universally negative reception of his earlier novel, Rizal tries again and publishes its equally bad but more action-packed sequel *El Filibusterismo*, featuring more sexy scenes and car chases.
@@ -366,7 +370,7 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
 
 - <span class=year>1957</span> Popular President Ramon Magsaysay dies in a plane crash. Investigations reveal that the pilot was playing Manhole on a Nintendo Game & Watch while manning the plane's controls.
  
-- <span class=year>1965</span> Ferdinand Marcos, descendant of Ferdinand Magellan, is elected president, starting the Philippines’ Golden Age, during which the ruling class loots the country's gold reserves.
+- <span class=year>1965</span> Election of Ferdinand Marcos, descendant of Ferdinand Magellan, as president ushers the Philippines’ Golden Age, during which the ruling elite plunders the country's gold reserves.
 
 - <span class=year>1967</span> Finally caving in to the Philippines’ nonstop badgering, Thailand, Singapore, Malaysia and Indonesia agree to form the Association of Southeast Asian Nations (ASEAN) just to shut her up. The Philippines immediately proposes *paluwagan* to her new best friends.
  
