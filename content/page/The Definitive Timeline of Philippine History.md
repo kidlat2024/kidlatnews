@@ -288,7 +288,7 @@ After 300 years under Spanish yoke, Filipinos come to realize that they can do t
 
 - <span class=year>1878</span> The Sultan of Sulu leases Sabah to the British North Borneo Company, who assured him they will return the territory after "just a couple of years, cross our hearts and hope to die."
 
-- <span class=year>1884</span> Juan Luna's 7.67m×4.22m *Spoliarium* wins the "Egregious Use of Black Paint Award" at the National Exhibition of Fine Arts in Madrid. Luna was moved to depict the fate of fallen gradiators in the classical style after seeing Titian's *Rape of Europa*.
+- <span class=year>1884</span> Weighing just over two metric tons, Juan Luna's 7.67m×4.22m *Spoliarium* wins the "Heaviest Oil Painting Award" at the *Exposición Nacional de Bellas Artes* in Madrid. Luna was moved to depict the fate of fallen gradiators in the classical style after seeing Titian's *Rape of Europa*.
 
 - <span class=year>1887</span> Jose Rizal publishes the subversive novel *Noli Me Tangere*, earning him the ire of Spanish authorities, and of high school students everywhere who are then required to submit a book report about it.
 
@@ -320,7 +320,7 @@ After 300 years under Spanish yoke, Filipinos come to realize that they can do t
 
 Americans muscle in and assume the role of mentoring their Little Brown Brothers--after they massacre some of them first.
 
-- <span class=year>1898 August</span> Cosplaying Spanish and US soldiers stage the mock Battle of Manila using wooden swords and papier-mâché shields, after which Spain surrenders Manila to the US, avoiding the ignonimity of waving the white flag to the Filipino revolutionaries besieging the capital.
+- <span class=year>1898 August</span> Cosplaying Spanish and US soldiers stage the mock Battle of Manila using wooden swords and papier-mâché shields, after which Spain surrenders Manila to the US, avoiding the humiliation of waving the white flag to the Filipino revolutionaries besieging the capital.
 
 - <span class=year>1898 October</span> *Manila Times* publishes its first issue. Columnist [Rigoberto Tiglao](https://rigobertotiglao.com/) lambasts the Spanish and Americans and urge the Katipuneros to throw their lot with the Chinese.
 
@@ -340,7 +340,8 @@ Americans muscle in and assume the role of mentoring their Little Brown Brothers
 
 - <span class=year>1939</span> Anticipating the likes of such brilliant leaders as Ferdinand Marcos, Joseph Estrada and Rodrigo Duterte, strangely prescient President Manuel Quezon declares "I would rather have a government run like hell by Filipinos than a government run like heaven by Americans."
 
-- <span class=year>1941</span> Asia's first national carrier Philippine Airlines’ maiden flight from Manila to Baguio is delayed for three hours while the crew frantically search for and wake up the hung-over pilot.
+- <span class=year>1941</span> Maiden flight of Philippine Airlines, Asia's first national carrier, from Manila to Baguio is delayed for three hours while the crew frantically search for and wake up the hung-over pilot.
+
 
 ## Japanese Occupation (1941-1945)
 
@@ -412,7 +413,7 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
 
 - <span class=year>1994</span> Philippines makes its first connection to the Internet when an employee of the Philippine Network Foundation downloads a topless photo of Tracy Lords from a server in CERN.
 
-- <span class=year>2006</span> Fresh from conquering Mount Makiling, Filipino mountaineer Leo Oracion makes history as the first person to summit Mount Everest dressed only in flipflops and tank tops. He loses only seven fingers and all of his toes in the process.
+- <span class=year>2006</span> Fresh from conquering Mount Makiling, Filipino mountaineer Leo Oracion makes history as the first person to summit Mount Everest dressed only in flipflops and tank tops. He loses only seven fingers and ten toes in the process.
 
 - <span class=year>2010</span> The Manila Hostage Crisis inside a tourist bus comes to a successful end when members of an elite SWAT team shoot the hostage-taker and all the hostages that are not already dead.
 
