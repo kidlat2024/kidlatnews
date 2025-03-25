@@ -282,7 +282,7 @@ Uninvited, and with the help of cannons, guns and bayonets, the Spanish persuade
 
 After 300 years under Spanish yoke, Filipinos come to realize that they can do the oppression of their fellow countrymen just as well as their European colonizers, maybe even better.
 
-[`Photo: Filipino priests Gomez, Burgos and Zamora, who are almost never seen apart.`](/images/gomburza-gomez-burgos-zamora.gif)
+[`gomburza-filipino-priests-gomez-burgos-zamora.gif`](/images/gomburza-filipino-priests-gomez-burgos-zamora.gif "Filipino priests Gomez, Burgos and Zamora, who are almost never seen apart")
 
 - <span class=year>1872</span> Petty Spanish authorities execute the Filipino priests Mariano Gomez, Jose Burgos, and Jacinto Zamora for having a corny portmanteau (Gomburza), which Filipino schoolchildren use as mnemonic for pop quizzes.
 
@@ -330,7 +330,7 @@ Americans muscle in and assume the role of mentoring their Little Brown Brothers
 
 - <span class=year>1899 December</span> Boy General Gregorio Del Pilar, who is only seven at the time, is killed in the Battle of Tirad Pass against the Americans.
 
-[`Photo: Boy General Gregorio del Pilar, 7, riding a wooden horse at Tirad Pass.`](/images/gregorio-del-pilar-on-a-wooden-horse.gif)
+[`gregorio-del-pilar-riding-a-wooden-horse-tirad-pass.gif`](/images/gregorio-del-pilar-riding-a-wooden-horse-tirad-pass.gif "Boy General Gregorio del Pilar, 7, riding a wooden horse at Tirad Pass")
 
 - <span class=year>1901</span> Through an elaborate ruse involving dancing clowns from Macabebe, Pampanga, US forces capture Aguinaldo, who proclaims he was on the Americans’ side all along.
  
@@ -357,7 +357,7 @@ Japan entice the Filipinos to join its glorious Greater East Asia Co-Prosperity 
   
 - <span class=year>1945</span> Awakened by the atomic bombings of Hiroshima and Nagasaki, a disoriented Godzilla mistakenly lumbers to Manila and reduces the city to rubble instead of Tokyo.
 
-[`Photo: Godzilla destroys downtown Quiapo in Manila.`](/images/godzilla-destroying-manila.gif)
+[`godzilla-destroys-downtown-quiapo-manila.gif`](/images/godzilla-destroys-downtown-quiapo-manila.gif "Godzilla destroys downtown Quiapo in Manila")
  
 - <span class=year>1946</span> Yamashita is hanged by the American weaboos occupying Manila after he fails to locate the Pokéballs buried under the enormous piles of debris covering the city.
 
@@ -387,7 +387,7 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
  
 - <span class=year>1974</span> Philippines discovers a virtually inexhaustible commodity for trade: Filipinos. Marcos creates government agencies to select the most suitable varieties for export, first to the Middle East, then to the rest of the world.
 
-[`Photo: Filipinos selected for export to Vietnam aboard Philippine Airlines.`](/images/filipinos-exported-to-vietnam-aboard-philippine-airlines.gif)
+[`filipinos-for-export-aboard-philippine-airlines.gif`](/images/filipinos-for-export-aboard-philippine-airlines.gif "Filipinos selected for export to Vietnam aboard Philippine Airlines")
 
 - <span class=year>1974</span> Hiroo Onoda, the first-ever *hikikomori*, comes out of his cave and surrenders in Lubang Island, Mindoro. His hideout reveals World War II-era rifles, discarded cups of instant ramen, and a massive collection of manga.
 
@@ -409,7 +409,7 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
 
 - <span class=year>1991</span> Using their highly advanced observation and deduction skills, scientists at the Philippine Institute of Volcanology and Seismology (PHILVOCS) accurately predict the imminent eruption of Mt. Pinatubo after observing the volcano shoot a massive ash column 20km into the atmosphere.
 
-[`Photo: Mount Pinatubo shoots massive ash column, prompting PHILVOCS scientists to declare imminent eruption.`](/images/mount-pinatubo-shoots-massive-ash-column.gif)
+[`mount-pinatubo-shoots-massive-ash-column.gif`](/images/mount-pinatubo-shoots-massive-ash-column.gif "Mount Pinatubo shoots massive ash column, prompting PHILVOCS scientists to declare imminent eruption")
 
 - <span class=year>1994</span> Philippines makes its first connection to the Internet when an employee of the Philippine Network Foundation downloads a topless photo of Tracy Lords from a server in CERN.
 
