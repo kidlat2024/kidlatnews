@@ -226,11 +226,11 @@ Here is a comprehensive timeline of Philippine history to understand how we have
 
 - <span class=year>20,000 BCE</span> Mr. Tabon man prepares a tasty meal of roasted bats and tarsier head soup just outside his cave in southern Palawan while watching the spectacular sunset of the West Philippine Sea marred by Chinese Coast Guard boats on the horizon.
 
-- <span class=year>3,000 BCE</span> Standing on the coast of mainland Asia, Moana and her Austronesian kin embark on a great journey to colonize each and every island of Southeast Asia and the Pacific Ocean. The laziest and least adventurous of them settle on the first islands they see: the Philippine archipelago.
+- <span class=year>3,000 BCE</span> Standing on the coast of mainland Asia, Moana and her Austronesian kin embark on a great journey to colonize each and every island of Southeast Asia and the Pacific Ocean. The most lethargic and least adventurous of them settle on the first islands they see: the Philippine archipelago.
 
 - <span class=year>800 CE</span> Hindu-Buddhist barangay of Tondo is founded on the northern shores of Pasig River in Luzon. The settlers later build the fabled Smokey Mountain, the biggest landfill in the Srivijayan Empire where territories near and far can dump their trash.
 
-- <span class=year>900 CE</span> Frustrated by the native islanders’ propensity to forget their debts, moped-riding Bumbays introduce the Brahmic writing script Kawi to the islands to have a paper record of who owes what.
+- <span class=year>900 CE</span> Frustrated by the native islanders’ propensity to forget their debts, moped-riding Bumbays introduce the Brahmic writing script Kawi to the islands to have a record of who owes what.
 
 - <span class=year>1240</span> Arab traders introduce the trendy new religion of Islam to Sulu, where it spread throughout the archipelago. Native Filipinos who keep several wives and slaves now have a convenient religious justification for it.
 
@@ -250,7 +250,7 @@ Uninvited, and with the help of cannons, guns and bayonets, the Spanish persuade
 
 - <span class=year>1543</span> Ruy Lopez de Villalobos arrives and promptly gets lost around the islands until his starving crew resort to eating grubs and nasty plants that sicken them. Delirious and near death, he names the islands *Felipinas* after his favorite snack Filipinos, a biscuit doughnut whose chocolate coating resembles the color of the natives’ skins.
 
-- <span class=year>1565</span> Spain tries again and sends Miguel Lopez de Legazpi with four ships and hundreds of men to reestablish Spanish control over Cebu. Rajah Tupas makes a half-hearted resistance but eventually surrenders and signs the "Treaty of Cebu" with Legazpi, making the rajahnate a vassal of Spain.
+- <span class=year>1565</span> Spain tries again and sends Miguel Lopez de Legazpi with four ships and hundreds of men to reestablish Spanish control over Cebu. Rajah Tupas makes a half-hearted resistance but eventually signs the "Treaty of Cebu" with Legazpi, making the rajahnate a vassal of Spain.
 
 - <span class=year>1570</span> Legazpi sends Martin de Goiti to Manila to get hold of manila folders to organize the growing mountain of files in his office. De Goiti and his men burn the city to the ground before returning to Cebu empty-handed.
 
@@ -365,13 +365,13 @@ Japan entice the Filipinos to join its glorious Greater East Asia Co-Prosperity 
 
 Unshackled from foreign intervention, Filipinos finally get free rein to run the country like hell.
 
-- <span class=year>1946</span> US dumps the Philippines and buggers off to Japan, leaving the Filipinos alone to clean up their gigantic mess. Japan donates 100,000 brooms and 50,000 mops as war reparation.
+- <span class=year>1946</span> US dumps high-school sweetheart Philippines for hot but neurotic Japan, leaving the Filipinos alone to clean up their gigantic mess. Japan gives 100,000 brooms and 50,000 mops as war reparation.
 
 - <span class=year>1950</span> Hundreds of Philippine soldiers join the American-led forces in the Korean War. They return home later with PTSD and a severe addiction to Korean dramas.
 
 - <span class=year>1957</span> Popular President Ramon Magsaysay dies in a plane crash. Investigations reveal that the pilot was playing Manhole on a Nintendo Game & Watch while manning the plane's controls.
  
-- <span class=year>1965</span> Election of Ferdinand Marcos, descendant of Ferdinand Magellan, as president ushers the Philippines’ Golden Age, during which the ruling elite plunders the country's gold reserves.
+- <span class=year>1965</span> Election of Ferdinand Marcos, descendant of Ferdinand Magellan, as president ushers the Philippines’ Golden Age, during which the ruling elite plunders the country's gold reserves and all the national wealth that they can get their hands on.
 
 - <span class=year>1967</span> Finally caving in to the Philippines’ nonstop badgering, Thailand, Singapore, Malaysia and Indonesia agree to form the Association of Southeast Asian Nations (ASEAN) just to shut her up. The Philippines immediately proposes *paluwagan* to her new best friends.
  
