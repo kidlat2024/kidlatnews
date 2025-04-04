@@ -5,14 +5,13 @@ content_type: Article
 author: ["Leon Kidlat"]
 date: 2025-04-01
 images: 
-- /images/wtfpl-logo-png
+- /images/wtfpl-logo.png
 tags:
 - WTFPL
+- Do What The Fuck You Want To Public License
 kudlit: ‘single’ “double”
 ---
-WTFPL 3.0 is a permissive license that lets anyone do what the fuck they want to do with your creative work, without restrictions and conditions, or warranties of any kind.
-
-Below is the full text of the WTFPL 3.0.
+WTFPL 3.0 is a permissive license that lets anyone do WTF they want to do with a creative work licensed under it, without restrictions and conditions, or warranties of any kind.
 
 ````
   DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE (WTFPL)
@@ -29,15 +28,15 @@ without restrictions and conditions, or warranties of any kind.
 
 To use this license for your own work, you may do any of the following:
 
-- Copy the full text above and distribute it with your work. Edit the copyright year, name and email/website. Replace "work" with "sofware" or something similar.
+- Copy the text above and distribute it with your work. Edit the copyright year, name and email/website. If necessary, replace "work" with "sofware" or something similar.
 
 - Download and edit the [`WTFPL 3.0`](/license/WTFPL-3.0.txt) text file, rename it something like `LICENSE.txt`, and distribute it with your work.
 
-- Include something like this with your work: "Licensed under WTFPL 3.0", and link to this page (`https://kidl.at/wtfpl-3.0/`).
+- Include something like "Licensed under WTFPL 3.0" with your work, and link to this page (`https://kidl.at/wtfpl-3.0/`).
 
 ## Structure of WTFPL 3.0
 
-In eight concise lines, the WTFPL 3.0 lays out the provisions of this license.
+The provisions of WTFPL 3.0 are concisely laid out on eight lines:
 
 - Line 1 specifies the name of the license and its abbreviation.
 - Line 2 specifies the version and when this particular version was written.
@@ -58,7 +57,7 @@ In eight concise lines, the WTFPL 3.0 lays out the provisions of this license.
 
 ## Why version 3.0?
 
-There have been two versions of [WTFPL](https://en.wikipedia.org/wiki/WTFPL) over the years. Version 1 was written by Banlu Kemiyatorn in 2000, and Sam Hocevar codified version 2 in 2004.
+There have been two versions of [WTFPL](https://en.wikipedia.org/wiki/WTFPL) over the years. Version 1 was written by Banlu Kemiyatorn in 2000, and Sam Hocevar codified version 2 in 2004, more than 20 years ago.
 
 **Version 1**
 ````
@@ -96,23 +95,14 @@ DO WHAT THE FUCK YOU WANT TO.
 
 Two things about both versions:
 
-1. You can't do what the fuck you want to with the license document.
-2. There is no "no warranty" clause.
+1. You can't do WTF you want to with the license document. Which goes against the spirit, if not the text, of the license.
+2. There is no "no warranty" clause. Some people want others to do WTF they want with their creative works; they just don't want to have anything to do with it if those same people did just that and fuck up.
  
-Version 3.0 addresses these two concerns and has been rewritten in a more concise manner.
+Version 3.0 addresses these concerns and has been rewritten in a more concise manner.
 
-1. The restriction about copying and distribution of the license document has been deleted.
+1. The restriction about copying and distribution of the license document has been deleted. It is more in the spirit of the license to have no restrictions whatsoever.
 2. A "no warranty" clause has been added.
-
 
 ## Kidlat News is WTFPL 3.0
 
-Kidlat News is licensed under WTFPL 3.0, the first creative work to be so.
-
-That means you can steal all the content of this website. Or you can copy an article and pass it on as your own work and submit it in your English composition class.
-
-You can compile the contents in a booklet and sell it.
-
-You can download this entire website, reproduce an exact copy of it on another URL and name it *Quezon City Inquirer*.
-
-In short, you can do whatever the fuck you want to.
+Kidlat News is licensed under WTFPL 3.0. That means you can do whatever the fuck you want to with its [contents](https://github.com/kidlat2024/kidlatnews).
