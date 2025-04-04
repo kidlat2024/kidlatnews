@@ -27,7 +27,7 @@ params:
   license_url: https://kidl.at/wtfpl-3.0
   description: "Kidlat News is a low-bandwidth, text-only news satire website, with a focus on Philippine news and current events."
   logo: /kidlat-news-graffiti.jpg
-  footer: <span><a href="/kidlat-news-philippine-news-satire-in-a-lightning-fast-website/">Kidlat is satire.</a></span> <span><a rel="nofollow"  href="https://webring.antaresph.dev">PinoyWeb</a> <a rel="nofollow"  href="https://webring.antaresph.dev/next"><code>NXT</code></a>+<a rel="nofollow" href="https://webring.antaresph.dev/previous"><code>PRV</code></a>+<a rel="nofollow" href="https://webring.antaresph.dev/random"><code>RND</code></a></span> <span><a href="#top">▲</a></span>
+  footer: <span><a href="/kidlat-news-philippine-news-satire-in-a-lightning-fast-website/">Kidlat News is satire.</a></span> <span><a rel="nofollow"  href="https://webring.antaresph.dev">PinoyWeb</a> <a rel="nofollow"  href="https://webring.antaresph.dev/next"><code>NXT</code></a>+<a rel="nofollow" href="https://webring.antaresph.dev/previous"><code>PRV</code></a>+<a rel="nofollow" href="https://webring.antaresph.dev/random"><code>RND</code></a></span> <span><a href="#top">▲</a></span>
 
 markup:
   goldmark:

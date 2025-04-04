@@ -1,6 +1,6 @@
 ---
 title: "WTFPL 3.0"
-description: "Do What The Fuck You Want To Public License (WTFPL) Version 3.0"
+description: "Do What The Fuck You Want To Public License (WTFPL) Ver. 3.0"
 content_type: Article
 author: ["Leon Kidlat"]
 date: 2025-04-01
@@ -37,7 +37,7 @@ To use this license for your own work, you may do any of the following:
 
 ## Structure of WTFPL 3.0
 
-In eight concise lines, the WTFPL 3.0 lays out the important provisions of this license.
+In eight concise lines, the WTFPL 3.0 lays out the provisions of this license.
 
 - Line 1 specifies the name of the license and its abbreviation.
 - Line 2 specifies the version and when this particular version was written.
@@ -101,18 +101,18 @@ Two things about both versions:
  
 Version 3.0 addresses these two concerns and has been rewritten in a more concise manner.
 
-1. Restrictions about copying and distribution of the license document has been deleted.
+1. The restriction about copying and distribution of the license document has been deleted.
 2. A "no warranty" clause has been added.
 
 
 ## Kidlat News is WTFPL 3.0
 
-Kidlat News is licensed under WTFPL 3.0, the first creative work to be so licensed.
+Kidlat News is licensed under WTFPL 3.0, the first creative work to be so.
 
-That means you can steal all the content of this website. You can copy an article and pass it on as your own work and submit it in your English composition class.
+That means you can steal all the content of this website. Or you can copy an article and pass it on as your own work and submit it in your English composition class.
 
-You can sell it.
+You can compile the contents in a booklet and sell it.
 
-You can download this entire website and reproduce it in another URL and tweet that you wrote it.
+You can download this entire website, reproduce an exact copy of it on another URL and name it *Quezon City Inquirer*.
 
 In short, you can do whatever the fuck you want to.
