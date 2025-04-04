@@ -1,6 +1,6 @@
 ---
 title: "WTFPL 3.0"
-description: "Provisions of the Do What The Fuck You Want To Public License (WTFPL) Version 3.0"
+description: "Do What The Fuck You Want To Public License (WTFPL) Version 3.0"
 content_type: Article
 author: ["Leon Kidlat"]
 date: 2025-04-01
@@ -10,7 +10,7 @@ tags:
 - WTFPL
 kudlit: ‘single’ “double”
 ---
-The Do What The Fuck You Want To Public License (WTFPL) Version 3.0 is a permissive license that lets anyone do what the fuck they want to do with your creative work.
+WTFPL 3.0 is a permissive license that lets anyone do what the fuck they want to do with your creative work, without restrictions and conditions, or warranties of any kind.
 
 Below is the full text of the WTFPL 3.0.
 
@@ -25,25 +25,25 @@ modification, publication, distribution and/or sale of this work,
 without restrictions and conditions, or warranties of any kind.
 ````
 
-## How to use the WTFPL 3.0
+## How to use WTFPL 3.0
 
 To use this license for your own work, you may do any of the following:
 
 - Copy the full text above and distribute it with your work. Edit the copyright year, name and email/website. Replace "work" with "sofware" or something similar.
 
-- Download the [`WTFPL 3.0`](/license/WTFPL-3.0.txt) text file, modify it as necessary, rename it something like `LICENSE.txt`, and distribute it with your work.
+- Download and edit the [`WTFPL 3.0`](/license/WTFPL-3.0.txt) text file, rename it something like `LICENSE.txt`, and distribute it with your work.
 
-- Include something like this with your work: "Licensed under WTFPL 3.0", and link to this page.
+- Include something like this with your work: "Licensed under WTFPL 3.0", and link to this page (`https://kidl.at/wtfpl-3.0/`).
 
 ## Structure of WTFPL 3.0
 
 In eight concise lines, the WTFPL 3.0 lays out the important provisions of this license.
 
 - Line 1 specifies the name of the license and its abbreviation.
-- Line 2 specifies its version and when this particular version was written.
+- Line 2 specifies the version and when this particular version was written.
 - Line 4 specifies the copyright year, copyright holder, and contact (email or website).
 - Lines 6 and 7 specifies what you can do regarding the work.
-- Line 8 specifies that there are no restrictions and conditions, and warranties of any kind.
+- Line 8 specifies that there are no restrictions and conditions, or warranties of any kind.
 
 ````
 1   DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE (WTFPL)
@@ -113,6 +113,6 @@ That means you can steal all the content of this website. You can copy an articl
 
 You can sell it.
 
-You can download this entire website and reproduce it in another URL and pass it on as yours.
+You can download this entire website and reproduce it in another URL and tweet that you wrote it.
 
 In short, you can do whatever the fuck you want to.
