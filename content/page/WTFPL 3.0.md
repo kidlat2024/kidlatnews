@@ -1,5 +1,6 @@
 ---
 title: "What The Fuck Public License (WTFPL) 3.0"
+slug: "wtfpl-3.0"
 description: "Terms and conditions of the WTFPL Version 3.0"
 content_type: Article
 author: ["Leon Kidlat"]
