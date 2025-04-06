@@ -41,7 +41,7 @@ To use this license for your own work, you may do any of the following:
 
 ## Structure of WTFPL 3.0
 
-The provisions of WTFPL 3.0 are concisely laid out in 9 lines:
+The provisions of WTFPL 3.0 are laid out in 9 short lines:
 
 - Line 1 specifies the name of the license and its abbreviation.
 - Line 2 specifies the version and when this particular version was written.
