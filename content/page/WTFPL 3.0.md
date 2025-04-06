@@ -1,7 +1,7 @@
 ---
-title: "What The Fuck Public License (WTFPL) 3.0"
+title: "What The Fuck Public License 3.0"
 slug: "wtfpl-3.0"
-description: "Terms and conditions of the WTFPL Version 3.0"
+description: "Terms and conditions of the What The Fuck Public License (WTFPL), Version 3.0"
 content_type: Article
 author: ["Leon Kidlat"]
 date: 2025-04-01
@@ -44,7 +44,7 @@ The provisions of WTFPL 3.0 are concisely laid out in 9 lines:
 - Line 1 specifies the name of the license and its abbreviation.
 - Line 2 specifies the version and when this particular version was written.
 - Line 4 specifies the copyright year, copyright holder, and contact (email or website).
-- Lines 6 and 7 specifies the different ways you may deal with the work.
+- Lines 6 and 7 specify the different ways that you may deal with the work.
 - Finally, Line 9 specifies the terms and conditions.
 
 ````
@@ -59,11 +59,11 @@ The provisions of WTFPL 3.0 are concisely laid out in 9 lines:
 9        0. Just do what the fuck you want to.
 ````
 
-## Why version 3.0?
+## What's new in version 3.0?
 
 There have been two versions of [WTFPL](https://en.wikipedia.org/wiki/WTFPL) over the years. Version 1 was written by Banlu Kemiyatorn in 2000, and Sam Hocevar codified version 2 in 2004, more than 20 years ago.
 
-**Version 1**
+#### Version 1
 ````
 do What The Fuck you want to Public License
 
@@ -79,7 +79,7 @@ and you just
 DO WHAT THE FUCK YOU WANT TO.
 ````
 
-**Version 2**
+#### Version 2
 
 ````
         DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
@@ -99,9 +99,9 @@ DO WHAT THE FUCK YOU WANT TO.
 
 The issue with both earlier versions is that you can't do what the fuck you want to do with the license document, which goes against the spirit, if not the text, of the license.
 
-In version 3.0, the restriction regarding the license document has been deleted altogether.
+In version 3.0, the provision regarding copying, modification and distribution of the license document has been deleted altogether.
 
-The name has also been shortened to the more concise "What The Fuck Public License" which is appropriated abbreviated to "WTFPL".
+The name has also been shortened to the more concise "What The Fuck Public License" which is appropriately abbreviated to "WTFPL".
 
 ## Kidlat News is WTFPL 3.0
 
