@@ -61,7 +61,7 @@ The provisions of WTFPL 3.0 are concisely laid out in 9 lines:
 9         0. Just do what the fuck you want to.
 ````
 
-## What's new in WTFPL 3.0?
+## What changed in version 3.0?
 
 There have been two versions of [WTFPL](https://en.wikipedia.org/wiki/WTFPL) over the years. Version 1 was written by Banlu Kemiyatorn in 2000, and Sam Hocevar codified version 2 in 2004, more than 20 years ago.
 
@@ -99,7 +99,7 @@ DO WHAT THE FUCK YOU WANT TO.
   0. You just DO WHAT THE FUCK YOU WANT TO.
 ````
 
-The issue with both earlier versions is that you can't do what the fuck you want to do with the license document, which goes against the spirit, if not the text, of the license.
+The issue with both earlier versions is that you can't do WTF you want to do with the license document, which goes against the spirit, if not the text, of the license.
 
 In version 3.0, the provision regarding copying, modification and distribution of the license document has been deleted altogether.
 
@@ -107,4 +107,8 @@ The name has also been shortened to the more concise "What The Fuck Public Licen
 
 ## Kidlat News is WTFPL 3.0
 
-The [content](https://github.com/kidlat2024/kidlatnews) of Kidlat News is licensed under the WTFPL 3.0. That means you can do whatever the fuck you want to do with it.
+The Kidlat News [content](https://github.com/kidlat2024/kidlatnews) used to be licensed under [Creative Commons Attribution-ShareAlike 4.0 International](/kidlat-news-steal-our-stories/).
+
+Not anymore.
+
+It is now under WTFPL 3.0. That means you can do whatever the fuck you want to do with it.

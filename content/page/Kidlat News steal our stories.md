@@ -15,9 +15,9 @@ tags:
 - Creative Commons
 kudlit: ‘single’ “double”
 ---
-Kidlat News articles are published under a [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license. Share, copy, remix and/or adapt them for commercial or non-commercial use.
+Kidlat News articles are published under a ~~[Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license~~. (As of April 1, 2025, Kidlat News is now under [WTFPL 3.0](/wtfpl-3.0/).) Share, copy, remix and/or adapt them for commercial or non-commercial use.
 
-Please credit us with a link to [https://kidl.at](https://kidl.at) (or the original URL of the article) if you republish/repost one of our stories.
+~~Please credit us with a link to [https://kidl.at](https://kidl.at) (or the original URL of the article) if you republish/repost one of our stories.~~
 
 ## Support our journalism
 
