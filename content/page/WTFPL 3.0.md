@@ -15,6 +15,8 @@ kudlit: ‘single’ “double”
 ---
 The WTFPL 3.0 is a permissive license that lets anyone do WTF they want to do with a creative work licensed under it, without restrictions and conditions.
 
+## Text of WTFPL 3.0
+
 ````
         WHAT THE FUCK PUBLIC LICENSE (WTFPL)
               Version 3.0, April 2025
@@ -24,7 +26,7 @@ Copyright 2025 Leon Kidlat <https://kidl.at/wtfpl-3.0>
 Terms and conditions regarding the use, reproduction,
 modification, distribution and/or sale of this work:
 
-       0. Just do what the fuck you want to.
+        0. Just do what the fuck you want to.
 ````
 
 ## How to use WTFPL 3.0
@@ -56,10 +58,10 @@ The provisions of WTFPL 3.0 are concisely laid out in 9 lines:
 6 Terms and conditions regarding the use, reproduction,
 7 modification, distribution and/or sale of this work:
 8
-9        0. Just do what the fuck you want to.
+9         0. Just do what the fuck you want to.
 ````
 
-## What's new in version 3.0?
+## What's new in WTFPL 3.0?
 
 There have been two versions of [WTFPL](https://en.wikipedia.org/wiki/WTFPL) over the years. Version 1 was written by Banlu Kemiyatorn in 2000, and Sam Hocevar codified version 2 in 2004, more than 20 years ago.
 
