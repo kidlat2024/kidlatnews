@@ -18,15 +18,15 @@ The WTFPL 3.0 is a permissive license that lets anyone do what the fuck they wan
 ## Text of WTFPL 3.0
 
 ````
- DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE (WTFPL)
-               Version 3.0, April 2025
+DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE (WTFPL)
+              Version 3.0, April 2025
 
 Copyright 2025 Leon Kidlat <https://kidl.at/wtfpl-3.0>
 
 Terms and conditions regarding the use, reproduction,
 modification, distribution and/or sale of this work:
 
-        0. Just do what the fuck you want to.
+       0. Just do what the fuck you want to.
 ````
 
 ## How to use WTFPL 3.0
@@ -50,15 +50,15 @@ The provisions of WTFPL 3.0 are laid out in 9 short lines:
 - Finally, Line 9 specifies the terms and conditions.
 
 ````
-1  DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE (WTFPL)
-2                Version 3.0, April 2025
+1 DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE (WTFPL)
+2               Version 3.0, April 2025
 3
 4 Copyright 2025 Leon Kidlat <https://kidl.at/wtfpl-3.0>
 5
 6 Terms and conditions regarding the use, reproduction,
 7 modification, distribution and/or sale of this work:
 8
-9         0. Just do what the fuck you want to.
+9        0. Just do what the fuck you want to.
 ````
 
 ## What changed in version 3.0?
@@ -109,8 +109,8 @@ In version 3.0, the provision regarding the copying, modification and distributi
 
 ## Kidlat News is WTFPL 3.0
 
-The Kidlat News [content](https://github.com/kidlat2024/kidlatnews) used to be licensed under [Creative Commons Attribution-ShareAlike 4.0 International](/kidlat-news-steal-our-stories/).
+Kidlat News [content](https://github.com/kidlat2024/kidlatnews) used to be licensed under [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
 
 Not anymore.
 
-It is now under WTFPL 3.0. That means you can still steal our content as before, but you don't even need to acknowledge where you stole it. Heck, you can even tell people you wrote it yourself. Just do what the fuck you want.
+It is now under WTFPL 3.0. That means you may still [steal our stories](/kidlat-news-steal-our-stories/) as before, but you don't even need to acknowledge where you stole it. Heck, you can even tell people you wrote it yourself. Just do what the fuck you want.

@@ -214,7 +214,7 @@ blockquote p {
 
 pre {
 	overflow:auto;
-	padding:1rem;
+	padding:1rem 0;
 }
 code {
     font-size:1.1rem;
