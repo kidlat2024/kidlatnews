@@ -24,7 +24,8 @@ DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE (WTFPL)
 Copyright 2025 Leon Kidlat <https://kidl.at/wtfpl-3.0>
 
 Terms and conditions regarding the use, reproduction,
-modification, distribution and/or sale of this work:
+modification, distribution and/or sale of this work,
+which is provided to you without warranty of any kind:
 
        0. Just do what the fuck you want to.
 ````
@@ -41,24 +42,26 @@ To use this license for your own work, you may do any of the following:
 
 ## Structure of WTFPL 3.0
 
-The provisions of WTFPL 3.0 are laid out in 9 short lines:
+The provisions of WTFPL 3.0 are laid out in 10 short lines:
 
 - Line 1 specifies the name of the license and its abbreviation.
 - Line 2 specifies the version and when this particular version was written.
 - Line 4 specifies the copyright year, copyright holder, and contact (email or website).
 - Lines 6 and 7 specify the different ways that you may deal with the work.
-- Finally, Line 9 specifies the terms and conditions.
+- Line 9 specifies that there is no warranty whatsoever.
+- Lastly, line 10 specifies the terms and conditions.
 
 ````
-1 DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE (WTFPL)
-2               Version 3.0, April 2025
-3
-4 Copyright 2025 Leon Kidlat <https://kidl.at/wtfpl-3.0>
-5
-6 Terms and conditions regarding the use, reproduction,
-7 modification, distribution and/or sale of this work:
-8
-9        0. Just do what the fuck you want to.
+01 DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE (WTFPL)
+02               Version 3.0, April 2025
+03
+04 Copyright 2025 Leon Kidlat <https://kidl.at/wtfpl-3.0>
+05
+06 Terms and conditions regarding the use, reproduction,
+07 modification, distribution and/or sale of this work,
+08 which is provided to you without warranty of any kind:
+09
+10        0. Just do what the fuck you want to.
 ````
 
 ## What changed in version 3.0?
@@ -106,6 +109,8 @@ The issue with both earlier versions is that you can't do WTF you want to do wit
 - In Version 2, you can't modify the license agreement unless you change the name.
 
 In version 3.0, the provision regarding the copying, modification and distribution of the license document has been deleted altogether. Because if you can do WTF you want to do with the work/software, why the fuck can't you do what you want to do with the license agreement?
+
+Finally, a warranty clause has been added, to make WTFPL compatible to use with software.
 
 ## Kidlat News is WTFPL 3.0
 
