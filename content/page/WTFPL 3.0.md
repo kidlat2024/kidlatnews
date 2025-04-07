@@ -1,7 +1,7 @@
 ---
-title: "What The Fuck Public License 3.0"
+title: "Do What The Fuck You Want To Public License (WTFPL) 3.0"
 slug: "wtfpl-3.0"
-description: "Terms and conditions of the What The Fuck Public License (WTFPL), Version 3.0"
+description: "Terms and conditions of WTFPL, version 3.0"
 content_type: Article
 author: ["Leon Kidlat"]
 date: 2025-04-01
@@ -13,13 +13,13 @@ tags:
 - What The Fuck Public Lincense
 kudlit: ‘single’ “double”
 ---
-The WTFPL 3.0 is a permissive license that lets anyone do WTF they want to do with a creative work licensed under it, without restrictions and conditions.
+The WTFPL 3.0 is a permissive license that lets anyone do what the fuck they want to do with a creative work licensed under it, without restrictions and conditions.
 
 ## Text of WTFPL 3.0
 
 ````
-        WHAT THE FUCK PUBLIC LICENSE (WTFPL)
-              Version 3.0, April 2025
+ DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE (WTFPL)
+               Version 3.0, April 2025
 
 Copyright 2025 Leon Kidlat <https://kidl.at/wtfpl-3.0>
 
@@ -50,8 +50,8 @@ The provisions of WTFPL 3.0 are laid out in 9 short lines:
 - Finally, Line 9 specifies the terms and conditions.
 
 ````
-1         WHAT THE FUCK PUBLIC LICENSE (WTFPL)
-2               Version 3.0, April 2025
+1  DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE (WTFPL)
+2                Version 3.0, April 2025
 3
 4 Copyright 2025 Leon Kidlat <https://kidl.at/wtfpl-3.0>
 5
@@ -99,11 +99,13 @@ DO WHAT THE FUCK YOU WANT TO.
   0. You just DO WHAT THE FUCK YOU WANT TO.
 ````
 
-The issue with both earlier versions is that you can't do WTF you want to do with the license document, which goes against the spirit, if not the text, of the license.
+The issue with both earlier versions is that you can't do WTF you want to do with the license document, which sadly goes against the spirit, if not the text, of the license.
 
-In version 3.0, the provision regarding copying, modification and distribution of the license document has been deleted altogether.
+- In Version 1, you can't modify the license agreement.
 
-The name has also been shortened to the more concise "What The Fuck Public License" which is appropriately abbreviated to "WTFPL".
+- In Version 2, you can't modify the license agreement unless you change the name.
+
+In version 3.0, the provision regarding the copying, modification and distribution of the license document has been deleted altogether. Because if you can do WTF you want to do with the work/software, why the fuck can't you do what you want to do with the license agreement?
 
 ## Kidlat News is WTFPL 3.0
 
@@ -111,4 +113,4 @@ The Kidlat News [content](https://github.com/kidlat2024/kidlatnews) used to be l
 
 Not anymore.
 
-It is now under WTFPL 3.0. That means you can do whatever the fuck you want to do with it.
+It is now under WTFPL 3.0. That means you can still steal our content as before, but you don't even need to acknowledge where you stole it. Heck, you can even tell people you wrote it yourself. Just do what the fuck you want.
