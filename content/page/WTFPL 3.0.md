@@ -15,7 +15,7 @@ kudlit: ‘single’ “double”
 ---
 WTFPL 3.0 is a permissive license that lets anyone do what the fuck they want to do with a creative work or software licensed under it, without restrictions and conditions.
 
-`Images: `[`WTFPL logo (png)`](/images/wtfpl-logo.png)` and `[`banner (SVG)`](/images/wtfpl-banner.svg).
+`Images: `[`WTFPL logo (png)`](/images/wtfpl-logo.png) `and` [`banner (SVG)`](/images/wtfpl-banner.svg).
 
 ## Text of WTFPL 3.0
 
@@ -115,7 +115,7 @@ The issue with both earlier versions is that you can't do WTF you want to do wit
 
 - In Version 2, you can't modify the license agreement unless you change the name.
 
-In version 3.0, the provision regarding the license document has been deleted altogether. Because if you can do WTF you want to do with the work/software, why the fuck can't you do what you want to do with the license agreement?
+In version 3.0, the provision regarding the license document has been deleted altogether. Because if you can do WTF you want to do with the material/software, why the fuck can't you do what you want to do with the license agreement?
 
 Finally, a no warranty clause has been added to make WTFPL compatible to use with software, in case someone fucks up by using your code.
 
