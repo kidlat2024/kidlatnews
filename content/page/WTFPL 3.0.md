@@ -15,8 +15,7 @@ kudlit: ‘single’ “double”
 ---
 WTFPL 3.0 is a permissive license that lets anyone do what the fuck they want to do with a creative work or software licensed under it, without restrictions and conditions.
 
-[`Image: WTFPL logo (PNG)`](/images/wtfpl-logo.png)</br>
-[`Image: WTFPL banner (SVG)`](/images/wtfpl-banner.svg)
+`Images: `[`WTFPL logo (png)`](/images/wtfpl-logo.png)` and `[`banner (SVG)`](/images/wtfpl-banner.svg).
 
 ## Text of WTFPL 3.0
 
