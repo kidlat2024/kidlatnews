@@ -3,8 +3,8 @@ DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE (WTFPL)
 
 Copyright 2025 Leon Kidlat <https://kidl.at/wtfpl-3.0>
 
-Terms and conditions regarding the use, reproduction,
-modification, distribution and/or sale of this work,
-which is provided to you without warranty of any kind:
+The material is provided without warranty of any kind,
+subject to the terms and conditions below regarding its
+use, reproduction, modification, distribution or sale:
 
        0. Just do what the fuck you want to.
