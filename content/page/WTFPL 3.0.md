@@ -13,9 +13,9 @@ tags:
 - What The Fuck Public License
 kudlit: ‘single’ “double”
 ---
-The WTFPL 3.0 is a permissive license that lets anyone do what the fuck they want to do with a creative work or software licensed under it, without restrictions and conditions, but also without warranty whatsoever.
+WTFPL 3.0 is a permissive license that lets anyone do what the fuck they want to do with a creative work or software licensed under it, without restrictions and conditions.
 
-[`Image: WTFPL logo (PNG)`](/images/wtfpl-logo.png)
+[`Image: WTFPL logo (PNG)`](/images/wtfpl-logo.png)</br>
 [`Image: WTFPL banner (SVG)`](/images/wtfpl-banner.svg)
 
 ## Text of WTFPL 3.0
@@ -71,13 +71,13 @@ The provisions of WTFPL 3.0 are laid out in 10 short lines:
 
 Version 3.0 is significantly different from the previous versions in the following manner:
 
-1. The previous versions' provision regarding the copying, modification and distribution of the license agreement has been omitted.
+1. The previous versions’ provision regarding the copying, modification and distribution of the license agreement has been omitted.
 
-2. A "No Warranty" clause has been added.
-
-#### Versions 1 and 2
+2. A no warranty clause has been added.
 
 There have been two versions of [WTFPL](https://en.wikipedia.org/wiki/WTFPL) over the years. Version 1 was written by Banlu Kemiyatorn in 2000, and Sam Hocevar codified version 2 in 2004, more than 20 years ago.
+
+### WTFPL 1.0
 
 ````
 do What The Fuck you want to Public License
@@ -93,6 +93,7 @@ and you just
 
 DO WHAT THE FUCK YOU WANT TO.
 ````
+### WTFPL 2.0
 
 ````
         DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
@@ -119,7 +120,7 @@ In version 3.0, the provision regarding the license document has been deleted al
 
 Finally, a no warranty clause has been added to make WTFPL compatible to use with software, in case someone fucks up by using your code.
 
-## Creative works licensed under WTFPL 3.0
+## Kidlat News is WTFPL 3.0
 
 Kidlat News [content](https://github.com/kidlat2024/kidlatnews) used to be licensed under [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
 
