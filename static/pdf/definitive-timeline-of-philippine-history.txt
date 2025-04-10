@@ -3,5 +3,4 @@ edit "https://kidl.at/the-definitive-timeline-of-philippine-history/"
 edit "Read on Web"
 edit "Updated ***. Kidlat News is satire."
 output as pdf
-magnification:90%
 margins:0.4inch

@@ -5,7 +5,6 @@ title: "The Definitive Timeline of Philippine History"
 description: "Everything you've always wanted to know about the history of the Philippines, but were afraid to ask"
 author: ["Kidlat Staff"]
 date: 2024-11-25
-aliases: "/kidlats-comprehensive-timeline-of-philippine-history/"
 xurl: 
 display_license: true
 attribution: "Photos of [Godzilla](https://commons.wikimedia.org/wiki/File:Godzilla_(1954).jpg), [Filipinos for export](https://commons.wikimedia.org/wiki/File:Rodrigo_Duterte_and_his_delegation_pose_for_a_photograph_while_on_board_Philippine_Airlines_bound_for_Vietnam_on_September_28.jpg), [Mount Pinatubo](https://commons.wikimedia.org/wiki/File:Pinatubo_Ausbruch_1991.jpg) from Wikimedia."
@@ -248,9 +247,9 @@ Uninvited, and with the help of cannons, guns and bayonets, the Spanish persuade
 
 - <span class=year>1521 April</span> Datu Lapulapu, fed up with Magellan's Christian bullshit, hacks him to death when he lands on Mactan Island. Magellan's maggot-infested corpse makes the first circumnavigation of the globe when it reaches Spain on September the following year.
 
-- <span class=year>1543</span> Ruy Lopez de Villalobos arrives and promptly gets lost around the islands until his starving crew resort to eating grubs and nasty plants that sicken them. Delirious and near death, he names the islands *Felipinas* after his favorite snack Filipinos, a biscuit doughnut whose chocolate coating resembles the color of the natives’ skins.
+- <span class=year>1543</span> Chess-player-turned-explorer Ruy Lopez de Villalobos arrives and promptly gets lost around the islands until his starving crew have to resort to eating grubs and nasty plants that sicken them to no end. Delirious and near death, he names the islands *Felipinas* after his favorite snack Filipinos, a biscuit doughnut whose chocolate coating resembles the color of the natives’ skins.
 
-- <span class=year>1565</span> Spain tries again and sends Miguel Lopez de Legazpi with four ships and hundreds of men to reestablish Spanish control over Cebu. Rajah Tupas makes a half-hearted resistance but eventually signs the "Treaty of Cebu" with Legazpi, making the rajahnate a vassal of Spain.
+- <span class=year>1565</span> Spain tries again and sends Miguel Lopez de Legazpi with four ships and hundreds of men to herd their erring flock in Cebu, who have forgotten they are Spanish subjects ever since Rajah Humabon's silly blood compact with Magellan. Humabon's cousin Rajah Tupas contemplates a half-arsed resistance before eventually signing the "Treaty of Cebu Is All Yours" with Legazpi.
 
 - <span class=year>1570</span> Legazpi sends Martin de Goiti to Manila to get hold of manila folders to organize the growing mountain of files in his office. De Goiti and his men burn the city to the ground before returning to Cebu empty-handed.
 
