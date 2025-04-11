@@ -249,7 +249,9 @@ Uninvited, and with the help of cannons, guns and bayonets, the Spanish persuade
 
 - <span class=year>1543</span> Chess-player-turned-explorer Ruy Lopez de Villalobos arrives and promptly gets lost around the islands until his starving crew have to resort to eating grubs and nasty plants that sicken them to no end. Delirious and near death, he names the islands *Felipinas* after his favorite snack Filipinos, a biscuit doughnut whose chocolate coating resembles the color of the natives’ skins.
 
-- <span class=year>1565</span> Spain tries again and sends Miguel Lopez de Legazpi with four ships and hundreds of men to herd their erring flock in Cebu, who have forgotten they are Spanish subjects ever since Rajah Humabon's silly blood compact with Magellan. Humabon's cousin Rajah Tupas contemplates a half-arsed resistance before eventually signing the "Treaty of Cebu Is All Yours" with Legazpi.
+- <span class=year>1564</span> Spain tries again and sends Miguel Lopez de Legazpi of Albay Province with four ships and hundreds of men to herd their erring flock in Cebu, who have already forgotten they have been Spanish subjects ever since Rajah Humabon's silly blood compact with Magellan.
+
+- <span class=year>1565</span> Boholano snitch Datu Sikatuna happily guides Legazpi in the direction of Cebu, where Humabon's cousin Rajah Tupas contemplates a half-arsed resistance against the Spaniards before eventually signing the "Treaty of Cebu Is All Yours" with Legazpi.
 
 - <span class=year>1570</span> Legazpi sends Martin de Goiti to Manila to get hold of manila folders to organize the growing mountain of files in his office. De Goiti and his men burn the city to the ground before returning to Cebu empty-handed.
 
