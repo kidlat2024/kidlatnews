@@ -249,7 +249,7 @@ Uninvited, and with the help of cannons, guns and bayonets, the Spanish persuade
 
 - <span class=year>1543</span> Chess-player-turned-explorer Ruy Lopez de Villalobos arrives and promptly gets lost around the islands until his starving crew have to resort to eating grubs and nasty plants that sicken them to no end. Delirious and near death, he names the islands *Felipinas* after his favorite snack Filipinos, a biscuit doughnut whose chocolate coating resembles the color of the natives’ skins.
 
-- <span class=year>1564</span> Spain tries again and sends Miguel Lopez de Legazpi of Albay Province with four ships and hundreds of men to herd their erring flock in Cebu, who have already forgotten they have been Spanish subjects ever since Rajah Humabon's silly blood compact with Magellan.
+- <span class=year>1564</span> Spain tries again and sends Miguel Lopez de Legazpi, Albay with four ships and hundreds of men to herd their erring flock in Cebu, who have already forgotten they have been Spanish subjects ever since Rajah Humabon's silly blood compact with Magellan.
 
 - <span class=year>1565</span> Boholano snitch Datu Sikatuna happily guides Legazpi in the direction of Cebu, where Humabon's cousin Rajah Tupas contemplates a half-arsed resistance against the Spaniards before eventually signing the "Treaty of Cebu Is All Yours" with Legazpi.
 
@@ -355,10 +355,10 @@ Japan entice the Filipinos to join its glorious Greater East Asia Co-Prosperity 
 - <span class=year>1942</span> The Fall of Bataan is followed by the gruelling Takeshi's Death March, during which Filipino and American prisoners march nonstop on their way to Takeshi's Castle while avoiding obstacles and dodging bayonets. Those who get stabbed are eliminated.
 
 - <span class=year>1944</span> General Tomoyuki Yamashita buries 10,000 Pokéballs all over the country and dares the Filipinos to try find them all. Those who can't are bayonetted on the spot.
-  
-- <span class=year>1945</span> Awakened by the atomic bombings of Hiroshima and Nagasaki, a disoriented Godzilla mistakenly lumbers to Manila and reduces the city to rubble instead of Tokyo.
 
 [`Photo: Godzilla destroys downtown Quiapo in Manila.`](/images/godzilla-destroying-manila.gif)
+  
+- <span class=year>1945</span> Awakened by the atomic bombings of Hiroshima and Nagasaki, a disoriented Godzilla mistakenly lumbers to Manila and reduces the city to rubble instead of Tokyo.
  
 - <span class=year>1946</span> Yamashita is hanged by the American weaboos occupying Manila after he fails to locate the Pokéballs buried under the enormous piles of debris covering the city.
 
