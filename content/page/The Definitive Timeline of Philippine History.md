@@ -341,12 +341,12 @@ Americans muscle in and assume the role of mentoring their Little Brown Brothers
 
 - <span class=year>1939</span> Anticipating the likes of such brilliant leaders as Ferdinand Marcos, Joseph Estrada and Rodrigo Duterte, strangely prescient President Manuel Quezon declares "I would rather have a government run like hell by Filipinos than a government run like heaven by Americans."
 
-- <span class=year>1941</span> Maiden flight of Philippine Airlines, Asia's first national carrier, from Manila to Baguio is delayed for three hours while the crew frantically search for and wake up the hung-over pilot.
+- <span class=year>1941</span> Maiden flight of Philippine Airlines, Asia's first national carrier, from Manila to Baguio is delayed for more than three hours while the crew frantically search for and wake up the severely hungover pilot.
 
 
 ## Japanese Occupation (1941-1945)
 
-Japan entice the Filipinos to join its glorious Greater East Asia Co-Prosperity Sphere by bayonetting everyone to submission.
+Japan entice Filipinos to join its glorious Greater East Asia Co-Prosperity Sphere by bayonetting everyone to submission.
 
 - <span class=year>1941</span> Japanese troops land in the Philippines, giving the Filipinos their first taste of *kawaii* Hello Kitty toys and hentai porn. Filipinos opposed to deviant pornography retreat to Corregidor Island to make a last stand.
  
@@ -372,7 +372,7 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
 
 - <span class=year>1957</span> Popular President Ramon Magsaysay dies in a plane crash. Investigations reveal that the pilot was playing Manhole on a Nintendo Game & Watch while manning the plane's controls.
  
-- <span class=year>1965</span> Election of Ferdinand Marcos, descendant of Ferdinand Magellan, as president ushers the Philippines’ Golden Age, during which the ruling elite plunders the country's gold reserves and all the national wealth that they can get their hands on.
+- <span class=year>1965</span> Election of President Ferdinand Marcos, descendant of Ferdinand Magellan, ushers the Philippines’ Golden Age, during which the ruling elite enrich themselves by plundering the country's gold reserves and all the national wealth that they can get their hands on.
 
 - <span class=year>1967</span> Finally caving in to the Philippines’ nonstop badgering, Thailand, Singapore, Malaysia and Indonesia agree to form the Association of Southeast Asian Nations (ASEAN) just to shut her up. The Philippines immediately proposes *paluwagan* to her new best friends.
  
@@ -392,7 +392,7 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
 
 - <span class=year>1974</span> Hiroo Onoda, the first-ever *hikikomori*, comes out of his cave and surrenders in Lubang Island, Mindoro. His hideout reveals World War II-era rifles, discarded cups of instant ramen, and a massive collection of manga.
 
-- <span class=year>1976</span> Imelda Marcos and Muammar Gaddafi stage a week-long bed-in in Libya to protest the ongoing conflict in Muslim Mindanao, resulting in the Tripoli Agreement, whereby they encourage the feuding parties to "Make love, not war."
+- <span class=year>1976</span> Imelda Marcos and Muammar Gaddafi stage a week-long bed-in in Libya to protest the ongoing conflict in Muslim Mindanao, resulting in the Tripoli Agreement, whereby they encourage the feuding parties to "make love, not war."
  
 - <span class=year>1977</span> Mae Anne Padolina, the first Japayuki, departs for the Land of the Rising Sun to perform *tinikling* and *maglalatik* for cultural events. Tens of thousand others enroll in folk dance classes.
 
