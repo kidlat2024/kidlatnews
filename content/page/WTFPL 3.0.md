@@ -125,4 +125,6 @@ Kidlat News [content](https://github.com/kidlat2024/kidlatnews) used to be licen
 
 Not anymore.
 
-It is now under WTFPL 3.0. That means you may still [steal our stories](/kidlat-news-steal-our-stories/) as before, but you don't even need to acknowledge where you stole it. Heck, you can even duplicate the whole Kidlat News site in another URL and call it your own. Just do what the fuck you want.
+It is now under WTFPL 3.0. That means you may still [steal our stories](/kidlat-news-steal-our-stories/) as before, but you don't even need to acknowledge where you stole it anymore. Heck, you can even duplicate the whole Kidlat News site in another URL and call it your own.
+
+Just do what the fuck you want.

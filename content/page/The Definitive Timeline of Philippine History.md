@@ -251,7 +251,7 @@ Uninvited, and with the help of cannons, guns and bayonets, the Spanish persuade
 
 - <span class=year>1564</span> Spain tries again and sends Miguel Lopez de Legazpi, Albay with four ships and hundreds of men to herd their erring flock in Cebu, who have already forgotten they have been Spanish subjects ever since Rajah Humabon's silly blood compact with Magellan.
 
-- <span class=year>1565</span> Boholano snitch Datu Sikatuna happily guides Legazpi in the direction of Cebu, where Humabon's cousin Rajah Tupas contemplates a half-arsed resistance against the Spaniards before eventually signing the "Treaty of Cebu Is All Yours" with Legazpi.
+- <span class=year>1565</span> Boholano snitch Datu Sikatuna happily points Legazpi in the direction of Cebu, where Humabon's cousin Rajah Tupas contemplates a half-arsed resistance against the Spaniards before eventually signing the "Treaty of Cebu Is All Yours" with Legazpi.
 
 - <span class=year>1570</span> Legazpi sends Martin de Goiti to Manila to get hold of manila folders to organize the growing mountain of files in his office. De Goiti and his men burn the city to the ground before returning to Cebu empty-handed.
 
@@ -281,7 +281,7 @@ Uninvited, and with the help of cannons, guns and bayonets, the Spanish persuade
 
 ### Filipino Nationalist Movement (1872-1898)
 
-After 300 years under Spanish yoke, Filipinos come to realize that they can do the oppression of their fellow countrymen just as well as their European colonizers, maybe even better.
+After 300 years under Spanish yoke, Filipinos come to realize that they can probably do the oppression of their fellow countrymen just as well as their European colonizers, maybe even better.
 
 [`Photo: Filipino priests Gomez, Burgos and Zamora, who are almost never seen apart.`](/images/gomburza-gomez-burgos-zamora.gif)
 
