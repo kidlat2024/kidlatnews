@@ -32,7 +32,7 @@ kudlit: ‘single’ “double”
 
 "Is that really how we treat our [OFWs](/tags/ofw/)?"
 
-Lynne Mae Batumbacal, spokesperson for the Philippine Army Support Command of the AFP responsible for the administration of the Libingan ng mga Bayani, confirmed that migrant workers--though often dubbed ‘[modern-day heroes](/tags/bagong-bayani/)’--are not, in fact, qualified to be buried at the heroes' cemetery.
+Lynne Mae Batumbacal, spokesperson for the Philippine Army Support Command of the AFP responsible for the administration of the Libingan ng mga Bayani, confirmed that migrant workers--though often dubbed ‘[modern-day heroes](/tags/bagong-bayani/)’--are not, in fact, qualified to be buried at the heroes’ cemetery.
 
 >"As far as I know, no migrant worker is buried in the Libingan ng mga Bayani," said Batumbacal, "unless you count the Filipino soldiers who died heroically fighting America's wars abroad. As for OFWs being heroes, I think that is just a hoax."
 

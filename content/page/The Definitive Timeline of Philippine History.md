@@ -378,7 +378,7 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
  
 - <span class=year>1968</span> Jose Maria Sison founds the Communist Party of the Philippines (CPP) whose aim is to distribute the growing misery equally among the Filipino bourgeoisie and proletariat alike.
  
-- <span class=year>1969</span> Bernabe Buscayno organizes the New People's Army (NPA), the CPP's armed wing, to give their message of communist dystopia more bite.
+- <span class=year>1969</span> Bernabe Buscayno organizes the New People's Army (NPA), the CPP's armed wing, to give their message of [communist dystopia](https://kidl.at/news/philippine-senator-ronald-dela-rosa-declares-trees-communist-sympathizers-calls-for-complete-deforestation-of-mountains/) more bite.
  
 - <span class=year>1971</span> Nur Misuari and Muslim leaders in Mindanao establish the Moro National Liberation Front (MNLF), aiming to create a separate Islamic country in southern Philippines where they can do the exploiting of their fellow Muslims instead of the Christian leaders in Manila.
  
@@ -386,7 +386,7 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
  
 - <span class=year>1973</span> First Lady Imelda Marcos buys her 37th pair of Hermes shoes in Paris, telling her husband "This is the last, dear, I promise."
  
-- <span class=year>1974</span> Philippines discovers a virtually inexhaustible commodity for trade: Filipinos. Marcos creates government agencies to select the most suitable varieties for export, first to the Middle East, then to the rest of the world.
+- <span class=year>1974</span> Philippines discovers a virtually inexhaustible commodity for trade: [Filipinos](https://kidl.at/news/canadian-prime-minister-trudeau-thanks-philippine-president-marcos-for-regular-supply-of-high-grade-fili/). Marcos creates government agencies to select the most suitable varieties for export, first to the Middle East, then to the rest of the world.
 
 [`Photo: Filipinos selected for export to Vietnam aboard Philippine Airlines.`](/images/filipinos-exported-to-vietnam-aboard-philippine-airlines.gif)
 
@@ -414,7 +414,7 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
 
 - <span class=year>1994</span> Philippines makes its first connection to the Internet when an employee of the Philippine Network Foundation downloads a topless photo of Tracy Lords from a server in CERN.
 
-- <span class=year>2006</span> Fresh from conquering Mount Makiling, Filipino mountaineer Leo Oracion makes history as the first person to summit Mount Everest dressed only in flipflops and tank tops. He loses only seven fingers and ten toes in the process.
+- <span class=year>2006</span> Fresh from conquering Mount Makiling, Filipino mountaineer Leo Oracion makes history as the first person to summit Mount Everest dressed in flipflops and tank tops. He loses only seven fingers and ten toes in the process.
 
 - <span class=year>2010</span> The Manila Hostage Crisis inside a tourist bus comes to a successful end when members of an elite SWAT team shoot the hostage-taker and all the hostages that are not already dead.
 
@@ -424,6 +424,6 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
 
 - <span class=year>2015</span> The National Mapping and Resource Information Authority announces it has finally located the 400 islands that the country feared were lost after they were blown away by typhoon Yolanda.
 
-- <span class=year>2016</span> President Rodrigo Duterte announces an all-out War on Drugs and orders the police to shoot on sight all kinds of illicit substances wherever they see them, even while being smoked, injected or snorted by users. Tens of thousands of Filipinos die from stray bullets.
+- <span class=year>2016</span> President Rodrigo Duterte announces an all-out [War on Drugs](https://kidl.at/news/drugs-win-philippines-war-on-drugs/) and orders the police to shoot on sight all kinds of illicit substances wherever they see them, even while being smoked, injected or snorted by users. Tens of thousands of Filipinos die from stray bullets.
 
 - <span class=year>2022</span> The Philippines’ second Golden Age begins after 31 million survivors of Duterte's War on Drugs, blissfully stoned, elect Ferdinand "Bongbong" Marcos, Jr. as president in a landslide.

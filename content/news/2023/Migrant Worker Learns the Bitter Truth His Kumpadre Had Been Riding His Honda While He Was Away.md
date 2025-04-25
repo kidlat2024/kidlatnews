@@ -31,9 +31,9 @@ He had come home unexpectedly, and now before his eyes was his 1972 [Honda](/tag
 
 He had imagined spending the rest his life together with her, but now he wasn't so sure anymore.
 
-He squatted and looked at the oil dripping from her [motor](/tags/motorcycle/); the dead battery; the worn-out tires; the cold engine that wouldn't start. When he left her a year ago, her seat was plump and bouncy; now it's all flat. It was obvious that someone had been riding her while he was away.
+He squatted and looked at the oil dripping from her [motor](/tags/motorcycle/), the dead battery, the worn-out tires, the cold engine that wouldn't start. When he left her a year ago, her seat was plump and bouncy; now it's all flat. It was obvious that someone had been mounting her while he was away.
 
-"So it is true," he said to his wife standing behind him, "everything that I'd been hearing while I was away." "No!" she tearfully answered, "You know I wouldn't let anyone ride your cherished bike."
+"So it is true," he said to his wife standing behind him, "everything that I'd been hearing while I was gone." "No!" she tearfully answered, "You know I wouldn't let anyone ride your cherished bike."
 
 But he didn't really have to ask--he already knew. He had trusted her, and she betrayed him.
 
@@ -47,13 +47,13 @@ Well, what would anyone do? There was nothing in the world that could replace he
 
 The thought lit his face. He had seen one a couple of times ridden by a mailman during his [one-year stint](/tags/migrant-workers/) in [Taipei](/tags/taipei/). He thought it was a pretty neat bike with nice curves--utilitarian, trustworthy and reliable. But he didn't actually think he would want one--until now.
 
->He closed his eyes and pictured himself riding a red-and-white Supercub liesurely along the beach, stopping to buy *buko* juice and *turon* along the way. He would ride her and they would watch the sunset together, sipping *buko* juice and eating *turon*.
+>He closed his eyes and pictured himself riding a red-and-white Supercub liesurely along the beach, stopping to buy buko juice and turon along the way. He would ride her and they would watch the sunset together, sipping buko juice and munching on a turon.
 
 *Yes, a shiny new Honda Supercub would do.*
 
-He thought of his *kumpare*, how they had fun riding bikes together during their college days. He knew *he* had lusted over his Honda ever since *he* laid eyes on her back then. If he really wanted his CB750 so badly, he would let him have it, for old times’ sake.
+He thought of his *kumpare*, how they had fun riding bikes together during their college days. He knew *he* had lusted over his Honda ever since he laid eyes on her back then. If he really wanted his CB750 so badly, he would let him have it, for old times’ sake.
 
-He got up and let his fingers run along the Honda's fuel tank and then gripped her handles one last time. "We've had some fun, didn't we?," he thought, "now it's time to say goodbye."
+He got up and let his fingers run along the Honda's fuel tank and then gripped her handles one last time. "We've had some fun, didn't we?" he thought, "now it's time to say goodbye."
 
 And his lying wife? *He can have her, too.*
 
