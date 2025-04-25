@@ -13,12 +13,6 @@ tags:
 - What The Fuck Public License
 kudlit: ‘single’ “double”
 ---
-WTFPL 3.0 is a permissive license that lets anyone do what the fuck they want to do with a creative work or software licensed under it, without restrictions and conditions.
-
-`Images: `[`WTFPL logo (png)`](/images/wtfpl-logo.png) `and` [`banner (SVG)`](/images/wtfpl-banner.svg).
-
-## Text of WTFPL 3.0
-
 ````
 DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE (WTFPL)
               Version 3.0, April 2025
@@ -32,15 +26,11 @@ use, reproduction, modification, distribution or sale:
        0. Just do what the fuck you want to.
 ````
 
-## How to use WTFPL 3.0
+## What is WTFPL 3.0?
 
-To use this license for your own work, you may do any of the following:
+WTFPL 3.0 is a permissive license that lets anyone do what the fuck they want to do with a creative work or software licensed under it, without restrictions and conditions.
 
-- Copy the text above, edit the copyright year, name and email/website, and distribute it with your work. If necessary, replace "material" with "software" or something similar.
-
-- Download and edit the [`WTFPL 3.0`](/license/WTFPL-3.0.txt) text file, rename it something like `LICENSE.txt`, and distribute it with your work.
-
-- Include something like "Licensed under WTFPL 3.0" with your work, and link to this page (`https://kidl.at/wtfpl-3.0/`).
+`Images: `[`WTFPL logo (png)`](/images/wtfpl-logo.png) `and` [`banner (SVG)`](/images/wtfpl-banner.svg).
 
 ## Structure of WTFPL 3.0
 
@@ -66,6 +56,16 @@ The provisions of WTFPL 3.0 are laid out in 10 short lines:
 10        0. Just do what the fuck you want to.
 ````
 
+## How to use WTFPL 3.0
+
+To use this license for your own work, you may do any of the following:
+
+- Copy the text above, edit the copyright year, name and email/website, and distribute it with your work. If necessary, replace "material" with "software" or something similar.
+
+- Download and edit the [`WTFPL 3.0`](/license/WTFPL-3.0.txt) text file, rename it something like `LICENSE.txt`, and distribute it with your work.
+
+- Include something like "Licensed under WTFPL 3.0" with your work, and link to this page (`https://kidl.at/wtfpl-3.0/`).
+
 ## What changed in version 3.0?
 
 Version 3.0 is significantly different from the previous versions in the following manner:
@@ -76,7 +76,7 @@ Version 3.0 is significantly different from the previous versions in the followi
 
 There have been two versions of [WTFPL](https://en.wikipedia.org/wiki/WTFPL) over the years. Version 1 was written by Banlu Kemiyatorn in 2000, and Sam Hocevar codified version 2 in 2004, more than 20 years ago.
 
-### WTFPL 1.0
+#### WTFPL 1.0
 
 ````
 do What The Fuck you want to Public License
@@ -92,7 +92,7 @@ and you just
 
 DO WHAT THE FUCK YOU WANT TO.
 ````
-### WTFPL 2.0
+#### WTFPL 2.0
 
 ````
         DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
@@ -109,7 +109,7 @@ DO WHAT THE FUCK YOU WANT TO.
 
   0. You just DO WHAT THE FUCK YOU WANT TO.
 ````
-The issue with both earlier versions is that you can't do WTF you want to do with the license document, which sadly goes against the spirit, if not the text, of the license.
+An issue with both earlier versions is that you can't do WTF you want to do with the license document, which sadly goes against the spirit, if not the text, of the license.
 
 - In Version 1, you can't modify the license agreement.
 
