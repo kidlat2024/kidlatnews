@@ -225,7 +225,7 @@ Here is a comprehensive timeline of Philippine history to understand how we have
 
 - <span class=year>20,000 BCE</span> Mr. Tabon man prepares a tasty meal of roasted bats and tarsier head soup just outside his cave in southern Palawan while watching the spectacular sunset of the West Philippine Sea marred by Chinese Coast Guard boats on the horizon.
 
-- <span class=year>3,000 BCE</span> Standing on the coast of mainland Asia, Moana and her Austronesian kin embark on a great journey to colonize each and every island of Southeast Asia and the Pacific Ocean. The most lethargic and least adventurous of them settle on the first islands they see: the Philippine archipelago.
+- <span class=year>3,000 BCE</span> Standing on the coast of mainland Asia, Moana and her Austronesian kin embark on a great journey to colonize each and every island in Southeast Asia and the Pacific. The most lethargic and least adventurous of them settle on the first islands they see: the Philippine archipelago.
 
 - <span class=year>800 CE</span> Hindu-Buddhist barangay of Tondo is founded on the northern shores of Pasig River in Luzon. The settlers later build the fabled Smokey Mountain, the biggest landfill in the Srivijayan Empire where territories near and far can dump their trash.
 
@@ -249,7 +249,7 @@ Uninvited, and with the help of cannons, guns and bayonets, the Spanish persuade
 
 - <span class=year>1543</span> Chess-player-turned-explorer Ruy Lopez de Villalobos arrives and promptly gets lost around the islands until his starving crew have to resort to eating grubs and nasty plants that sicken them to no end. Delirious and near death, he names the islands *Felipinas* after his favorite snack Filipinos, a biscuit doughnut whose chocolate coating resembles the color of the natives’ skins.
 
-- <span class=year>1564</span> Spain tries again and sends Miguel Lopez de Legazpi, Albay with four ships and hundreds of men to herd their erring flock in Cebu, who have already forgotten they have been Spanish subjects ever since Rajah Humabon's silly blood compact with Magellan.
+- <span class=year>1564</span> Spain tries again and sends Miguel Lopez de Legazpi of Albay with four ships and hundreds of men to herd their erring flock in Cebu, who have already forgotten they have been Spanish subjects ever since Rajah Humabon's silly blood compact with Magellan.
 
 - <span class=year>1565</span> Boholano snitch Datu Sikatuna happily points Legazpi in the direction of Cebu, where Humabon's cousin Rajah Tupas contemplates a half-arsed resistance against the Spaniards before eventually signing the "Treaty of Cebu Is All Yours" with Legazpi.
 
