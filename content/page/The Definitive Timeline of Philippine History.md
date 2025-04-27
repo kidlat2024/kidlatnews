@@ -392,7 +392,7 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
 
 - <span class=year>1974</span> Hiroo Onoda, the first-ever *hikikomori*, comes out of his cave and surrenders in Lubang Island, Mindoro. His hideout reveals World War II-era rifles, discarded cups of instant ramen, and a massive collection of manga.
 
-- <span class=year>1976</span> Imelda Marcos and Muammar Gaddafi stage a week-long bed-in in Libya to protest the ongoing conflict in Muslim Mindanao, resulting in the Tripoli Agreement, whereby they encourage the feuding parties to "make love, not war."
+- <span class=year>1976</span> Imelda Marcos and Muammar Gaddafi stage a week-long bed-in in the Libyan capital to protest the ongoing conflict in Muslim Mindanao, resulting in the Tripoli Agreement, whereby they encourage the feuding parties to "make love, not war."
  
 - <span class=year>1977</span> Mae Anne Padolina, the first Japayuki, departs for the Land of the Rising Sun to perform *tinikling* and *maglalatik* for cultural events. Tens of thousand others enroll in folk dance classes.
 
