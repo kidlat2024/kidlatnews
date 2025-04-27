@@ -253,7 +253,7 @@ Uninvited, and with the help of cannons, guns and bayonets, the Spanish persuade
 
 - <span class=year>1565</span> Boholano snitch Datu Sikatuna happily points Legazpi in the direction of Cebu, where Humabon's cousin Rajah Tupas contemplates a half-arsed resistance against the Spaniards before eventually signing the "Treaty of Cebu Is All Yours" with Legazpi.
 
-- <span class=year>1570</span> Legazpi sends Martin de Goiti to Manila to get hold of manila folders to organize the growing mountain of files in his office. De Goiti and his men burn the city to the ground before returning to Cebu empty-handed.
+- <span class=year>1570</span> Legazpi sends Martin de Goiti to Manila to get hold of manila folders to organize the growing mountain of files in his office. De Goiti and his men burn the place to the ground before returning to Cebu empty-handed.
 
 - <span class=year>1571</span> Raring to tour Europe, Rajah Sulayman, Rajah Matanda, and Lakandula welcome Legazpi to Manila and proclaim themselves Spanish subjects, so they can have Spanish passports and apply for a Schengen visa.
 
@@ -313,7 +313,7 @@ After 300 years under Spanish yoke, Filipinos come to realize that they can prob
 
 - <span class=year>1898 May</span> Freshly rested, Aguinaldo and his men return to Cavite carrying a knock-off Sint Maarten flag they bought from Alibaba and a shipful of stuffed toys from Hong Kong Disneyland.
 
-- <span class=year>1898 June</span> Aguinaldo declares Philippine independence from Spain, forgetting about the Americans who transported him back to the country from Hong Kong and who are now secretly negotiating with Spain to seize the islands for themselves.
+- <span class=year>1898 June</span> Aguinaldo declares Philippine independence from Spain, forgetting about the Americans who transported him back to the country from Hong Kong and who are now secretly negotiating with the Spaniards to seize the islands for themselves.
 
 - <span class=year>1898 June</span> Fifty Spanish soldiers barricade themselves in a church in Baler, Quezon to shoot the movie *1898, Our Last Men in the Philippines*, which will later win the Goya Awards for best costume.
 
@@ -321,7 +321,7 @@ After 300 years under Spanish yoke, Filipinos come to realize that they can prob
 
 Americans muscle in and assume the role of mentoring their Little Brown Brothers--after they massacre some of them first.
 
-- <span class=year>1898 August</span> Cosplaying Spanish and US soldiers stage the mock Battle of Manila using wooden swords and papier-mâché shields, after which Spain surrenders Manila to the US, avoiding the humiliation of waving the white flag to the Filipino revolutionaries besieging the capital.
+- <span class=year>1898 August</span> Cosplaying Spanish and US soldiers stage the mock Battle of Manila using wooden swords and papier-mâché shields, after which Spain surrenders Intramuros to the US, avoiding the humiliation of waving the white flag to the brown-skinned revolutionaries besieging the capital.
 
 - <span class=year>1898 October</span> *Manila Times* publishes its first issue. Columnist [Rigoberto Tiglao](https://rigobertotiglao.com/) lambasts the Spanish and Americans and urge the Katipuneros to throw their lot with the Chinese.
 
