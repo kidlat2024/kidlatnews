@@ -225,7 +225,7 @@ Here is a comprehensive timeline of Philippine history to understand how we have
 
 - <span class=year>20,000 BCE</span> Mr. Tabon man prepares a tasty meal of roasted bats and tarsier head soup just outside his cave in southern Palawan while watching the spectacular sunset of the West Philippine Sea marred by Chinese Coast Guard boats on the horizon.
 
-- <span class=year>3,000 BCE</span> Standing on the coast of mainland Asia, Moana and her Austronesian kin embark on a great journey to colonize each and every island of Southeast Asia and the Pacific Ocean. The most lethargic and least adventurous of them settle on the first islands they see: the Philippine archipelago.
+- <span class=year>3,000 BCE</span> Standing on the coast of mainland Asia, Moana and her Austronesian kin embark on a great journey to colonize each and every speck of land in Southeast Asia and the Pacific. The most lethargic and least adventurous of them settle on the first islands they see: the Philippine archipelago.
 
 - <span class=year>800 CE</span> Hindu-Buddhist barangay of Tondo is founded on the northern shores of Pasig River in Luzon. The settlers later build the fabled Smokey Mountain, the biggest landfill in the Srivijayan Empire where territories near and far can dump their trash.
 
@@ -249,11 +249,11 @@ Uninvited, and with the help of cannons, guns and bayonets, the Spanish persuade
 
 - <span class=year>1543</span> Chess-player-turned-explorer Ruy Lopez de Villalobos arrives and promptly gets lost around the islands until his starving crew have to resort to eating grubs and nasty plants that sicken them to no end. Delirious and near death, he names the islands *Felipinas* after his favorite snack Filipinos, a biscuit doughnut whose chocolate coating resembles the color of the natives’ skins.
 
-- <span class=year>1564</span> Spain tries again and sends Miguel Lopez de Legazpi, Albay with four ships and hundreds of men to herd their erring flock in Cebu, who have already forgotten they have been Spanish subjects ever since Rajah Humabon's silly blood compact with Magellan.
+- <span class=year>1564</span> Spain tries again and sends Miguel Lopez de Legazpi of Albay with four ships and hundreds of men to herd their erring flock in Cebu, who have already forgotten they have been Spanish subjects ever since Rajah Humabon's silly blood compact with Magellan.
 
 - <span class=year>1565</span> Boholano snitch Datu Sikatuna happily points Legazpi in the direction of Cebu, where Humabon's cousin Rajah Tupas contemplates a half-arsed resistance against the Spaniards before eventually signing the "Treaty of Cebu Is All Yours" with Legazpi.
 
-- <span class=year>1570</span> Legazpi sends Martin de Goiti to Manila to get hold of manila folders to organize the growing mountain of files in his office. De Goiti and his men burn the city to the ground before returning to Cebu empty-handed.
+- <span class=year>1570</span> Legazpi sends Martin de Goiti to Manila to get hold of manila folders to organize the growing mountain of files in his office. De Goiti and his men burn the place to the ground before returning to Cebu empty-handed.
 
 - <span class=year>1571</span> Raring to tour Europe, Rajah Sulayman, Rajah Matanda, and Lakandula welcome Legazpi to Manila and proclaim themselves Spanish subjects, so they can have Spanish passports and apply for a Schengen visa.
 
@@ -313,7 +313,7 @@ After 300 years under Spanish yoke, Filipinos come to realize that they can prob
 
 - <span class=year>1898 May</span> Freshly rested, Aguinaldo and his men return to Cavite carrying a knock-off Sint Maarten flag they bought from Alibaba and a shipful of stuffed toys from Hong Kong Disneyland.
 
-- <span class=year>1898 June</span> Aguinaldo declares Philippine independence from Spain, forgetting about the Americans who transported him back to the country from Hong Kong and who are now secretly negotiating with Spain to seize the islands for themselves.
+- <span class=year>1898 June</span> Aguinaldo declares Philippine independence from Spain, forgetting about the Americans who transported him back to the country from Hong Kong and who are now secretly negotiating with the Spaniards to seize the islands for themselves.
 
 - <span class=year>1898 June</span> Fifty Spanish soldiers barricade themselves in a church in Baler, Quezon to shoot the movie *1898, Our Last Men in the Philippines*, which will later win the Goya Awards for best costume.
 
@@ -321,7 +321,7 @@ After 300 years under Spanish yoke, Filipinos come to realize that they can prob
 
 Americans muscle in and assume the role of mentoring their Little Brown Brothers--after they massacre some of them first.
 
-- <span class=year>1898 August</span> Cosplaying Spanish and US soldiers stage the mock Battle of Manila using wooden swords and papier-mâché shields, after which Spain surrenders Manila to the US, avoiding the humiliation of waving the white flag to the Filipino revolutionaries besieging the capital.
+- <span class=year>1898 August</span> Cosplaying Spanish and US soldiers stage the mock Battle of Manila using wooden swords and papier-mâché shields, after which Spain surrenders Intramuros to the US, avoiding the humiliation of waving the white flag to the Filipino revolutionaries besieging the capital.
 
 - <span class=year>1898 October</span> *Manila Times* publishes its first issue. Columnist [Rigoberto Tiglao](https://rigobertotiglao.com/) lambasts the Spanish and Americans and urge the Katipuneros to throw their lot with the Chinese.
 
@@ -392,7 +392,7 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
 
 - <span class=year>1974</span> Hiroo Onoda, the first-ever *hikikomori*, comes out of his cave and surrenders in Lubang Island, Mindoro. His hideout reveals World War II-era rifles, discarded cups of instant ramen, and a massive collection of manga.
 
-- <span class=year>1976</span> Imelda Marcos and Muammar Gaddafi stage a week-long bed-in in Libya to protest the ongoing conflict in Muslim Mindanao, resulting in the Tripoli Agreement, whereby they encourage the feuding parties to "make love, not war."
+- <span class=year>1976</span> Imelda Marcos and Muammar Gaddafi stage a week-long bed-in in the Libyan capital to protest the ongoing conflict in Muslim Mindanao, resulting in the Tripoli Agreement, whereby they encourage the feuding parties to "make love, not war."
  
 - <span class=year>1977</span> Mae Anne Padolina, the first Japayuki, departs for the Land of the Rising Sun to perform *tinikling* and *maglalatik* for cultural events. Tens of thousand others enroll in folk dance classes.
 
