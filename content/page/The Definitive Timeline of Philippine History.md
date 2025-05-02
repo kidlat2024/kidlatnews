@@ -289,7 +289,7 @@ After 300 years under Spanish yoke, Filipinos come to realize that they can prob
 
 - <span class=year>1878</span> The Sultan of Sulu leases Sabah to the British North Borneo Company, who assured him they will return the territory after "just a couple of years, cross our hearts and hope to die."
 
-- <span class=year>1884</span> Weighing just over two metric tons, Juan Luna's 7.67m×4.22m *Spoliarium* wins the "Heaviest Oil Painting Award" at the *Exposición Nacional de Bellas Artes* in Madrid. Luna was moved to depict the fate of fallen gradiators in the classical style after seeing Titian's *Rape of Europa*.
+- <span class=year>1884</span> Weighing just over two metric tons, Juan Luna's 7.67m×4.22m *Spoliarium* wins the "Heaviest Painting Award" at the *Exposición Nacional de Bellas Artes* in Madrid, proving that Indios, too, can paint really huge canvasses if they have enough material. (Luna was moved to depict the fate of fallen gradiators in the classical style after seeing Titian's *Rape of Europa*.)
 
 - <span class=year>1887</span> Jose Rizal publishes the subversive novel *Noli Me Tangere*, earning him the ire of Spanish authorities, and of high school students everywhere who are then required to submit a book report about it.
 
