@@ -372,7 +372,7 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
 
 - <span class=year>1957</span> Popular President Ramon Magsaysay dies in a plane crash. Investigations reveal that the pilot was playing Manhole on a Nintendo Game & Watch while manning the plane's controls.
  
-- <span class=year>1965</span> Election of President Ferdinand Marcos, descendant of Ferdinand Magellan, ushers the Philippines’ Golden Age, during which the ruling elite enrich themselves by plundering the country's gold reserves and all the national wealth that they can get their hands on.
+- <span class=year>1965</span> Election of President Ferdinand Marcos, descendant of Ferdinand Magellan, ushers the Golden Age, during which the ruling elite enrich themselves by plundering the country's gold reserves and all the national wealth that they can get their hands on.
 
 - <span class=year>1967</span> Finally caving in to the Philippines’ nonstop badgering, Thailand, Singapore, Malaysia and Indonesia agree to form the Association of Southeast Asian Nations (ASEAN) just to shut her up. The Philippines immediately proposes *paluwagan* to her new best friends.
  
