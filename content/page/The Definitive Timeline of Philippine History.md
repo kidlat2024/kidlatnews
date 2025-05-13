@@ -221,7 +221,7 @@ Here is a comprehensive timeline of Philippine history to understand how we have
 
 - <span class=year>50,000 BCE</span> Mrs. *Homo luzonensis*, a pygmy lady who lives in a muggy cave in northern Cagayan Valley, nags her husband incessantly for more fruits and nuts to eat, and a nice little bungalow to live in.
 
-- <span class=year>40,000 BCE</span> Escaping the tiger-infested jungles of southern China, Nognog and his Negrito clan arrive on the islands after paddling across the Batanes Strait. They find the islands’ jungles relatively pleasant, with only giant pythons to deal with.
+- <span class=year>40,000 BCE</span> Escaping the tiger-infested jungles of southern China, Nognog and his Negrito clan arrive on the islands after paddling across the Batanes Strait. They find the islands’ jungles relatively pleasant, with only giant centipedes and pythons to deal with.
 
 - <span class=year>20,000 BCE</span> Mr. Tabon man prepares a tasty meal of roasted bats and tarsier head soup just outside his cave in southern Palawan while watching the spectacular sunset of the West Philippine Sea marred by Chinese Coast Guard boats on the horizon.
 
