@@ -6,7 +6,7 @@ description: ""
 author: ["Katherine Kidlat"]
 date: 2024-10-20
 aliases:
-xurl: https://x.com/kidlatnews2024
+xurl:
 display_license: true
 attribution: "[Unhappy woman](/images/unhappy-woman-contemplating-divorce.gif) contemplating divorce by [Gratisography / Ryan McGuire](https://freerangestock.com/photos/35243/woman-in-tension.html)."
 images:

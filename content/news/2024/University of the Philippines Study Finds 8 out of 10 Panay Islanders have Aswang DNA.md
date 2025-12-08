@@ -6,7 +6,7 @@ description: ""
 author: ["Armando Kidlat"]
 date: 2024-10-19
 aliases:
-xurl: https://x.com/kidlatnews2024
+xurl:
 display_license: true
 attribution: "Aswang illustration by [Ognimdo2002](https://www.deviantart.com/ognimdo2002/art/Inktober-11-Aswang-in-Disgusting-857857657) at Deviant Art (CC-BY-3.0)."
 images:

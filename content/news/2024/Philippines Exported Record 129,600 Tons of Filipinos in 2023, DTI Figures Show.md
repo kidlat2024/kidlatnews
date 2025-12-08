@@ -6,11 +6,11 @@ description: ""
 author: ["Leon Kidlat"]
 date: 2024-10-24
 aliases: "/news/philippines-exported-record-130-million-tons-of-filipinos-in-2023-dti-figures-show/"
-xurl: https://x.com/kidlatnews2024
+xurl:
 display_license: true
 attribution: ""
 images:
-- /images/2023-export-of-filipinos-worldwide-asia.png
+- /images/2023-export-of-filipinos-worldwide-asia.gif
 tags:
 - Department of Trade and Industry
 - Filipinos

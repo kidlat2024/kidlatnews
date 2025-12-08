@@ -6,7 +6,7 @@ description: ""
 author: ["Leon Kidlat"]
 date: 2024-10-08
 aliases:
-xurl: https://x.com/kidlatnews2024
+xurl:
 display_license: true
 attribution: "Senators [Tito Sotto](https://commons.wikimedia.org/wiki/File:Tito_Sotto_III_(cropped).jpg) and [Ronald dela Rosa](https://commons.wikimedia.org/wiki/File:Ronald_dela_Rosa_073116.jpg) from Wikimedia."
 images:

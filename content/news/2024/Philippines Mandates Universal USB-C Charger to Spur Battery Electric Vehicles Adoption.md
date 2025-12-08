@@ -6,7 +6,7 @@ description: ""
 author: ["Armando Kidlat"]
 date: 2024-09-16
 aliases:
-xurl: https://x.com/kidlatnews2024
+xurl:
 display_license: true
 attribution: "Tesla vs USB-C charger, from [Wikimedia](https://commons.wikimedia.org/wiki/File:Tesla_charger_in_Finland.jpg) and [Pexels](https://www.pexels.com/photo/many-chargers-are-connected-to-an-electrical-outlet-on-a-white-background-16886334/)."
 images:
