@@ -21,6 +21,8 @@ tags:
 - puto bumbong
 - St. Luke's Medical Center
 - bibingka
+- Christmas
+- parol
 kudlit: ‘single’ “double”
 ---
 (Manila) -- Francis and Rosario Reyes, prominent Couples for Christ members and best known for their luxury home bible study group and aggressive “Campign Against Loitering” in their New Manila neighborhood, have once again opened their estate this Christmas season to a carefully selected group of poor street children--the same ones they routinely glare at from their SUV every other month of the year.
@@ -28,6 +30,8 @@ kudlit: ‘single’ “double”
 With Jose Mari Chan's *Christmas in Our Hearts* playing in the background, the Reyeses describe the annual event, now in its fifth year, as “a moving opportunity to remember those less fortunate for precisely one evening, between 6 and 9PM.”
 
 “We really believe in living our faith out loud,” said Rosario, an obstetrics doctor at St. Luke's Medical Center. “And it’s important the children see the true meaning of Christmas--generosity, humility, and knowing their place in someone else’s Instagram story.”
+
+[`Photo: Couples for Christ members show poor street children the spirit of Christmas.`](/images/couples-for-christ-members-xmas-party.png)
 
 Her husband Francis, head of a construction company, agreed, noting that the event had grown each year. “We’ve doubled supporters and attendance since we started. The trick is finding kids who look poor enough for photos, but not so poor that it makes the donors uncomfortable.”
 
