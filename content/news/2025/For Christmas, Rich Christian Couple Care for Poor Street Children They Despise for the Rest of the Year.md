@@ -1,7 +1,7 @@
 ---
 draft: false
 content_type: NewsArticle
-title: "For Christmas, Rich Christian Couple Care for Poor Street Children They Hate for the Rest of the Year"
+title: "For Christmas, Rich Christian Couple Care for Poor Street Children They Despise for the Rest of the Year"
 description: ""
 author: ["Leon Kidlat"]
 date: 2025-12-08
@@ -13,15 +13,15 @@ images:
 - /images/couples-for-christ-members-xmas-party.png
 tags:
 - Philippines
+- Christmas
 - Couples for Christ
 - Jose Mari Chan
 - Christmas in Our Hearts
 - Instagram
-- lechon
-- puto bumbong
 - St. Luke's Medical Center
 - bibingka
-- Christmas
+- lechon
+- puto bumbong
 - parol
 kudlit: ‘single’ “double”
 ---
@@ -29,7 +29,7 @@ kudlit: ‘single’ “double”
 
 With Jose Mari Chan's *Christmas in Our Hearts* playing in the background, the Reyeses describe the annual event, now in its fifth year, as “a moving opportunity to remember those less fortunate for precisely one evening, between 6 and 9PM.”
 
-“We really believe in living our faith out loud,” said Rosario, an obstetrics doctor at St. Luke's Medical Center. “And it’s important the children see the true meaning of Christmas--generosity, humility, and knowing their place in someone else’s Instagram story.”
+“We really believe in living our faith out loud,” said Rosario, an obstetrician at St. Luke's Medical Center. “And it’s important the children see the true meaning of Christmas--generosity, humility, and knowing their place in someone else’s Instagram story.”
 
 [`Photo: Couples for Christ members show poor street children the spirit of Christmas.`](/images/couples-for-christ-members-xmas-party.png)
 
@@ -43,7 +43,7 @@ The Reyeses’ small charity, Kamay sa Puso (Hindi sa Pitaka), provides essentia
 
 According to the couple, the yearly event has been a transformative experience--mostly for themselves. “Last year one of the boys thanked us before leaving,” said Francis, misty-eyed. “I realized, at that moment, that I am truly blessed to have all the riches I could possibly wring from my government flood-control projects. It was humbling.”
 
-Online reaction to the Reyeses’ holiday gesture has been overwhelmingly positive, with dozens of Instagram users commenting “So inspiring!!!”, “This is the true spirit of Xmas!”, and “This is what Jesus would do, probably, but in better lighting.”
+Online reaction to the Reyeses’ holiday gesture has been overwhelmingly positive, with dozens of Instagram users commenting “So inspiring!!!🙏🎉”, “This is the true spirit of Xmas!🎄🎅⛄”, and “This is what Jesus would do, probably, but in better lighting.”
 
 One neighbor, who wished to remain anonymous, added: “It’s nice they open their doors for a few hours. I just wish they’d stop calling barangay officers on these same kids standing near their mansion gates in January.”
 
