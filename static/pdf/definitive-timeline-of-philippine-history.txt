@@ -1,6 +1,5 @@
-load alt css
+load pdf css
 edit "https://kidl.at/the-definitive-timeline-of-philippine-history/"
-edit "Read on Web"
-edit "Updated ***. Kidlat News is satire."
-output as pdf
-margins:0.4inch
+edit "Read online"
+edit "Updated 01 Jan 2000."
+save as pdf (margins:0.4inch)
