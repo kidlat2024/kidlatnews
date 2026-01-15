@@ -73,6 +73,7 @@ tags:
 - Francisco Balagtas
 - Freddie Aguilar
 - Gabriela Silang
+- Gloria Macapagal Arroyo
 - Gomburza
 - Goya Awards
 - Gregorio del Pilar
@@ -181,6 +182,7 @@ tags:
 - Sint Maarten
 - Southeast Asia
 - Spain
+- Spoliarium
 - Srivijayan Empire
 - Sultanate of Sulu
 - Sulu
@@ -289,7 +291,7 @@ After 300 years under Spanish yoke, Filipinos come to realize that they can prob
 
 - <span class=year>1878</span> The Sultan of Sulu leases Sabah to the British North Borneo Company, who assured him they will return the territory after "just a couple of years, cross our hearts and hope to die."
 
-- <span class=year>1884</span> Weighing just over two metric tons, Juan Luna's 7.67m×4.22m *Spoliarium* wins the "Heaviest Painting Award" at the *Exposición Nacional de Bellas Artes* in Madrid, proving that Indios, too, can paint really huge canvasses if they have enough material. (Luna was moved to depict the fate of fallen gradiators in the classical style after seeing Titian's *Rape of Europa*.)
+- <span class=year>1884</span> Inspired by Titian's *Rape of Europa*, Juan Luna's gigantic *Spoliarium* wins the “Best Effort Award” at the *Exposición Nacional de Bellas Artes* in Madrid. Luna used up all his oil paints in this work he didn't have material left to ever paint again.
 
 - <span class=year>1887</span> Jose Rizal publishes the subversive novel *Noli Me Tangere*, earning him the ire of Spanish authorities, and of high school students everywhere who are then required to submit a book report about it.
 
@@ -414,7 +416,9 @@ Unshackled from foreign intervention, Filipinos finally get free rein to run the
 
 - <span class=year>1994</span> Philippines makes its first connection to the Internet when an employee of the Philippine Network Foundation downloads a topless photo of Tracy Lords from a server in CERN.
 
-- <span class=year>2006</span> Fresh from conquering Mount Makiling, Filipino mountaineer Leo Oracion makes history as the first person to summit Mount Everest dressed in flipflops and tank tops. He loses only seven fingers and ten toes in the process.
+- <span class=year>2001</span> Gloria Macapagal-Arroyo, the country's first president-cum-part-time-nanny, takes office. She works at the Malacanang Palace Monday to Friday, then flies to Hong Kong on weekends to perform her domestic duties.
+
+- <span class=year>2006</span> Fresh from conquering Mount Makiling, Filipino mountaineer Leo Oracion makes history as the first person to summit Mount Everest dressed in flipflops and tank tops. He loses only seven fingers and nine toes in the process.
 
 - <span class=year>2010</span> The Manila Hostage Crisis inside a tourist bus comes to a successful end when members of an elite SWAT team shoot the hostage-taker and all the hostages that are not already dead.
 
