@@ -57,7 +57,7 @@ p {
     margin:0 0 1.5rem;
 }
 p a:hover  {text-decoration:underline}
-h1         {font-size:2.8rem; margin:0 0 1rem}
+h1         {font-size:2.4rem; margin:0 0 1rem}
 h2         {font-size:2.2rem; margin-bottom:1rem}
 h3         {font-size:1.8rem; margin-bottom:1rem}
 h3 a       {color:#d228ad}
@@ -99,7 +99,7 @@ li {margin:0;font-size:1.3rem}
 .line li a:hover {color:#d00a0a}
 .line li:nth-child(10n+1) {
     font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-    font-size:2.45rem;
+    font-size:2.4rem;
     font-weight:700;
     letter-spacing:-0.037rem;
     line-height:1.13;
@@ -116,7 +116,7 @@ li {margin:0;font-size:1.3rem}
 .line li:nth-child(7) {
     font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 	font-size:2.0rem;
-    font-weight:800;
+    font-weight:700;
     letter-spacing:-1px;
 }
 
@@ -168,7 +168,7 @@ blockquote {
 blockquote p {
     font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     font-size:1.6rem;
-    font-weight:800;
+    font-weight:700;
     line-height:1.5;
     color:#d00a0a;
 }
@@ -182,7 +182,7 @@ blockquote p {
     padding: 1rem 1.5rem;
     font-size: 1.35rem;
     line-height: 1.73;
-    font-weight: 800;
+    font-weight: 700;
 }
 .dgray-yellow {background-color:#1e1e1e;color:#f2bf25}
 .red-white    {background-color:#bf3030;color:#ffffff}
