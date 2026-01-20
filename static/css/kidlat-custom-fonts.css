@@ -1,21 +1,46 @@
+/* CUSTOM FONT */
+@font-face {
+    font-family: 'IBM Plex Sans Condensed';
+    src: url('/fonts/IBMPlexSansCondensed-200.woff2') format('woff2');
+    font-weight:200;
+    font-style:normal;
+}
+@font-face {
+    font-family: 'IBM Plex Sans Condensed';
+    src: url('/fonts/IBMPlexSansCondensed-400.woff2') format('woff2');
+    font-weight:400;
+    font-style:normal;
+}
+@font-face {
+    font-family: 'IBM Plex Sans Condensed';
+    src: url('/fonts/IBMPlexSansCondensed-700.woff2') format('woff2');
+    font-weight:700;
+    font-style:normal;
+}
+@font-face {
+    font-family: 'Jetbrains Mono';
+    src: url('/fonts/Jetbrains-Mono.woff2') format('woff2');
+    font-weight:400;
+    font-style:normal;
+}
+
 /* CONTAINERS */
 html, body {
     font-size:16px;
-    font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-family:'IBM Plex Sans Condensed',sans-serif;
     background-color: #eff2ff;
     margin:0 auto;
     padding:0 5px;
     max-width:40rem;
 }
-header {margin:0 0 2rem}
-.sitename {
+header {margin:0 0 2rem}.sitename {
     padding: 3px 10px;
     background-color:#e00;
     display:inline-block;
 }
 .sitename a {
     font-size:1.3rem;
-    font-weight:400;
+    font-weight:700;
     color:#fff;
     text-decoration:none;
 }
@@ -79,7 +104,7 @@ li {margin:0;font-size:1.3rem}
 
 .line ul {
     font-size:1.5rem;
-    font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-family:Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif;
     line-height:1.15;
     margin:1rem 0 0;
     padding-left:0;
@@ -98,7 +123,7 @@ li {margin:0;font-size:1.3rem}
 }
 .line li a:hover {color:#d00a0a}
 .line li:nth-child(10n+1) {
-    font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-family:'IBM Plex Sans Condensed',sans-serif;
     font-size:2.45rem;
     font-weight:700;
     letter-spacing:-0.037rem;
@@ -114,7 +139,7 @@ li {margin:0;font-size:1.3rem}
     padding:15px 0 20px;
 }
 .line li:nth-child(7) {
-    font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-family:'IBM Plex Sans Condensed',sans-serif;
 	font-size:2.0rem;
     font-weight:800;
     letter-spacing:-1px;
@@ -122,7 +147,7 @@ li {margin:0;font-size:1.3rem}
 
 .related ul {
     font-size:1.5rem;
-    font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-family:Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif;
     line-height:1.15;
     margin:1rem 0 0;
     padding-left:0;
@@ -152,7 +177,7 @@ tags ul {
 }
 tags li {
     font-size:.9rem;
-    font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-family:Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif;
     margin:0 .5rem .5rem 0;
     padding:0 .4rem .1rem;
     border:none;
@@ -166,14 +191,14 @@ blockquote {
     margin:2rem 0;
 }
 blockquote p {
-    font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-family:'IBM Plex Sans Condensed',Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif;
     font-size:1.6rem;
     font-weight:800;
     line-height:1.5;
     color:#d00a0a;
 }
 .year {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-family: 'IBM Plex Sans Condensed',sans-serif;
     font-weight: 700;
     color: #d00a0a;
 }
@@ -232,7 +257,7 @@ details p {
   padding: .5rem .8rem;
   border-radius: .3rem;
   margin: 1rem 0 .5rem;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif;
   font-size: 1.2rem;
   line-height: 1.3;
 }
