@@ -106,7 +106,7 @@ li {margin:0;font-size:1.3rem}
 }
 .line li:nth-child(1) {
     border:none;
-	font-size:2.8rem;
+	font-size:2.4rem;
     padding:0 0 1rem;
 }
 .line li:nth-child(10n+11) {
@@ -265,15 +265,15 @@ th                         {background-color:#484b4f}
 /* MOBILE SCREEN */
 @media screen and (max-width: 550px) {
 header                     {margin:0 0 1.5rem}
-h1                         {font-size:2.2rem; margin:0 0 1rem}
-h2                         {font-size:2.0rem}
+h1                         {font-size:2.0rem; margin:0 0 1rem}
+h2                         {font-size:1.8rem}
 h3, description            {font-size:1.6rem}
 h4, p, li, .sitename a     {font-size:1.2rem}
 description                {font-size:1.4rem; margin:1rem 0}
 .postmeta, code, th, td    {font-size:1.1rem}
 .line ul                   {font-size:1.26rem}
 .line li                   {font-size:1.26rem}
-.line li:nth-child(1)      {font-size:2.2rem}
+.line li:nth-child(1)      {font-size:2.0rem}
 .line li:nth-child(10n+11) {font-size:1.8rem}
 tags li, .license          {font-size:0.85rem}
 footer                     {font-size:1.1rem; padding:.5rem 0}
