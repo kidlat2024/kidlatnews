@@ -5,7 +5,7 @@ title: "Philippines Cedes Mindanao to China for $20 Billion in Cash, NFTs and Do
 description: ""
 author: ["Raul Kidlat"]
 date: 2024-02-05
-xurl: https://twitter.com/kidlatnews2024/status/1754355717107278174
+xurl:
 display_license: true
 attribution: "[Chinese Province of Mindanao](/images/chinese-province-mindanao-map.gif), adapted from [Google Maps](https:maps.google.com) ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en))."
 images:

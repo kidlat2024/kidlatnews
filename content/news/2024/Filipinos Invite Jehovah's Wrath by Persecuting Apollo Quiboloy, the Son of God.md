@@ -6,7 +6,7 @@ description: ""
 author: ["Armando Kidlat"]
 date: 2024-09-08
 aliases:
-xurl: https://twitter.com/kidlatnews2024/status/1773283505448866047
+xurl:
 display_license: true
 attribution: "Apollo Quiboloy Wanted Poster from the [FBI](https://www.fbi.gov/wanted/human-trafficking/apollo-carreon-quiboloy)."
 images:

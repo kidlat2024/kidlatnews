@@ -3,7 +3,7 @@ draft: false
 content_type: NewsArticle
 title: "UST Study Determines Average Time You Spend in the Bathroom Before Your Date Starts to Think That You Took a Dump"
 description: ""
-xurl: https://twitter.com/kidlatnews2024/status/1758073113789784159
+xurl:
 author: ["Armando Kidlat"]
 date: 2024-02-15
 display_license: true

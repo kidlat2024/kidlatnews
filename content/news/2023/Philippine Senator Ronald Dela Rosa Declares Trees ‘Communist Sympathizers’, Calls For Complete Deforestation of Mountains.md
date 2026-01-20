@@ -5,7 +5,7 @@ title: "Senator Dela Rosa Declares Trees 'Communist Sympathizers,' Calls For Com
 description: ""
 author: ["Leon Kidlat"]
 date: 2023-11-04
-xurl: https://twitter.com/kidlatnews2024/status/1753749671011627290
+xurl:
 display_license: true
 attribution: "[Philippine Senator Ronald 'Bato' Dela Rosa](/images/philippine-senator-ronald-bato-dela-rosa.gif) photo from [Wikimedia](https://commons.wikimedia.org/wiki/File:Ronald_dela_Rosa_073116.jpg) (Public Domain)."
 images:
