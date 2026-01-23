@@ -52,7 +52,7 @@ footer a {text-decoration:none; color:#000}
 /* PARAGRAPHS, HEADINGS, LINKS */
 p {
     font-size:1.2rem;
-    font-family:Georgia,Times,'Times New Roman',serif;
+    font-family:Cambria,'New York','Noto Serif',Georgia,Times,'Times New Roman',serif;
     line-height:1.57;
     margin:0 0 1.5rem;
 }
@@ -71,7 +71,7 @@ a:hover    {text-decoration:none}
 /* LISTS */
 ul, ol {
     font-size:1.25rem;
-    font-family:Georgia,'Times New Roman',Times,serif;
+    font-family:Cambria,'New York','Noto Serif',Georgia,'Times New Roman',Times,serif;
     line-height:1.57;
     padding-left: 20px;
 }
