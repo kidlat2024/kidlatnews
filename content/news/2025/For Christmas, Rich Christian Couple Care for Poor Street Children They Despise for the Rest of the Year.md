@@ -47,4 +47,4 @@ Online reaction to the Reyeses’ holiday gesture has been overwhelmingly positi
 
 One neighbor, who wished to remain anonymous, added: “It’s nice they open their doors for a few hours. I just wish they’d stop calling barangay officers on these same kids standing near their mansion gates in January.”
 
-As the night ended and the children were gently ushered out to the streets where they belong, Rosario stood on her marble porch and reflected. “Every year I feel renewed,” she said softly. “We give them hope. And in return, they give us content.” ✏️
+As the night ended and the children were gently ushered out to the streets where they belong, Rosario stood on her marble porch and reflected. “Every year I feel renewed,” she said softly. “We give them hope. And in return, they give us content.”
