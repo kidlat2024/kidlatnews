@@ -33,7 +33,7 @@ With Jose Mari Chan's *Christmas in Our Hearts* playing in the background, the R
 
 [`Photo: Couples for Christ members show poor street children the spirit of Christmas.`](/images/couples-for-christ-members-xmas-party.png)
 
-Her husband Francis, head of a construction company, agreed, noting that the event had grown each year. “We’ve doubled supporters and attendance since we started. The trick is finding kids who look poor enough for photos, but not so poor that it makes the donors uncomfortable.”
+Her husband Francis, head of F&R Construction, agreed, noting that the event had grown each year. “We’ve doubled supporters and attendance since we started. The trick is finding kids who look poor enough for photos, but not so poor that it makes the donors uncomfortable.”
 
 He paused to gesture toward the handmade Christmas *parol* from Pampanga above their three-story faux fireplace. “We try to give them the full experience--warmth, food, a sense of family, and, most importantly, a clear reminder that all this is temporary.”
 
@@ -47,4 +47,4 @@ Online reaction to the Reyeses’ holiday gesture has been overwhelmingly positi
 
 One neighbor, who wished to remain anonymous, added: “It’s nice they open their doors for a few hours. I just wish they’d stop calling barangay officers on these same kids standing near their mansion gates in January.”
 
-As the night ended and the children were gently ushered out to the streets where they belong, Rosario stood on her marble porch and reflected. “Every year I feel renewed,” she said softly. “We give them hope. And in return, they give us content.”
+As the night ended and the children were gently ushered out to the streets where they belong, Rosario stood on her marble porch and reflected. “Every year I feel renewed,” she said softly. “We give them hope. And in return, they give us content.” ✏️
