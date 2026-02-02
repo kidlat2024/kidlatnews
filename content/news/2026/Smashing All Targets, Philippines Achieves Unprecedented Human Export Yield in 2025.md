@@ -32,7 +32,7 @@ kudlit: ‘single’ “double”
 
 The milestone, celebrated at a press conference featuring pie charts, forklifts, and the national anthem played at half-speed, represents a significant improvement over earlier forecasts, which had pessimistically assumed that only “a lot” of Filipinos would leave this year, rather than “an astonishing amount.”
 
-Department of Migrant Workers (DMW) Undersecretary Jainal Rasul Jr. attributed the success to the Philippines’ core competitive advantages: scale, adaptability, and a population that has been preparing for overseas deployment since childhood.
+>Department of Migrant Workers (DMW) Undersecretary Jainal Rasul Jr. attributed the success to the Philippines’ core competitive advantages: scale, adaptability, and a population that has been preparing for overseas deployment since childhood.
 
 “Other countries export machineries or electronics,” said Rasul, unveiling a flowchart titled *End-to-End Citizen Logistics*. “We export potential. Also nurses. Mostly nurses.”
 
@@ -43,7 +43,7 @@ Department of Migrant Workers (DMW) Undersecretary Jainal Rasul Jr. attributed t
 To streamline customs paperwork and soothe international auditors, DMW confirmed it used a uniform unit weight of 70kg per individual, regardless of profession, stress level, or number of degrees rendered temporarily useless by visa restrictions.
 
 **Saudi Arabia**<br>
-29,400 metric tons (420,000 individuals)<br>  
+29,400 metric tons (420,000 individuals)<br>
 Mostly medical technicians, engineers, and people told this was “character-building”.
 
 **United States**<br>
