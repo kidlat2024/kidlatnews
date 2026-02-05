@@ -7,6 +7,6 @@
 
 # "production" environment specific build settings
 [build.environment]
-  HUGO_VERSION = "0.82.0"
+  HUGO_VERSION = "0.155.0"
   HUGO_THEME = "kidlat"
   HUGO_ENV = "production"
