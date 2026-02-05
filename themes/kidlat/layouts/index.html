@@ -3,9 +3,9 @@
   {{ .Content }}
   <div class="line">{{ range first 1 (where .Site.RegularPages "Type" "news").ByDate.Reverse }}
   <h1><a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a></h1>
-  <p>{{ .Summary | markdownify }}<a href="{{ .RelPermalink }}"></p><p>Continue reading...</a></p>
- 
-{{ end }}</div>
+  <p>{{ .Summary | markdownify }}</p><p><a href="{{ .RelPermalink }}">Continue reading...</a></p>
+  </div>
+{{ end }}
   
   <div class="line"><ul>
       {{ range after 1 (where .Site.RegularPages "Type" "ne" "page").ByDate.Reverse }}
