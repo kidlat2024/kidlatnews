@@ -3,7 +3,7 @@
   {{ .Content }}
   <div class="line">{{ range first 1 (where .Site.RegularPages "Type" "news").ByDate.Reverse }}
   <h1><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
-  <p>{{ .Summary }}<a href="{{ .RelPermalink }}">Continue reading...</a></p>
+  <p>{{ .Summary | safeHTML }}<a href="{{ .RelPermalink }}"></p><p>Continue reading...</a></p>
  
 {{ end }}</div>
   
