@@ -30,6 +30,8 @@ kudlit: ‘single’ “double”
 ---
 (Mandaluyong, Metro Manila) -- Declaring 2025 “a banner year for outbound citizens,” the Philippine government announced Thursday it has dramatically exceeded even its most bullish people-export projections, shipping a staggering 131,250 metric tons of Filipinos abroad, despite minor bottlenecks such as airport capacity, parental tears, and LinkedIn congestion.
 
+<!--more-->
+
 The milestone, celebrated at a press conference featuring pie charts, forklifts, and the national anthem played at half-speed, represents a significant improvement over earlier forecasts, which had pessimistically assumed that only “a lot” of Filipinos would leave this year, rather than “an astonishing amount.”
 
 >Department of Migrant Workers (DMW) Undersecretary Jainal Rasul Jr. attributed the success to the Philippines’ core competitive advantages: scale, adaptability, and a population that has been preparing for overseas deployment since childhood.
