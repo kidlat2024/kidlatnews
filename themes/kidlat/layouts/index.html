@@ -4,7 +4,7 @@
   <div class="line">{{ range first 1 (where .Site.RegularPages "Type" "news").ByDate.Reverse }}
   <h1><a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a></h1>
   <span class="postmeta">{{ range .Params.author }}By {{ . | markdownify }}{{ end }}{{ with .PublishDate | default nil }}, {{ .Format "Mon 2 Jan 2006" -}}{{ end }}</span>
-  {{ .Summary | markdownify }}<p><a href="{{ .RelPermalink }}">Continue reading...</a></p>
+  <p>{{ .Summary | markdownify }}</p><p><a href="{{ .RelPermalink }}">Continue reading...</a></p>
   </div>
 {{ end }}
   
