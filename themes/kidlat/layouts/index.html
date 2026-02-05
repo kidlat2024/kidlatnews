@@ -1,8 +1,14 @@
 {{ define "main" }}
 
   {{ .Content }}
+  <div class="line">{{ range first 1 (where .Site.RegularPages "Type" "news").ByDate.Reverse }}
+  <h1><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
+  <p>{{ .Summary }}<a href="{{ .RelPermalink }}">Continue reading...</a></p>
+ 
+{{ end }}</div>
+  
   <div class="line"><ul>
-      {{ range where .Site.RegularPages "Type" "ne" "page" }}
+      {{ range after 1 (where .Site.RegularPages "Type" "ne" "page").ByDate.Reverse }}
         <li><a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a></li>
       {{ end }}
     </ul></div>
