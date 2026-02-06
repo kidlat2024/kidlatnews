@@ -282,9 +282,9 @@ description                {font-size:1.4rem; margin:1rem 0}
 .postmeta, code, th, td    {font-size:1.1rem}
 .line ul                   {font-size:1.26rem}
 .line li                   {font-size:1.26rem}
-.line li:nth-child(1)      {font-size:1.8rem}
-.line li:nth-child(7)      {font-size:1.8rem}
-.line li:nth-child(10n+11) {font-size:1.8rem}
+.line li:nth-child(1)      {font-size:1.6rem}
+.line li:nth-child(7)      {font-size:1.6rem}
+.line li:nth-child(10n+11) {font-size:1.6rem}
 tags li, .license          {font-size:0.85rem}
 footer                     {font-size:1.1rem; padding:.5rem 0}
 p                          {margin:0 0 1rem}
