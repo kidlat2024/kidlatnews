@@ -249,6 +249,8 @@ details p {
 @media (prefers-color-scheme: dark){
 html,body                  {background-color:#212529;color:#DBE0EA}
 .postmeta                  {color:#a8a8a8}
+.seventh                   {background-color:#363737}
+p a                        {color:#DBE0EA}
 a                          {color:#41b0e3}
 h1, h1 a, h2, h2 a, h3     {color:#fe0}
 h3 a                       {color:#f27ad8}
