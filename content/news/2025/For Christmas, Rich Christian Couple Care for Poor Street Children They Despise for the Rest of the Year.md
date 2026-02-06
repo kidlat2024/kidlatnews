@@ -3,6 +3,7 @@ draft: false
 content_type: NewsArticle
 title: "For Christmas, Rich Christian Couple Care for Poor Street Children They Despise for the Rest of the Year"
 description: ""
+excerpt: "Prominent Couple for Christ members Francis and Rosario Reyes have once again opened their estate this Christmas season to a carefully selected group of poor street children--the same ones they routinely glare at from their SUV every other month of the year."
 author: ["Leon Kidlat"]
 date: 2025-12-08
 aliases:

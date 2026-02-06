@@ -3,6 +3,7 @@ draft: false
 content_type: NewsArticle
 title: "Senators Sotto, Dela Rosa Introduce Bill to Change 'Lupang Hinirang' to 'Bayang Magiliw'"
 description: ""
+excerpt: "'Our bill would not only correct this unfortunate historical wrong; it would also stop the needless ridicule that comes the way of countless schoolchildren--not to mention politicians--who know our beloved anthem by the only name it should be called: Bayang Magiliw.'"
 author: ["Leon Kidlat"]
 date: 2024-10-08
 aliases:

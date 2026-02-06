@@ -3,6 +3,7 @@ draft: false
 content_type: NewsArticle
 title: "Smashing All Targets, Philippines Achieves Unprecedented Human Export Yield in 2025"
 description: ""
+excerpt: "Declaring 2025 “a banner year for outbound citizens,” the Philippine government announced Thursday it has dramatically exceeded even its most bullish people-export projections, shipping a staggering 131,250 metric tons of Filipinos abroad, despite minor bottlenecks such as airport capacity, parental tears, and LinkedIn congestion."
 author: ["Leon Kidlat"]
 date: 2026-01-30
 aliases:
