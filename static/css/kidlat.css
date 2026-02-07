@@ -50,7 +50,7 @@ footer a {text-decoration:none; color:#000}
 
 /* PARAGRAPHS, HEADINGS, LINKS */
 p {
-    font-size:1.1rem;
+    font-size:1.2rem;
     font-family:Georgia,'New York','Noto Serif',Georgia,Times,'Times New Roman',serif;
     line-height:1.57;
     margin:0 0 1.5rem;
@@ -174,7 +174,7 @@ blockquote {
 }
 blockquote p {
     font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-    font-size:1.45rem;
+    font-size:1.25rem;
     font-weight:700;
     line-height:1.45;
     color:#d00a0a;
@@ -291,6 +291,6 @@ tags li, .license          {font-size:0.85rem}
 footer                     {font-size:1.1rem; padding:.5rem 0}
 p                          {margin:0 0 1rem}
 blockquote                 {margin:1.5rem 0}
-blockquote p               {font-size:1.36rem}
+blockquote p               {font-size:1.25rem}
 .license                   {margin:0 0 1.5rem}
 }
