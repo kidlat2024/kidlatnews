@@ -50,14 +50,14 @@ footer a {text-decoration:none; color:#000}
 
 /* PARAGRAPHS, HEADINGS, LINKS */
 p {
-    font-size:1.2rem;
+    font-size:1.1rem;
     font-family:Georgia,'New York','Noto Serif',Georgia,Times,'Times New Roman',serif;
     line-height:1.57;
     margin:0 0 1.5rem;
 }
 p a        {color:#000;}
 p a:hover  {text-decoration:underline}
-h1         {font-size:2.4rem; margin:0 0 1rem}
+h1         {font-size:2.2rem; margin:0 0 1rem}
 h1 a, h2 a {color: #000}
 h2         {font-size:2.0rem; margin-bottom:1rem}
 h3         {font-size:1.8rem; margin-bottom:1rem}
@@ -75,10 +75,9 @@ a:hover    {text-decoration:none}
 	border-radius: 15px;
 	background-color: #eef1f2;
 }
-
 .seventh h2        {margin-top: .5rem; font-size: 1.6rem}
 .seventh h2 a:hover{color:#d00a0a}
-.seventh p         {margin-bottom: .8rem;}
+.seventh p         {margin-bottom: .8rem; font-size:1.15rem}
 
 /* LISTS */
 ul, ol {
@@ -249,7 +248,7 @@ details p {
 @media (prefers-color-scheme: dark){
 html,body                  {background-color:#212529;color:#DBE0EA}
 .postmeta                  {color:#a8a8a8}
-.seventh                   {background-color:#363737}
+.seventh                   {background-color:#2e3439}
 p a                        {color:#DBE0EA}
 a                          {color:#41b0e3}
 h1, h1 a, h2, h2 a, h3     {color:#fe0}
@@ -276,10 +275,11 @@ th                         {background-color:#484b4f}
 /* MOBILE SCREEN */
 @media screen and (max-width: 550px) {
 header                     {margin:0 0 1.5rem}
-h1                         {font-size:2.0rem; margin:0 0 1rem}
+h1                         {font-size:1.8rem; margin:0 0 1rem}
 h2                         {font-size:1.6rem}
 h3                         {font-size:1.4rem}
-h4, p, li, .sitename a     {font-size:1.2rem}
+h4, li, .sitename a        {font-size:1.2rem}
+p                          {font-size:1.1rem}
 description                {font-size:1.4rem; margin:1rem 0}
 .postmeta, code, th, td    {font-size:1.1rem}
 .line ul                   {font-size:1.26rem}
