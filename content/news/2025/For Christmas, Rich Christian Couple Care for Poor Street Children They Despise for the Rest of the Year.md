@@ -11,7 +11,7 @@ xurl:
 display_license: true
 attribution: ""
 images:
-- /images/couples-for-christ-members-xmas-party.png
+- /images/couples-for-christ-members-xmas-party.avif
 tags:
 - Philippines
 - Christmas
@@ -32,7 +32,7 @@ With Jose Mari Chan's *Christmas in Our Hearts* playing in the background, the R
 
 “We really believe in living our faith out loud,” said Rosario, an obstetrician at St. Luke's Medical Center. “And it’s important the children see the true meaning of Christmas--generosity, humility, and knowing their place in someone else’s Instagram story.”
 
-[`Photo: Couples for Christ members show poor street children the spirit of Christmas.`](/images/couples-for-christ-members-xmas-party.png)
+[`Photo: Couples for Christ members show poor street children the spirit of Christmas.`](/images/couples-for-christ-members-xmas-party.avif)
 
 Her husband Francis, head of F&R Construction, agreed, noting that the event had grown each year. “We’ve doubled supporters and attendance since we started. The trick is finding kids who look poor enough for photos, but not so poor that it makes the donors uncomfortable.”
 
