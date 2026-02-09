@@ -69,6 +69,6 @@ UNESCO, however, confirmed that spirit-based chocolate does not meet World Herit
 
 Despite the rejection, the Chocolate Hills will remain a major tourist attraction, continuing their centuries-long existence as non-chocolate, conical mounds of dirt.
 
-When asked whether UNESCO would reconsider the applicatioston in the future, Lavoisier was cautious. “If, at some point, the hills demonstrably become chocolate,” he said, “we are open to reevaluating the case.”
+When asked whether UNESCO would reconsider the application in the future, Lavoisier was cautious. “If, at some point, the hills demonstrably become chocolate,” he said, “we are open to reevaluating the case.”
 
 Until then, UNESCO encourages visitors to “enjoy the landscape responsibly” and to obtain their chocolate from “reputable, dessert-specific sources.”
