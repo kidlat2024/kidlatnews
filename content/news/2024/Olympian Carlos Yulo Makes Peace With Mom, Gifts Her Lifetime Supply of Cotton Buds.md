@@ -19,7 +19,7 @@ tags:
 - Mercury Drug
 kudlit: ‘single’ “double”
 ---
-(Quezon City) -- [Carlos Yulo](/tags/carlos-yulo), who clinched two gold medals for the Philippines at the [Paris Olympics](/tags/paris-olympics), has offered to end his much publicized rift with his mother by gifting her the lifetime supply of cotton buds awarded to him by [Mercury Drug](/tags/mercury-drug).
+QUEZON CITY -- [Carlos Yulo](/tags/carlos-yulo), who clinched two gold medals for the Philippines at the [Paris Olympics](/tags/paris-olympics), has offered to end his much publicized rift with his mother by gifting her the lifetime supply of cotton buds awarded to him by [Mercury Drug](/tags/mercury-drug).
 
 After finishing first in the men's floor and vault competitions in the Paris Olympics, Yulo received 20 billion pesos from various branches of the Philippine government, a 60-story condominium building in Makati from [Manny Villar](/tags/manny-villar), free [Philippine Airlines](/tags/philippine-airlines) flights for life, a Toyota Land Cruiser, a lifetime supply of ramen, and untold other prizes and awards.
 

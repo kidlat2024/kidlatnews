@@ -22,7 +22,7 @@ tags:
 - Youtube
 kudlit: ‘single’ “double” Biñan
 ---
-(Manila, Philippines) -- Presidential Adviser for Poverty Alleviation and motivational speaker [Larry Gadon](/tags/larry-gadon/) shared to Tondo's destitute the suprisingly simple secret to a richer life: "Just stop being poor."
+MANILA -- Presidential Adviser for Poverty Alleviation and motivational speaker [Larry Gadon](/tags/larry-gadon/) shared to Tondo's destitute the suprisingly simple secret to a richer life: "Just stop being poor."
 
 As part of his country-wide tour for [poverty](/tags/poverty/) alleviation, Larry Gadon gave a rousing speech Saturday inside a packed community center in [Tondo](/tags/tondo/), [Manila](/tags/manila/) in which he urged his audience of slum dwellers to lose their "victim mentality" and escape poverty by "manifesting a richer life."
 

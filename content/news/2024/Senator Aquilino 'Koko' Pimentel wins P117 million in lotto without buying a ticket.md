@@ -22,7 +22,7 @@ tags:
 - Cagayan de Oro
 kudlit: ‘single’ “double”
 ---
-(Pasig City, Philippines) -- In a strange but extremely fortunate stroke of luck, [senate minority leader](/tags/senate-of-the-philippines/) [Aquilino “Koko” Pimentel III](/tags/aquilino-koko-pimentel-iii/), who called for an audit of the gaming activities of [Philippine Charity Sweepstakes Office](/tags/philippine-charity-sweepstakes-office/) ([PCSO](/tags/pcso/)) after a recent controversial lottery result, himself wins P117 million ($2.1 million) in the latest PCSO grand lotto draw.
+PASIG CITY, Metro Manila -- In a strange but extremely fortunate stroke of luck, [senate minority leader](/tags/senate-of-the-philippines/) [Aquilino “Koko” Pimentel III](/tags/aquilino-koko-pimentel-iii/), who called for an audit of the gaming activities of [Philippine Charity Sweepstakes Office](/tags/philippine-charity-sweepstakes-office/) ([PCSO](/tags/pcso/)) after a recent controversial lottery result, himself wins P117 million ($2.1 million) in the latest PCSO grand lotto draw.
 
 The winning number was 02-04-06-08-10-12.
 

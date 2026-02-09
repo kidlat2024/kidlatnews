@@ -21,7 +21,7 @@ tags:
 - Department of Tourism
 kudlit: ‘single’ “double”
 ---
-Carmen, Bohol — The United Nations Educational, Scientific and Cultural Organization (UNESCO) has formally rejected the Philippines’ application to designate the Chocolate Hills of Bohol as a World Heritage Site, citing what it described as a “fundamental misunderstanding of both geology and dessert.”
+CARMEN, Bohol — The United Nations Educational, Scientific and Cultural Organization (UNESCO) has formally rejected the Philippines’ application to designate the Chocolate Hills of Bohol as a World Heritage Site, citing what it described as a “fundamental misunderstanding of both geology and dessert.”
 
 <!--more-->
 
@@ -67,7 +67,7 @@ UNESCO, however, confirmed that spirit-based chocolate does not meet World Herit
 
 ### Hills Remain Unchanged, Non-Chocolate
 
-Despite the rejection, the Chocolate Hills will remain a major tourist attraction, continuing their centuries-long existence as non-chocolate geological formations.
+Despite the rejection, the Chocolate Hills will remain a major tourist attraction, continuing their centuries-long existence as non-chocolate, conical mounds of dirt.
 
 When asked whether UNESCO would reconsider the applicatioston in the future, Lavoisier was cautious. “If, at some point, the hills demonstrably become chocolate,” he said, “we are open to reevaluating the case.”
 

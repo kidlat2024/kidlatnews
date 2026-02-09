@@ -25,7 +25,7 @@ tags:
 - Kendo
 kudlit: ‘single’ “double” ñ
 ---
-(Akita City, Japan) -- Biñan, [Laguna](/tags/laguna/) native and self-confessed [weeaboo](/tags/weeaboo/) Rodel Rosario, a 32-year-old factory worker in [Japan](/tags/japan/), have won an old [samurai](/tags/samurai/) castle located in rural [Akita Prefecture](/tags/akita-prefecture/) in a raffle conducted on January 29, 2024 by the prefectural government to dispose abandoned houses and other derelict properties.
+AKITA CITY, Japan -- Biñan, [Laguna](/tags/laguna/) native and self-confessed [weeaboo](/tags/weeaboo/) Rodel Rosario, a 32-year-old factory worker in [Japan](/tags/japan/), have won an old [samurai](/tags/samurai/) castle located in rural [Akita Prefecture](/tags/akita-prefecture/) in a raffle conducted on January 29, 2024 by the prefectural government to dispose abandoned houses and other derelict properties.
 
 [`Photo: Kubota Castle in Akita Prefecture won by Rosario in a raffle`](/images/kubota-castle-akita-japan.gif)
 

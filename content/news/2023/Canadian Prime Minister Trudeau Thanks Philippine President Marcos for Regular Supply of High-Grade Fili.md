@@ -21,7 +21,7 @@ tags:
 - Filipino-Canadians
 - Bongbong Marcos
 ---
-(Manila, Philippines) -- During the telephone conference between the two heads of state Tuesday, Canadian Prime Minister Justin Trudeau lauded the friendly relations between the two countries and thanked President [Bongbong Marcos](/tags/bongbong-marcos/) for the Philippine government's continued cooperation in regularly supplying Canada with [high-grade Filipinos](/tags/migrant-workers/).
+MANILA -- During the telephone conference between the two heads of state Tuesday, Canadian Prime Minister Justin Trudeau lauded the friendly relations between the two countries and thanked President [Bongbong Marcos](/tags/bongbong-marcos/) for the Philippine government's continued cooperation in regularly supplying Canada with [high-grade Filipinos](/tags/migrant-workers/).
 
 [`Photo: Canadian Prime Minister Justin Trudeau with wife`](/images/canada-prime-minister-justin-trudeau-with-wife.gif)
 

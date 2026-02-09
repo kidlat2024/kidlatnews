@@ -29,7 +29,7 @@ tags:
 - Jainal Rasul Jr.
 kudlit: ‘single’ “double”
 ---
-(Mandaluyong, Metro Manila) -- Declaring 2025 “a banner year for outbound citizens,” the Philippine government announced Thursday it has dramatically exceeded even its most bullish people-export projections, shipping a staggering 131,250 metric tons of Filipinos abroad, despite minor bottlenecks such as airport capacity, parental tears, and LinkedIn congestion.
+MANDALUYONG, Metro Manila -- Declaring 2025 “a banner year for outbound citizens,” the Philippine government announced Thursday it has dramatically exceeded even its most bullish people-export projections, shipping a staggering 131,250 metric tons of Filipinos abroad, despite minor bottlenecks such as airport capacity, parental tears, and LinkedIn congestion.
 
 <!--more-->
 

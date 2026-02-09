@@ -26,7 +26,7 @@ tags:
 - parol
 kudlit: ‘single’ “double”
 ---
-(Manila) -- Francis and Rosario Reyes, prominent Couples for Christ members and best known for their luxury home bible study group and aggressive “Campaign Against Loitering” in their New Manila neighborhood, have once again opened their estate this Christmas season to a carefully selected group of poor street children--the same ones they routinely glare at from their SUV every other month of the year.
+MANILA -- Francis and Rosario Reyes, prominent Couples for Christ members and best known for their luxury home bible study group and aggressive “Campaign Against Loitering” in their New Manila neighborhood, have once again opened their estate this Christmas season to a carefully selected group of poor street children--the same ones they routinely glare at from their SUV every other month of the year.
 
 With Jose Mari Chan's *Christmas in Our Hearts* playing in the background, the Reyeses describe the annual event, now in its fifth year, as “a moving opportunity to remember those less fortunate for precisely one evening, between 6 and 9PM.”
 

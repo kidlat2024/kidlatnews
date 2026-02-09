@@ -20,7 +20,7 @@ tags:
 - Kuwait
 kudlit: ‘single’ “double” eñe
 ---
-(Makati City) -- According to the latest statistics from the [Department of Trade and Industry](/tags/department-of-trade-and-industry) (DTI), the Philippines exported a record 129,600 tons of Filipinos in 2023, roughly equivalent to 2,160,000 individuals (at 60kg/individual), generating a total of PhP239 billion in revenue.
+MAKATI CITY -- According to the latest statistics from the [Department of Trade and Industry](/tags/department-of-trade-and-industry) (DTI), the Philippines exported a record 129,600 tons of Filipinos in 2023, roughly equivalent to 2,160,000 individuals (at 60kg/individual), generating a total of PhP239 billion in revenue.
 
 [Filipinos](/tags/filipinos) remain by far the Philippines top export, followed by electrical machinery and equipment (including computers), ores and metals, and fruits and nuts.
 

@@ -21,7 +21,7 @@ tags:
 - Davao
 kudlit: ‘single’ “double” piña
 ---
-(Davao City, Philippines) -- Local man Peter Esteban, 46, enthusiastic supporter of ex-president [Rodrigo Duterte](/tags/rodrigo-duterte/)'s War on Drugs in which human rights groups say as many as 12,000 Filipinos died, today tweeted his profound sadness at the number of deaths in the ongoing [Israel-Hamas War](/tags/israel-hamas-war/).
+DAVAO CITY -- Local man Peter Esteban, 46, enthusiastic supporter of ex-president [Rodrigo Duterte](/tags/rodrigo-duterte/)'s War on Drugs in which human rights groups say as many as 12,000 Filipinos died, today tweeted his profound sadness at the number of deaths in the ongoing [Israel-Hamas War](/tags/israel-hamas-war/).
 
 "As a [Roman Catholic](/tags/roman-catholic/) I don't really favor any side in this conflict," tweeted Esteban, "but my heart goes out to all the innocent civilians--both Israelis and Palestinians--lost in this totally unnecessary bloodshed. I go to church every Sunday and pray that the war would end soon."
 

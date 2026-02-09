@@ -42,7 +42,7 @@ tags:
 - Xi Jinping
 kudlit: ‘single’ “double”
 ---
-(Manila, Philippines) -- After months of top-secret negotiations between the [Philippines](/tags/philippines/) and the [People's Republic of China](/tags/china), Philippine Secretary of Foreign Affairs Enrique Manalo and his Chinese counterpart Wang Yi announced at the joint press conference Monday that the Philippines has agreed to sell [Mindanao](/tags/mindanao/) and the surrounding islands to the Chinese-speaking nation for $20 billion, with $15 billion in cash and the remaining $5 billion payable in [non-fungible tokens](/tags/non-fungible-token/) (NFTs) and [Dogecoins](/tags/dogecoin/).
+MANILA -- After months of top-secret negotiations between the [Philippines](/tags/philippines/) and the [People's Republic of China](/tags/china), Philippine Secretary of Foreign Affairs Enrique Manalo and his Chinese counterpart Wang Yi announced at the joint press conference Monday that the Philippines has agreed to sell [Mindanao](/tags/mindanao/) and the surrounding islands to the Chinese-speaking nation for $20 billion, with $15 billion in cash and the remaining $5 billion payable in [non-fungible tokens](/tags/non-fungible-token/) (NFTs) and [Dogecoins](/tags/dogecoin/).
 
 [`Image: Map of the new Chinese province of Mindanao (Mianlanlao) ceded by the Philippines to China`](/images/chinese-province-mindanao-map.gif)
 

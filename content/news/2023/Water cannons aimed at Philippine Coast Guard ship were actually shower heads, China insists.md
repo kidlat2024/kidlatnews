@@ -19,7 +19,7 @@ tags:
 - Tanduay
 - lechon
 ---
-(Beijing, China) -- After weeks of silence, Chinese spokesman Yize Qu, at a press conference in Beijing, chided the Philippine media for erroneously reporting that the shower heads aimed by a Chinese ship at a Philippine Coast Guard vessel were water cannons.
+BEIJING, China -- After weeks of silence, Chinese spokesman Yize Qu, at a press conference in Beijing, chided the Philippine media for erroneously reporting that the shower heads aimed by a Chinese ship at a Philippine Coast Guard vessel were water cannons.
 
 The Philippines has accused [China](/tags/china/) of using one of its navy ships to fire water cannons at its ship and blocking it in the [South China Sea](/tags/south-china-sea/), called [West Philippine Sea](/tags/west-philippine-sea/) by the Philippines.
 

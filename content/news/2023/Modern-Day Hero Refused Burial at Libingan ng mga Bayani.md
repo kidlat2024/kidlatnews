@@ -24,7 +24,7 @@ tags:
 - Bagong bayani
 kudlit: ‘single’ “double”
 ---
-(Taguig City, Philippines) -- [Modern-day hero](/tags/modern-day-hero/) and former [migrant worker](/tags/migrant-worker/) Idelfonso Torres, who passed away last Tuesday at the age of 56, was refused burial at the [Libingan ng mga Bayani](/tags/libingan-ng-mga-bayani/) (Cemetery of Heroes), his son Manuel Torres, 27, revealed at a press conference Tuesday.
+TAGUIG CITY, Metro Manila -- [Modern-day hero](/tags/modern-day-hero/) and former [migrant worker](/tags/migrant-worker/) Idelfonso Torres, who passed away last Tuesday at the age of 56, was refused burial at the [Libingan ng mga Bayani](/tags/libingan-ng-mga-bayani/) (Cemetery of Heroes), his son Manuel Torres, 27, revealed at a press conference Tuesday.
 
 "The gate of Libingan ng mga Bayani is walking distance from our house, so I thought it's ideal to bury my father there--preferably close to the greatest Filipino hero President Marcos--so we could visit his grave regularly," Torres explained in Filipino.
 

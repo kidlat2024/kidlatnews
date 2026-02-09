@@ -21,7 +21,7 @@ tags:
 - CB750
 kudlit: ‘single’ “double” ñ
 ---
-(Pasay City, Philippines) -- Alex Fillarca, 27, had not believed what he heard from family and friends, but now that she was right in front of him, there was no more denying the truth.
+PASAY CITY, Metro Manila -- Alex Fillarca, 27, had not believed what he heard from family and friends, but now that she was right in front of him, there was no more denying the truth.
 
 He remembered phoning his brother from [Taiwan](/tags/taiwan/) to confirm the rumors. "Well, I thought you already knew," his brother had told him. "Everybody in our street knew what's up. There's even that one time he was riding her all night, everyone in the whole block could hear her engine moaning."
 

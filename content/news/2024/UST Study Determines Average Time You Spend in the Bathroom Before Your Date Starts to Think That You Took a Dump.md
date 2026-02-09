@@ -22,7 +22,7 @@ tags:
 - Evolution
 kudlit: ‘single’ “double” Biñan
 ---
-(Manila, Philippines) -- A recent study conducted by the [University of Santo Tomas](/tags/university-of-santo-tomas/) ([UST](/tags/university-of-santo-tomas/)) School of Behavioral Science researchers determined that the average time you spend in the bathroom before your date starts to think that you took a dump is 6 minutes and 37 seconds.
+MANILA -- A recent study conducted by the [University of Santo Tomas](/tags/university-of-santo-tomas/) ([UST](/tags/university-of-santo-tomas/)) School of Behavioral Science researchers determined that the average time you spend in the bathroom before your date starts to think that you took a dump is 6 minutes and 37 seconds.
 
 [`Photo: University of Santo Tomas Main Building`](/images/university-of-santo-tomas-main-building.gif)
 

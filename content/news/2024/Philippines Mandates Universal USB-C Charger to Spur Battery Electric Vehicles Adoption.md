@@ -21,7 +21,7 @@ tags:
 - Jaime Bautista
 kudlit: ‘single’ “double”
 ---
-(Manila) -- In a bid to accelerate the adoption of [battery electric vehicles](/tags/battery-electric-vehicles) ([BEV](/tags/bev)) in the country and reduce waste, the Philippine government introduced a new law on Wednesday that will require car companies to ensure that every BEV sold in the Philippines in 2026 will use the [USB-C](/tags/usb-c) port to charge its batteries, the same standard port used on mobile phones, tablets and cameras.
+MANILA -- In a bid to accelerate the adoption of [battery electric vehicles](/tags/battery-electric-vehicles) ([BEV](/tags/bev)) in the country and reduce waste, the Philippine government introduced a new law on Wednesday that will require car companies to ensure that every BEV sold in the Philippines in 2026 will use the [USB-C](/tags/usb-c) port to charge its batteries, the same standard port used on mobile phones, tablets and cameras.
 
 [`Photo: Tesla vs USB-C charger`](/images/tesla-usb-c-chargers.gif)
 

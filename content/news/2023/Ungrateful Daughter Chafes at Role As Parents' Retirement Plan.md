@@ -13,7 +13,7 @@ tags:
 - retirement plan
 - ungrateful
 ---
-(Makati City, Philippines) -- "About a year ago, I overheard my father telling his drinking buddies he can finally retire when I graduate from college," says an irate Maricel Pangan, 21, in Filipino. "And I was like, 'Hello? I still have five brothers and sisters who aren't even in college yet! Is it fair that only *I* get to graduate and have a career?' Boy, was I in for a big surprise."
+MAKATI CITY, Metro Manila -- "About a year ago, I overheard my father telling his drinking buddies he can finally retire when I graduate from college," says an irate Maricel Pangan, 21, in Filipino. "And I was like, 'Hello? I still have five brothers and sisters who aren't even in college yet! Is it fair that only *I* get to graduate and have a career?' Boy, was I in for a big surprise."
 
 Ever since Pangan landed an IT job after graduating, her parents have been taking a big chunk of her salary to help pay for the bills, her siblings’ schooling and her mother's monthly manicure. This has greatly irritated Pangan, who hasn't fully appreciated the sacrifices that her parents did to send her through university.
 

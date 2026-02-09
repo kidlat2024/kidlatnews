@@ -18,7 +18,7 @@ tags:
 - Jolly Spaghetti
 - business
 ---
-(Pasig City, Philippines) -- The Philippine [corporate world](/tags/business/) was rocked Monday when long-time CEO Ernesto Tanmantiong filed suit at the Pasig Regional Trial Court against his company [Jollibee](/tags/jollibee/) Foods Corporation to demand, among others, health-care benefits, paid leave, 13th-month pay, and the end to [worker contractualization](/tags/contractual-worker/), starting with himself.
+PASIG CITY, Metro Manila -- The Philippine [corporate world](/tags/business/) was rocked Monday when long-time CEO Ernesto Tanmantiong filed suit at the Pasig Regional Trial Court against his company [Jollibee](/tags/jollibee/) Foods Corporation to demand, among others, health-care benefits, paid leave, 13th-month pay, and the end to [worker contractualization](/tags/contractual-worker/), starting with himself.
 
 At an impromptu press conference outside the court, the chief executive, who had been with the company for eleven years, declared, "I am sorry it has come to this, but despite negotiating with the company for the better part of a decade, my pleas for long-term regular employment with full benefits have fallen on deaf ears. I therefore have no other recourse than going to the courts."
 

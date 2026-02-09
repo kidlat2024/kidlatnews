@@ -19,7 +19,7 @@ tags:
 - religion
 kudlit: ‘single’ “double”
 ---
-(Quezon City, Philippines) -- At a joint press conference Monday, [Iglesia ni Cristo](/tags/iglesia-ni-cristo/) (INC) executive minister [Eduardo Manalo](/tags/eduardo-manalo/) and [Bureau of Internal Revenue](/tags/bureau-of-internal-revenue/) (BIR) commisioner Romeo Lumagui, Jr. formally announced the implementation of an innovative system through which the BIR will directly deduct a 10% 'Salvation Tax' from Iglesia ni Cristo members’ salary every payday.
+QUEZON CITY -- At a joint press conference Monday, [Iglesia ni Cristo](/tags/iglesia-ni-cristo/) (INC) executive minister [Eduardo Manalo](/tags/eduardo-manalo/) and [Bureau of Internal Revenue](/tags/bureau-of-internal-revenue/) (BIR) commisioner Romeo Lumagui, Jr. formally announced the implementation of an innovative system through which the BIR will directly deduct a 10% 'Salvation Tax' from Iglesia ni Cristo members’ salary every payday.
 
 [`Photo: Bureau of Internal Revenue building in Intramuros`](/images/philippines-bureau-of-internal-revenue-bir.gif)
 

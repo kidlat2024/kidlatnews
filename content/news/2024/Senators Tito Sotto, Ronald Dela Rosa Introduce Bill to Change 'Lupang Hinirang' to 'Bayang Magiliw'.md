@@ -19,7 +19,7 @@ tags:
 - Lupang Hinirang
 kudlit: ‘single’ “double”
 ---
-(Quezon City) -- "The name of our national anthem is [Bayang Magiliw](/tags/bayang-magiliw), not Lupang Hinirang," declared Senator Tito Sotto (in Filipino) at the joint press conference with Senator Ronald dela Rosa on Monday. "You know it, we know it, and all grade-school children all over the country know it."
+QUEZON CITY -- "The name of our national anthem is [Bayang Magiliw](/tags/bayang-magiliw), not Lupang Hinirang," declared Senator Tito Sotto (in Filipino) at the joint press conference with Senator Ronald dela Rosa on Monday. "You know it, we know it, and all grade-school children all over the country know it."
 
 The two senators introduced a bill on Tuesday that would legally change the name of the Philippine national anthem from Lupang Hinirang (Chosen Land) to Bayang Magiliw (Beloved Country). "Bayang Magiliw" are the first two words of the marching song that is massacred by schoolchildren throughout the country at the flag ceremony every morning.
 

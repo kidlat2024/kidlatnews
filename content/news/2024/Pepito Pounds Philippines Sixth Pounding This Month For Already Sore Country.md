@@ -20,7 +20,7 @@ tags:
 - De La Salle University
 kudlit: ‘single’ “double”
 ---
-(Manila) -- Super typhoon Pepito pounded the Philippines on Saturday while the country is already feeling sore after repeated poundings by five other tropical storms this month.
+MANILA -- Super typhoon Pepito pounded the Philippines on Saturday while the country is already feeling sore after repeated poundings by five other tropical storms this month.
 
 Packing wind speeds of 195kmh and gusts of up to 325kmh as it battered the Philippines’ vulnerable eastern side, Pepito brought more soreness to the already suffering country.
 

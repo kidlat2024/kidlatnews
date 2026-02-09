@@ -22,7 +22,7 @@ tags:
 - FBI
 kudlit: ‘single’ “double”
 ---
-(Vatican City) -- [Jesus Christ](/tags/jesus-christ/) released a statement through the [Vatican](/tags/vatican/) Wednesday confirming that the Filipino church leader, [FBI](/tags/fbi) fugitive, and self-professed "Appointed Son of God" [Apollo Quiboloy](/tags/apollo-quiboloy/) is in fact his younger sibling, appointed by their father [Jehovah](/tags/jehovah/) to save humanity from wokeness.
+VATICAN CITY -- [Jesus Christ](/tags/jesus-christ/) released a statement through the [Vatican](/tags/vatican/) Wednesday confirming that the Filipino church leader, [FBI](/tags/fbi) fugitive, and self-professed "Appointed Son of God" [Apollo Quiboloy](/tags/apollo-quiboloy/) is in fact his younger sibling, appointed by their father [Jehovah](/tags/jehovah/) to save humanity from wokeness.
 
 "Verily I say onto you, do not persecute Apollo," Jesus Christ's statement read, "for he is my own flesh."
 

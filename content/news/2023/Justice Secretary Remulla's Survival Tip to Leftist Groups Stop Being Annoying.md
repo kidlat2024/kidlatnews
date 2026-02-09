@@ -17,7 +17,7 @@ tags:
 - socialism
 - red-tagging
 ---
-(Manila, Philippines) -- During his weekly press conference Monday, Justice Secretary [Jesus Crispin Remulla](/tags/jesus-crispin-remulla/) addressed the recent spate of killings of suspected leftist symphatizers and activists by offering this unsolicited advice: 'Stop being annoying.'
+MANILA -- During his weekly press conference Monday, Justice Secretary [Jesus Crispin Remulla](/tags/jesus-crispin-remulla/) addressed the recent spate of killings of suspected leftist symphatizers and activists by offering this unsolicited advice: 'Stop being annoying.'
 
 "All these homicide cases concerning the leftist segment of the population that certain groups of people complain over and over again are easily preventable," explained Remulla. "You don't want to get shot at? Stop grandstanding. Stop being annoying."
 

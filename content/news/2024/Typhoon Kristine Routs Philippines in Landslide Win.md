@@ -23,7 +23,7 @@ tags:
 - Team Philippines
 kudlit: ‘single’ “double” eñe
 ---
-(Manila, Philippines) -- Despite hopeful expectations from Filipino spectators that the Philippines would come out of this match with a vital draw, Kristine's offensive combination of gale-force winds and torrential rain proved too devastating for the home team, resulting in a landslide win for the visiting severe tropical cyclone.
+MANILA -- Despite hopeful expectations from Filipino spectators that the Philippines would come out of this match with a vital draw, Kristine's offensive combination of gale-force winds and torrential rain proved too devastating for the home team, resulting in a landslide win for the visiting severe tropical cyclone.
 
 With this result, the Philippines’ record against typhoons now stands at a disappointing 0 Wins, 4 Draws, and 421 Losses, with a total of 425 matches played since 1974 when [PAGASA](/tags/philippine-atmospheric-geophysical-and-astronomical-services-administration) first started tabulating scores.
 

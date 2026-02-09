@@ -24,7 +24,7 @@ tags:
 - Metro Manila
 kudlit: ‘single’ “double”
 ---
-(Manila, Philippines) -- President [Bongbong Marcos](/tags/bongbong-marcos/) declared at Tuesday's press conference that drugs have decisively won the [Philippines](/tags/philippines/)’ [War on Drugs](/tags/war-on-drugs/), one year after former president [Rodrigo Duterte](/tags/rodrigo-duterte/), the architect of the brutal six-year war on illicit substances, left office.
+MANILA -- President [Bongbong Marcos](/tags/bongbong-marcos/) declared at Tuesday's press conference that drugs have decisively won the [Philippines](/tags/philippines/)’ [War on Drugs](/tags/war-on-drugs/), one year after former president [Rodrigo Duterte](/tags/rodrigo-duterte/), the architect of the brutal six-year war on illicit substances, left office.
 
 [`Photo: President Bongbong Marcos announcing the end of the War on Drugs`](/images/philippine-president-bongbong-marcos.gif)
 

@@ -23,7 +23,7 @@ tags:
 - Guinness World Records
 - Boeing
 ---
-(Tokyo, Japan) -- Las Piñas, Metro Manila native Ronald Dimalanta, 37, set a new [world record](/tags/world-record/) Tuesday when he managed to unfasten his seatbelt an astounding 0.009 seconds after his [All Nippon Airways](/tags/all-nippon-airways/) airplane touched down in [Haneda Airport](/tags/haneda-airport/) in Tokyo at 19:15 local time.
+TOKYO, Japan -- Las Piñas, Metro Manila native Ronald Dimalanta, 37, set a new [world record](/tags/world-record/) Tuesday when he managed to unfasten his seatbelt an astounding 0.009 seconds after his [All Nippon Airways](/tags/all-nippon-airways/) airplane touched down in [Haneda Airport](/tags/haneda-airport/) in Tokyo at 19:15 local time.
 
 The ANA [Boeing 787](/tags/boeing/)'s state-of-the-art safety control system detected the almost instantaneous seatbelt detachment as the airplane's rear tires made contact with the tarmac, before the [Filipino](/tags/filipino/) tourist bolted from his seat, collected his 20kg suitcase in a single open-and-grab motion and reached the nearest exit door in 2.67 seconds while the plane was still shaking violently as it decelerated on the runway.
 

@@ -21,7 +21,7 @@ tags:
 - University of the Philippines
 kudlit: ‘single’ “double”
 ---
-(Quezon City, Philippines) -- Bernard del Mundo, sophomore at the [University of the Philippines](/tags/university-of-the-philippines/) in Diliman, takes great pride in being accepted into this fraternity whose illustrious fellows helped transform the Philippines into a thriving, people-exporting [Third World](/tags/third-world/) powerhouse.
+QUEZON CITY -- Bernard del Mundo, sophomore at the [University of the Philippines](/tags/university-of-the-philippines/) in Diliman, takes great pride in being accepted into this fraternity whose illustrious fellows helped transform the Philippines into a thriving, people-exporting [Third World](/tags/third-world/) powerhouse.
 
 Del Mundo has just been inducted into the exclusive [Upsilon Sigma Phi](/tags/upsilon-sigma-phi/) (motto: *"We gather light to sputter"*), the oldest of [fraternities](/tags/fraternity/) in Asia whose names are written in a language their members don't understand. The fraternity is based in the University of the Philippines, where many of the nation's future leaders and decision-makers study the multifarious ways to ship their fellow [Filipinos abroad](/tags/migrant-worker/).
 

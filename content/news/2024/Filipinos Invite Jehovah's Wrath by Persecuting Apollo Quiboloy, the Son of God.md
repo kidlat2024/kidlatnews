@@ -23,7 +23,7 @@ tags:
 - Rodrigo Duterte
 kudlit: ‘single’ “double”
 ---
-(Manila) -- As if crushing poverty, rampant crime, environmental disasters and Senator [Robin Padilla](/tags/robin-padilla) are not enough, Filipinos risk further divine punishment coming their way by needlessly persecuting the Son of [Jehovah](/tags/jehovah), popularly known as [Apollo Quiboloy](/tags/apollo-quiboloy).
+MANILA -- As if crushing poverty, rampant crime, environmental disasters and Senator [Robin Padilla](/tags/robin-padilla) are not enough, Filipinos risk further divine punishment coming their way by needlessly persecuting the Son of [Jehovah](/tags/jehovah), popularly known as [Apollo Quiboloy](/tags/apollo-quiboloy).
 
 Quiboloy has been arrested in [Davao City](/tags/davao-city) by agents of the Philippine National Police Monday and is set to be arraigned on a number of charges which his disciples denounced as trumped-up accusations, such as subverting state power and tax evasion, the most serious of which--blasphemy by claiming to be the "Owner of the Universe"--carries a penalty of death by crucifixion.
 

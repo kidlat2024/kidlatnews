@@ -24,7 +24,7 @@ tags:
 - Japan
 - Asia Pacific
 ---
-(Seoul, South Korea) -- A diplomatic spat is brewing between two erswhile Asian friends over the exclusive use of the name 'East Sea' to refer to the body of water east of their respective territories.
+SEOUL, South Korea -- A diplomatic spat is brewing between two erswhile Asian friends over the exclusive use of the name 'East Sea' to refer to the body of water east of their respective territories.
 
 "There is only one [East Sea](/tags/east-sea/)," said the South Korean Foreign Ministry announcement, "and it's the one east of the Korean peninsula, not east of Vietnam. We have been using this name since ancient times when other Asian peoples didn't yet have the concept of ‘the direction from which the sun rises'. We therefore urge our Vietnamese counterparts to refrain from using 'East Sea' to refer to other seas, except for Korea's East Sea, erroneously known elsewhere as '[Sea of Japan](/tags/sea-of-japan/)'."
 

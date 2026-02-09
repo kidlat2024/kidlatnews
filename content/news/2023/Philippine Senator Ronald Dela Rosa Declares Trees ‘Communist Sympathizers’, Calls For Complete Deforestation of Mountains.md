@@ -21,7 +21,7 @@ tags:
 - red-tagging
 kudlit: ‘single’ “double”
 ---
-(Pasay City, Philippines) -- In a priviledged speech on the [Philippine Senate](/tags/philippine-senate/) floor Friday, Senator [Ronald 'Bato' dela Rosa](/tags/ronald-dela-rosa/) declared that trees are 'communist sympathizers' that should be eradicated from the country's mountains through legislation.
+PASAY CITY, Metro Manila -- In a priviledged speech on the [Philippine Senate](/tags/philippine-senate/) floor Friday, Senator [Ronald 'Bato' dela Rosa](/tags/ronald-dela-rosa/) declared that trees are 'communist sympathizers' that should be eradicated from the country's mountains through legislation.
 
 [`Photo: Philippine Senator Ronald Dela Rosa announcing death to all trees`](/images/philippine-senator-ronald-bato-dela-rosa.gif)
 

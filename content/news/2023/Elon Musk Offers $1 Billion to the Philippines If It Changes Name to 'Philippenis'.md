@@ -23,7 +23,7 @@ tags:
 - Pag-asa Island
 - Cheloy Garafil
 ---
-(Hawthorne, California) -- In a stunning development, billionaire entrepreneur [Elon Musk](/tags/elon-musk/) offered 1 billion dollars to the [Philippines](/tags/philippines/) if it would agree to change its name to 'Philippenis'.
+HAWTHORNE, California -- In a stunning development, billionaire entrepreneur [Elon Musk](/tags/elon-musk/) offered 1 billion dollars to the [Philippines](/tags/philippines/) if it would agree to change its name to 'Philippenis'.
 
 [`Photo: Billionaire Elon Musk proposing Philippines name change`](/images/billionaire-elon-musk.gif)
 

@@ -18,7 +18,7 @@ tags:
 - Ilocos Norte
 - La Union
 ---
-(Hong Kong) -- Seemingly insurmountable chasms of language, wealth and distance cannot keep true Ilocanos from bonding.
+HONG KONG, China -- Seemingly insurmountable chasms of language, wealth and distance cannot keep true Ilocanos from bonding.
 
 Just ask single mother Divina Ebreo, 47, a [domestic worker](/tags/migrant-worker/) in Hong Kong and a proud Ilocano from [La Union](/tags/la-union/). She feels a deep, inexplicable, almost mystical connection to fellow Ilocano Congressman [Sandro Marcos](/tags/sandro-marcos/) (full name Ferdinand Alexander Araneta Marcos III), son of President [Bongbong Marcos](/tags/bongbong-marcos/).
 
