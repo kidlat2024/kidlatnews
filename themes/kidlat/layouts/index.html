@@ -7,13 +7,15 @@
   </div>
 {{ end }}
 
-  <div class="line"><ul>
+  <div class="line">
+	<ul>
       {{ range first 6 (after 1 (where .Site.RegularPages "Type" "ne" "page").ByDate.Reverse) }}
-        <li><a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a></li>
+		<li><a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a></li>
       {{ end }}
     </ul></div>
 	
 	  <div class="seventh">{{ range first 1 (after 6 (where .Site.RegularPages "Type" "news").ByDate.Reverse) }}
+	  {{ with .Params.section }}<span class="{{ . | lower}}-section">{{ . }}</span>{{end}}
   <h2><a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a></h2>
   <p><a href="{{ .RelPermalink }}">{{ with .Params.excerpt }}{{ . | markdownify }}</a></p>{{end}}
   </div>

@@ -6,6 +6,7 @@ description: ""
 excerpt: "78 percent of residents of Panay Island in the provinces of Aklan, Antique, Capiz and Iloilo have Aswang DNA, according to a recent study by researchers from the University of the Philippines in Los Baños entitled “DNA Sequencing and Analysis of Panay Island Population” published in the latest issue of *Nature*."
 author: ["Armando Kidlat"]
 date: 2024-10-19
+section: Science
 aliases:
 xurl:
 display_license: true

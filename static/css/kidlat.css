@@ -71,13 +71,15 @@ a:hover    {text-decoration:none}
 
 .seventh {
 	margin-top: 1rem;
-	padding: .3rem 1rem;
+	padding: .8rem 1rem .3rem;
 	border-radius: 15px;
 	background-color: #eef1f2;
 }
 .seventh h2        {margin-top: .5rem; font-size: 1.6rem}
 .seventh h2 a:hover{color:#d00a0a}
 .seventh p         {margin-bottom: .8rem; font-size:1.15rem}
+
+.science-section   {color:#dd229d}
 
 /* LISTS */
 ul, ol {
@@ -199,7 +201,7 @@ pre {
 	padding:1rem 0;
 }
 code {
-    font-size:1.1rem;
+    font-size:1.05rem;
     font-family:'Jetbrains Mono',monospace;
     letter-spacing:-0.5px;
     color:#f72b9f;
@@ -281,7 +283,8 @@ h3                         {font-size:1.4rem}
 h4, li, .sitename a        {font-size:1.2rem}
 p                          {font-size:1.1rem}
 description                {font-size:1.4rem; margin:1rem 0}
-.postmeta, code, th, td    {font-size:1.1rem}
+.postmeta, th, td          {font-size:1.1rem}
+code                       {font-size:1.05rem}
 .line ul                   {font-size:1.26rem}
 .line li                   {font-size:1.26rem}
 .line li:nth-child(1)      {font-size:1.6rem}
