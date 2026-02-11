@@ -5,6 +5,7 @@ title: "UNESCO Rejects Philippines’ Bid to List Chocolate Hills After Discover
 description: ""
 excerpt: "UN body has formally rejected the Philippines’ application to designate the Chocolate Hills of Bohol as a World Heritage Site, citing what it described as a “fundamental misunderstanding of both geology and dessert.”"
 author: ["Armando Kidlat"]
+section: Culture
 date: 2026-02-09
 aliases:
 xurl:
