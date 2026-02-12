@@ -6,7 +6,7 @@ description: ""
 author: ["Raul Kidlat"]
 date: 2024-11-17
 aliases:
-xurl:
+section: Nation
 display_license: true
 attribution: "Super typhoon Pepito photo from [Wikimedia](https://commons.wikimedia.org/wiki/File:Man-yi_2024-11-16_0455Z.jpg)."
 images:

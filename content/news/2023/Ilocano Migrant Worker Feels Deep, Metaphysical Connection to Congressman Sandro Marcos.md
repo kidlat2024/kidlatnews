@@ -6,6 +6,7 @@ content_type: NewsArticle
 author: ["Leon Kidlat"]
 date: 2023-09-06
 display_license: true
+section: OFW
 attribution: "[Representative Sandro Marcos](/images/philippine-congressman-sandro-marcos.gif) photo from [Wikimedia](https://commons.wikimedia.org/wiki/File:Rep._Ferdinand_Alexander_Marcos_(19th_Congress).jpg) (Public Domain)."
 images:
 - /images/philippine-congressman-sandro-marcos.gif

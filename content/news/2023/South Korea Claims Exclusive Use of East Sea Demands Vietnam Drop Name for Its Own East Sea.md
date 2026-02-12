@@ -3,7 +3,7 @@ draft: false
 title: "South Korea Claims Exclusive Use of 'East Sea', Demands Vietnam Drop Name for Its Own East Sea"
 description: ""
 content_type: NewsArticle
-xurl:
+section: Asia-Pacific
 author: ["Leon Kidlat"]
 date: 2023-09-11
 display_license: true

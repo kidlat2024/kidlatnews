@@ -5,7 +5,7 @@ title: "Jollibee CEO Tanmantiong Sues Company, Demands Paid Leave, 13th-Month Pa
 description: ""
 author: ["Armando Kidlat"]
 date: 2023-10-07
-xurl:
+section: Business
 images:
 - /images/jollibee-tagaytay-store-sign.gif
 display_license: true

@@ -5,6 +5,7 @@ title: "Ungrateful Daughter Chafes at Role As Parents’ Retirement Plan"
 description: ""
 author: ["Armando Kidlat"]
 date: 2023-10-03
+section: Local
 display_license: true
 images:
 - /kidlat-graffiti.gif

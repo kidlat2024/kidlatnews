@@ -5,6 +5,7 @@ title: "Upsilon Sigma Phi Neophyte Proud of Brods Who Remade the Philippines Int
 description: ""
 author: ["Leon Kidlat"]
 date: 2023-09-18
+section: Local
 display_license: true
 attribution: "[Upsilon Sigma Phi seal](/images/upsilon-sigma-phi-fraternity-seal.gif) image from [Wikimedia](https://commons.wikimedia.org/wiki/File:USP_Seal_Transparent.png) ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/))."
 images:

@@ -6,6 +6,7 @@ description: ""
 author: ["Raul Kidlat"]
 date: 2024-02-24
 display_license: true
+section: Local
 attribution: "[San Pedro Cathedral Davao City](/images/san-pedro-cathedral-davao-city.gif) photo from [Wikimedia](https://commons.wikimedia.org/wiki/File:San_Pedro_Cathedal_and_its_Belfry.jpg) ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en))."
 images:
 - /images/san-pedro-cathedral-davao-city.gif

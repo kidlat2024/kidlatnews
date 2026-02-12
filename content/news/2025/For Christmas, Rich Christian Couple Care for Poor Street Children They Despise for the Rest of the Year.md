@@ -7,7 +7,7 @@ excerpt: "Prominent Couple for Christ members Francis and Rosario Reyes have onc
 author: ["Leon Kidlat"]
 date: 2025-12-08
 aliases:
-xurl:
+section: Local
 display_license: true
 attribution: ""
 images:

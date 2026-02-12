@@ -6,7 +6,7 @@ description: ""
 author: ["Leon Kidlat"]
 date: 2024-09-29
 aliases:
-xurl:
+section: Nation
 display_license: true
 attribution: "Senator Francis Escudero photo from [Wikimedia](https://commons.wikimedia.org/wiki/File:Chiz_Escudero_at_Senate_session_9.24.14.jpg)."
 images:

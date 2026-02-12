@@ -5,7 +5,7 @@ title: "Iglesia Ni Cristo Partners With BIR to Implement Innovative 'Salvation T
 description: ""
 author: ["Leon Kidlat"]
 date: 2023-11-07
-xurl:
+section: Nation
 display_license: true
 attribution: "[Bureau of Internal Revenue Building](/images/philippines-bureau-of-internal-revenue-bir.gif) in Intramuros photo from [Wikimedia](https://commons.wikimedia.org/wiki/File:Intramurosjf0746_32.JPG) ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en))."
 images:

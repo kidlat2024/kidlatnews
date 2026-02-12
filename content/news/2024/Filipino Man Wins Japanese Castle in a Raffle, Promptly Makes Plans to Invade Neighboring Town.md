@@ -5,6 +5,8 @@ title: "Filipino Man Wins Japanese Castle in a Raffle, Promptly Makes Plans to I
 description: ""
 author: ["Armando Kidlat"]
 date: 2024-02-12
+excerpt: "Filipino native and self-confessed weeaboo Rodel Rosario, a 32-year-old factory worker in Japan, have won an old samurai castle located in rural Akita Prefecture in a raffle conducted on January 29, 2024 by the prefectural government to dispose abandoned houses and other derelict properties."
+section: Offbeat
 display_license: true
 attribution: "[Japanese castle](/images/kubota-castle-akita-japan.gif) photo from [Wikimedia](https://commons.wikimedia.org/wiki/File:Kubota_Castle_20170330.jpg) ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en))."
 images:

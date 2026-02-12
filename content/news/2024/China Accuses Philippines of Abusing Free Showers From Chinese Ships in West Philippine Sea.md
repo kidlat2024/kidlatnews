@@ -5,8 +5,9 @@ title: "China Accuses Philippines of Abusing Free Showers From Chinese Ships in 
 description: ""
 author: ["Leon Kidlat"]
 date: 2024-03-12
+excerpt: "Beijing accuses the Philippine government of enabling Filipino marines to take advantage of free showers provided by Chinese Coast Guard ships in the West Philippine Sea (South China Sea)."
 aliases: "/news/china-accuses-the-philippines-of-taking-advantage-of-free-showers-from-chinese-ships-in-the-west-philippine-sea/"
-xurl:
+section: Asia-Pacific
 display_license: true
 attribution: "[Chinese Coast Guard ships giving Filipinos free shower](/images/chinese-coast-guard-ships-giving-filipinos-free-showers.gif) photo from Philippine Coast Guard via [Radio Free Asia](https://www.rfa.org/english/news/southchinasea/water-cannon-crew-injuries-03052024144905.html) (Public Domain)."
 images:

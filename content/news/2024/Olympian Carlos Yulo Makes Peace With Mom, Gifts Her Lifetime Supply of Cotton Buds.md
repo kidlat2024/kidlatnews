@@ -6,7 +6,7 @@ description: ""
 author: ["Raul Kidlat"]
 date: 2024-09-22
 aliases:
-xurl:
+section: Sport
 display_license: true
 attribution: "Carlos Yulo photo from the [Wikimedia](https://commons.wikimedia.org/wiki/File:Carlos_Yulo-20240813-FilOlympians-ph8-1.jpg)."
 images:

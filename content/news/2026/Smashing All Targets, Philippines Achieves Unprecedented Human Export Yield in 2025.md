@@ -7,7 +7,7 @@ excerpt: "Declaring 2025 “a banner year for outbound citizens,” the Philippi
 author: ["Leon Kidlat"]
 date: 2026-01-30
 aliases:
-xurl:
+section: Economy
 display_license: true
 attribution: ""
 images:

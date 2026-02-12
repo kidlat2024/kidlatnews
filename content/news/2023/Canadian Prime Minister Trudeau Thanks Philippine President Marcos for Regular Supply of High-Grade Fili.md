@@ -4,7 +4,7 @@ title: "Canadian PM Trudeau Thanks President Marcos for Regular Supply of High-G
 description: ""
 author: ["Leon Kidlat"]
 date: 2023-10-11
-xurl:
+section: Nation
 display_license: true
 attribution: "[Canada Prime Minister Trudeau with wife](/images/canada-prime-minister-justin-trudeau-with-wife.gif) photo from [Wikimedia](https://commons.wikimedia.org/wiki/File:Justin_and_Sophie_Trudeau_-_Global_Citizen_Festival_Hamburg_08.jpg) ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en))."
 images:

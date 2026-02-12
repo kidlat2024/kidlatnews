@@ -6,7 +6,7 @@ description: ""
 author: ["Leon Kidlat"]
 date: 2024-10-26
 aliases:
-xurl:
+section: Nation
 display_license: true
 attribution: "Severe tropical storm Kristine (Trami) [illustration](https://en.wikipedia.org/wiki/File:ECDM_20241023_TC_TRAMI.pdf) and flooded rice fields in Naga, Camarines Sur [photo](https://commons.wikimedia.org/wiki/File:Rice_fields_submerged_in_flooding_in_Naga,_Camarines_Sur.jpg) from Wikimedia."
 images:

@@ -4,7 +4,7 @@ description: ""
 content_type: NewsArticle
 author: ["Leon Kidlat"]
 display_license: true
-xurl:
+section: Asia-Pacific
 attribution: "[Philippine Coast Guard vessel](/images/philippine-coast-guard-vessel-west-philippine-sea.gif) photo from [Philippine Information Agency](https://pia.gov.ph/features/2022/12/20/pangarap-ng-mga-mangingisda-ng-la-union-tinupad-ng-bfar) (Public Domain)."
 images:
 - /images/philippine-coast-guard-vessel-west-philippine-sea.gif

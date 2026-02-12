@@ -1,5 +1,4 @@
-{{ if eq .Params.section "Culture" "Local" }}<span class="blue-section">{{ .Params.section }}</span>{{ end }}
-{{ if eq .Params.section "Science" "Economy" }}<span class="red-section">{{ .Params.section }}</span>{{ end }}
+<span class="section{{ if eq .Params.section "Culture" "Local" }} blue{{ end }}{{ if eq .Params.section "Science" "Economy" "Nation" }} red{{ end }}{{ if eq .Params.section "Opinion" }} orange{{ end }}">{{ with .Params.section }}{{ . }}</span>{{ end }}
 <h1>{{ .Title | markdownify }}</h1>
 {{ with .Params.description }}<description>{{ . | markdownify }}</description>{{ end }}
 <span class="postmeta">{{ range .Params.author }}By {{ . | markdownify }}{{ end }}{{ with .PublishDate | default nil }}, {{ .Format "Mon 2 Jan 2006" -}}{{ end }}</span>

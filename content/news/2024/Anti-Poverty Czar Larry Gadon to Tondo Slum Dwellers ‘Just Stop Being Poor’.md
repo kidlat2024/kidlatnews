@@ -4,7 +4,7 @@ content_type: NewsArticle
 title: "Anti-Poverty Czar Larry Gadon to Tondo Slum Dwellers: 'Just Stop Being Poor'"
 description: ""
 author: ["Leon Kidlat"]
-xurl:
+section: Nation
 date: 2024-02-17
 display_license: true
 attribution: "President Ferdinand R. Marcos Jr. leads the oathtaking of Mr. Larry Gadon as Presidential Adviser for Poverty Alleviation [photo](/images/larry-gadon-with-president-bongbong-marcos.gif) from [Wikimedia](https://commons.wikimedia.org/wiki/File:20230710_-_PBBM_Gadon_Presidential_Adviser_for_Poverty_Alleviation_oathtaking.jpg) (Public Domain)."
