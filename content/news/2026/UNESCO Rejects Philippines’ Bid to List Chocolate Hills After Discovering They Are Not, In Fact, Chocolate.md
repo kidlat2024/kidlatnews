@@ -44,7 +44,7 @@ One field note reads simply: ‘Tasted leaf. Not chocolate.’
 
 ### Soil Sample Fails Critical Beverage Test
 
-In an effort to give the submission “every possible benefit of the doubt,” UNESCO scientists collected soil samples from multiple hills and attempted to prepare a traditional hot chocolate drink at their temporary field office in Sagbayan, Bohol.
+In an effort to give the submission “every possible benefit of the doubt,” UNESCO scientists collected soil samples from multiple hills and attempted to prepare traditional hot chocolate drink at their temporary field office in Sagbayan, Bohol.
 
 The process involved grinding the soil, heating it with water, and adding sugar “to account for possible bitterness caused by *terroir*.”
 

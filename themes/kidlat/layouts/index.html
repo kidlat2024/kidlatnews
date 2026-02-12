@@ -15,7 +15,7 @@
       {{ end }}
     </ul></div>
 	
-	  <div class="seventh">{{ range first 1 (after 6 (where .Site.RegularPages "Type" "news").ByDate.Reverse) }}
+	  <div class="seventh">{{ range first 1 (after 7 (where .Site.RegularPages "Type" "news").ByDate.Reverse) }}
         <span class="section{{ if eq .Params.section "Culture" "Local" }} blue{{ end }}{{ if eq .Params.section "Science" "Economy" "Nation" }} red{{ end }}{{ if eq .Params.section "Opinion" }} orange{{ end }}">{{ with .Params.section }}{{ . }}</span>{{ end }}
   <h2><a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a></h2>
   <p><a href="{{ .RelPermalink }}">{{ with .Params.excerpt }}{{ . | markdownify }}</a></p>{{end}}
@@ -23,8 +23,8 @@
 {{ end }}
 
   <div class="line"><ul>
-      {{ range after 8 (where .Site.RegularPages "Type" "ne" "page").ByDate.Reverse }}
-        <li><a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a></li>
+      {{ range after 9 (where .Site.RegularPages "Type" "ne" "page").ByDate.Reverse }}
+        <li><span class="section {{ if eq .Params.section "Culture" "Local" }} blue{{ end }}{{ if eq .Params.section "Science" "Economy" "Nation" }} red{{ end }}{{ if eq .Params.section "Opinion" }} orange{{ end }}">{{ with .Params.section }}{{ . }}</span>{{ end }}<a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a></li>
       {{ end }}
     </ul></div>
 
