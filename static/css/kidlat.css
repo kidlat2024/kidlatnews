@@ -79,11 +79,11 @@ a:hover    {text-decoration:none}
 .seventh h2 a:hover{color:#d00a0a}
 .seventh p         {margin-bottom: .8rem; font-size:1.15rem}
 .seventh .section  {font-size:1.0rem}
-.line .section     {margin-bottom:0.1rem; font-size:1.0rem}
+.line .section     {margin-bottom:0.1rem; font-size:1.0rem; font-weight:400;}
 
 .section {display:block; margin-bottom:0.5rem; font-size:1.1rem;}
-.blue    {color:#dd229d}
-.red     {color:#2297dd}
+.blue    {color:#2297dd}
+.red     {color:#dd229d}
 .orange  {color:#C74600}
 
 /* LISTS */

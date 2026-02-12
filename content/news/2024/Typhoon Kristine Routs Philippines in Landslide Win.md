@@ -10,7 +10,7 @@ section: Nation
 display_license: true
 attribution: "Severe tropical storm Kristine (Trami) [illustration](https://en.wikipedia.org/wiki/File:ECDM_20241023_TC_TRAMI.pdf) and flooded rice fields in Naga, Camarines Sur [photo](https://commons.wikimedia.org/wiki/File:Rice_fields_submerged_in_flooding_in_Naga,_Camarines_Sur.jpg) from Wikimedia."
 images:
-- /images/severe-tropical-storm-kristine-trami.jpg
+- /images/flooded-rice-fields-naga-camarines-sur.avif
 tags:
 - Philippines
 - Typhoon Kristine
@@ -29,7 +29,7 @@ With this result, the Philippines’ record against typhoons now stands at a dis
 
 Attracting little attention when it emerged in a low-pressure area in the [Philippine Sea](/tags/philippine-sea) west of Guam on October 19, [Kristine](/tags/typhoon-kristine) first drew concern from  PAGASA when it entered the Philippines’ area of responsibility as a tropical depression two days later to challenge the island nation to a match.
 
-[`Graphic: Severe tropical storm Kristine tore through the Philippine island of Luzon`](/images/severe-tropical-storm-kristine-trami.jpg)
+[`Graphic: Severe tropical storm Kristine tore through the Philippine island of Luzon`](/images/severe-tropical-storm-kristine-trami.avif)
 
 Lacking any meaningful offensive power against weather phenomena, Team Philippines’ defensive play relies heavily on its much vaunted [Sierra Madre](/tags/sierra-madre), a phalanx of mountains that runs north-south across its main island of Luzon protecting its eastern flanks, and its much publicized recent investments in flood-control measures backed by a budget of PHP182 billion in 2023 and PHP244 billion in 2024.
 
@@ -41,7 +41,7 @@ Team Philippines’ manager [Bongbong Marcos](/tags/ferdinand-marcos-jr) cut an 
 
 By then, much of the Philippines’ defenses have already capitulated, beaten down by 110kmh winds and flooded by up to 3 meters of water in many places.
 
-[`Photo: Flooded rice fields in Naga, Camarines Sur`](/images/flooded-rice-fields-naga-camarines-sur.jpg)
+[`Photo: Flooded rice fields in Naga, Camarines Sur`](/images/flooded-rice-fields-naga-camarines-sur.avif)
 
 On the morning of October 24, Kristine and its entourage finally left the defeated nation after a 24-hour rampage that left dozens dead, millions more displaced and billions of pesos in damage.
 
