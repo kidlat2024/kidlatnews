@@ -5,12 +5,13 @@ title: "Philippines Exported Record 129,600 Tons of Filipinos in 2023, DTI Figur
 description: ""
 author: ["Leon Kidlat"]
 date: 2024-10-24
+excerpt: "Country exported a record 129,600 tons of Filipinos in 2023, roughly equivalent to 2,160,000 individuals, generating a total of PhP239 billion in revenue. Filipinos remain by far the Philippines top export, followed by electrical machinery and equipment, ores and metals, and fruits and nuts."
 aliases: "/news/philippines-exported-record-130-million-tons-of-filipinos-in-2023-dti-figures-show/"
-xurl:
 display_license: true
 attribution: ""
+section: Economy
 images:
-- /images/2023-export-of-filipinos-worldwide-asia.gif
+- /images/2023-export-of-filipinos-worldwide-asia.avif
 tags:
 - Department of Trade and Industry
 - Filipinos
@@ -30,7 +31,7 @@ MAKATI CITY -- According to the latest statistics from the [Department of Trade 
 
 Of the total volume of exported Filipinos, 72,000 tons (roughly 1.2 million individuals) were of the female variety, and the remaining 57,600 tons (about 960,000 individuals) were of the male variety.
 
-[`Figure: Export of Filipinos worldwide and in Asia in 2023`](/images/2023-export-of-filipinos-worldwide-asia.png)
+[`Figure: Export of Filipinos worldwide and in Asia in 2023`](/images/2023-export-of-filipinos-worldwide-asia.avif)
 
 By region, the leading export destinations of Filipinos are Asia (77.4%), North and South America (9.8%) and Europe (8.4%).
 

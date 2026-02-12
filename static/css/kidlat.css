@@ -79,11 +79,11 @@ a:hover    {text-decoration:none}
 .seventh h2 a:hover{color:#d00a0a}
 .seventh p         {margin-bottom: .8rem; font-size:1.15rem}
 
-.science-section   {display:block; margin-bottom:0.5rem; font-size:1.1rem; color:#dd229d}
-.culture-section   {display:block; margin-bottom:0.5rem; font-size:1.1rem; color:#2297dd}
+.blue-section   {display:block; margin-bottom:0.5rem; font-size:1.1rem; color:#dd229d}
+.red-section   {display:block; margin-bottom:0.5rem; font-size:1.1rem; color:#2297dd}
 
-.seventh .science-section {font-size:1.0rem}
-.seventh .culture-section {font-size:1.0rem}
+.seventh .blue-section {font-size:1.0rem}
+.seventh .red-section {font-size:1.0rem}
 
 /* LISTS */
 ul, ol {
