@@ -50,7 +50,7 @@ The process involved grinding the soil, heating it with water, and adding sugar 
 
 “The resulting beverage was chocolate-brown, yes,” said Lavoisier. “But so is sewage runoff. Color alone is not evidence.”
 
-Testers described the drink as having “strong notes of damp earth,” “emotional disappointment,” and “the unmistakable aftertaste of mud.”
+Testers described the drink as having “strong notes of damp earth,” “a tinge of bitter disappointment,” and “the unmistakable aftertaste of mud.”
 
 “No marshmallow could save it,” the report adds.
 
@@ -62,7 +62,7 @@ Another passage described the hills as “melting visually under intense sunligh
 
 In a brief statement, the Philippine Department of Tourism acknowledged UNESCO’s findings and said the application may have “leaned too heavily into poetic branding.”
 
-“We regret any confusion,” the statement read. “The Chocolate Hills are just chocolate in spirit.”
+“We regret any confusion,” the statement read. “The Chocolate Hills are actually just chocolate in spirit.”
 
 UNESCO, however, confirmed that spirit-based chocolate does not meet World Heritage criteria.
 
