@@ -3,7 +3,7 @@ draft: false
 content_type: NewsArticle
 title: "UP Freshman Sports Che Guevara Shirt in Attempt to Attract Women Who Hate Imperialism but Love Red Flags"
 description: ""
-excerpt: "Wilfredo Alarcon, 18, was spotted wearing a slightly distressed Che Guevara T-shirt--a sartorial choice he claims was made “to spark revolutionary discourse,” but which several sources confirm was more accurately aimed at sparking interest from left-leaning women majoring in Ethnic Studies."
+excerpt: "Sartorial choice claimed “to spark revolutionary discourse,” but which several sources confirm was more accurately aimed at sparking interest from left-leaning women majoring in Ethnic Studies."
 author: ["Armando Kidlat"]
 section: Local
 date: 2026-02-12
