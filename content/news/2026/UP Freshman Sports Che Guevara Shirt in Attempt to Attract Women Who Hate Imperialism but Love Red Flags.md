@@ -3,7 +3,7 @@ draft: false
 content_type: NewsArticle
 title: "UP Freshman Sports Che Guevara Shirt in Attempt to Attract Women Who Hate Imperialism but Love Red Flags"
 description: ""
-excerpt: "Wilfredo Alarcon, 18, was spotted climbing the steps of Palma Hall in Diliman Campus Wednesday afternoon wearing a slightly distressed Che Guevara T-shirt--a sartorial choice he claims was made “to spark revolutionary discourse,” but which several sources confirm was more accurately aimed at sparking interest from left-leaning women majoring in Ethnic Studies."
+excerpt: "Wilfredo Alarcon, 18, was spotted wearing a slightly distressed Che Guevara T-shirt--a sartorial choice he claims was made “to spark revolutionary discourse,” but which several sources confirm was more accurately aimed at sparking interest from left-leaning women majoring in Ethnic Studies."
 author: ["Armando Kidlat"]
 section: Local
 date: 2026-02-12
@@ -37,7 +37,7 @@ QUEZON CITY -- In a bold display of ideological peacocking, University of the Ph
 
 “I think Che Guevara represents, like, the fight against global capitalism,” said Alarcon, casually sipping a ₱220 Caramel Macchiato from Starbucks. “Also, I heard UP chicks are into guys who read *The Communist Manifesto* at least once.”
 
-[`Photo: Shirt featuring Che Guevara's iconic visage, pre-faded, slightly distressed.`](/images/prefaded-distressed-che-guevara-shirt.avif)
+[`Photo: Pre-faded, slightly distressed shirt featuring Che Guevara's iconic visage.`](/images/prefaded-distressed-che-guevara-shirt.avif)
 
 Alarcon, who hails from Sikatuna Village and whose parents own a Jollibee franchise on Katipunan Avenue, purchased the shirt from an Urban Outfitters clearance bin during a recent US trip after Googling “hot communist chic fashion.” The red-and-black garment features Guevara’s iconic visage--complete with the thousand-yard revolutionary stare--and appears to have been pre-faded for authenticity.
 
