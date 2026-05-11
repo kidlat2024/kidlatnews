@@ -7,7 +7,7 @@ author: ["Leon Kidlat"]
 date: 2023-11-01
 display_license: true
 section: Travel
-attribution: "[All Nippon Airways Boeing 787](/images/all-nippon-airways-boeing-787.gif) photo by [Toshiro Aoki](https://en.wikipedia.org/wiki/File:All_Nippon_Airways_Boeing_787-881_HND_Aoki.jpg) ([jp-spotters.com](http://www.jp-spotters.com/)) ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en))."
+attribution: "[All Nippon Airways Boeing 787](/images/all-nippon-airways-boeing-787.gif) photo by [Toshiro Aoki](https://en.wikipedia.org/wiki/File:All_Nippon_Airways_Boeing_787-881_HND_Aoki.jpg) ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en))."
 images: 
 - /images/all-nippon-airways-boeing-787.gif
 tags:
