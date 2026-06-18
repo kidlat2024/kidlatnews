@@ -24,7 +24,7 @@ MANILA -- In a historic breakthrough for East Asian defense cooperation, the Jap
 
 <!--more-->
 
-Japan's “Bald-Dar” system--officially designated locally as the *Stratified Thermal Over-head Light-Reflective Tracking* unit, or **S.T.O.L.T.**--was rushed to Manila following Dela Rosa’s dramatic pre-dawn escape from the Senate building last month, where he had been evading an International Criminal Court arrest warrant.
+Japan's “Bald-Dar” system--officially designated locally as the *Stratified Thermal Over-head Light-Reflective Tracking* unit, or S.T.O.L.T.--was rushed to Manila following Dela Rosa’s dramatic pre-dawn escape from the Senate building last month, where he had been evading an International Criminal Court arrest warrant.
 
 
 ```
@@ -47,7 +47,7 @@ According to Japanese defense contractors, conventional radar systems were strug
 
 "Traditional radar tracks metal or bulk mass, which can be easily hidden with camouflage nets," explained Dr. Hiroshi Tanaka, Lead Aerospace Engineer at Tokyo's Institute of Follicular Ballistics. "However, although Senator Dela Rosa’s head is mostly empty space, his cranium possesses an unprecedented, mirror-like structural integrity. By calibrating our satellites to detect the specific lumens of ambient sunlight or moonlight reflecting off a 0% hair-density surface, we can pinpoint his exact latitude and longitude, even if he is wearing a very large hat."
 
-[`Photo: Stratified Thermal Over-head Light-Reflective Tracking unit, part of Japan's Bald-Dar system, installed in Baguio City`](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/08.23_%E7%B8%BD%E7%B5%B1%E5%8B%97%E5%8B%89%E3%80%8C%E7%A9%BA%E8%BB%8D%E7%AC%AC%E5%85%AD%E9%9B%B7%E9%81%94%E4%B8%AD%E9%9A%8A%E3%80%8D%E3%80%81%E3%80%8C%E6%B5%B7%E8%BB%8D%E6%B5%B7%E9%8B%92%E4%B8%89%E4%B8%AD%E9%9A%8A%E3%80%8D%E3%80%81%E3%80%8C%E8%87%BA%E5%8C%97%E9%80%9A%E4%BF%A1%E5%A4%A7%E9%9A%8A%E3%80%8D_%2852305325751%29.jpg/960px-08.23_%E7%B8%BD%E7%B5%B1%E5%8B%97%E5%8B%89%E3%80%8C%E7%A9%BA%E8%BB%8D%E7%AC%AC%E5%85%AD%E9%9B%B7%E9%81%94%E4%B8%AD%E9%9A%8A%E3%80%8D%E3%80%81%E3%80%8C%E6%B5%B7%E8%BB%8D%E6%B5%B7%E9%8B%92%E4%B8%89%E4%B8%AD%E9%9A%8A%E3%80%8D%E3%80%81%E3%80%8C%E8%87%BA%E5%8C%97%E9%80%9A%E4%BF%A1%E5%A4%A7%E9%9A%8A%E3%80%8D_%2852305325751%29.jpg)`
+[`Photo: Stratified Thermal Over-head Light-Reflective Tracking unit, part of Japan's Bald-Dar system, installed in Baguio City`](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/08.23_%E7%B8%BD%E7%B5%B1%E5%8B%97%E5%8B%89%E3%80%8C%E7%A9%BA%E8%BB%8D%E7%AC%AC%E5%85%AD%E9%9B%B7%E9%81%94%E4%B8%AD%E9%9A%8A%E3%80%8D%E3%80%81%E3%80%8C%E6%B5%B7%E8%BB%8D%E6%B5%B7%E9%8B%92%E4%B8%89%E4%B8%AD%E9%9A%8A%E3%80%8D%E3%80%81%E3%80%8C%E8%87%BA%E5%8C%97%E9%80%9A%E4%BF%A1%E5%A4%A7%E9%9A%8A%E3%80%8D_%2852305325751%29.jpg/960px-08.23_%E7%B8%BD%E7%B5%B1%E5%8B%97%E5%8B%89%E3%80%8C%E7%A9%BA%E8%BB%8D%E7%AC%AC%E5%85%AD%E9%9B%B7%E9%81%94%E4%B8%AD%E9%9A%8A%E3%80%8D%E3%80%81%E3%80%8C%E6%B5%B7%E8%BB%8D%E6%B5%B7%E9%8B%92%E4%B8%89%E4%B8%AD%E9%9A%8A%E3%80%8D%E3%80%81%E3%80%8C%E8%87%BA%E5%8C%97%E9%80%9A%E4%BF%A1%E5%A4%A7%E9%9A%8A%E3%80%8D_%2852305325751%29.jpg)
 
 Philippine law enforcement officials welcomed the technology with open arms. National Bureau of Investigation (NBI) agents reported that early field tests of the Bald-Dar system have already yielded massive success.
 
