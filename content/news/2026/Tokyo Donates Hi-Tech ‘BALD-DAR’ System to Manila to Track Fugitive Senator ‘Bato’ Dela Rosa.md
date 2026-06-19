@@ -15,7 +15,11 @@ images:
 tags:
 - Philippines
 - Japan
+- Japan-Philippines relations
 - Ronald dela Rosa
+- Philippine National Police
+- National Bureau of Investigation
+- Armed Forces of the Philippines
 - Melvin Matibag
 - Robin Padilla
 kudlit: ‘single’ “double”
@@ -49,7 +53,7 @@ According to Japanese defense contractors, conventional radar systems were strug
 
 >"However, although Senator Dela Rosa’s head is mostly empty space, his cranium possesses an unprecedented, mirror-like structural integrity. By calibrating our satellites to detect the specific lumens of ambient sunlight or moonlight reflecting off a 0% hair-density surface, we can pinpoint his exact latitude and longitude, even if he is wearing a very large hat."
 
-Philippine law enforcement officials welcomed the technology with open arms. National Bureau of Investigation (NBI) agents reported that early field tests of the Bald-Dar system have already yielded massive success.
+Philippine law enforcement officials welcomed the technology with open arms. National Bureau of Investigation (NBI) agents reported that early field tests of the Bald-Dar system have already yielded encouraging results.
 
 "Just last night, the radar picked up a massive, blinding flash of light moving at approximately four kilometers per hour through a banana plantation," said NBI Director Melvin Matibag, squinting through a pair of heavy-duty welding goggles. "Unfortunately, it just turned out to be an incredibly shiny water buffalo. But the algorithm is learning."
 
@@ -63,6 +67,6 @@ Despite the high-tech optimization, Japanese engineers warned that the S.T.O.L.T
 
 * **The Matte Finish:** If the senator applies standard cosmetics or a heavy coat of baby powder to his head, the reflective index drops below detectable military thresholds.
 
-* **The Robin Padilla Factor:** Fellow senators trying to shield Dela Rosa could theoretically distract the radar by gathering a large group of men with slightly receding hairlines to stand in a circle, creating a "dome of confusion."
+* **The Robin Padilla Factor:** Fellow senators trying to shield Dela Rosa could theoretically distract the radar by gathering a large group of men with receding hairlines to stand in a circle, creating a "dome of confusion."
 
-At press time, the Armed Forces of the Philippines confirmed they had temporarily lost the signal after a sudden downpour over Manila blocked the sun, though they remain confident that the moment the noon heat hits the archipelago, the senator’s head will light up the monitors like a second sun.
+At press time, the Armed Forces of the Philippines confirmed they had temporarily lost the signal after a sudden heavy downpour over Manila, though they remain confident that the moment the noon heat hits the archipelago, the senator’s head will light up the monitors like a second sun.
