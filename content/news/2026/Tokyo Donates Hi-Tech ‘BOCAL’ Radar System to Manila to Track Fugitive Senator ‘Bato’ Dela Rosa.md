@@ -33,6 +33,7 @@ The radar system developed by Japan's Mitsubishi Heavy Industries (MHI)--officia
 
 
 ```
+Figure: How the BOCAL radar system works
 +---------------------------------------------------+
 |                BOCAL RADAR DIAGRAM                |
 |                                                   |
@@ -58,16 +59,16 @@ Philippine law enforcement officials welcomed the technology with open arms. Nat
 
 "Just last night, the radar picked up a massive, blinding flash of light moving at approximately four kilometers per hour through a banana plantation," said NBI Director Melvin Matibag, squinting through a pair of heavy-duty welding goggles. "Unfortunately, it just turned out to be an incredibly shiny water buffalo. But the algorithm is learning."
 
-[`Photo: Japan's Ballistic Object Classification and Analysis Linear-array (BOCAL) system, installed in Baguio City`](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/08.23_%E7%B8%BD%E7%B5%B1%E5%8B%97%E5%8B%89%E3%80%8C%E7%A9%BA%E8%BB%8D%E7%AC%AC%E5%85%AD%E9%9B%B7%E9%81%94%E4%B8%AD%E9%9A%8A%E3%80%8D%E3%80%81%E3%80%8C%E6%B5%B7%E8%BB%8D%E6%B5%B7%E9%8B%92%E4%B8%89%E4%B8%AD%E9%9A%8A%E3%80%8D%E3%80%81%E3%80%8C%E8%87%BA%E5%8C%97%E9%80%9A%E4%BF%A1%E5%A4%A7%E9%9A%8A%E3%80%8D_%2852305325751%29.jpg/960px-08.23_%E7%B8%BD%E7%B5%B1%E5%8B%97%E5%8B%89%E3%80%8C%E7%A9%BA%E8%BB%8D%E7%AC%AC%E5%85%AD%E9%9B%B7%E9%81%94%E4%B8%AD%E9%9A%8A%E3%80%8D%E3%80%81%E3%80%8C%E6%B5%B7%E8%BB%8D%E6%B5%B7%E9%8B%92%E4%B8%89%E4%B8%AD%E9%9A%8A%E3%80%8D%E3%80%81%E3%80%8C%E8%87%BA%E5%8C%97%E9%80%9A%E4%BF%A1%E5%A4%A7%E9%9A%8A%E3%80%8D_%2852305325751%29.jpg)
+[`Photo: Japan's Ballistic Object Classification and Analysis Linear-array (BOCAL) auxilliary unit, installed in Baguio City`](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/08.23_%E7%B8%BD%E7%B5%B1%E5%8B%97%E5%8B%89%E3%80%8C%E7%A9%BA%E8%BB%8D%E7%AC%AC%E5%85%AD%E9%9B%B7%E9%81%94%E4%B8%AD%E9%9A%8A%E3%80%8D%E3%80%81%E3%80%8C%E6%B5%B7%E8%BB%8D%E6%B5%B7%E9%8B%92%E4%B8%89%E4%B8%AD%E9%9A%8A%E3%80%8D%E3%80%81%E3%80%8C%E8%87%BA%E5%8C%97%E9%80%9A%E4%BF%A1%E5%A4%A7%E9%9A%8A%E3%80%8D_%2852305325751%29.jpg/960px-08.23_%E7%B8%BD%E7%B5%B1%E5%8B%97%E5%8B%89%E3%80%8C%E7%A9%BA%E8%BB%8D%E7%AC%AC%E5%85%AD%E9%9B%B7%E9%81%94%E4%B8%AD%E9%9A%8A%E3%80%8D%E3%80%81%E3%80%8C%E6%B5%B7%E8%BB%8D%E6%B5%B7%E9%8B%92%E4%B8%89%E4%B8%AD%E9%9A%8A%E3%80%8D%E3%80%81%E3%80%8C%E8%87%BA%E5%8C%97%E9%80%9A%E4%BF%A1%E5%A4%A7%E9%9A%8A%E3%80%8D_%2852305325751%29.jpg)
 
 ### Technical Limitations
 
 Despite the high-tech optimization, Japanese engineers warned that the BOCAL system has a few critical blind spots that the fugitive senator could exploit:
 
-* **The Toupée Contingency:** If Dela Rosa acquires a high-quality hairpiece, the radar beams will absorb into the synthetic fibers, effectively making him invisible to Tokyo's satellites.
+* The Toupée Contingency: If Dela Rosa acquires a high-quality hairpiece, the radar beams will absorb into the synthetic fibers, effectively making him invisible to Tokyo's satellites.
 
-* **The Matte Finish:** If the senator applies standard cosmetics or a heavy coat of baby powder to his head, the reflective index drops below detectable military thresholds.
+* The Matte Finish: If the senator applies standard cosmetics or a heavy coat of baby powder to his head, the reflective index drops below detectable military thresholds.
 
-* **The Robin Padilla Factor:** Fellow senators trying to shield Dela Rosa could theoretically distract the radar by gathering a large group of men with receding hairlines to stand in a circle, creating a "dome of confusion."
+* The Robin Padilla Factor: Fellow senators trying to shield Dela Rosa could theoretically distract the radar by gathering a large group of men with receding hairlines to stand in a circle, creating a "dome of confusion."
 
 At press time, the Armed Forces of the Philippines confirmed they had temporarily lost the signal after a sudden heavy downpour over Manila, though they remain confident that the moment the noon heat hits the archipelago, the senator’s head will light up the monitors like a second sun.
